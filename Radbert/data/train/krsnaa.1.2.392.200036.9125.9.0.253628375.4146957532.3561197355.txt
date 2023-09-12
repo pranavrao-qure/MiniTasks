@@ -1,0 +1,29 @@
+
+Patient ID 7b5b08f59ee9559a89aa8e98832ec0f21158f2b4e993a2e9a3f3a6e1
+Patient ID 865a4a31aeb1152631f2527c884859bb2afb56cc2293528bc1fcad48
+Patient Name b0bb8d58d4c60f0802e7043e61df615996a9db272d0e95649715a4f2 50Y HDU 9160
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date c132168590381189a969ecea86011de67000abce98a407e9339c297f
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

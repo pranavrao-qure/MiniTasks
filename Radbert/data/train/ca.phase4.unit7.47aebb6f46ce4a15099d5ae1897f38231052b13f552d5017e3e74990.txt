@@ -1,0 +1,25 @@
+X-ray Chest PA view:
+
+LUNGS: Mild pulmonary venous congestion. Otherwise normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Mild cardiomegaly. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+60 year lady for health check.
+
+X-ray Chest PA view shows:
+
+1. Mild cardiomegaly. 
+2. Mild pulmonary venous congestion.
+Recommend clinical correlation and further cardiac evaluation.

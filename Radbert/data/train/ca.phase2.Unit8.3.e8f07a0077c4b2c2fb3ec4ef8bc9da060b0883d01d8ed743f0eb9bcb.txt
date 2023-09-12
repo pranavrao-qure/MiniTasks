@@ -1,0 +1,24 @@
+X-ray Chest PA view:
+
+Rotation+
+
+LUNGS: Heterogenous opacities with patchy areas of haziness , linear atelectatic bands / fibrotic strands  and cystic changes seen in lung fields.
+Homogenous opacities in bilateral basal zones with obscuration of costophrenic angles and dome of diaphragm.
+PLEURA: Pleural thickening seen along left upper lateral chest wall
+There is blunting of bilateral costophrenic angles, which may represent pleural effusion/thickening.  
+
+HEART: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Degenerative changes of the spine are noted. 
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Obscured. 
+
+VISUALIZED NECK:  A rounded calcific density seen along right lateral border of T1 vertebra, s/o calcific lymph node.
+Report Impression: 
+-Heterogenous opacities with patchy areas of haziness , linear atelectatic bands / fibrotic strands  and cystic changes  in lung fields.
+-Homogenous opacities in bilateral basal zones with obscuration of costophrenic angles and dome of diaphragm - may represent pleural effusion/thickening ( Adv: USG Correlation)  
+Findings represent sequelae of infective etiology.
+
+Recommend clinical correlation and with lab parameters.

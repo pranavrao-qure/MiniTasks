@@ -1,0 +1,43 @@
+Patient ID eaabb75525c385ea99f61782e365cb0096948e34da891d5654c7950b
+Patient Name 8268ffb58a8ce5c61ba2d722d7683541ffe0028d96b62c539e7d7b10
+Age :40 Years
+Sex :M
+Accession Number 644b718bbb53d9b7796f2b01086ad16f8dbb9861a670ff275a54e070
+Modality :CR
+Referring Physician 40826a4f12f4a288f283b574a5302e641a60f2c070fa41b0117cc680
+Study :CHEST PA
+Study Date 60605ba3a3ea0dd1763eaec03ff36e7838534681464ef475bd77f9dc
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY THORACOLUMBAR  SPINE (AP )    
+FINDINGS :   Alignment of lumbosacral spine is normal.   Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.   Intervertebral disc spaces are maintained.   Prevertebral soft tissues are normal.    IMPRESSION  :  NO SIGNIFICANT RADIOGRAPHIC ABNORMALITY.
+  Suggested clinical correlation & follow up.
+

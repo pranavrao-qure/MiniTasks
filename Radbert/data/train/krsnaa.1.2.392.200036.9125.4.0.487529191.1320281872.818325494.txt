@@ -1,0 +1,27 @@
+Patient ID 0af8fa6cd35ce303871dcbd17a497994e376ef478b354d7bc4fb9ce2
+Patient Name f0d5173d1d7d40570bfbe6e08a0741b5ce1323b7d86c0e17f00479e7 28YF
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date 50551972b322be70a52dbaf70d93813b25de4d140fbdca7ccac90e3f
+
+
+
+
+
+                                    X - RAY CHEST PA VIEW
+ 
+Expiratory film
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of both CP angles noted - Pleural Effusion.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+
+

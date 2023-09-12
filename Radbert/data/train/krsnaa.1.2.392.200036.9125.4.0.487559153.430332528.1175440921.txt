@@ -1,0 +1,29 @@
+Patient ID f459db84c8dfbc9ae85af4aa9425dbc66a024aa9c0ec67e3f8fe1ec8
+Patient Name f720b47531e039b1ddb4c0efa5b13e3ee54ff8be9e208b7e3110344f 80 YRS , CXR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 609cd8ee0e2a1a85377aef48d0a50a703b819936e4bc060f547ae56e
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                     
+ 
+   prominent bronchovascular  markings in bilateral lung fields - ?Infective 
+
+Rest of lung fields are normal
+
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+ 
+For clinical correlation. 
+
+

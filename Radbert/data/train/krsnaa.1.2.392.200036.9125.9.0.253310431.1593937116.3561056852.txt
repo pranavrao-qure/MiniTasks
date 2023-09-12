@@ -1,0 +1,31 @@
+
+Patient ID cf4d0290577669015f15fc5814fbb4b23cbd1d10e4c22a1f5031f21a
+Patient ID fe32d9b7f54dbdc1e8eabeb5606e89bd227ef901c5756aee7482258c
+Patient Name 70baf81808c1f5c9d22d2bd8917af12e4bbf9eec26d337c74339e371 42Y M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 6e57c09575c07e7e8621820efd37fc7a4514e4b1f1822dfcedfb47dc
+
+
+
+
+
+
+
+
+
+Patchy consolidation noted at both mid zones - Infective. 
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Blunting of right CP angle noted - Pleural Effusion.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+   
+

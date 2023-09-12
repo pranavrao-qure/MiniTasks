@@ -1,0 +1,27 @@
+Patient ID e6e3ad0418d6adfe045e17cf929e5803557b546494bd82516d0051b0
+Patient Name f32cf52c23b5d16d066d73f6095bd5cf0b9e7436f16f0d71e92a2dd4
+Age :
+Sex :F
+Accession Number a7bae28ee18f04c5932d5a5b817a378ebf3a85f6e4cdd9e023f8cde1
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 60605ba3a3ea0dd1763eaec03ff36e7838534681464ef475bd77f9dc
+
+
+
+
+
+                                         X - RAY CHEST PA VIEW
+ 
+Bronchiectasis changes noted in bilateral lungs.
+ fracture noted at left side 6th to 8th ribs.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

@@ -1,0 +1,24 @@
+X-ray Chest PA view:
+
+LUNGS: fine reticulo-nodular opacities are seen in both lung fields. A rounded faint radio-opacity seen in left mid zone.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY BAY: bulky.
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. There is diffuse osteopenia.  
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal.
+Report Impression: 
+fine reticulo-nodular opacities are seen in both lung fields.
+A rounded faint radio-opacity seen in left mid zone.
+Bulky hilar shadows.
+
+
+
+Recommend clinical correlation and further evaluation by CECT.  

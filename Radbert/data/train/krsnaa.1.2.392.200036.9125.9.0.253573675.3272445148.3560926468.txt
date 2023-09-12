@@ -1,0 +1,21 @@
+
+Patient ID b5eff2298a6e025427828d46e69964c2d3bd3c369fd20fe2ee093ecf
+Patient ID 017a6c35f9ccdadf899965014b54c9b137d4262e8800fe88157fcf7a
+Patient Name 3c2f6270ad07fd2550d623cf1a871d9db4d5b21e1c2ac24a584c230b 43/M
+Age :
+Sex :M
+Accession Number 1c8a3a238e7404daa9f59498062d3fb95888d58f7f242baae8b07636
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date b5663adeb608ce2a00ffb5fa94863b4b995675058cd3bac5153d3c17
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows ill defined opacities right upper and apical region with shift of trachea to same side and obliteration of the right hilum - Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

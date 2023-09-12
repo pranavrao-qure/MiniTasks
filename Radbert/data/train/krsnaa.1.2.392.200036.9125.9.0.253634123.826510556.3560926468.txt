@@ -1,0 +1,41 @@
+
+Patient ID 764a0831792870529353d22e62dc2e3c3087ccbbc557b13a564cdb64
+Patient ID 8924d58eeab5d7658497112f767b76119379d8a57f99f72dae1ee97e
+Patient Name f6a078585bde57354ce210924becbf3ee25eddbf8ddb45c5f304aa1e 60/F
+Age :
+Sex :O
+Accession Number c37da89240259e89343340c405e145049cb1c0fb84b8c05c42145705
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 266654607f02d4d377f352a81cb52a706ff4bf613de955a86de568a1
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+
+
+Cardiomegaly.
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation.  X - RAY LEFT HIP AP VIEW Fracture noted at neck of femur with surrounding soft tissue swelling. No evidence of osteolytic / sclerotic lesion. For clinical correlation.
+X - RAY LEFT HIP AP VIEW
+
+
+Fracture noted at neck of femur with surrounding soft tissue swelling.
+
+No evidence of osteolytic / sclerotic lesion.
+
+
+For clinical correlation.
+
+
+

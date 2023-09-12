@@ -1,0 +1,30 @@
+Patient ID ec9b8c44e0f1fc7523bcabc6cccff7f82cfc24dbe914496fd28360c5
+Patient Name 9276d1c0155e3409326d1910154eec62a23498777c0a875e85b62e96 80 YRS CXR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 9274b7d0b3e6ac187a532b303d6366ce8e172b2ba5ee4ada5fbbba1b
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Fine reticular opacities noted in bilateral lung fields. 
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+Suggested clinical correlation.
+ 
+
+ 
+ 
+Date: 22-Feb-2020 13:06:31

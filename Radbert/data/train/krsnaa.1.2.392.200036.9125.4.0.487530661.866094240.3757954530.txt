@@ -1,0 +1,32 @@
+Patient ID 5666f4394b236df72d22d3b23659eea0e41084c134417c07e47c4b34
+Patient Name 3acdb2e827030c1641ec79c668d5c8bcaec18c6be53745bc553c97f6 85Y RN-58818
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 7d34cebff3cd339a2683ddb00c06c9972965167603972511dd95b9ac
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+Infiltration in the right apex.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+Suggested clinical correlation. 
+ 
+ 
+Date: 02-Dec-2019 15:38:11
+Suggested clinical correlation.
+
+
+

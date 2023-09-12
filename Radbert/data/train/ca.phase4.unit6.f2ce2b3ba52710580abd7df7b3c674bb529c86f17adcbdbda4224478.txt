@@ -1,0 +1,20 @@
+X-ray Chest AP view:
+
+LUNGS: Normal.
+TRACHEA: Endotrachial tube tip above carina. Recommend repositioning.
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: No evidence of displaced rib fracture. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Nasogastric tube tip in the stomach.
+VISUALIZED NECK: Normal.
+
+Report Impression: 
+No evidence of displaced rib fracture.

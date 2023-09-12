@@ -1,0 +1,30 @@
+Patient ID 1721a34c8288306ad3fb18bcce2edb0b177bdc8330682bb41787bbd5
+Patient Name 72eab22845ce7b338806b8444781a9b39ab83751226bcc1200abb338 20 Y.
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fcaefb788bcc88e45acdeeeeac81df98fdc6a09400996e443f4779e5
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Fracture noted at mid shaft of left clavicle.
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation.
+  
+

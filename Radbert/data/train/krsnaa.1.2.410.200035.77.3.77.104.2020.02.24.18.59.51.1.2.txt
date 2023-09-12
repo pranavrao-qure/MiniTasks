@@ -1,0 +1,49 @@
+Patient ID 4c2c2e4eaf9a3e0a80543ac421ce187d33825926f5b968c81aa8e0eb
+Patient Name fd53221b367df7d7736f50ceec7fc97c084387cc2a14fcd0b3a8b385
+Age :34 Years
+Sex :M
+Accession Number 945b84ee4d69649b6eae0710a1ea2907865eb354b01e5296eddc9581
+Modality :CR
+Referring Physician 2088903664d80d8a4255e43f13d0e0b287ab439753d8fe7b25ce8e2f
+Study :CHEST PA,LT SHOULDER AP
+Study Date a16f552b5ba23156397154ab2f4a0e880eda23fb06bc62e247c55b66
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Both lung fields show prominent broncho-vascular markings
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Both lung fields show prominent broncho-vascular markings
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LT SHOULDER AP
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal 
+
+  IMPRESSION :  NO SIGNIFICANT ABNORMALITY   
+   Suggest clinical correlation and follow up
+
+

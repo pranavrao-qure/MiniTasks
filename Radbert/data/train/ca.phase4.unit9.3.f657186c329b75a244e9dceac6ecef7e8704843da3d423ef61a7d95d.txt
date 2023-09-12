@@ -1,0 +1,17 @@
+X-ray Chest PA view:
+
+LUNGS: Bilateral perihilar congestion.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA:Bilateral minimal effusion. 
+HEART: Cardiomegaly. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Degenerative changes. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal. 
+
+Report Impression: 
+To rule out congestive cardiac failure.

@@ -1,0 +1,30 @@
+Patient ID b225b2556d5b4dc31d68f8e2141804afee9fbad3306e89e3c88d0ae9
+Patient Name 34fdccbeca4ee982225b5e3fd10511f757932853839a70722640987b 60 y m
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6bebdb3c0d392e540f958848fdfd17b368dedc93adf9bd5321a1d1a5
+
+
+
+
+
+                                         X - RAY CHEST PA VIEW
+ 
+ 
+The cardiac size is enlarge -  cardiomegaly 
+ADV : 2D echo
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of left CP angle noted - Pleural Effusion.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

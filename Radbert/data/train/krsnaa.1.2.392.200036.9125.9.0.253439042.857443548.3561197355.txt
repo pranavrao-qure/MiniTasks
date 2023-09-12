@@ -1,0 +1,22 @@
+
+Patient ID b07a25ba1c63517295ea00e325bb1dc849462e8d3d3c716cd040c24a
+Patient ID 18f828d5db14ae92462d90548b119d9dd6d3274fd8de81fcb2d81691
+Patient Name 5253fe2f1b366a9adec9cfd640ba8f8500e2dedaf3f7bfb5b2d51579 54Y FM OP
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date e59471f701b0e077081d5e2b9fb9b1dbeb727995c36cef8a9c662565
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows homogeneous oval opacity left mid zone - ? Mass lesion  ? Metastasis.     Patchy pneumonitis right lower zone - Infection.
+Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.         Suggested clinical correlation and follow up.
+ 

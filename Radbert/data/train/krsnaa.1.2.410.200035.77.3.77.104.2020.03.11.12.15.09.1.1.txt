@@ -1,0 +1,30 @@
+Patient ID bed551af5eb7f815b83892ad41379d88236466cc87ce94c3ee752a1d
+Patient Name 094dc70f87a26833d7171d0899cee14eca313901a793e0a75b1a8a90
+Age :55 Years
+Sex :F
+Accession Number e9811131dde168aa5179f0feae1df661f6ed33eb8bfbd73706157356
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date fb155c7817d32ef8635bff51312301014cca2d6778e6311016a21cd7
+
+
+
+
+
+X-RAY CHEST
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Both CP angles are clear.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is enlarge -  cardiomegaly .
+The domes of the diaphragms are normal in position,and show smooth outline.
+Fissural thickening noted at right mid lung zone .
+IMPRESSION  :
+The cardiac size is enlarge -  cardiomegaly .
+ADV : 2D echo. 
+ 
+ 
+Date: 11-Mar-2020 13:08:39

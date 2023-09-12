@@ -1,0 +1,21 @@
+Patient ID 1769366faebe8559cc0dd2498980c17b71fb43781650127fa9f7a60f
+Patient Name b0171368f04123d4127863e635dd0d2b205485de9bace7e594e786a6 35Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date b8e3d3391e44375d5ed058a7b33a5bcabecfd1fd32d010f93116b101
+
+
+
+
+
+X - RAY HIP JOINT AP VIEW
+ 
+Right intertrochanteric fracture of femur noted.
+     
+Acetabulum is normal.
+ 
+For clinical correlation.

@@ -1,0 +1,28 @@
+Patient ID 0c133c19624d8ebfa1614c668a46f42e9589d75c65266487bb2a175d
+Patient Name 75e60942fb17184325850a0bfc2fa4c1bf36f80f892a472bc09ae635 40Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 241b18fede4ac6262802a7bc5e850a575d4ce261471e1ebe19c9193e
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+Increas  bronchovascular  markings noted.
+Pericardial haziness noted at  right lower zone s/o  infective etiology.
+B/L  crowding ribs noted.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+Suggested clinical correlation.

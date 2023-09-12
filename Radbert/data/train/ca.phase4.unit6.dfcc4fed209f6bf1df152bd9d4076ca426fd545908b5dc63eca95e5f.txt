@@ -1,0 +1,20 @@
+X-ray Chest AP view:
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. There is a nasogastric tube with its tip in the stomach.
+VISUALIZED NECK: Normal. 
+
+Report Impression: 
+No significant abnormality.

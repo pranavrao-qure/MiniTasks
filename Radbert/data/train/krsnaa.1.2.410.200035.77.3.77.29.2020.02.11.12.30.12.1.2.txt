@@ -1,0 +1,29 @@
+Patient ID 6fa01701bcb639cd0b1eb95af7e48d5b586538e237447be454fe1d18
+Patient Name 986d01c33bc1ab51a4c0195193c90fa891bec037ddad9107586f0ef1
+Age :45 Years
+Sex :F
+Accession Number 86657e5d61c9cfbb1e07f1050bb80b7f10a62a94a7d38463622c9862
+Modality :CR
+Referring Physician 43c4ecea585cf68cd26817767de0eb9a2d91c3100dcfe0292174c5e6
+Study :CHEST PA
+Study Date f0391fd24f179c8733a866e9cb53b559d39011fb331dbe7419bc1a95
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+  Hyperlucent area   noted at left  upper and lower  zone devoid of lung markings - ?  Pneumothorax - Adv: CT chest.
+Diffuse consolidation noted at left upper , mid and right apical, upper  lung zone.
+Blunting of right  cardio-phrenic angle is seen suggest pleural effusion.
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+ 
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

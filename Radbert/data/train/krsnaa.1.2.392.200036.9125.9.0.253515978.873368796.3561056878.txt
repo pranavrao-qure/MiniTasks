@@ -1,0 +1,29 @@
+
+Patient ID 8a6259c8e840fc1474ee509d1c8daa982053c49b12a720ad1222884e
+Patient ID 6bd9cc5eb1c28a4870aa2659c00216423fdbfd2ba06317766433dace
+Patient Name 64e3961c0286f904ad44eade487db42ecbe170ea51e9475dfe6194a9 60 Y REF DR LINGANNA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 5c7ed6c0dc8b0d32515bf587c1af487073c3df366f3e02e39e003175
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Nodular opacities noted in both mid zones - Infective.
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

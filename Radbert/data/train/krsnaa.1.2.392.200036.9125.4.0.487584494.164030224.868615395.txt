@@ -1,0 +1,28 @@
+Patient ID 4631fb980c442516c548d6a211e3b8617869db60cddc2a02551aa593
+Patient Name 88ca7f73e4879089870853d3e308d82f0a8bf71c3a6f2718ea494157 50y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 575e108d079132b7db97cee4c374fff7b3a19baa12ba70e35ee0c6a2
+
+
+
+
+
+                                                 X - RAY CHEST PA VIEW
+ 
+Hyperinflation of bilateral lung fields with flattened domes of diaphragm - S/o. COPD changes.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Tubular shape of heart, Cardiac silhouette maintained.         
+ 
+? bilateral pleural effusion.
+
+Bony cage and soft tissues appear normal
+ 
+For clinical & CT correlation.  
+ 

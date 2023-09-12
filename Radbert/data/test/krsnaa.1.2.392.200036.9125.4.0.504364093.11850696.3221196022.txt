@@ -1,0 +1,18 @@
+Patient ID 0f2ec6f21479d0afe2b100b8e6e291501ce05cd9a8ac7cd3d1e2d5f2
+Patient Name eaa20506fb4ae53acdd387ea2815ff36992aeeba12311dcc51d78276
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 248e5db22c08cd2119bea87a74bd6affa24233e98996e7677ad33b5a
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :                                   Patchy fibrotic areas are noted in bilateral lumg   zones - S/o infective etiology.
+B/L  crowding  ribs noted.
+​​​​​​​Pericardial  haziness  noted at  right lower zone s/o infective etiology.   Both hila appear are pulled up.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.        Suggested clinical correlation and follow up.

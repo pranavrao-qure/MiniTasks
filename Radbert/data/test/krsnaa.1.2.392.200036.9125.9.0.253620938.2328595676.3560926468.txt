@@ -1,0 +1,22 @@
+
+Patient ID 2ed8fb8971c0a057b54ca725125e320fe2d6676f4378aead10dc6dca
+Patient ID 1c0788d93f408b47bde7973acde6d19dcbb8131592d8c11fb465fad5
+Patient Name 65113aeac348b99be3cbc184ad6a2047fd813234c6e52a8668774706 55/M
+Age :
+Sex :M
+Accession Number f1c3d8e3ec7858b8c95397b7d415a7714feebd00325e102b8ab02f08
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date fb8087438028f3fc5000892486c1383b022edcfa8ea27380cf30a0e9
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows pneumonitis left lower zone.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

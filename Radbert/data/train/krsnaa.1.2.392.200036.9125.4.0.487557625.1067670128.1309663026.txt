@@ -1,0 +1,30 @@
+Patient ID 96ff82f8e0b33996e9dfd5ec59e925898310a9dfbfdd05cd1380acfb
+Patient Name 025cc583c016b11dc595bf274d3cf9b69dddb9cc7b8e913f58588468 13 YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP GRID
+Study Date c46bc56ca8e4c73e8faadd9ad168d28a6c2e12bd0198b388a12edb3b
+
+
+
+
+
+X-RAY CHEST AP VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+

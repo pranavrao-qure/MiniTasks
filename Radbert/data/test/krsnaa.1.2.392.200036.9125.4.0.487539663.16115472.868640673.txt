@@ -1,0 +1,30 @@
+Patient ID 93f83539fe4a540bd62d7413690d2476f3f2f6368f0527fb7275c234
+Patient Name 43f11010f7ddba20330dd166f57e61dbd9366a8b2bc7f30595109c99 60 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 617423244524feb140dd315ed903d24269ca369f640eace172bed1a9
+
+
+
+
+
+
+
+
+X-RAY CHEST 
+
+Old fracture at right 2nd to 8th ribs 
+Infiltration at left mid zone 
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+

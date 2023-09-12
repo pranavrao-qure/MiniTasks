@@ -1,0 +1,21 @@
+
+Patient ID 5dc7e6a48b5c73528318ea0310361ec249bd76969574ccd45976bc0a
+Patient ID 9651a811b7d87331114931cf5671e58c3a466632c9c427839616ac8e
+Patient Name 021d9e2f8c83a5860ffe95a9e26871f21190c957b44a5cb9865e1313 71/F
+Age :
+Sex :O
+Accession Number 94d8a3e63d61123912ac495277bea147a11e4279111539b2c5e7db5f
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 23c99aaa75db7e8ab8ba8d68b7686ad8bdd2ada57cb8542d4f86d922
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows pleural effusion right side with adjacent pneumonitis.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     Soft tissues and bony cage appear normal.         Suggested clinical correlation and follow up.
+ 

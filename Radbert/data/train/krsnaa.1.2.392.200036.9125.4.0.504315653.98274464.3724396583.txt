@@ -1,0 +1,21 @@
+Patient ID 5f1423085dd16c724cf3154c16094bf695999da1a02bb2b170aba309
+Patient Name e8a32a9f1b1a6b841a0c665063b082c2e83e441f188518d0b865f1ba 48 Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fb3279ec70f13904914b76d046aa4234c894b1efa90a256fa02cccc4
+
+
+
+
+
+X-RAY CHEST PA VIEW
+ 
+FINDINGS :       PROMINENT BRONCHOVASCULAR MARKINGS BILATERALLY   Both hila appear normal.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.
+  Impression :-  PROMINENT BRONCHOVASCULAR MARKINGS BILATERALLY     Suggested clinical correlation and follow up.
+
+
+

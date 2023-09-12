@@ -1,0 +1,22 @@
+X-ray Chest PA  view:
+
+LUNGS: Linear atelactatic opacity in right lower zone.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Evidence of right posterior 7th rib resection.
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Linear atelactasis in right lower lung and evidence of right  7th rib partial resection.
+ 

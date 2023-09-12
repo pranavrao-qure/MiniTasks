@@ -1,0 +1,28 @@
+
+Patient ID 1ff7f1f8c002d3dc4b72b36f50da5edc2e4b36f5f8e9597b0773a776
+Patient ID 36121274921d3899bd056fe6141acd1b23eb6ef655e96093cd60f95d
+Patient Name 687bf5deab1d685efdccd8b09f9515f66df47ca21f1fd60690b210cb 40/M
+Age :
+Sex :O
+Accession Number bddbacfaef7477c8962b3a301b0cece105ea15ac2ccf48ba017efe60
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date b9361832ad662ab5ff7e7bf644e497a75fa57070e78b19ce3dfda0db
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Consolidation and atelectatic changes seen in left lung along with obscured left CP angle.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

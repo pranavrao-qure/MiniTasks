@@ -1,0 +1,58 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+X-RAY RIGHT SHOULDER ( AP & LATERAL VIEW)
+
+
+The head, neck and proximal shaft of the right humerus show normal
+
+density and configuration.
+
+The right scapula appears normal.
+
+The shoulder joint is in alignment.
+
+The soft tissues appear normal.
+
+
+IMPRESSION : = Normal study.
+
+
+
+ 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6059 by 2514, depth 1
+pict001.wmf
+        
+        
+        
+        
+        
+        
+        
+        
+        
+DR.SHAKTHI KUMAR
+        
+        
+        
+        
+        
+        
+        
+        
+        
+RADIOLOGIST
+RS
+
+

@@ -1,0 +1,28 @@
+X-ray Chest AP view:
+
+LUNGS: are clear. 
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: cardiomegaly. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+55 Years old female x-ray of the chest. 
+
+cardiomegaly. 
+
+for cardiac evaluation and clinical corelation. 

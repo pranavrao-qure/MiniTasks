@@ -1,0 +1,25 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 5 fonts total
+
+-----------------
+DIGITAL RADIOGRAPH CHEST PA
+ 
+FINDINGS:
+ 
+" Both lung fields appear clear.
+ 
+" Both domes of diaphragm and CP angles are normal.
+ 
+" Both hila are normal.
+ 
+" No evidence of mediastinal shift is seen.
+ 
+" Cardiothoracic ratio is normal
+ 
+" Bony rib cage appears normal
+ 
+IMPRESSION: X-RAY CHEST REVEALS NO SIGNIFICANT ABNORMALITY.
+
+ ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 9629 by 1958, depth 1
+pict001.wmf
+

@@ -1,0 +1,60 @@
+
+Patient ID 27cdbe3a637130dd4be16410f1f23cb806290b294d46233f4c41a6a9
+Patient ID 25c051a8d8e178339a607edb40668764a7e148407d75ffef76f08330
+Patient Name 3b1a5663799905f9ba76ad309d661c215513f36e90eefa8f8eb1c88b 39/M
+Age :
+Sex :O
+Accession Number 823c6c0e2273139f0d1dda64f3c1ebd2c4b62ae4ca9e7d887a58de29
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 943bdce6ad5dcce9ede02a51b78bd325e5eb47172fb2485e6f217dfe
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS
+:     
+  
+Lung fields are clear. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Elevated left dome of diaphragm. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ IMPRESSION :  NORMAL CHEST RADIOGRAPH. 
+ 
+    Suggested clinical correlation and follow up.
+
+
+
+Investigations have their limitations. Solitary
+pathological/Radiological and other investigations never confirm the final
+diagnosis. They only help in diagnosing the disease in correlation to clinical
+symptoms and other related tests. Please interpret accordingly. 
+
+
+Disclaimerâ€”Report is done by teleradiology after the
+images acquired by PACS(picture archiving and communication system) and This
+report is not meant for medicolegal purpose 
+
+
+ 
+
+
+
+ 

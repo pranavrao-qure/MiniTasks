@@ -1,0 +1,14 @@
+PLEURA:  Normal.  
+LUNGS:  Normal.  
+HEART:  Normal.  
+AIRWAYS:  Normal.  
+MEDIASTINUM:  Normal.  
+
+THORACIC SPINE:  Normal.  
+OTHER VISUALIZED BONES:  Normal.  
+VISUALIZED SOFT TISSUES:  Normal.  
+
+DIAPHRAGM:  Normal.  
+
+VISUALIZED ABDOMEN: Normal.   
+VISUALIZED NECK:  Normal.

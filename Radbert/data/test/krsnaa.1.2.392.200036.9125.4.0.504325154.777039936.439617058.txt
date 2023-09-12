@@ -1,0 +1,44 @@
+Patient ID e160b7d9d7dc9019e50679875b054b793cd702903e44db524715ae70
+Patient Name 4b2786993a2336276263467fe2825ab746fe13c3ee5e212fdcc99310
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bff82b3cb92b2602a4fb8913a99995e2b2a6472c2304b8186a1d5c31
+
+
+
+
+
+X-RAY SHOULDER AP VIEW
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+ 
+  FINDINGS :       Mildly prominent bronchovascular markings noted in both lung fields.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.   IMPRESSION :  MILDLY PROMINENT BRONCHOVASCULAR MARKINGS BILATERALLY, S/O NON-SPECIFIC BRONCHITIS.
+Suggest clinical correlation and follow up
+

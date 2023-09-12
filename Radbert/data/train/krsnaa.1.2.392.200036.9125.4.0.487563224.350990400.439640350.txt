@@ -1,0 +1,44 @@
+Patient ID 1df2b98fa7b8c272b0c3fbe1b0aac89d71042951aaa9a6e7cb381ba0
+Patient Name 87aad9ac767e1e9e860556a4f7eddca5330f501031f582ca7523eef0 30Y  210  211  212
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date cf5021447e2f0b909738940855a5643376f42acb66773dae13552a5d
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+? Fracture at right 2nd posterior rib ADV CT for confirmation  
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (AP / LATERAL)    
+FINDINGS:   Straightening of lumbar spine likely due to muscular spasm.
+Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.   Intervertebral disc spaces are maintained.   Prevertebral soft tissues are normal.   
+IMPRESSION :   Straightening of lumbar spine likely due to muscular spasm.   Suggested clinical correlation & follow up.

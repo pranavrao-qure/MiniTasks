@@ -1,0 +1,18 @@
+LUNGS: Normal.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+Normal x-ray of the chest.

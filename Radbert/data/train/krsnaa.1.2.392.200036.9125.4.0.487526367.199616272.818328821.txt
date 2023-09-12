@@ -1,0 +1,30 @@
+Patient ID 06401f6cc4a6347b6b028efce5b0b4cb2f856054812077436e3a5cfe
+Patient Name bf459256e4ea39745abb6f2ae0cb74c9fc3688637feff3acf9d75785 70Y, CXR PA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date d1a7fdbbdb49a28dad28ff27d8d70acced2972f9a5a954b666a4f0d4
+
+
+
+
+
+                                       X - RAY CHEST PA VIEW
+ 
+ 
+ 
+Trachea is in midline.
+ 
+Both hila normal in density.
+ 
+Borderline Cardiomegaly noted.
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation. 
+ 
+
+

@@ -1,0 +1,25 @@
+
+Patient ID 0bda732d85a8ce0e5d1b14817947458abaea9c95e4093d03df79bc78
+Patient ID d2d1fab37f93dbe794ffc0110a3abb398e0af596e291a26e17681721
+Patient Name 8c56deaba4931f74efdb9b6016aa114cf50b81b4a1c9652aca27652c 60Y REF DR TAJ KUMAR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 390e5fb2901ce8073706d23d3e01df35ac4a4745da9092f78dc1176b
+
+
+
+
+
+
+X-RAY 
+CHEST AP VIEW
+FINDINGS 
+:       Lung fields are clear.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.    IMPRESSION :  NO OBVIOUS ABNORMALITY.     
+Suggested clinical correlation and follow up.

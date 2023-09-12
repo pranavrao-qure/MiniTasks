@@ -1,0 +1,34 @@
+LUNGS: Normal.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Cardiomegaly noted. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Degenerative changes of the spine are noted. 
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+
+Report Impression: 
+LUNGS: Normal.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Cardiomegaly noted. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Degenerative changes of the spine are noted. 
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.

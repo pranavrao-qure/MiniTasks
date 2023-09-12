@@ -1,0 +1,28 @@
+Patient ID 0914bf6d4e32015fdbf2e719e315d03d161e35d48f83f7d88fdaf3c9
+Patient Name c11c8cdcf06273fbabe2e167fc760a394ea26a4388be94305ee26326
+Age :60 Years
+Sex :M
+Accession Number 654714e772ba5e2b194bf705e470dbce0c36576157b94b4e9bcf5596
+Modality :CR
+Referring Physician 853799d9ddafa6f541365299806a451343ef14c6cdcbe4b3a56b8c3d
+Study :CHEST
+Study Date d163921adef2bf76079a1e3a4a4e79cf88ac22e824d3ee8677563154
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Diffuse Patchy consolidation noted at entire left lung field likely suggesstive of lung collapse - Infective
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+
+

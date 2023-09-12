@@ -1,0 +1,26 @@
+Patient ID 8771d3ccb027059259b57e615f0c216177a7e960cb75b9faba64bc91
+Patient Name 847ca323485bcf6a38550e3556c119fc5f52bdd9ddd7182b162a91ad BASUMATARY/35YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 3f02deca6754ce230b1555980417a1065d2628d4c1086c08918202b8
+
+
+
+
+
+X-RAY CHEST 
+OBSERVATION:
+ 
+Air space and interstisial opacities in the right perihilar and lower zones, suggestive of changes of pneumonitis. Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION: 
+Above X-ray Findings are suggestive of Pneumonitis.
+ 
+ 
+ADVICE-Complete Blood Count.
+
+

@@ -1,0 +1,22 @@
+Patient ID 871f3b6fc7c74fa343ca44f8eebc4de3f61d5eb14392179ab2800899
+Patient Name c602f4044248f1bdf3a49c96a74d61a342d476dd58a9d25f149fa970
+Age : Days
+Sex :F
+Accession Number 413013a855e21fe2913364b27fd482a87cad433f510a68c27f6b22b0
+Modality :DX
+Referring Physician 594263aef776e288b103bdb8d45cb5a2ca8a946b1009f13972377117
+Study :ChestErect PA
+Study Date fb3279ec70f13904914b76d046aa4234c894b1efa90a256fa02cccc4
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+     
+Diffuse Patchy consolidation noted at bilateral lungs zone - Infective Trachea is in midline.
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of both CP angles noted - Pleural Effusion.
+Rest of lung parenchyma are normal.
+For clinical correlation. 

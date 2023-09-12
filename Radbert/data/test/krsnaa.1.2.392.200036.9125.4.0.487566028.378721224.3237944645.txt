@@ -1,0 +1,28 @@
+Patient ID 88880b82720ebcd396a43e0ad3e977928c3ff022ffb7d231b672e69e
+Patient Name 32fde9bc3e648d47720ceacd2c6eb1057e1e14183aa0f4131d1825a0 38YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date b8e3d3391e44375d5ed058a7b33a5bcabecfd1fd32d010f93116b101
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ 
+ 
+Diffuse consolidation noted at right lung - Infective
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+For clinical correlation. 
+
+

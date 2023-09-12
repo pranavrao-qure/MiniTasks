@@ -1,0 +1,19 @@
+
+Patient ID 43423671b034977e6786ee46c8247a03e44eec4e9e13070886fbcfec
+Patient ID 330a835558bae1f7ba782c5f3c2e421e398579fa737df96ba238a3f2
+Patient Name fabdb0e8a98db28199bacb7520e16d24ef51e6965b6c907a15fff07f
+Age :42 Years
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician c03185a684b64511a4ab854e0b8f4dc0fb4ea1a23f380ad3eb6b0920
+Study :CHEST PA VIEW
+Study Date b9361832ad662ab5ff7e7bf644e497a75fa57070e78b19ce3dfda0db
+
+Rest of lungs are normal.   Date: 9-Feb-2018
+
+
+
+
+
+Rest of lungs are normal.

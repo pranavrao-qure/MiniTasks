@@ -1,0 +1,39 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 5 fonts total
+
+-----------------
+X-RAY SKULL PARANASAL SINUSES VIEW
+
+There is mild haziness within the maxillary sinuses
+
+No abnormality is seen in the region of the frontal, ethmoidal and sphenoidal sinuses.
+
+The nasal septum is in the midline.
+
+No bony lesion is seen.
+
+There is bilateral inferior nasal turbinate hypertrophy
+
+
+IMPRESSION: 
+
+v       
+Haziness of the maxillary sinuses-please exclude maxillary sinusitis
+v       
+Bilateral inferior nasal turbinate hypertrophy
+
+ ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 5503 by 2117, depth 1
+pict001.wmf
+PSK     
+        
+        
+        
+        
+ dr.RUKMINI KALPANA K. DMRD., DNB.,
+        
+        
+        
+        
+        
+ CONSULTANT RADIOLOGIST
+

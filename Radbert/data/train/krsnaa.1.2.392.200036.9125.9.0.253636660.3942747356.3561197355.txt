@@ -1,0 +1,21 @@
+
+Patient ID d42ec8aa1c310687c90cd7ee2eb95229ac77b92bdb8236b6e72b5a81
+Patient ID 11dd9bd85c265ecc82a210b575a3d5ba2f5b373935f6a2c2218eb514
+Patient Name 60d600b0cb85646a9933ffec798253f7e81a809f21ff0a689c0ec312 31Y HDU 9405
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP VIEW
+Study Date 6012b1d1fbf05065840b8b56bca7f06854bf99693539e61639f9bf50
+
+
+
+
+
+
+
+X-RAY  CHEST AP VIEW
+FINDINGS  :         Both hila appear  normal.   Mediastinum is normal.   Cardiac size is  normal.   Both domes of diaphragm are normal.   CP angles are  clear.
+Patchy opacities at right lung fields ? old infective    Fracture noted at mid shaft of left clavicle          Suggested clinical correlation and follow up.

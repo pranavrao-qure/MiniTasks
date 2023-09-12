@@ -1,0 +1,28 @@
+X-ray Chest PA view:
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: old non united fracture of right clavicle is seen.
+mild degenerative changes are seen at shoulder joint.
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+70 Years old; x-ray of the chest shows no lung parenchymal abnormality nor any mediastinal widening or blunting of costophrenic angles. 
+Note is made of old non united fracture of right clavicle and mild degenerative changes at shoulder joint. 
+
+to be correlated clinically

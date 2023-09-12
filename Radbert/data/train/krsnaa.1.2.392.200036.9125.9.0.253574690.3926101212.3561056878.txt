@@ -1,0 +1,21 @@
+
+Patient ID 83e17ad1961f9876be3839e3cfb79b80e2b0d2b41d4f53ee8b658716
+Patient ID ccf59a0ea5e8e5a149a53f2b623ff23e9d5b425eb2582a54d4b49722
+Patient Name b2b4e728b12e478fbaf1e76240bab0b817334df590348ae7800cbaca 30Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date e4b44e30726f8e9b8b0af3d3540851996754f062bcdf24dc6d9639d9
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows opacity left mid zone - ? Mass lesion.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

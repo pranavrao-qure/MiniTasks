@@ -1,0 +1,28 @@
+Patient ID 44327197f8880da0b94560189a48cef2f5ae3fbfa92f1f06fca9323e
+Patient Name 1c9368d8a4ff9ec275690c9c5673c98dda0678b7f4088c33525ed490 55Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date b44224eaa7edb11b2550334204c6ef1f5e05c30e423517761b1105b9
+
+
+
+
+
+                                                        X - RAY CHEST PA VIEW
+                                          
+Loss  of lung volume noted at right mid zone s/o infective etiology.
+B/l  crowding ribs noted.                         
+Both hila normal in density.
+Cardiac size pulled  towards right side,         
+Blunting of right CP angle noted - Pleural Effusion.
+Left cp angle appears normal.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+ADVICE USG CHEST FOR FURTHER EVALLUATION.
+

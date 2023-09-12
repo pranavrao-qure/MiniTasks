@@ -1,0 +1,63 @@
+
+Patient ID 44b0492110e202c2b69ce90ad14d6f4c971d223e40c56fc316e09a74
+Patient ID 296e751e03f52d403ba302128f7456d1035f088e7f916a6908153af5
+Patient Name b1b325a50e192de9b357427e41047cbf3788e5581e351dd08b14c7ab 51/2
+Age :
+Sex :M
+Accession Number a1986ee7d60f327b83ea1d5b50b4eba9f03d942c2cdea1d1d61af287
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 7e85a44025dba012a9f80dc14f5eb24092678f1a00d44adf40e0ee0f
+
+CHEST RADIOGRAPH AP VIEW 
+ Bilateral lung
+parenchyma and broncho-vascular markings appear normal. 
+ Bilateral domes of
+diaphragm appear normal and are smooth in contour. 
+ Bilateral costo
+phrenic  angles  and pleural spaces appear normal. 
+ Cardiac size could not
+be evaluated on AP view. 
+ Visualized bones and
+soft tissues appear normal. 
+ No evidence of
+lymphadenopathy / mass lesion /effusion is seen. 
+ Visualized portion of
+upper abdomen appears normal. 
+ IMPRESSION  :  NO SIGNIFICANT
+ABNORMALITY IS SEEN IN THE PRESENT STUDY. 
+ For clinical correlation. 
+     Date: 6-Dec-2019
+
+
+
+
+
+CHEST RADIOGRAPH AP VIEW
+
+Bilateral lung
+parenchyma and broncho-vascular markings appear normal.
+
+Bilateral domes of
+diaphragm appear normal and are smooth in contour.
+
+Bilateral costo
+phrenic  angles  and pleural spaces appear normal.
+
+Cardiac size could not
+be evaluated on AP view.
+
+Visualized bones and
+soft tissues appear normal.
+
+No evidence of
+lymphadenopathy / mass lesion /effusion is seen.
+
+Visualized portion of
+upper abdomen appears normal.
+
+IMPRESSION  :  NO SIGNIFICANT
+ABNORMALITY IS SEEN IN THE PRESENT STUDY.
+
+For clinical correlation.

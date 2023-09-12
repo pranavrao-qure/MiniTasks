@@ -1,0 +1,44 @@
+Patient ID 20522fb9cd4b620869026cd81549e9a2be5f8095529b3f25dcb9010a
+Patient Name 0b987f83b15735ef6672863bc8bb1e6a74d5168f32369f4ee3c7944b 60Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 0816ae3100198751073fd273f0ec735140fa9e1bfe08c257d8aa4e4a
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+ 
+ 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+
+
+
+
+
+
+
+
+
+
+X-RAY BOTH  SHOULDER
+  
+FINDINGS :       The alignment of the shoulder joint appears normal
+  Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+
+

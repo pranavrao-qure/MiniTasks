@@ -1,0 +1,25 @@
+Patient ID 4bc911f487cc4729c40e8ffc5d9a347d06398bfb0b9e65b0176a7c55
+Patient Name 9c57dcf208057fbf39c2631fb28668010fdadc85cb9ec55224826e33 18Y DR SONKAR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 4d236b8908c0a618d1d5799315a5d37e0d715bf0c960e5c3eb47f153
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+Prominent bilateral hilar shadows noted.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation.  ​​​​​​​
+
+

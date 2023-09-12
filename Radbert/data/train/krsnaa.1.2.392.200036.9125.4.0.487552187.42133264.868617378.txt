@@ -1,0 +1,26 @@
+Patient ID d5223cde563688f54f16c744307b0356cfbec3bb4090f5dec4b9ff5a
+Patient Name 5f08aad774ff8d07bb785d191ca9a6180dad25113bdfd6a4bdd57aa1 45
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 06249234fe03b5e828663bb38b83a8da56dd6f8b4d1bcbc33a3de006
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+Diffuse Patchy consolidation with bronchiestatic changes  noted at both lungs- Infective
+Diaphragmatic hump noted at right side
+Scoliosis noted with convexity towards left side 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+For clinical correlation. 

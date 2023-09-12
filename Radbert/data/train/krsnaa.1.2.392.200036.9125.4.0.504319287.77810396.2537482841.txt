@@ -1,0 +1,33 @@
+Patient ID b055f8a076eebcccce911f0a3858c7ea3b9bf6abd6abddc67836efcf
+Patient Name dff40d49e666d1077fdf7f30c1ee7f43ca291166f76d85741b1e36be 43YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date fe507ab5d3c19fc3e94c19a020302399028951eba6e1e229a261e8de
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Haziness noted in Rt lower lung field.
+Lt Hilar shadow prominent.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Haziness noted in Rt lower lung field.
+Lt Hilar shadow prominent.
+Suggested clinical correlation.
+
+

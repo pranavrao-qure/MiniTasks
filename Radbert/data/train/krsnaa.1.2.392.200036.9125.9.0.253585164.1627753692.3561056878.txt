@@ -1,0 +1,27 @@
+
+Patient ID 58e82fe7fd9436005e355c3709ef5055d3f4daf882ce648dd6ea47d2
+Patient ID 72f74aa93cc6233a1668a618a86116621c0c609b3a577aed5ec90169
+Patient Name 17b51d466e443bcdd182663f320ced780cdb651cb95b9fc7a4b79a89 30Y M,REF DR SATHYANARAYANA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP VIEW
+Study Date 3a4145cffe90ce499c1683f94fbb3ff7cb13dca3386cbf6fc56cde38
+
+
+
+
+
+
+X-RAY 
+CHEST AP VIEW
+FINDINGS 
+:       POORIMAGE QUALITY.
+
+Lung fields are clear.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.    IMPRESSION :  NO OBVIOUS ABNORMALITY.     
+Suggested clinical correlation and follow up.

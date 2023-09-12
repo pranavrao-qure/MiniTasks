@@ -1,0 +1,29 @@
+
+Patient ID 754aef4206796c98ca4bdc47c8ddffe244673b218bf7c6c4e4e270a1
+Patient ID 514f97ee3c2b2a1b232046e09f423332ff11a8af2db1db5e6eb3fb02
+Patient Name a92571631e9200f93a8fcf540a2e77203fd9cf3c2ad4a11e858c2bc4 60Y FM W7933
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 2cd0690031cc04143ff8ec547f5e639ba7cc370c1479d02738d708d3
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Fibrotic lesions in the both upper and lower mid zones - - Old kochs
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 

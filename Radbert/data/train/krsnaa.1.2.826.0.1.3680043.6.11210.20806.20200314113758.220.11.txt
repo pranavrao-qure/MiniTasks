@@ -1,0 +1,48 @@
+Patient ID 600d58b974ac1dcef3d5922d4d8f7c7a774a8c6c9e319cb5e3d11f28
+Patient Name 1c416128c4974a0dc0d4f951d56ed5cfdc657fad960a46e803d5dcb4 45YRS DR. AMIT CHAURASIYA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6b3f1a99bc0641e428aea25288f46c2d9f985603d37a7918aee11bba
+
+
+
+
+
+                                                          X - RAY CHEST 
+
+Prominent bronchovascular markings noted at bilateral lung fields.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY RIGHT  SHOULDER AP VIEW  
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal  
+Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+

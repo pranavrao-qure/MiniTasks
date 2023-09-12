@@ -1,0 +1,43 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 5 fonts total
+
+-----------------
+X - RAY CHEST PA VIEW
+ 
+Increased peribronchial thickening noted on left hilar region.
+
+Rest of lung fields appear normal.
+
+Cardiac size is within normal limits.
+
+Bilateral domes of diaphragm and costophrenic angles are normal.
+
+Visualised bones and soft tissues appear normal.
+
+IMPRESSION: 
+
+¬        
+Increased peribronchial thickening on left hilar region, likely secondary to bronchiolitis.
+
+CONSULTANT RADIOLOGISTS:        
+        
+        
+        
+        
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1720 by 1212, depth 1
+pict001.wmf        
+        
+
+DR.H.K.ANAND DR.L.MADAN MOHAN BABU DR. MADHUKAR. V MD  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+MV/LR
+

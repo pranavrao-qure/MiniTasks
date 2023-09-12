@@ -1,0 +1,31 @@
+X-ray Chest PA  view:
+
+Patient rotated to the left 
+
+LUNGS:  Prominent righ thilum - may be related to rotation . 
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Mild bilateral Pleural effusion . 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+59Year old female diabetis with Urinary tract infection , 
+
+
+- Mild bilateral Pleural effusion .
+- No evident lung changes in this study . ( rotated to the left). 

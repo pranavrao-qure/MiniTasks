@@ -1,0 +1,34 @@
+LUNGS: Ill defined opacities in bilateral parahilar regions.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Degenerative changes of the spine are noted. 
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+
+Report Impression: 
+LUNGS: Ill defined opacities in bilateral parahilar regions.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Degenerative changes of the spine are noted. 
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.

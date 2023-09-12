@@ -1,0 +1,28 @@
+
+Patient ID 0ad0a0d9c06fb813261e96f5b6fe4a954775d801e599c6ac9d81ebb7
+Patient ID 369a59120876ac66c1155f14c013af2ce769c6080f4555ff29cd5147
+Patient Name 3bd3d489d5181f00339e762b9a74a14a9c65faac4959f0d3c5249d43 33/F
+Age :
+Sex :F
+Accession Number c02e73ba58d7aa44d4fefd3756627402e423d36b6c3250cc59eb8228
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 40abc547073ff69087ad13c5159e6e4bc87f62c183d02bf466453dc4
+
+
+
+
+
+
+Mild haziness noted in right lower zone - -? Infective.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

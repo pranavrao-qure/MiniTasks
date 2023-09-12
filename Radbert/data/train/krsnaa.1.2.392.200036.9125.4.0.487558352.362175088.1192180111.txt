@@ -1,0 +1,28 @@
+Patient ID 2a4b5d01847ffb0d29a55993443c30fbff4445de17afc5cf2695422c
+Patient Name a95eb7f62f17dd429fe16f6d3311c18af12b753edb74c98d27c8a3c4 40Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST 2R
+Study Date 5d7fae4fa38e6e5c1257f75cade06fa1df619624d745012822d0cf96
+
+
+
+
+
+                                                   X - RAY CHEST PA VIEW
+ 
+ 
+ 
+Multiple diffuse tiny nodular opacities noted in both lung parenchyma - - likely s/o Miliary Koch's.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+ 
+For clinical correlation. 
+ 
+
+

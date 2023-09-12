@@ -1,0 +1,42 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+
+
+RADIOGRAPH CHEST AP VIEW
+
+
+
+w       
+Haziness noted in bilateral lung fields predominantly on perihilar region.
+w       
+NG tube noted.
+w       
+ET tube noted.
+w       
+Trachea and mediastinum in midline.
+w       
+No mediastinal widening.
+w       
+No cardiomegaly
+w       
+No silhouette of mediastinal margins.
+w       
+Bilateral CP angles are not obliterated.
+w       
+Thoracic cage and soft tissue appear normal
+ 
+
+
+
+DR. A PRASANNA.,MBBS.,DNB.,
+CONSULTANT RADIOLOGIST
+REG NO. 98687. 
+ 
+
+
+[This report is only for diagnostic purpose, not applicable for medicolegal purpose.
+Clinical correlation is necessary for arriving at final diagnosis.]
+
+

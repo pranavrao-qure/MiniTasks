@@ -1,0 +1,29 @@
+Patient ID da7c98dfafc9026bbcd3b018810763af8ccbdd0b5fef6ee0b6b58a07
+Patient Name 710cc2f6d6968488c0bf42a8066805b238550aadc60721d97ce1b6c5 80YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c48eb8df996ce2b2f84ae0a88c8879330e64cf5fe703c13379bf5a16
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Diffsue Patchy consolidation noted at left upper lung zone - Infective
+Homogenous opacity noted at left lower zones with blunting of CP  angle and air fluid levels above it - Hydropneumothorax - Adv: CT chest.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Diffsue Patchy consolidation noted at left upper lung zone - Infective
+For clinical correlation. 
+

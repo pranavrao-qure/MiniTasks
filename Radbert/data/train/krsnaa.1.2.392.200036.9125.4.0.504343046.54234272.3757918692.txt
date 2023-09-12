@@ -1,0 +1,29 @@
+Patient ID 04c7b82300ebecf0cc5e22847baee9fd0e8bf237510399d136f3d7aa
+Patient Name f76a044c9c5e1085b8c5bb0e64e32b594aec631debe58550be71114f 22YRS F CXR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c48eb8df996ce2b2f84ae0a88c8879330e64cf5fe703c13379bf5a16
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+Blunting of  left cardio-phrenic angle is seen suggest pleural effusion.
+The lung fields are clear.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+
+IMPRESSION :  Blunting of  left CP angle suggest pleural effusion.
+
+ADV USG THORAX.
+

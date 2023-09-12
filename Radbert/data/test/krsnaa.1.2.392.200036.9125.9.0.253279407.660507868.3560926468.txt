@@ -1,0 +1,28 @@
+
+Patient ID 515bfdc2a30a63d7485e38317def4f04d15d0fed0d4f2a1140eb6c3b
+Patient ID 59361800f20c0b240650bc022e82c86b4a469961a498114e23ec81ed
+Patient Name acdab035132ddf42cae25bffc8e05bccecb3f7d13088923ebc93c597 77/M
+Age :
+Sex :O
+Accession Number 5ad75863db5fbf3ccc1f90ca56769d45afd7d96e27f07c32bef2cc32
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 6533369263a01a6cba3d96d67a51a0b580b4ab9904daa43f2d3a4225
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy area of consolidation noted at both upper zones with few fibrotic lesions - ? Old Koch's.
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+
+For clinical correlation. 

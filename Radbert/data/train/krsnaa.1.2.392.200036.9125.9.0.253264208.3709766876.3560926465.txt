@@ -1,0 +1,32 @@
+
+Patient ID ac4980ee30c3f7a8e66803449176a16512f2e15b6c1eacea8dc8cd78
+Patient ID 7b3e2aa0d5a1618a68d88c0d6bc5f457c9d219031a421b94bda5037c
+Patient Name 924076df3ac83bc3cf7a34355b10d96468699187a65c21f29d0fe9ab 35Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date f125b9e298dc5eb4d3b2e74b6c755d08c09a4ab3e561a2b80e03e57d
+
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Ill defined lesions noted at both lung fields with cystic lucencies - ? kochs.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

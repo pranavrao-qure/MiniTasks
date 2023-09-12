@@ -1,0 +1,19 @@
+X-ray Chest PA view: (Film No: 764)
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+
+
+Report Impression: 
+Normal x-ray of the chest.
+
+Recommend clinical correlation. 

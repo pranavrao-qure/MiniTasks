@@ -1,0 +1,26 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+Patchy areas of consolidation are seen in right lung fields, left upper & lower zones. 
+Trachea appears normal.
+Cardiothoracic ratio is within normal limits.
+Costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+Extra thoracic soft tissues shadow grossly appears normal.
+-       
+Suggested CT chest correlation.
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 16233 by 15956, depth 1
+pict001.wmf
+Dr. V. Sudhakar. MD., RD
+        
+        
+        
+        
+        
+        
+Consultant Radiologist
+
+
+

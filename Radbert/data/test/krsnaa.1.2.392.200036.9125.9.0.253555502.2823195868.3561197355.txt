@@ -1,0 +1,32 @@
+
+Patient ID d622dc41fdef4481e351c43c132828036272f9ab1d9f45f7ac64330f
+Patient ID d657941060e6602acefc9d11935480d625751cc4535d2f29fed9ab5f
+Patient Name 35bacd557bc56094baa94491a703974a8d48d9941af143b029820733
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 7848e557427e3158a5b5a8db9b025d8229b394c1fe8646966952f6ba
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at left mid and lower zone - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+
+
+For clinical correlation. 

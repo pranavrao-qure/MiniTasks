@@ -1,0 +1,29 @@
+
+Patient ID a10b42a31247f162a27bf05328904092f9303d03d228be112eafb2e8
+Patient ID 0b609d8c56d5cad170407724df5f1812035d262d20467008d47fc6bd
+Patient Name cdcb256557ed7d373426d06d37cd9fecfaff8453234dbf385df0c2ae SWAMY/67Y.DR.SWATHI.CAS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date ef0f3648f35080b05f4d3cf6a52734776e2faa8bb5bc61a53ec82965
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

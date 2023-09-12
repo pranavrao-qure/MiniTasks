@@ -1,0 +1,25 @@
+
+Patient ID 2e59b5f0a389824a4d1010c3b1e3dce204f1a005ba3544fca22f3096
+Patient ID 2b31d66871be7c6ae99821067101af56522a0df97058ad5e0b474c21
+Patient Name d1774ed4a2cb1eb555b0006a5aeb1fd034b6dab64ffaedac5d2d228b
+Age :28 Years
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician c03185a684b64511a4ab854e0b8f4dc0fb4ea1a23f380ad3eb6b0920
+Study :CHEST OBL RIGHT VIEW
+Study Date 9eded79e2054fddf839de686e07548e6d43495619fc539a8d66deb9c
+
+
+
+
+
+
+
+
+                                                           X - RAY CHEST OBLIQUE VIEW
+
+
+-- Under exposed film repeat the examination if indicated..
+
+For clinical correlation. 

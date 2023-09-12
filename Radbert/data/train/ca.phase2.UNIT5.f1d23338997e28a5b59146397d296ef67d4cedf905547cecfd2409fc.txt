@@ -1,0 +1,10 @@
+CARDIA: There is no apparent cardiomegaly. (Recommend clinical correlation and follow up with PA view)
+LUNGS: There is mild prominence of the bronchovascular markings. 
+PLEURAL EFFUSION: not seen
+BONES:  Normal.
+Report Impression: 
+Hilar and vascular markings prominent.
+
+
+
+Advised: clinical correlation 

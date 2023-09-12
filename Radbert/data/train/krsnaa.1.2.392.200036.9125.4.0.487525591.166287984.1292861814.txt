@@ -1,0 +1,33 @@
+Patient ID b87e2dd170af39d1a024418560a43798747bc5692a0a5a644c9ede74
+Patient Name 20fbb98eea35d41153797d8b0ffe534b936e449792ffbd74d55f30fd NATH,41YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1741ca7c811cee8c3691fce71e91411d170009d920b58244a4d63e4c
+
+
+
+
+
+X-RAY DORSAL SPINE (AP / LAT)
+  
+FINDINGS :
+ 
+Alignment of dorsal spine is normal.
+ 
+Vertebral bodies are normal in shape & density.
+ 
+Posterior arch elements appear normal.
+ 
+Intervertebral discs show normal height.
+ 
+Pre vertebral soft tissues are normal.
+ 
+IMPRESSION : NORMAL STUDY.
+
+Suggested clinical correlation & follow up.
+
+

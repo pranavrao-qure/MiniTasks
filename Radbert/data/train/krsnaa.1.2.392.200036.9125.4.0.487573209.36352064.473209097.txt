@@ -1,0 +1,27 @@
+Patient ID f49952bcd53b9e54382161d85ea6b3d0c948729de055f8009d1733e7
+Patient Name 5b7b98707a3bb2c403cf7ec99bff948c4f34d8741934962d1b2c8118
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date f0d8060b6bd76a0efd5a1cf36fab83625be766fc3d168caa8cf3a33e
+
+
+
+
+
+
+
+
+X-RAY CHEST PA  
+ 
+Fibrobronchiectatic changes are seen in both upper zones.
+Bilateral hilar prominence is seen.
+Rest of the lung fields appear clear..
+
+Cardiac size appears within normal limit.
+Both C.P. angles and both domes of diaphragm appear unremarkable.
+
+Bony thorax under vision appears unremarkable.

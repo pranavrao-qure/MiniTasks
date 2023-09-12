@@ -1,0 +1,24 @@
+X-ray Chest PA view:
+
+LUNGS: Few fibrotic opacities in the right upper zone.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Right apical pleural thickening. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+45 year gentleman for health check.
+
+X-ray Chest PA view shows:
+
+1. Few fibrotic opacities in the right upper zone with apical pleural thickening - suggestive of old infective etiology.
+2. Otherwise Normal.

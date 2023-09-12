@@ -1,0 +1,32 @@
+Patient ID eac225a281c23a4e39c9d106614ce33641d969fa1a6acade1b3ec220
+Patient Name 7f8cbb282022886fee9d57dbcfbd2f117ca90f8c9d815521c7c7dafd
+Age :57 Years
+Sex :M
+Accession Number 24c11ff54331b41c64447debdd3fa4e39e4185470ef6187f429d7d4d
+Modality :CR
+Referring Physician c96b7e80901798f7936afa08c8393c787169b4194f85d91bd18ec5b2
+Study :CHEST PA
+Study Date 45a1f8f5db2b116ca781acd067d236f39e3843db8b9e3c7ca607ea7c
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+Blunting of right  cardio-phrenic angle is seen suggest pleural effusion.
+The lung fields are clear.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+ 
+IMPRESSION : Mild Moderate Severe blunting of right CP angle suggest pleural effusion.
+ 
+ 
+Ill-defined homogeneous opacity obscuring vessels with air bronchogram noted in right lung with bronchietasis changes suggestive of consolidation ? due to bacterial infective etiology.
+ADV USG THORAX.
+
+

@@ -1,0 +1,41 @@
+
+Patient ID 9e6b393fe44d41e9a6fedd22e18907dc4d8a0a70ddf9b2aeee131af2
+Patient ID 0e52a1a2574cf6a72818d82c859852fafc85dfdae53710cd890920f7
+Patient Name 0cf443cda4973600ff5ce9abae069d4132ebae22f6f443793dc048d4 60/M
+Age :
+Sex :M
+Accession Number 23d024f18c4a51322783c8998995e400cb7627550aa0b2427edadb92
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 5ea3d1ac110bf3b0b115433db60e009ff67d95557e2e9f3d44eef560
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS
+:     
+  
+Lung fields shows fibrotic lesions with shift of trachea to rt side  and patchy pneumonitis both lower zones.-chr koch's 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+.Blunting of the lt cp angle 
+  
+Soft tissues and bony cage appear normal.  
+  
+ 
+    Suggested clinical correlation and follow up.
+ 

@@ -1,0 +1,33 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X-RAY CHEST (PA VIEW)
+
+
+Degenerative changes are seen in the bones.
+
+Unfolding of the aorta. 
+
+The cardio thoracic ratio is normal.
+
+The lung fields show normal broncho-vascular markings.
+
+Both the pulmonary hila are normal in size.
+
+The costophrenic and cardiophrenic recesses and the domes of 
+
+diaphragm are normal.
+
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 17873 by 11538, depth 1
+pict001.wmf 
+Dr.Balaji Selvaraj.,DMRD        
+
+Consultant Radiologist  
+
+
+NA
+
+
+

@@ -1,0 +1,4 @@
+The patient is rotated to the left. 
+CARDIA: There is no cardiomegaly.  
+LUNGS, PLEURAL EFFUSION: There is diffue haziness of left lung field as compared to prior X-ray dated 11/8/2016 suggesting possible large pleural effusion.
+BONES: Possible fracture of D3 and D4 vertberal body. Recommended CT correlation for same.

@@ -1,0 +1,29 @@
+Patient ID 804467bba6093ac225877ada3b59b720fdae3edb61aedeb6c031b03c
+Patient Name e3071c552e1007d7ac3ca8064bd2d26a60eb9c7bbe721a9e76d717d1 71YRS / IPD
+Age :
+Sex :F
+Accession Number 36a4c2aa1ebb0ee35fa4ea9bd826c6c807274d7327740468100f8fbd
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 80a9f1287ce56949141af052e878511380f2af77c9752055c3313d61
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Diffuse Patchy consolidation noted at bilateral  lung  - Infective
+ET tube noted.
+central line noted on right side.
+Trachea is in midline.
+ 
+Both hila normal in density.
+ Mild    cardiac size is enlarge -  cardiomegaly 
+Blunting of both CP angles noted - Pleural Effusion.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+

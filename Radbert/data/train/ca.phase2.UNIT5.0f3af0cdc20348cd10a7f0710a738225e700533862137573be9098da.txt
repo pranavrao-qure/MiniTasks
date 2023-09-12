@@ -1,0 +1,19 @@
+X-ray Chest PA  view:
+rotation
+LUNGS: Hilar and vascular markings are prominent.
+Hyperinflated lungs with emphysematous changes and features suggesting COPD
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Cardiomegaly. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Degenerative changes. osteopenia
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.

@@ -1,0 +1,35 @@
+
+Patient ID 6ed4b1a0d42ab8cf9710d07bd682f5740658a8949cd5d0e0800c1fa5
+Patient ID 141fdf27d1030dffb07b4f1cec768b3d70e70412be00233b38107b6a
+Patient Name fc08291f10574e079dd69c1db821002515697342f56c4c44976dd267 52/F
+Age :
+Sex :F
+Accession Number 655a756b3854b6421c096fe1f6b948e9b8982b510e91251365a78bba
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date aecaab4d70c2fce2a43fab0c5dec784072e218ef1a7fcc30b064f6af
+
+CHEST RADIOGRAPH AP VIEW Bilateral lung parenchyma and broncho-vascular markings appear normal. Bilateral domes of diaphragm appear normal and are smooth in contour. Bilateral costo phrenic  angles  and pleural spaces appear normal. Cardiac size could not be evaluated on AP view. Visualized bones and soft tissues appear normal. Visualized portion of upper abdomen appears normal. IMPRESSION  :  NO SIGNIFICANT ABNORMALITY IS SEEN IN THE PRESENT STUDY. For clinical correlation.     Date: 8-May-2017
+
+
+
+
+
+CHEST RADIOGRAPH AP VIEW
+
+Bilateral lung parenchyma and broncho-vascular markings appear normal.
+
+Bilateral domes of diaphragm appear normal and are smooth in contour.
+
+Bilateral costo phrenic  angles  and pleural spaces appear normal.
+
+Cardiac size could not be evaluated on AP view.
+
+Visualized bones and soft tissues appear normal.
+
+Visualized portion of upper abdomen appears normal.
+
+IMPRESSION  :  NO SIGNIFICANT ABNORMALITY IS SEEN IN THE PRESENT STUDY.
+
+For clinical correlation.

@@ -1,0 +1,26 @@
+Patient ID 8ac861c5f810849092e8d3ef348993fafb019279cdb4369bc6f199b4
+Patient Name d9c6309421a5d63ed57c3f1322ae9d0d5d173d5f7bccc2b23695e676 70YRS F
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date ec329b92bf045792553167b4ad453900caf8ff070ad9d0aeb35e644c
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+Superior mediastinal widening - Thyroid goiter.  
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+
+

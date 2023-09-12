@@ -1,0 +1,23 @@
+X-ray Chest PA  view:
+
+LUNGS: haziness seen in left supraphrenic region in left lower zone.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: unfolded with aortic arch calcification
+
+THORACIC SPINE and OTHER VISUALIZED BONES: degenerative changes seen
+
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: right dome is raised
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.

@@ -1,0 +1,68 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+
+	Patient Name	Mrs.B.Subbayamma	
+	Age/Sex	55Y/F	Date :	04/06/2018 	
+	Ref&..Doctor	Dr.P.S.M.Prasad,M.S.Gen., 	
+	
+
+RADIOGRAPH OF CHEST P.A VIEW 
+        
+        
+        
+
+        
+        
+        
+-- Heart size Normal, Unfolding of aorta.
+
+        
+        
+        
+-- Trachea in the midline, No Mediastinal shift.
+
+        
+        
+        
+-- Both Hila size, Shape and Density normal.
+
+        
+        
+        
+-- Both lung fields are clear.
+
+        
+-- Both C.P angles clear.
+
+        
+-- Bony caze and soft tissue planes normal.
+
+
+        
+IMPRESSION :  HEART SIZE NORMAL, UNFOLDING OF AORTA. 
+
+ BOTH LUNGS ARE NORMAL. 
+X-RAY NECK AP & LATERAL VIEWS 
+
+
+        
+        
+        
+-- Alignment of Vertebrae - Normal .
+
+-- Vertebral bodies , Disc spaces - Normal .
+
+-- Pedicles , Laminae and Spinous Processes - Normal .
+
+-- Pre Vertebral and pree Tracheal Soft Tissue Planes normal .
+
+-- No evidence of Radio opaque foreign body .
+
+
+IMPRESSION : NIL SIGNIFICANT.
+
+
+

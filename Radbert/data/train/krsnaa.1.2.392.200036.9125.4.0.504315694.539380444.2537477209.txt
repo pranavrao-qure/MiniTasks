@@ -1,0 +1,30 @@
+Patient ID bd078afaaf0bc8ea3fd21139d74e1f95b7704bcf8bd3f2602f35e795
+Patient Name 735554fe6efbee7752dfc00dfaaf1f2c0953e5e69870379121229c2d 55Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 3beafb9399d5328ea75e0a4c484dc60028a2a5934c3dec4c5b3dfcab
+
+
+
+
+
+X-RAY CHEST
+Unfolding arch of aorta noted
+prominent b/l hilar shadow noted 
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Both CP angles are clear.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is enlarge -  cardiomegaly .
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+The cardiac size is enlarge -  cardiomegaly .
+ADV : 2D echo.
+

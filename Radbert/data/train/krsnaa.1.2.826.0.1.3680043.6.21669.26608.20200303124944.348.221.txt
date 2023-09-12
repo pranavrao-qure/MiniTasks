@@ -1,0 +1,38 @@
+Patient ID d55a6d9f5541ec6662c2e81a7bf54e9abecd0143cfb1af46d5bedfb5
+Patient Name 8e8a3638cfcfb33feaf8c451060be876801ecfc64d2e32309132594b 35 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 4a0b75d0ca2163fb09dc75cc93ecf9248ef59aae268fec5657312016
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (AP )    
+FINDINGS:   Straightening of lumbar spine likely due to muscular spasm.
+Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.   Intervertebral disc spaces are maintained.   Prevertebral soft tissues are normal.    IMPRESSION :   Straightening of lumbar spine likely due to muscular spasm.   Suggested clinical correlation & follow up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (LATERAL)    
+FINDINGS:   Straightening of lumbar spine likely due to muscular spasm.
+Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.   Intervertebral disc spaces are maintained.   Prevertebral soft tissues are normal.    IMPRESSION :   Straightening of lumbar spine likely due to muscular spasm.   Suggested clinical correlation & follow up.
+

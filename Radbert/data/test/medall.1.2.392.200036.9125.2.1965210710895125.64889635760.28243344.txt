@@ -1,0 +1,54 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+
+
+	Patient Name	Master.K.Manidhar	
+	Age/Sex	4Y/M	Date :	31/10/2018 	
+	Ref.Dr	Dr.P.S.M.Prasad,M.S(Gen.Surg)., 	
+	
+
+ CHEST RADIOGRAPH OF A.P VIEW
+
+
+"        
+Cardiovascular contour is with in normal limits.
+
+"        
+Pulmonary vasculature is not remarkably altered.
+
+"        
+There is no Evidence of Mediastinal or Hilar Adenopathy.
+
+"        
+Both lung fields are clear.
+
+"        
+Bony cage does not show abnormality
+
+
+
+
+
+
+IMPRESSIONS  : NORMAL STUDY.
+
+
+
+
+        
+        
+        
+        
+
+        
+ Advise 
+        
+: Clinical correlation please.
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+Patient ID 604dd595534a7bd0f719c532a2419be85329ea62bb889d63ba5458ed
+Patient Name c7cf270accb98a6d0a28e37569fb4b9c24762655303c116e95c92ef3 62 Y CR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 06249234fe03b5e828663bb38b83a8da56dd6f8b4d1bcbc33a3de006
+
+
+
+
+
+  X - RAY CHEST 
+Patient in rotation.
+Multiple discrete & confluent nodular shadows along with fine reticular markings noted in B/L lungs--s/o infective/inflammatory etiology.
+Loss  of lung volume noted at left mid zone s/o infective etiology.
+ Unfolding of arch of aorta noted.
+
+Trachea& major bronchi appear unremarkable.
+B/l crowding ribs noted.
+Both hila appear unremarkable. Cardiac shadow is within normal limits.        
+Blunting left cp angle s/p pleural effussion.
+Right cp angle appears normal.
+Bony cage and soft tissues appear normal
+For clinical correlation.
+ADVICE USG CHEST 
+
+ 
+ 
+Date: 19-Dec-2019 15:25:42

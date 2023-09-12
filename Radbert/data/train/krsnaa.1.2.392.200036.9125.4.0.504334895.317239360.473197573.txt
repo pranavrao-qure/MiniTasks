@@ -1,0 +1,63 @@
+Patient ID 0369d99933dc5df7d128f682fd59d0aca588b2e32f61d43b39eb325a
+Patient Name 8326663d1e848d21e9771b0113b365f4bcf083a2b957afdd2d538ea3 72YR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6b3f1a99bc0641e428aea25288f46c2d9f985603d37a7918aee11bba
+
+
+
+
+
+X-RAY CERVICAL SPINE AP AND LATERAL VIEWS
+ 
+ Alignment appears normal
+ 
+ IV disc spaces are normal
+ 
+ Marginal degenerative osteophytes noted at C2 to C6 vertebral bodies
+ 
+ Spinous process appear normal.
+ 
+ Heights and densities of vertebral bodies are normal.
+ 
+ Pre and para vertebral soft tissues normal
+ 
+IMPRESSION :  CERVICAL SPONDYLOSIS.
+ 
+For clinical correlation. 
+
+
+                                                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+ X - RAY CHEST 
+ 
+ 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+
+

@@ -1,0 +1,27 @@
+X-ray Chest PA view:
+
+LUNGS: Patchy airspace opacities in both mid and lower zones, likely representing infective etiology
+Mild perihilar vascular congestion
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: small left pleural effusion
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+1. Patchy nodular airspace opacities in both mid and lower zones with small left pleural effusion, likely representing infective etiology.
+Clinical correlation and followup is recommended. 
+2. Mild perihilar vascular congestion

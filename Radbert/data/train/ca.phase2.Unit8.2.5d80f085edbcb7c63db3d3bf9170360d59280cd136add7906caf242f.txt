@@ -1,0 +1,28 @@
+X-ray Chest PA view:
+
+LUNGS: Inhomogenous opacity seen along the right lower zone and cardiophrenic angle with loss of definition of diaphragm.
+Bilateral prominent bronchovascular markings noted.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Obscuration of right lower cardiac border.
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Degenerative changes of the spine are noted. 
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+Inhomogenous opacity along the right lower zone and cardiophrenic angle with loss of definition of diaphragm.
+Bilateral prominent bronchovascular markings noted.
+Adv: CT chest.
+
+Recommend clinical correlation. 

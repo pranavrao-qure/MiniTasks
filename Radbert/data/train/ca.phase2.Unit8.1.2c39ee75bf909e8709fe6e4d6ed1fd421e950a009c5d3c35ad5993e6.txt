@@ -1,0 +1,18 @@
+X-ray Chest Oblique view:
+
+LUNGS: Normal.  
+HEART: Normal. 
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+MEDIASTINUM: Normal. 
+AORTA: Normal. 
+PULMONARY HILA: Normal. 
+PLEURA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+Normal X-ray of the chest Oblique view.

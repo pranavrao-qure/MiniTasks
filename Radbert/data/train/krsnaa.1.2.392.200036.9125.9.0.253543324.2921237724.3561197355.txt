@@ -1,0 +1,31 @@
+
+Patient ID 6244325ca505d7c4e048fc739c88edd4f1abaf032662b7b4f0b58c35
+Patient ID c1c30e0e088790b013e923dc6d85c73d2080705acdcaf55ac23b7c9c
+Patient Name 2c6011acfecc9b05b1d8ca92d4dd73b5c606b3ed0885fa8cb37b352f 2MOCHOP96
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date d169eb39808ecaaa6d61e04d50f971485a67aa3cd0b880d5be0e6a40
+
+
+
+
+
+
+                                                           X - RAY CHEST AP VIEW
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+
+
+

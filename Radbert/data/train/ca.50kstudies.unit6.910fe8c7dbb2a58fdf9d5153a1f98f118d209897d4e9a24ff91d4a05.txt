@@ -1,0 +1,35 @@
+LUNGS: Mild congestion of both lungs.
+TRACHEA: Normal.
+PLEURA: Normal.
+
+HEART: Mild cardiomegaly.
+PULMONARY HILA: Normal.
+AORTA: Normal.
+
+THORACIC SPINE: Degenerative changes noted.
+OTHER VISUALIZED BONES: Normal.
+VISUALIZED SOFT TISSUES: Normal.
+
+DIAPHRAGM: Normal.
+
+VISUALIZED ABDOMEN: Normal.
+VISUALIZED NECK: Normal.
+ 
+Report Impression: 
+LUNGS: Mild congestion of both lungs.
+TRACHEA: Normal.
+PLEURA: Normal.
+
+HEART: Mild cardiomegaly.
+PULMONARY HILA: Normal.
+AORTA: Normal.
+
+THORACIC SPINE: Degenerative changes noted.
+OTHER VISUALIZED BONES: Normal.
+VISUALIZED SOFT TISSUES: Normal.
+
+DIAPHRAGM: Normal.
+
+VISUALIZED ABDOMEN: Normal.
+VISUALIZED NECK: Normal.
+ 

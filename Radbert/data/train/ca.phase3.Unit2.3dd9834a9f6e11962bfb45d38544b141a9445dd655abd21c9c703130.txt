@@ -1,0 +1,26 @@
+X-ray Chest PA view:
+
+LUNGS:Right upper lobe shows volume loss with upward displacement of the horizontal fissure.
+The upper lobe shows patchy consolidation and fibrosis.
+Right hilum is pulled up.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Right hilum is pulled up.
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal.
+Report Impression: 
+X-ray of the chest PA view shows 
+- Right upper lobe volume loss with pulled up hilum and consolidation suggestive of pulmonary tuberculosis.
+Compared with the X ray of August 1st 2011 there is no significant radiologic change.
+Recommend clinical correlation. 

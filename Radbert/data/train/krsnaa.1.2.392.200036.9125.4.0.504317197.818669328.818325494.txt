@@ -1,0 +1,56 @@
+Patient ID e868782ace3f565bcc5d979b25d9a1df2bb265ae41e35e941c7593e6
+Patient Name 86335cce680a259c721abff596b26cd9a691379239f9262f47746a06 50Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date ff5b2a929c2b756e1ddac2d819ac953edc00a04bf47b66cf76509e20
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                     
+ 
+ 
+Bilateral prominent hila with prominent bronchovascular  markings in bilateral lung fields - ? Pneumonitis.
+ 
+ 
+Rest of lung fields are normal
+ 
+ 
+Trachea is in midline.
+ 
+ 
+Cardiac silhouette maintained.         
+ 
+ 
+Both CP angles are clear.
+ 
+ 
+For clinical correlation. and CT chest if required 
+
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (LAT)
+ 
+ Anterior  marginal osteophytes are noted.
+The vertebrae show normal alignment.
+  No focal bone lesion is seen.
+  The intervertebral disc spaces are normal.
+  No abnormal paravertebral soft tissue shadow is seen.
+  No abnormal soft tissue calcification is noted.
+  The psoas shadows are well defined and normal.
+  No radio opaque calculus is seen.
+ 
+IMPRESSION  : 
+ Anterior  marginal osteophytes are noted, degenerative changes
+
+suggested clinical correlation 
+

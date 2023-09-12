@@ -1,0 +1,20 @@
+X-ray Chest PA  view:
+
+LUNGS: Normal.
+CVP line in place.
+PLEURA: Left pleural effusion.
+
+HEART: Enalrged in size. Sternal sutures in place.
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Left pleural effusion.
+Mild cardionegaly.

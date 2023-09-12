@@ -1,0 +1,19 @@
+X-ray Chest AP supine view (F.no 572):
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Bilateral bony cervical ribs are seen. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal. 
+
+Report Impression: 
+Bilateral bony cervical ribs.
+
+Recommend clinical correlation. 

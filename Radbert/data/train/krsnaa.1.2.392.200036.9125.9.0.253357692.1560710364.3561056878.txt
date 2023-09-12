@@ -1,0 +1,42 @@
+
+Patient ID 303d1fe593ecdfa8b95b7290fe921a5fa06a59bb7e99c274cee3d0e0
+Patient ID 9cac11d530daaedcc08144062817e13b2878c7e3c3aa255274c2fd52
+Patient Name 379dfb9b0994acb420b545923f23aa42eafc295494d1fc62c5fb6bd7 23 Y REF DR PADMAKUMAR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date c41ac1bc4844fe6b499c378a63cd517deff551c556687cde36573001
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS
+:     
+  
+Lung fields are clear. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ IMPRESSION :  NORMAL CHEST RADIOGRAPH. 
+ 
+    Suggested clinical correlation and follow up.
+ 

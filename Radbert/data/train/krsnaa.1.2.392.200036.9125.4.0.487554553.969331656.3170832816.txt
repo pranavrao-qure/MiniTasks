@@ -1,0 +1,35 @@
+Patient ID 35d6b47351c7c571eab8d689f3611d924c8b64716601fa49a91298ed
+Patient Name 4044c1d77ef19d83f4f23f13c3aa7396a541023cf409df6c64ab40ac 32 YRS CXR AP
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c46bc56ca8e4c73e8faadd9ad168d28a6c2e12bd0198b388a12edb3b
+
+
+
+
+
+CHEST RADIOGRAPH AP VIEW
+ 
+Bilateral lung parenchyma and broncho-vascular markings appear normal.
+ 
+Bilateral domes of diaphragm appear normal and are smooth in contour.
+ 
+Bilateral costo phrenic  angles  and pleural spaces appear normal.
+ 
+Cardiac size could not be evaluated on AP view.
+ 
+Visualized bones and soft tissues appear normal.
+ 
+No evidence of lymphadenopathy / mass lesion /effusion is seen.
+ 
+Visualized portion of upper abdomen appears normal.
+ 
+IMPRESSION  : NO SIGNIFICANT ABNORMALITY IS SEEN IN THE PRESENT STUDY.
+ 
+For clinical correlation.
+
+

@@ -1,0 +1,27 @@
+Patient ID e2b1c7ade9b4401b9eec76fe211b3e731ed2c887bc3c8d7c4b7a0dd3
+Patient Name 1fe70d70787134b1e1f3f2b3c04b4c2eebba1d66c8801ceaf7975332 22Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 60605ba3a3ea0dd1763eaec03ff36e7838534681464ef475bd77f9dc
+
+
+
+
+
+X-RAY DORSAL SPINE (AP / LAT)
+FINDINGS :
+ 
+Alignment of dorsal spine is normal.
+Vertebral bodies are normal in shape & density.
+Posterior arch elements appear normal.
+Intervertebral discs show normal height.
+Pre vertebral soft tissues are normal.
+ 
+IMPRESSION : NORMAL STUDY.
+ 
+    Suggested clinical correlation & follow up.
+

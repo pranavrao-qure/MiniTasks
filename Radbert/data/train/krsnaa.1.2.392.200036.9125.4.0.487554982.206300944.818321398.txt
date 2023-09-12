@@ -1,0 +1,56 @@
+Patient ID 667e7837b87fb38e1a6eb387076806434431287c3acacd01d5dc89b5
+Patient Name 7686404f113ae0b3345b9811b39342de0ee15bb8f48843201c1b4c58 21 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date cd379b8546ccfd4af248579155fa6aa767df4c16a281a6cf25105e52
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+ 
+Ill-defined homogeneous opacity obscuring vessels with air bronchogram noted in right lower zone suggestive of consolidation ? due to bacterial infective etiology. Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION: 
+Above X-ray Findings are suggestive of Infective etiology? Bacterial.
+ADVICE-Complete Blood Count.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY DORSAL SPINE (AP )
+
+FINDINGS :
+
+Alignment of dorsal spine is normal.
+
+Vertebral bodies are normal in shape & density.
+
+Posterior arch elements appear normal.
+
+Intervertebral discs show normal height.
+
+Pre vertebral soft tissues are normal.
+
+IMPRESSION : NORMAL STUDY.
+    Suggested clinical correlation & follow up.
+

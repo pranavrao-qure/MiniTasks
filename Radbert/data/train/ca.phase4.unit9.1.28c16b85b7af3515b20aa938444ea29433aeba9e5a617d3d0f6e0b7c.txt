@@ -1,0 +1,19 @@
+X-ray Chest PA view (F. NO 916):
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+
+Report Impression: 
+Normal x-ray of the chest.
+
+Adv: Correlate clinically.

@@ -1,0 +1,27 @@
+
+Patient ID 77d173ce14d9fcb1f0cd3ee6ddbafbd3e3f122fa7671893067fde7c3
+Patient ID efd1a8fdb2b35d4d052f620a4efb0efd6a6d471b1781e57d529f8e34
+Patient Name e21e3a28ecc101c1cee6b485e7df43e9e0031e6fb1badf86dee35616 28YREF DR.BHARATHI
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST  AP
+Study Date 588dea04df1647901648dba038201e31e34cdac8861e57442c9bda4b
+
+
+
+
+
+
+                                                           X - RAY CHEST AP VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

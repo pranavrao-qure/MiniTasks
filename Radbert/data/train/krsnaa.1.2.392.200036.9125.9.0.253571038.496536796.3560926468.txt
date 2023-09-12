@@ -1,0 +1,29 @@
+
+Patient ID 4520e7e74af70675a0284ad0f532648ddff64ddd6d0e6c4deb4ce645
+Patient ID 971c42b7045e04de3798385fe407784c3c24ead93dad578ea51808a0
+Patient Name dbcc43d9176e6f87c047225d2a9a8493a3ac96ab97d298ae7fc75ef9 76/M
+Age :
+Sex :O
+Accession Number 49371c2569e88765dd0445666ff9c4133b71e9f5512ce92aa05f15b2
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 328ac78c7eeb592112029088aca767134216073c1f51cdb5f622ac16
+
+X - RAY CHEST Both lungfields show changes of mild emphysema. Both hila normal in density. Cardiac silhouette maintained.          Both CP angles are clear. Bony cage and soft tissues appear normal For clinical correlation.      Date: 6-Sep-2019
+
+
+
+
+
+                                                          
+
+
+Both lungfields show changes of mild emphysema.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Bony cage and soft tissues appear normal
+For clinical correlation. 

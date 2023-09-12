@@ -1,0 +1,35 @@
+Patient ID ae3520626df337e3bea64226538f2b54cb18ed66c67be8fd82182e53
+Patient Name 35b251d5043017dc1d7c88b4cda6a493cf6a4e1ea47c291de83857cb
+Age :
+Sex :M
+Accession Number 31c8313ec13555fe0b12c5cb7a798171be208ba65fe5424967336ae5
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6e51a1fee4c56ddfa75155b4d40035a0b3b3d7a2434023d86944fd52
+
+
+
+
+
+X-RAY CHEST PA VIEW
+Aortic knuckle calcification noted .
+Small nodular opacities noted in bilateral perihilar region
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Small nodular opacities noted in bilateral perihilar region .
+Suggested clinical correlation.
+
+
+
+ 
+ 
+Date: 06-Feb-2020 16:45:55

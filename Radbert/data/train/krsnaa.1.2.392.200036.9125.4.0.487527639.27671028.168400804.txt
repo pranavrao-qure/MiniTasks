@@ -1,0 +1,38 @@
+Patient ID 93c96148bc3e7dbb45d3e28a4da37fc6fba3262adca4598415a31d8c
+Patient Name 326a2f28cada2197d2c4bffdca6e1b02aa9e375f3b92e3bb6e2f8582 65yrs
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1741ca7c811cee8c3691fce71e91411d170009d920b58244a4d63e4c
+
+
+
+
+
+                                         X - RAY CHEST PA VIEW
+ 
+Bronchiectasis changes noted in bilateral lungs.
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+X-RAY CHEST LATERAL VIEW
+ 
+The lungs on the either side show equal translucency. 
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position, and show smooth outline.
+ 
+IMPRESSION : Chest x ray findings are suggestive of no significant abnormality.
+Suggested clinical correlation.

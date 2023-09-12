@@ -1,0 +1,21 @@
+Patient ID 3300638c64353801b83565543f85dd2d7de4ae64ca071d6662e5fbf7
+Patient Name 738746f3940920650c91cc5bb3db910ba5ca41d66d7b407f5efe32ad 60 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 419929f7288d33aeb7546487cd90c9f04e070f17531126dea8322eec
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+Absence of lung markings and curvilinear opacities, with no discernible wall is seen at the left lung apex suggestive of apical lung bulla. Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION:  Above x-ray film findings suggestive of Emphysematous bulla.
+
+

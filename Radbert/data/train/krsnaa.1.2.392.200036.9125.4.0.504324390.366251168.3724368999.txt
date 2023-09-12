@@ -1,0 +1,63 @@
+Patient ID 767d055a65955c6dcbfc4fec812310e9ffb64b25663a3182868c7986
+Patient Name 445b6cd14974a7463ad87901c7d791a853b76950bbaa27b20d92f95a 31 Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 65998a0d93a1247a02bb4391be0e3a2c668e7e23d0e8d6fe7e3abdfe
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+Date: 07-Mar-2020 15:30:50
+
+
+
+
+
+X-RAY DORSAL SPINE (AP / LAT)
+  
+FINDINGS :
+ 
+Alignment of dorsal spine is normal.
+ 
+Vertebral bodies are normal in shape & density.
+ 
+Posterior arch elements appear normal.
+ 
+Intervertebral discs show normal height.
+ 
+Pre vertebral soft tissues are normal.
+ 
+IMPRESSION : NORMAL STUDY.
+ 
+    Suggested clinical correlation & follow up.
+
+Date: 07-Mar-2020 15:30:50
+
+
+
+X-RAY LUMBOSACRAL SPINE (AP / LATERAL)    
+FINDINGS :   Alignment of lumbosacral spine is normal.   Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.   Intervertebral disc spaces are maintained.   Prevertebral soft tissues are normal.    IMPRESSION  :  NO SIGNIFICANT RADIOGRAPHIC ABNORMALITY.  
+Suggested clinical correlation & follow up.
+
+

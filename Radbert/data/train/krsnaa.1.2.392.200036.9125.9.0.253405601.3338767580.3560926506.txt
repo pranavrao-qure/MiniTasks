@@ -1,0 +1,42 @@
+
+Patient ID 5f36636dd93dcd61d5d6480ee5f4b3930ee6e26594e3640e28f9fb41
+Patient ID 012286e448ab703b65e84984db860312f5ad030947f8ab603f6a5e9a
+Patient Name 391dea29f4298fd42df9c613d6efc946859a3bc88f02e05900fefcca
+Age :60 Years
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician fba8e835427cf09a2c68140e150638bd0dba1eb7cf5f034a1fbe97a1
+Study :CHEST PA VIEW
+Study Date b292bfbaf25338aeab46856f98efe395567d41f9c1b0439c449c904d
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS
+:  
+
+Parenchymal infiltration involving both upper lobes -for further evaluation   
+  
+  
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ . 
+ 
+    Suggested clinical correlation and follow up.
+ 

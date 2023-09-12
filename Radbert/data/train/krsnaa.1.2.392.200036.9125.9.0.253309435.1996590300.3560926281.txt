@@ -1,0 +1,29 @@
+
+Patient ID 0dc20a726551d2407d6beb8d835b61041a49fdeca92a1203fc37ee46
+Patient ID 6ed284a5956c28c29554a91986f42769bd6ed2eb691b505d0138c395
+Patient Name 4e927d10e61b456ff2c6123df107e3f5d747f390eba0ec00c9a8db74 40Y REF DR B.S.RAO
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 6122a6eeb4f32ebda9723e5a2302d03021f2d34a3e6c4e580becca02
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

@@ -1,0 +1,27 @@
+
+Patient ID 935abd5b8af4147e6a078107e8c5f2f1a998de49f44fc0f7297eac73
+Patient ID 2c478b31c3a128276697acc6cb4aef51287658e809e7914f493e834a
+Patient Name 74770f9f7ffa789a2b921f0517c4579a817206dc904e43482b0714f3 50Y DR K GOPAL
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 8dbbc81465a0f27db26a87a13bf5da27914cc680e4521f4f6ed2ae21
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

@@ -1,0 +1,31 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+PLAIN RADIOGRAPH CHEST - P.A. VIEW
+
+"        
+Trachea is in midline.
+"        
+Cardiac size is within normal limits.
+"        
+Both lung fields appear normal
+"        
+Both domes of diaphragm appear normal.
+"        
+Both costophrenic angles appear clear
+"        
+Hila and mediastinum appear normal. 
+"        
+Bony thoracic cage appears normal.
+
+IMPRESSION: NORMAL STUDY.
+ 
+For clinical correlation and further evaluation.
+
+3
+ DR. K.NATARAJA SEKHAR. DNB. 
+ CONSULTANT RADIOLOGIST
+
+
+

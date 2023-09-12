@@ -1,0 +1,28 @@
+Patient ID 9db44e2437c9707d9616ddabf532a7aa54b95a1fb8fb0e01e6aaf6ad
+Patient Name 2b2f04e3a7337046be28393c7d5f14e2168349e445f47145b9212af5
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date d1a7fdbbdb49a28dad28ff27d8d70acced2972f9a5a954b666a4f0d4
+
+
+
+
+
+                                                       X - RAY CHEST PA VIEW
+ 
+ 
+Patchy infiltration  at left  upper zone - Infection.
+ 
+Rest of lungs are normal.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+ 
+For clinical correlation. 
+
+

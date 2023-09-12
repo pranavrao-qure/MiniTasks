@@ -1,0 +1,35 @@
+Patient ID ffe9df627d9c7773818de94f11e75bebd13b55ed523b439c317f9903
+Patient Name 40309a77baa7ef3a7e58dae7d3a39fc08c3885fa779a4eb8734220a0
+Age :
+Sex :M
+Accession Number 4628fff2ada7593bd653032a3a33192eec63ef8a7361a9a9bd9f1bc6
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 617423244524feb140dd315ed903d24269ca369f640eace172bed1a9
+
+
+
+
+
+X-RAY CHEST 
+
+
+? Fracture noted at mid shaft of right clavicle with surrounding soft tissue swelling.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+? Fracture noted at mid shaft of right clavicle with surrounding soft tissue swelling.
+Suggested clinical correlation.
+
+
+
+
+

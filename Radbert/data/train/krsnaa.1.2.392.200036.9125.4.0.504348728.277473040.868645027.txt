@@ -1,0 +1,26 @@
+Patient ID dcbaf837c7f765a2ff87958c4e9606c2634b89c70b5e9cf1f86c18e1
+Patient Name 3c79bd84f1c2f16764edba9c63f2ec07a20a8858c0baf925a9f3ea89 14YS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date b8a50385d367dc9c284cbeb9c4ff038037b8422f8eb9a380731cbc64
+
+
+
+
+
+X - RAY CHEST PA VIEW
+ 
+Few tiny calcified nodular opacities noted in left mid and right lower  zones- -
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+

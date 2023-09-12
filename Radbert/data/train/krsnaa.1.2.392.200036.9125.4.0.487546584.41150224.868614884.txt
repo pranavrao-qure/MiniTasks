@@ -1,0 +1,26 @@
+Patient ID b1fc506f5ed4730411aa28f14357dd8c0d5fc2714abcb7d5b37b83c6
+Patient Name 24f1c3ca63501151a24c585d7a4f254852cfc0a0b60fb95fd84209a9 45M
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date cf5021447e2f0b909738940855a5643376f42acb66773dae13552a5d
+
+
+
+
+
+                                                        X - RAY CHEST  
+                                           
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of right CP angle noted - Minimal Pleural Effusion/thickened pleura.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+  For clinical correlation. 
+
+

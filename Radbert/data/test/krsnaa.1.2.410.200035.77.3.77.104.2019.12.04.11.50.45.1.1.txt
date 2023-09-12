@@ -1,0 +1,29 @@
+Patient ID ce5f13af49f5c3e1f552d9a670cfcef885e344b4bfb0ec1392170d44
+Patient Name e2df33420c5b35088ec56f14d980fb68c4a1edb8ecdc8180b6cf5078
+Age :35 Years
+Sex :M
+Accession Number f84ee204c38ae585904fbac2eb627cb760538c1b0c698546d6ba8692
+Modality :CR
+Referring Physician 40826a4f12f4a288f283b574a5302e641a60f2c070fa41b0117cc680
+Study :CHEST
+Study Date 035cdc8f205d4e96323b5e14c8092bf5053978d875421de98c6d3bbf
+
+
+
+
+
+                                         X - RAY CHEST PA VIEW
+ 
+Bronchiectasis changes noted in BILATERAL  mid and lower zones.
+ 
+ 
+Air space and interstisial opacities in the bilateral lower , suggestive of changes of pneumonitis.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

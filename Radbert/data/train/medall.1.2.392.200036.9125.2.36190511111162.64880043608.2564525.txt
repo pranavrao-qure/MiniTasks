@@ -1,0 +1,24 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 2 fonts total
+
+-----------------
+DIGITAL X-RAY CERVICAL SPINE - AP & LATERAL VIEW
+
+Straightening of cervical spine seen. 
+Subtle marginal osteophytes are noted at C4, C5 & C6 vertebrae - Early degenerative spondylosis. 
+Vertebral alignment appears normal.
+Rest of the vertebral bodies and posterior elements appear normal.
+Intervertebral disc spaces appear normal.
+Facet articulations appear normal.
+Prevertebral soft tissues appear normal.
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 16233 by 15956, depth 1
+pict001.wmf
+Dr. V. Sudhakar. MD., RD
+        
+        
+        
+        
+        
+        
+Consultant Radiologist
+

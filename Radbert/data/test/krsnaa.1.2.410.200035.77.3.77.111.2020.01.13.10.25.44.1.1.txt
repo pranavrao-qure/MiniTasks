@@ -1,0 +1,30 @@
+Patient ID f75a294ef36cdda8ac2981e2afc4663be389b4194c9e75ded6c3ec5e
+Patient Name 0350761311a194cbce8b947cbc2ab078114a4173cf572cfb9f737316
+Age :63 Years
+Sex :M
+Accession Number 91b3e72d7e65cfb674bed5b71063e2db0524815daa62ed03fa873ca7
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 0816ae3100198751073fd273f0ec735140fa9e1bfe08c257d8aa4e4a
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+  Calcified nodular opacities noted in both upper zones- - Old infective Kochâ€™s.
+Patchy consolidation noted at bilateral apical and upper lung zone - Infective
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of both CP angles noted - Pleural Effusion.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+
+
+
+

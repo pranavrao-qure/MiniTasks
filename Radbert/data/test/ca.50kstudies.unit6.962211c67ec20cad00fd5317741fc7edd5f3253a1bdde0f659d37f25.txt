@@ -1,0 +1,20 @@
+X-ray Chest PA  view:
+
+LUNGS: Normal.
+TRACHEA: Normal.  
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Degenerative changes of the spine are noted. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal. 
+
+Report Impression: 
+No significant abnormality.

@@ -1,0 +1,29 @@
+Patient ID e483ff7cea230d80792b2a914a1accedba6be07aac95947ba65e23a0
+Patient Name 844f8ae5122698bd87d388a3d56bd69282f77d860b4146c14a38b046 70Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 035cdc8f205d4e96323b5e14c8092bf5053978d875421de98c6d3bbf
+
+
+
+
+
+      X - RAY CHEST PA VIEW
+
+Tram-track opacities with ring shadow noted in bilateral mid and lower zones.
+Prominent aortic knuckle calcification noted 
+Trachea is in midline.
+
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:  Bronchiectasis changes as described above.
+Prominent aortic knuckle calcification noted 
+For clinical correlation.
+
+

@@ -1,0 +1,19 @@
+Patient ID 79e2ba5013a0e7bdae76aea0ccabc5bef13616278eda4b2691f57d8b
+Patient Name e316b38070374f74eea1800f6cd63f0be556f49f87ea975e90c12341 60
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date dd09cf71122ff14a9e43768813031f106e2c219dc60b58abc3d713a7
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :                                   Patchy fibrotic areas are noted in right upper zones - S/o Kochâs.   Both hila appear are pulled up.   Cardiac size is normal.   Both domes of diaphragm are normal.
+Bilateral  minimal pleural effusion  noted   Soft tissues and bony cage appear normal.        Suggested clinical correlation and follow up.
+
+

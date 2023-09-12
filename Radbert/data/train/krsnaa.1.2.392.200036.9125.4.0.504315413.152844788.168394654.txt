@@ -1,0 +1,28 @@
+Patient ID 30cd12bfbc00eb7ac2e81604c86266f9c69559601527fcd51f24d75f
+Patient Name 076fde8af7c19142cdb0777bf86c4b6c142ca0671a0c50a61ff596a3 73YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date faad4e5461236f04de386b4126794daca92aadcf5811e79cf41a1709
+
+
+
+
+
+                                            X - RAY CHEST 
+Large left homogeneous opacity in left lower zone.
+Further evaluation with CT scan to rule out mediastenal/ lung lesion.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of the   lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+
+For clinical correlation. 
+
+

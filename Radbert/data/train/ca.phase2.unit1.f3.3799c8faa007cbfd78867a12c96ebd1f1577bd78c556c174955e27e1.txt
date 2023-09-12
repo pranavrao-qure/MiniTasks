@@ -1,0 +1,16 @@
+X-ray Chest PA view:
+
+LUNGS: Right basal opacity.
+PLEURA: Normal. 
+HEART: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal.
+Report Impression: 
+Right basal consolidation.

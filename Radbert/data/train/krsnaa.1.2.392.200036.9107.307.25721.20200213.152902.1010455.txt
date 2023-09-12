@@ -1,0 +1,26 @@
+Patient ID 6a2a875cabb9e635067dbc4cb7b7a3cb36c5888ca8a51a63ea1ad0cb
+Patient Name b814a13ec60cff52f666bd7bc3f8790497da0d7fa2c7960111fc96b9 38 YR FA
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :DX
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :ChestErect PA
+Study Date fb3279ec70f13904914b76d046aa4234c894b1efa90a256fa02cccc4
+
+
+
+
+
+                     X - RAY CHEST PA VIEW
+Trachea is in midline.
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of right  CP angle noted - Pleural Effusion.
+Scoliosis noted .
+Patchy consolidation noted at right perihilar region  - Infective
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal. 
+ 
+ 
+Date: 13-Feb-2020 17:11:47

@@ -1,0 +1,54 @@
+Patient ID 98fbb703219bfb93c462cdb8c3d2221eabee508843fce1673a307042
+Patient Name 3a142b2e4ca75b08c48d0929a32c94a0660e46efb23792eaf9068a09 25 YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6226f29349fbaf08b9de824880e55de9b989d9b4a024755ae33a6584
+
+
+
+
+
+X-RAY CHEST 
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+PLAIN XRAY ABDOMEN (A.P.VIEW)
+   
+No radio opaque calculus is seen in the hepatobiliary, panreatic or renal areas.
+The renal shadows are well defined.
+The renal margins are smooth.
+The psoas shadows are well seen.
+No abnormal soft tissue shadows calcification is noted.
+The sacroiliac joints show no abnormality.
+IMPRESSION  : 
+ 
+NO SIGNIFICANT ABNORMALITY IS DETECTED.
+
+

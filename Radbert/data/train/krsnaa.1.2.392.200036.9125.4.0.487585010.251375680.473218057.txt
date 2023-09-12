@@ -1,0 +1,27 @@
+Patient ID f54ba0ac7e6883b08e453cbef553b3ab5e2efce1f29c90bb9daa6056
+Patient Name 5b7031027d7af26d9533e178eb16b4be4defe39fc774ebb47c86423e 90
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fb8087438028f3fc5000892486c1383b022edcfa8ea27380cf30a0e9
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+Right paracardiac haziness noted-Infective.
+There is a central area of hyper lucency in the middle zone of the right lung.
+  Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Right paracardiac haziness noted-Infective.
+​​​​​​​ For clinical correlation. 
+
+

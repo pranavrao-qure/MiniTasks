@@ -1,0 +1,30 @@
+
+Patient ID 2efca6bfd643644de7ad11e3b2e9888b47a7c4ffff5fd548993d2c98
+Patient ID 9c6426246669121dfc02f39b2825694180dc9bfd158895002592a140
+Patient Name 0c8bd771c7206f98bad726c78e0ef1c5638f5568dd6a63fbf0758b96 60  / F
+Age :
+Sex :O
+Accession Number 5ab3f6854c2b52ad2c176b0ee8f8c3015a0c9e36183448ea7ed58026
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 38de9507f719e19450808581343c34ef35d6b96437157f421f45e35d
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis at both lungs - Infection.
+
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+
+
+For clinical correlation. 

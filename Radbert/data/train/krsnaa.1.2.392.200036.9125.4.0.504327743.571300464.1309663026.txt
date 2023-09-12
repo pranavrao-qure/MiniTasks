@@ -1,0 +1,114 @@
+Patient ID c34d23cbf3fb0c4d9b075be4ea98ab4507b41180d0dd95b82a6e8965
+Patient Name 992b4dfc9ec752c49f7b0c82b3d34d52854f407ee202c8eac0bb7bd9 27YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date cf41406b58da246d04d66cb849f65c6fb14e24a4664ed7054fc5904f
+
+
+
+
+
+                                                      X - RAY CHEST 
+                                                               
+   prominent bronchovascular  markings in bilateral lung fields
+
+Rest of lung fields are normal
+
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+
+Both CP angles are clear.
+
+For clinical correlation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY CERVICAL SPINE AP AND LATERAL VIEWS
+
+Straightening of cervical spine likely due to muscular spasm.
+
+ IV disc spaces are normal
+
+ Spinous process appear normal.
+
+ Heights and densities of vertebral bodies are normal.
+
+ Pre and para vertebral soft tissues normal
+
+IMPRESSION :   Straightening of cervical spine likely due to muscular spasm.
+
+
+For clinical correlation.and mri spine if required 
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY SKULL (AP & LAT)
+ 
+
+FINDINGS :
+
+Skull vault and diploic spaces appear normal. 
+
+Sutural and vascular markings appear normal. 
+
+Sella appears normal in size. 
+
+No obvious bony injury / erosions noted. 
+
+No pathological intracranial calcifications noted.
+ 
+
+  IMPRESSION  :    NORMAL SKULL RADIOGRAPH .
+Suggested clinical correlation & follow up.  and CT head if suspect clinically 
+
+
+
+
+
+
+
+
+
+X-RAY PARANASAL SINUSES
+ 
+FINDINGS :
+ 
+All paranasal sinuses are clear.
+ 
+No obvious bony erosions noted.
+ 
+Nasal septum is almost central.
+ 
+Both orbits appear normal.
+ 
+IMPRESSION  :  NORMAL STUDY.
+ 
+Suggested clinical correlation & follow up. and CT pns if suspect clinically  
+ 
+ 
+Date: 26-Mar-2020 13:40:14

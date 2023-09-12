@@ -1,0 +1,29 @@
+
+Patient ID f3d5a8b61ca78c2d4e53b41a3c8d0aaf6923d663aaa60ec2e59acc34
+Patient ID 607b9972a2a5d73a5954b11dda3a4ccbf2134c83bff1a4bdc0c33525
+Patient Name 4554da1421cddba432edb5cedc119fd981ebe05de5fde3f425d6c350 78Y REF DR B.SRINIVASARAO
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 6542f5bc4202c6159eb7c9626db8fc6cc880fa3051051f43d07c5203
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

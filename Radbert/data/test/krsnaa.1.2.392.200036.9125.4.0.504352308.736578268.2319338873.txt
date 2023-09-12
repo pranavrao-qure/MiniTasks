@@ -1,0 +1,51 @@
+Patient ID c64b431f7ff60f3dc65c4688b2c3fb999cf3cf1036ac5529cae1b2a7
+Patient Name 1cc1a2b0031ce96d89424df9f52ce471bcb4d03c386b2f26a5d7acba 13 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bedd05a70cdf74850af1286055214ab29c0288fec48f2c6abbd03cfb
+
+
+
+
+
+X-RAY RIGHT  SHOULDER AP VIEW  
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY ELBOW AP VIEW
+
+No evidence of fracture.
+ 
+Visualized bones appear normal.
+ 
+The elbow joint shows normal appearance.
+ 
+The articular margins are smooth and intact 
+ 
+Periarticular soft tissues appear normal.
+
+IMPRESSION:
+ 
+NO EVIDENCE OF FRACTURE.
+

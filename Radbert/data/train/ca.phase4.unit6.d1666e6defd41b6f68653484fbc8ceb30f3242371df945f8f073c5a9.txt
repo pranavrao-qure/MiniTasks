@@ -1,0 +1,34 @@
+LUNGS: Emphysematous changes in both lungs.
+TRACHEA: Normal.
+PLEURA: Normal.
+
+HEART: Normal.
+PULMONARY HILA: Normal.
+AORTA: Unfolded.
+
+THORACIC SPINE: Degenerative changes.
+OTHER VISUALIZED BONES: Normal.
+VISUALIZED SOFT TISSUES: Normal.
+
+DIAPHRAGM: Normal.
+
+VISUALIZED ABDOMEN: Normal.
+VISUALIZED NECK: Normal.
+
+Report Impression: 
+LUNGS: Emphysematous changes in both lungs.
+TRACHEA: Normal.
+PLEURA: Normal.
+
+HEART: Normal.
+PULMONARY HILA: Normal.
+AORTA: Unfolded.
+
+THORACIC SPINE: Degenerative changes.
+OTHER VISUALIZED BONES: Normal.
+VISUALIZED SOFT TISSUES: Normal.
+
+DIAPHRAGM: Normal.
+
+VISUALIZED ABDOMEN: Normal.
+VISUALIZED NECK: Normal.

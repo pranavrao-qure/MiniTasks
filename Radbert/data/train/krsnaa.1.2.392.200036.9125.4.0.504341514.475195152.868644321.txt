@@ -1,0 +1,30 @@
+Patient ID f686a11b0834956fec78981c5cac7e0d1a0664f78e6817b2f02b2253
+Patient Name a5990f95176200e1fcd75e0cd88a8b1aa59d7db7021aba149575c4c5 42YER
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 28352c64aa3ef779929f0951368c5efdf78f0fb6c2ab9e4367ab5ae4
+
+
+
+
+
+X-RAY CHEST
+
+
+Patchy infiltration with consolidation noted at bilateral lung fields likely due to infective etiology like koch's.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Blunting of right  cardio-phrenic angle is seen suggest pleural effusion.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Patchy infiltration with consolidation noted at bilateral lung fields likely due to infective etiology like koch's.
+
+

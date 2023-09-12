@@ -1,0 +1,27 @@
+Patient ID b4fa589e1dbe074925e487e9b84719405b12db32373d96243030eca0
+Patient Name a4abda4c60b6ecfdce5058bdf1eee6fc905bc0c01244d25655f1d3f3 24 YRS ,CXR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 709944fb88fbe251907776bbc0075ccdea74ddbe6bb2614213a2a07f
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                     
+ R est of lung fields are normal
+   
+Trachea is in midline.
+   
+Cardiac silhouette maintained.         
+   
+Both CP angles are clear.
+   
+For clinical correlation.  ​​​​​​​
+
+

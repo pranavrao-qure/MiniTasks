@@ -1,0 +1,27 @@
+Patient ID 74966ec679cae2ebecb563f38ad1288d612fd25ae04d1aefeb0cc9d0
+Patient Name 1499701aab3735989548dd26f2404a6f6d8e0ce29ab8538c6f2a4643 12 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1a742348c3f86b026556de96a9bc611e45d523b3fca6507f3dc58b9d
+
+
+
+
+
+  X - RAY CHEST 
+ 
+Patchy consolidation noted at right mid lung zone - Infective
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy consolidation noted at right mid lung zone - Infective
+For clinical correlation. 

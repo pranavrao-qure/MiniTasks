@@ -1,0 +1,30 @@
+
+Patient ID 47dea53768239dbceaeda204bcdfd9b07d6369b57931ca5e6a4c1691
+Patient ID 289286cfc106cc26c689bb2c11ed05c53817e0ebad648974aa1b7846
+Patient Name fae0a5c51c30e8d461b28fc4270610b05bb685e06f77542e650c9e53 30Y REF DR TAJAKUMAR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date b893cc4d886a99513939722bc809e9d5251441ff98d80d431ae2b7c1
+
+
+
+
+
+
+                                                           X - RAY CHEST AP VIEW
+
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

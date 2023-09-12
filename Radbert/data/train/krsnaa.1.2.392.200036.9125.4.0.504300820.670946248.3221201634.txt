@@ -1,0 +1,23 @@
+Patient ID 7396fee859d3a936518dc740c7e06797669723aec9be3f612bee3b5a
+Patient Name 3ce86ef99a23eac79b294715d21f504cd1422b09699512d8e522e7c3 42Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date a16f552b5ba23156397154ab2f4a0e880eda23fb06bc62e247c55b66
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+ 
+Fine reticular opacities with nodular infiltrate noted in bilateral lung fields Suggestive of infective etiology? Viral. Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION: 
+Above x-ray film findings suggestive of infective etiology? Viral.
+ADVICE-Complete Blood Count.
+

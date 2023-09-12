@@ -1,0 +1,27 @@
+Patient ID f0ef9fd1dc82cf9bc36714a1c9e995afc312a77dd3edb75ea3be7bbe
+Patient Name f679886b06efd19621a47960f1d49b8635461530c0129200b5913ec3 60Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 28352c64aa3ef779929f0951368c5efdf78f0fb6c2ab9e4367ab5ae4
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+​​​​​​​
+Prominent bilateral hilar shadows noted.
+   Aortic knuckle calcification
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Prominent bilateral hilar shadows noted.
+For clinical correlation. 

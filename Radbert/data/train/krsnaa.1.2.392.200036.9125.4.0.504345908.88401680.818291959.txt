@@ -1,0 +1,28 @@
+Patient ID ab7d4eef1a81bee88301976f6d6cef4ce47aa8877dbb803d8cddb6cc
+Patient Name 78d53fb0113697d8d0c10d0bb45f807aef7ae2d976c9c945e849d075 60y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bedd05a70cdf74850af1286055214ab29c0288fec48f2c6abbd03cfb
+
+
+
+
+
+X-RAY CHEST 
+
+Straightening of left heart border seen.
+The lungs on the either side show equal translucency. 
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  :  Straightening of left heart border seen.
+
+Suggested 2D ECHO.

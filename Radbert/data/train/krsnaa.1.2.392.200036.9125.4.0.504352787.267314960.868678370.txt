@@ -1,0 +1,30 @@
+Patient ID f670c72f7962d270ee7aa52871caf7ca9079eabdef697f7463548c6e
+Patient Name 7058a0c73abf009ff2d711b61d7e526309b4e95cda3bc5e529883965 65 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date a16f552b5ba23156397154ab2f4a0e880eda23fb06bc62e247c55b66
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Few liner infiltrates and fibrotic opacities in bilateral mid and left lower zones S/O infective etiology. 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+For clinical correlation. 
+
+ 
+ 
+Date: 25-Feb-2020 11:20:51

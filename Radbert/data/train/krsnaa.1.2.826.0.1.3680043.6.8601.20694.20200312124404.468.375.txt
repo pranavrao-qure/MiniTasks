@@ -1,0 +1,52 @@
+Patient ID 8ac38b660ace390041c120cafad9b49b3414d4857eb7c80083153326
+Patient Name b0a5194a028c68593de5c4c8cb3f273ad143d51cc28be0ee88376020 32Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ab6fbd955b84e999da2ab43d2a240319699679b5eb589efcf72d5d6e
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+Prominent right hilar shadows noted.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Prominent right hilar shadows noted.
+For clinical correlation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLAIN XRAY ABDOMEN (A.P.VIEW)
+   
+Distended bowel loops noted.
+No radio opaque calculus is seen in the hepatobiliary, panreatic or renal areas.
+The renal shadows are well defined.
+The renal margins are smooth.
+The psoas shadows are well seen.
+No abnormal soft tissue shadows calcification is noted.
+The sacroiliac joints show no abnormality.
+Advice clinical correlation.

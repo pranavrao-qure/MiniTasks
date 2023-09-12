@@ -1,0 +1,29 @@
+
+Patient ID 0bfb0dd482ebaec534147c8415de8b4a1d629a3a0f16dcfecba6d391
+Patient ID 6f776a751b67aa2b51f62a1dd6d5154a7fe527580ed63366e6fadb76
+Patient Name 491666db7301c5b5ee9538925023ca91d9b84c58e70c78dbacf66e29 55/F
+Age :
+Sex :O
+Accession Number e292dcd48f13529a92968dd94184e690b5c71cfeceaa19c59d72d8e0
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 74d7d88dae8f0fb1fe0f6290b6dbdd77577561ebf34dbca89e5433ff
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis at left mid & both lower zones  - Infection.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained with unfolding of aorta.         
+Both CP angles are clear.
+
+For clinical correlation. 

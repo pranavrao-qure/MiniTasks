@@ -1,0 +1,69 @@
+Patient ID 721b92b5e5030e9ce9e88e58ee6fd1edb9c97a0643e093a2e736f614
+Patient Name 92a2eec8e6e4a562298ffa66d049c9b9437cb5e87c378ce9dbaf0e71
+Age :38 Years
+Sex :M
+Accession Number b1791d0bfc852eb1dbf52d05b39f75cecc730ef15658d6eef27b6175
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST N LT SHOULDER AP,RT HAND AP/OBL.
+Study Date f030ffdc90c4c5c653e297ba576cff9fc70839270c498b4213b9d0de
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+Fracture noted at mid shaft of clavicle on left side . 
+CROWDING OF RIBS NOTED 
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION;
+Fracture noted at mid shaft of clavicle on left side . 
+
+
+
+
+
+
+
+
+
+
+X-RAY  left SHOULDER AP VIEW  
+  
+ 
+FINDINGS :    
+ 
+ 
+Fracture noted at mid shaft of clavicle with surrounding soft tissue swelling.
+ 
+  Rest of bones appear grossly normal.   
+ 
+   IMPRESSION:
+
+Fracture noted at mid shaft of clavicle with surrounding soft tissue swelling.
+Suggest clinical correlation and follow up.
+
+
+
+
+
+
+
+
+
+
+X-RAY HAND AP & OBLIQUE VIEW    
+FINDINGS :       The alignment of the wrist  appears normal   Bones appear grossly normal   Joint spaces and small joints are normal   Soft tissues appear normal 
+  IMPRESSION : 
+ NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+

@@ -1,0 +1,52 @@
+Patient ID ebb287e202815fe60a6780011d1f17ad937473b1aabe434c10fd063a
+Patient Name 08b708aa0ffee371a828bae5be953676daa417b626df3e6bb133eade
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6226f29349fbaf08b9de824880e55de9b989d9b4a024755ae33a6584
+
+
+
+
+
+                                                      X - RAY CHEST  
+ 
+     
+Fracture noted at 6th 7th & 8th right posterior rib.
+ 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+X - RAY FORE ARM AP AND LATERAL VIEWS
+ 
+ 
+Fracture noted at midshaft of ulna with surrounding soft tissue swelling.
+ 
+Rest of visualized bones appear normal.
+
+
+
+ 
+For clinical correlation.

@@ -1,0 +1,27 @@
+
+Patient ID e724f576f1052dcedad0b41b1615948beffb6403fa1f2bbdb84a7dd7
+Patient ID 6d111f7ff8ae117425825e2cbd2716e06d3b7445d99c2371f27ef948
+Patient Name eaa4d5bbfaf2a23ce3d622db4ce04e6a2faa1ea7bf8142e349a68af2 60Y REF DR D.V.SRINIVAS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c428480a685c3edeb31823378edae752367aebf7024c7ca1858c4a71
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

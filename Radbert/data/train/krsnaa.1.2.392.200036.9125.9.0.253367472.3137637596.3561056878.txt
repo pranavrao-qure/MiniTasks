@@ -1,0 +1,29 @@
+
+Patient ID 2db91dbbcc82b90e4269b3b3913eee5fac74b325f524050427af2d43
+Patient ID ff657756ca23384ec56c472849f226a7a84088f127efd28f0e3c9847
+Patient Name ac8e2fd3c3dc7b6c9e3350dd0f285d8c39d13677beb439cfc2ed2d56 60 y ref dr adinagesh
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 96cd32300bfa2ba89398b7cba2b879dd132e23ef359f988234115cb1
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

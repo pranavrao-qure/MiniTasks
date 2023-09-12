@@ -1,0 +1,45 @@
+
+Patient ID b66f1e87d7b605de137cc77b5fa77847d38891887787099978459350
+Patient ID 0c605a0b006d1cdfd33cac97b1ef0d58577c278315110cd99f696652
+Patient Name b81c3c2dc95d84dcf88b2651701a680ab1ccb66f4e81c5404e8c63c7 25 Y REF DR ADINAGESH
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 8faf05c054ae392e798d7ef116d6fa26e7716d96ead9ac16708f6d94
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+
+
+Disclaimerâ€”Report
+is done by teleradiology after the images acquired by PACS(picture archiving
+and communication system) and This report is not meant for medicolegal purpose.
+
+
+
+Thanks for reference, 
+
+
+ 
+
+ Investigations have their limitations. Solitary
+pathological/Radiological and other investigations never confirm the final
+diagnosis. Conclusion is markedly affected by input provided at that time .They
+only help in diagnosing the disease in correlation to clinical symptoms and
+other related tests. Please interpret accordingly

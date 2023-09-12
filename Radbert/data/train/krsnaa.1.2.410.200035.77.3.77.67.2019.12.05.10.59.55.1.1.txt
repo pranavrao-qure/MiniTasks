@@ -1,0 +1,30 @@
+Patient ID 2a3be7c275c0680caf0c7b83d06436cf7fe9aa04df497464df0cfc71
+Patient Name ef839dbd2ab9bbf74d5e9b8a9305a986a3fd0fbbf7d9fde3ab575c91
+Age :70 Years
+Sex :M
+Accession Number 8c0e179bfa6fd9f1ee414b1c01d61e9ffe858b898623e1ad48108081
+Modality :CR
+Referring Physician ee8c7d67eca07243aaceeed42cd5b101e8dbe0cdddf36f2f14ac6c3c
+Study :CHEST PA
+Study Date 79a6759ad5dc32b445e0de30ba9b6f5a07eb572bd57c5b2f25130eb0
+
+
+
+
+
+X-RAY CHEST PA  VIEW 
+
+
+Increas bronchovascular markings noted.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Blunting  right cp  angle  s/o pleural effussion noted.
+Left cp angle appers normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is enlarge -  cardiomegaly 
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  : Blunting  right cp  angle  s/o pleural effussion noted.
+The cardiac size is enlarge -  cardiomegaly 
+ADV : 2D echo
+

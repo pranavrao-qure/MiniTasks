@@ -1,0 +1,29 @@
+
+Patient ID 5714508627a7a6dbdc6b399d72f6bd5743f7bc56850eb22db4cb510d
+Patient ID d9b4fae59e630d1135cc6e1f232d36a85bf8c9addee012a126c87d4c
+Patient Name 26777219f152e59236b56325053c5a6103185d12816f79951790e982 50Y REF DR RAGHURAM
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 562537a0d7075e9cc9c7cc6df6c98460c6c695a75c94b74cd33de852
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

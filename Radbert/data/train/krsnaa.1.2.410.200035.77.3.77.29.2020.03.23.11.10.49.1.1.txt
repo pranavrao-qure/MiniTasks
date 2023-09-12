@@ -1,0 +1,30 @@
+Patient ID 475c5238fb46239a03eb653d7830ed06a8d36e40b734c18c07070cd9
+Patient Name aec082cfa1275a1b8d9d64d44067079f4f4eda1ca5afac703dd6ac92
+Age :64 Years
+Sex :M
+Accession Number 9186645b42aaf549ce89c770ca58b356d19242855bc7150045e71cca
+Modality :CR
+Referring Physician b165187cf0d87f112191e32dc63db564c68e0d9c58582b556a7069dd
+Study :CHEST PA
+Study Date 24a6be163119fcf0d95cdb2cac8f29ef1b5d08841f79c58d0c75450d
+
+
+
+
+
+                                                          X - RAY CHEST  VIEW
+ 
+ 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Trachea is in midline.
+ 
+The cardiac size is enlarge -  cardiomegaly .
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+
+

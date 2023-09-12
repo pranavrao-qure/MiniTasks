@@ -1,0 +1,28 @@
+Patient ID 1461acfae159a457dd759d92e97fc1d376314e5b61f151849dcb51c2
+Patient Name 5a4f0ad2288db1368adb18fdabe6c89cf643da36f17c0ec8d8eb869e 66 Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date b8e3d3391e44375d5ed058a7b33a5bcabecfd1fd32d010f93116b101
+
+
+
+
+
+                                                             X - RAY    L S  SPINE   .  : -
+
+
+OSTEOPHYTE FORMATION SEEN IN LUMBER VERTEBRAE.
+
+REDUCED DISC SPACES BETWEEN L5-S1   VERTEBRAE.
+
+REST OF THE I.V DISC SPACES ARE NORMAL. 
+
+BONES SHOW NORMAL MINERALIZATION
+ 
+PRE VERTEBRAL SOFT TISSUE SHADOW APPEARS UNREMARKABLE.
+
+

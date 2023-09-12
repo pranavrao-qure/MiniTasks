@@ -1,0 +1,28 @@
+
+Patient ID cbf9eb806950a33e7d5921b7404306cfb7983fe598363a8a9341e5f5
+Patient ID 5e747ad60ea7ef71d6e1c5f960a9410c44c9c5d09768aaa6fc41d00b
+Patient Name 648024e600bf776cb28170388eabb944896fcce8bd59d88f2d32e44b 25Y DIALYSIS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 89102261e847a54674079163d9519a543715684afc19bb56a1621bd2
+
+
+
+
+
+
+Mild haziness noted in right lower zone - -? Infective.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

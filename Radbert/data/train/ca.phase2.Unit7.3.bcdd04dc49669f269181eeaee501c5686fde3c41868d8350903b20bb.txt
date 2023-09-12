@@ -1,0 +1,19 @@
+X-ray Chest Supine AP view (F No-335):
+
+LUNGS: Normal. Apical regions of both lungs is obscured.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Cardiomegaly. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Right hemidiaphragm is elevated. 
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Cardiomegaly.
+
+Adv: Clinical correlation.

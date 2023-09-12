@@ -1,0 +1,23 @@
+
+Patient ID 9d9f7cf5a638cfc9bb928aadf71273a4349d42eb2fa6668dc6ed39a1
+Patient ID a1a566d9c7dd406b5341cc78d1557334b0d1f655aa8745f939e7a126
+Patient Name cf9c3e15194901dd844cac71f78aac28841a3cf53b52ed6adc3a9fa0 72
+Age :
+Sex :M
+Accession Number fc9e75ebf8393085e52a668ea0ba88f1539fec65982011fd037504c1
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 754c041d4ffd7294d85e2afdd5b46ae43c32ff14b927cbf6ebbfb79d
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Old fracture right clavicle.
+     Suggested clinical correlation and follow up.
+ 

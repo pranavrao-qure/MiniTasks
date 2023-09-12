@@ -1,0 +1,27 @@
+X-ray Chest PA view:
+
+LUNGS: 
+Bilateral mildly hyperinflated lung fields.
+Inhomogenous opacity right lowerzne.
+There is diffuse peribronchial thickening on the left.
+ TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Bilateral hyperinflated lungs with fibrosis and bronchiextasis right lower zone..

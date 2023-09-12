@@ -1,0 +1,35 @@
+LUNGS: Congestion of both lungs.
+TRACHEA: Normal.
+PLEURA: Normal.
+
+HEART: Cardiomegaly.
+PULMONARY HILA: Normal.
+AORTA: Unfolding of aorta.
+
+THORACIC SPINE: Degenerative changes noted.
+OTHER VISUALIZED BONES: Old malunited fracture of right clavicle.
+VISUALIZED SOFT TISSUES: Normal.
+
+DIAPHRAGM: Normal.
+
+VISUALIZED ABDOMEN: Normal.
+VISUALIZED NECK: Normal.
+ 
+Report Impression: 
+LUNGS: Congestion of both lungs.
+TRACHEA: Normal.
+PLEURA: Normal.
+
+HEART: Cardiomegaly.
+PULMONARY HILA: Normal.
+AORTA: Unfolding of aorta.
+
+THORACIC SPINE: Degenerative changes noted.
+OTHER VISUALIZED BONES: Old malunited fracture of right clavicle.
+VISUALIZED SOFT TISSUES: Normal.
+
+DIAPHRAGM: Normal.
+
+VISUALIZED ABDOMEN: Normal.
+VISUALIZED NECK: Normal.
+ 

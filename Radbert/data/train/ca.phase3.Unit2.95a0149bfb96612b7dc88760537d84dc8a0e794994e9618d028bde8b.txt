@@ -1,0 +1,28 @@
+X-ray Chest PA view:
+
+LUNGS: Atelectasis noted in the right lower zone
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Elevated right dome of diaphragm with blunting of rioght costophrenic angle. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Elevated right dome of diaphragm with blunting of right costophrenic angle - Infradiaphragmatic collection / subpulmonic collection. 
+Atelectasis in the right lower zone
+
+
+Suggested USG correlation

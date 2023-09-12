@@ -1,0 +1,12 @@
+X-ray Chest Apico-lordotic view:
+
+LUNG APICES: Normal. 
+VISUALIZED TRACHEA: Normal. 
+SUPERIOR MEDIASTINUM: Normal. 
+APICAL PLEURA: Normal. 
+LOWER CERVICAL SPINE AND NECK: Normal. 
+CLAVICLES: Normal. 
+UPPER RIBS: Normal. 
+VISUALIZED SPINE: Normal.
+Report Impression: 
+Normal X-ray of the chest apico-lordotic view.

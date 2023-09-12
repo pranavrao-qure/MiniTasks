@@ -1,0 +1,22 @@
+X-ray Chest PA view:(F No 1126)
+
+LUNGS: Bilateral perihilar consolidations with internal air bronchograms noted.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Bilateral minimal effusions, more on the left side.
+HEART: Mild cardiomegaly.
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Aortic knuckle calcification.
+VISUALIZED BONES: Degenerative changes.
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal. 
+Report Impression: 
+To rule out congestive cardiac failure.
+
+Advice : Clinical correlation.

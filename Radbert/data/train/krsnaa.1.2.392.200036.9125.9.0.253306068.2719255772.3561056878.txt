@@ -1,0 +1,43 @@
+
+Patient ID 3b7d5ed2282f8975f629b478813c444298636f2854161ba667cb3cb2
+Patient ID dedb37df8ccee79efe48ecf1a4ea64d4203b4b7e9b21bd5f390dab78
+Patient Name b7cee46754f0fe349eaef9c709197b361a1fb0c93316dd5150d3efbf 30 Y REF DR ADI
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date b9ce3b0c5ddd613bdbf99a088220b464623f32374f0c028c7d327ee6
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+  
+ FINDINGS :     
+  
+Mildly prominent bronchovascular markings noted in both lung fields. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal. 
+   
+ IMPRESSION :   MILDLY
+PROMINENT BRONCHOVASCULAR MARKINGS BILATERALLY, S/O NON-SPECIFIC BRONCHITIS.
+
+Suggest clinical correlation and follow up 
+ 
+ 

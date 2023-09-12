@@ -1,0 +1,38 @@
+
+Patient ID 713293c98ab6af5f7b75e11df7e2e97c0c1cbc5de4f7f38b1ec575c7
+Patient ID 205cec8f7dccf648d78302d19b96e162ca149e026ef62a89472fa5b1
+Patient Name f8bc6df2db28cf0672e1aee2ff334004698f96dbd6dd7ec9c6ea1b69 75/M
+Age :
+Sex :M
+Accession Number 175347b687e1ab34532914529c5ab30b6f92bced5277a1e6735b60db
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 24a812b073eff0b673b9b0f552548a7cf0923625ee600feebddf535d
+
+
+
+
+
+
+
+X-RAY  CHEST AP VIEW
+FINDINGS  :       Lung fields are clear.   Both hila appear  normal.   Mediastinum is normal.   Cardiac size is  normal.   Both domes of diaphragm are normal.   CP angles are  clear.   Fracture noted at right 9th lateral posterior rib.          Suggested clinical correlation and follow up. 
+
+X-RAY LEFT ELBOW AP & LATERAL VIEW
+ 
+ 
+
+ FINDINGS :   
+  
+
+Displsced fracture noted at supracondylar region of distal humerus with surrounding soft tissue swelling.
+
+ 
+Rest of bones appear grossly normal
+ 
+
+ 
+  Suggest clinical correlation and follow up
+
+

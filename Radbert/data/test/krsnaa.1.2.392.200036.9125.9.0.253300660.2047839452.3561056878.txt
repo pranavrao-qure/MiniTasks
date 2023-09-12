@@ -1,0 +1,32 @@
+
+Patient ID b81b41729f5c138b0ea4f6062cd6f466c87486d0b8f7a3f4f659f4b1
+Patient ID 27d08bb877af99d17d8d6b502b659b812ac85d39a32ea6916345384c
+Patient Name e9da9cc22ec68107260eb9aedb451fdf93320ba822b1880203001e9f 16 Y REF DR ADI
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 9e0bdd1c930b9a2142e2c77477ac239533bd31ae18d57579e039f7a0
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+Bony cage and soft tissues appear normal
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

@@ -1,0 +1,33 @@
+Patient ID 93dc5677a79ab5890909cbdcc1f46d3c558f6331e3b502db152ae6a9
+Patient Name 75d82de1e1b6e957b94ab40a4800eb267aa4e16a2da256b220954f4b
+Age :23 Years
+Sex :F
+Accession Number 192d2b9f02788d74af57ae0a3502de23cefa5f68a3a71f5937a436bf
+Modality :CR
+Referring Physician 53eea7f45b9beff3b0646dbc6e2ee36f520ba483acbd67f328caf9ef
+Study :chest pa
+Study Date c4dc64b6d499b01b845d4050040d4441baac0f51146e5b7a5dc44531
+
+
+
+
+
+    X - RAY CHEST PA VIEW
+Mild haziness noted in bilateral lower zones due to breast shadows.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+
+Mild haziness noted in bilateral lower zones due to breast shadows.
+For clinical correlation.
+
+ 
+ 
+Date: 24-Jan-2020 12:27:04

@@ -1,0 +1,37 @@
+
+Patient ID ed9f109d5c6ccb93b370ba811bc62cb32bbcb9b50b3571c392691924
+Patient ID 0a39ed741e5d7159db233743be417e98f416e49f1d696a713feb7340
+Patient Name f882c8c0c1aaa6fc04645059878cac9550fedbd3fcb0e146fe0475f5 50yrs ARTOP RVD1
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 0c2a8663e25557cd6eb6b088d0757dc5006d6c24d96e358bf5394859
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :     
+  
+Lung fields are clear. 
+  
+Both hila appear normal. 
+  
+Cardiac size is enlarged 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ IMPRESSION :  Cardiomegaly. 
+ 
+     Suggested
+clinical correlation and follow up .

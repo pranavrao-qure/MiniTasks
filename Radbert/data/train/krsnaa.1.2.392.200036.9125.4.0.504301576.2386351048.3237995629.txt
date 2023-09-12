@@ -1,0 +1,36 @@
+Patient ID 0e9646637ce37825652011ea5bc3f6da34f64ee9234497e87fd2a3dd
+Patient Name ff7193edc34bf32bc6e0d8ad5e2d91a8a06d350d4e4a90ceab0e31c0
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 0f66515d1b762a966cffc323b821cb75966ef8ce91eb9bade9f93adc
+
+
+
+
+
+X-RAY CHEST 
+Mild haziness noted in left lower  lung zone - -? Infective
+Small nodular opacities noted in bilateral perihilar region
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Mild haziness noted in left lower  lung zone - -? Infective
+Small nodular opacities noted in bilateral perihilar region .
+Suggested clinical correlation.
+
+
+
+
+
+

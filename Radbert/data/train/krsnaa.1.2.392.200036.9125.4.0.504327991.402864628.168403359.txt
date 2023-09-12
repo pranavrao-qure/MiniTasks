@@ -1,0 +1,28 @@
+Patient ID b150a799e967cbb2884f834dd5dfc21bd97bd30841803754d8c4ae79
+Patient Name e7ef67ddf9c1a764ac4b5de7b9a1ac0bc749f5515a62d4ef494713c2 70Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fe507ab5d3c19fc3e94c19a020302399028951eba6e1e229a261e8de
+
+
+
+
+
+X-RAY CHEST PA  
+ 
+Both lung fields appear clear.. ​​​​​​​
+
+Trachea and mediastinal soft tissue shadow appear unremarkable.
+
+Both C.P. angles and both domes of diaphragm appear unremarkable.
+
+Bony thorax under vision appears unremarkable.
+
+IMPRESSION:
+Enlargement of left pulmonary artery
+
+

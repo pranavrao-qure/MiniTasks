@@ -1,0 +1,33 @@
+
+Patient ID 76dbc8f60caa6c786c6126e5db7f687514ac5a05ee13c285ec2ba1cd
+Patient ID 2d0402b2c6ea4242d50e852cd23f5e8e0a17f25a10bae63d07fdfd0c
+Patient Name a9aa3988a33f09f22c4d53491e74f5ba971e15baea32368e65378653 55Y REF DR B.SRINIVASARAO
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 858646ca11dfef57e0f0b64d0b86d706daa3fd528ae55910fd826b2d
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Old healed fracture noted at mid shaft of right clavicle.
+
+prominent bronchovascular markings noted. 
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation. 

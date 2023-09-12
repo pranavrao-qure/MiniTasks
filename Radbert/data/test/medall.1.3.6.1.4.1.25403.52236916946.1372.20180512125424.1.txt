@@ -1,0 +1,59 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+
+	Patient Name	Mr.K.Adaiah	
+	Age/Sex	48Y/M	Date :	12/05/2018 	
+	Ref&..Doctor	Dr.G.Ram Mohan Rao.MBBS.DTCD., 	
+	
+
+RADIOGRAPH OF CHEST P.A & RIGHT LAT VIEW 
+
+        
+
+        
+        
+        
+
+        
+        
+        
+-- Heart size Normal, Unfolding of aorta.
+
+        
+        
+        
+-- Trachea in the midline, No Mediastinal shift.
+
+        
+        
+        
+-- Both Hila size, Shape and Density normal.
+
+        
+        
+        
+-- Fibrotic lesion noted in right upper lobe.
+
+        
+-- Both anterior and posterior C.P angles clear.
+
+        
+-- Bony caze and soft tissue planes normal.
+
+
+
+
+
+        
+IMPRESSION :  RIGHT UPPER LOBE FIBROTIC LESION.
+
+        
+
+Advise : Clinical correlation and Sputum for AFB please. 
+
+
+
+

@@ -1,0 +1,33 @@
+Patient ID 88bb51ce646854e6fa2f88c4b63de213023ee9a4df76b046ea860416
+Patient Name 8ed06153dab914da3a215bd9ce81611ae53398b2b238ddd309f0028b 12Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 5c64270bce7c6ee3524075b9d738bd7b54533b090162220650e0379d
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                     
+ 
+ 
+Bilateral prominent hila with prominent bronchovascular  markings in bilateral lung fields - ? infective 
+ subtle elevation left dome of  diaphragm
+ prominent gas filled  left colonic bowel 
+Rest of lung fields are normal
+ 
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+For clinical correlation.and follow up 
+
+ 
+ 
+Date: 09-Feb-2020 13:08:49

@@ -1,0 +1,26 @@
+Patient ID 45616fc72a35902d9b7da903f934232f25cce2c40ed6c1b29c22ec9f
+Patient Name 1fab5b4fa3644d32c269f7bdfdead3fa82f38454a36967a38bfa4679
+Age :36 Years
+Sex :F
+Accession Number ca411e0b3e1f799c8e3c8f7bd7141f6fd0a460efcc9476c4eec4d05d
+Modality :CR
+Referring Physician 9fac3c94c4ad2e6de04df988f7adcfab185b1cade085717a2ccd5e5c
+Study :CHEST AP
+Study Date ab80bec866b3e61114e037f72e1c716a0a205561d91182466dd647a6
+
+
+
+
+
+                                            X - RAY CHEST
+Prominent bilateral hilar shadows noted.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Prominent bilateral hilar shadows noted.
+For clinical correlation. 

@@ -1,0 +1,48 @@
+Patient ID 5060852ebb4d4cda7f14911c1299fa3db765fc864089e0632ac301d3
+Patient Name f1259a1a18ae87fbbbdde42ae8c6c95007909f1630fa8bf091e8b11f 35YRS/M
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date b8e3d3391e44375d5ed058a7b33a5bcabecfd1fd32d010f93116b101
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY RIGHT HAND AP & OBLIQUE VIEW    
+FINDINGS :       The alignment of the wrist  appears normal    Fracture noted at 5th metacarpal bone
+Fracture noted at distal end of radius.    Joint spaces and small joints are normal   Rest of the bones appears normal.   
+      Suggest clinical correlation and follow up
+
+

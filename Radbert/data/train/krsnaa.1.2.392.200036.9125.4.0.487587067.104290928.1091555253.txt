@@ -1,0 +1,32 @@
+Patient ID bb72b00c9d29aac45e1925d301bf6d913e99b212edb4a7ca5696d466
+Patient Name f5867c50744371964ff81922d19b0861e2e47f9f2735197798a46f66 55Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date 6e51a1fee4c56ddfa75155b4d40035a0b3b3d7a2434023d86944fd52
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ 
+Homogenous opacity noted at right mid and lower zones with blunting of CP angle - Moderate pleural effusion.
+Patchy consolidation noted at left lower zone - Infective
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+ 
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+
+ 
+ 
+Date: 06-Feb-2020 10:49:24

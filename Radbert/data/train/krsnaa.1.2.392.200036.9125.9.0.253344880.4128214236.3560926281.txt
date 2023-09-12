@@ -1,0 +1,31 @@
+
+Patient ID 9031dd2869d159f6a8e1dd80611b392f32b0a9c8f05982b0c9754006
+Patient ID 994312113302cfa29457dd52171520385ec11618b9f859c183b0a79b
+Patient Name 6b070f09cf7fbbff6b8c6cf9fe0ad5db0ff947a5c88d356b08ad176c 45Y REF DR TAJ KUMAR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date b2f4b5e6d481852d5cf5112a762eb8792066a1c003e7441a7bfcc910
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy inhomogenous opacities noted in both upper zones - Infective etiology
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

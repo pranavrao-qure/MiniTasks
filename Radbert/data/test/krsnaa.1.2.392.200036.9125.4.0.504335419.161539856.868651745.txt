@@ -1,0 +1,19 @@
+Patient ID 6ea19ebf4e89f263a04609b0a48fd448e967e7923968d6b63b747f78
+Patient Name a1a5ba1b73697cfacab53e088cd78a711bd678146c331396620254fe 48Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 24a6be163119fcf0d95cdb2cac8f29ef1b5d08841f79c58d0c75450d
+
+
+
+
+
+X-RAY CHEST PA VIEW
+ 
+  FINDINGS :       Mildly prominent bronchovascular markings noted in both lung fields.   Prominent bilateral hilar noted.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.   IMPRESSION :  MILDLY PROMINENT BRONCHOVASCULAR MARKINGS BILATERALLY
+Suggest clinical correlation and follow up
+

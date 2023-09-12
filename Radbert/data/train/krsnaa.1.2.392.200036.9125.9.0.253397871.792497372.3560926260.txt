@@ -1,0 +1,31 @@
+
+Patient ID eaa9114184461c706680cb89b2a68bb46aa644bc00ee8d7b539902b7
+Patient ID ac6a1472f3a0ea9d1223516ed29fae656eee31b3a9ea88c9ca54c5d1
+Patient Name 905e11cd210d00cf00f8e89d90ea20a237013fdb2ab695d377e78405 52Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 87e49dadb30fa5183f31c0db83009fd764f896ba615be3b5366a0482
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis at both lower zones - Infection.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+
+
+For clinical correlation. 

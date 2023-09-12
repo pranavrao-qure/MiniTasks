@@ -1,0 +1,25 @@
+
+Patient ID 9927ae400e9db4f6ad6dc034a664dbb72239c574a2b43559bc9ae0a2
+Patient ID 31e372e4b839418b5f3fdd771331c7c465e7ac1c77f95843d54fd190
+Patient Name ddbb9c710c8b7355798742a9ea80677c85183d796f2ff9595a7a80ce 11Y REF DR RAVINDRA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 3075429c7adcf003e6c2cf952624183988236555e319b7ce25b824ce
+
+
+
+
+
+
+X-RAY 
+CHEST AP VIEW
+FINDINGS 
+:       Lung fields are clear.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.    IMPRESSION :  NO OBVIOUS ABNORMALITY.     
+Suggested clinical correlation and follow up.

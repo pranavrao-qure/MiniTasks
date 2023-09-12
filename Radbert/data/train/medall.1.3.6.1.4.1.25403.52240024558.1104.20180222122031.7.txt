@@ -1,0 +1,33 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 7 fonts total
+
+-----------------
+ DIGITAL X-RAY CHEST PA VIEW 
+
+         
+The trachea is in midline.
+         
+The mediastinal and cardiac silhoutte are normal.
+         
+Cardiothoracic ratio is normal.
+         
+Cardiophrenic and costophrenic angles are normal.
+         
+Both hila are normal.
+         
+The lung fields are clear.
+         
+Bones of the thoracic cage are normal.
+         
+Soft tissues of the chest wall are normal.
+IMPRESSION:
+
+v       
+No Significant abnormality.
+
+ 
+ Dr.M.Deepa Alagappan,MBBS,DMRD,
+ CONSULTANT RADIOLOGIST.
+
+
+

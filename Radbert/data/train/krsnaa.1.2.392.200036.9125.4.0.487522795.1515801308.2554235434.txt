@@ -1,0 +1,32 @@
+Patient ID 957528755d70a78351325b8ec746b1d2023ba461e32ee12257bb259d
+Patient Name ceb3b594ee508d7dc0ba10d453979cc5492f4ff1dbfa6cc67258ab23 42YRS- CHEST
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST 2R
+Study Date c4dc64b6d499b01b845d4050040d4441baac0f51146e5b7a5dc44531
+
+
+
+
+
+X-RAY CHEST PA/OBL VIEW
+
+Fracture noted at 8th and 10th ribs on left side .
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Fracture noted at 8th and 10th ribs on left side .
+Suggested clinical correlation.
+
+
+

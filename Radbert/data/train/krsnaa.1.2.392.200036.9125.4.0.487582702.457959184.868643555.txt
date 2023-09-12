@@ -1,0 +1,31 @@
+Patient ID 33e0ffa95de1ea1004c8cc63e992bb0c2304b5ff603c188695b3a447
+Patient Name bf09de17ca27e002bb5401fa21e82150005fb3df629a92d6be70de2e 24year
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 575e108d079132b7db97cee4c374fff7b3a19baa12ba70e35ee0c6a2
+
+
+
+
+
+X-RAY CERVICAL SPINE AP VIEW
+
+ Alignment appears normal
+ IV disc spaces are normal
+ Spinous process appear normal.
+ Heights and densities of vertebral bodies are normal.
+ Pre and para vertebral soft tissues normal
+IMPRESSION :  NORMAL.  
+For clinical correlation. 
+X-RAY CERVICAL SPINE  LATERAL VIEW
+ Alignment appears normal
+ IV disc spaces are normal
+ Spinous process appear normal.
+ Heights and densities of vertebral bodies are normal.
+ Pre and para vertebral soft tissues normal
+IMPRESSION :  NORMAL.
+For clinical correlation.  ​​​​​​​

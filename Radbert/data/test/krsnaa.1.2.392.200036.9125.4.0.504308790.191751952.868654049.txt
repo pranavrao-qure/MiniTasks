@@ -1,0 +1,27 @@
+Patient ID f5e6a1c769f4ced6dae04196954d4c7c15900a3082462b13e7ca1a6a
+Patient Name 07a9c7e2bca03f1407778e6a40c9643a8cea7df61c76e4953b7df048 Shankar60 F Dr.Anil Kumar
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date b4ac1542be8b2d1d305b5dcc2718c71ead44939796b43544f25d9367
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ Patchy inhomogenous opacities noted in both upper and right mid zones - Infective etiology
+Trachea is in midline.
+
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Minimal right pleual effusion noted. 
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal
+For clinical correlation. 
+
+

@@ -1,0 +1,19 @@
+X-ray Chest PA view (F.no 370):
+
+LUNGS: Gross fibrotic scars, patchy consolidations, bronchiectatic changes, architectural distorsion as well as partial volume loss of left lung are noted with pleuro diaphragmatic adhesions. Few fibrotic scars are also noted in right upper zone. Compensatory hyperinflation of right lung is noted.
+TRACHEA: Deviated towards left side. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Degenerative changes. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Left dome is elevated. 
+VISUALIZED ABDOMEN:  Normal. 
+
+Report Impression: 
+To rule out old pulmonary koch's.
+
+Adv:Clinical correlation.

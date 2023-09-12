@@ -1,0 +1,28 @@
+Patient ID 5e8f2663a30bf9d3df94a779283caa6495a18985fc10d7adb5c303f0
+Patient Name 8f2d973d2ff37f547da75b1fcb1fea820f4875c893296253d4ed1956 80  YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c46bc56ca8e4c73e8faadd9ad168d28a6c2e12bd0198b388a12edb3b
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+
+Prominent bronchovascular markings noted at bilateral lung fields.
+Aortic knuckle calcification noted.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+
+

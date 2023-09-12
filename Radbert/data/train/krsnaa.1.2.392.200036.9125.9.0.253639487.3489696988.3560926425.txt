@@ -1,0 +1,29 @@
+
+Patient ID 6ae1a98ed4672c606db3e0cbdd3f9ce4436138132c787bd838e220ee
+Patient ID 99b8c966efdee2bfd7c13edc7dc416195e258c9ea168adf3575470f9
+Patient Name 923e84499446cb9e8ab6e1bb2f118340ebb544b9df74839ffa6426a8 20Y/M A.H.GUDIUR
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 24a6be163119fcf0d95cdb2cac8f29ef1b5d08841f79c58d0c75450d
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+ 
+

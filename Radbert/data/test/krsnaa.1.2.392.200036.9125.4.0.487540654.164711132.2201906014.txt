@@ -1,0 +1,51 @@
+Patient ID 67ba8d46963bb39f14125844b5a69851709a6154db497df0b19f1aa2
+Patient Name 615f8ebc1dc15019e2311a516d9ec859d62a6522a61d10bcb3e3293e 46  YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 9ce3f866dcfd9d5757259143a19ad91c22e303702a53ec837389bfe4
+
+
+
+
+
+CHEST X RAY (PA VIEW)
+CLINICAL HISTORY  – Clinical Details not available 
+OBSERVATION:
+Bilateral bronchovascular markings are prominent.  
+Bilateral  hazy radio opaque shadow – consolidation pneumonitis.   
+Both lung fields appear clear.
+Both costo-phrenic angles appear clear.
+Cardiothoracic ratio is normal. 
+Both domes of diaphragm appear normal.
+Thoracic soft tissue and skeletal system appear unremarkable.
+ADVICE :  HRCT Chest Will be more informative   
+
+
+
+
+
+
+
+
+
+
+
+                                                RAY PARANASAL SINUSES
+ 
+FINDINGS :
+ 
+All paranasal sinuses are clear.
+ 
+No obvious bony erosions noted.
+ 
+Nasal septum is almost central.
+ 
+Both orbits appear normal.
+ 
+IMPRESSION  :  NORMAL STUDY.
+ 
+Suggested clinical correlation & follow up.

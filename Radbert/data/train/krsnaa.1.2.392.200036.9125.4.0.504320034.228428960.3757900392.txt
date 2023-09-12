@@ -1,0 +1,28 @@
+Patient ID d35775c70f34fa310583d57df46959dc6770da91ace89bdd032e18f1
+Patient Name 57b22e03d28ef8e8c09d4ebc0ce6f3165278be2ee02f2cb8acda6c06 62Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bff82b3cb92b2602a4fb8913a99995e2b2a6472c2304b8186a1d5c31
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ Patchy inhomogenous opacities noted in right upper zone - Infective etiology
+Trachea is in midline.
+
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Minimal right pleural effusion noted.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+ 
+

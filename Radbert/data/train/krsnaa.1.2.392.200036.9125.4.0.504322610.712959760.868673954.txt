@@ -1,0 +1,32 @@
+Patient ID 5e593ab2607bf052458a910a107116c36ce2475a37bae780720c6fb7
+Patient Name e92670676a08159c738ea7698a844d04eba287fe54b0536e88dd5d0c 60Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fd0d8f8d35ccb4e258b78d602f43c6e79691c63b6a3336c3fa7c333a
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Calcification of ribs noted.
+Prominent aortic knuckle noted .
+Suggested clinical correlation.
+
+

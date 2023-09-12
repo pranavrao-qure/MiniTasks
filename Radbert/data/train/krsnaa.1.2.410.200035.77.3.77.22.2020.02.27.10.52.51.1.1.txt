@@ -1,0 +1,33 @@
+Patient ID ead1fe403e62eaad9556bdf540ad00bc237c562b092b30a47a263ce8
+Patient Name 65c1b35102764347c8021d5364cd57659d8a0ea7f76a395024f30dbf
+Age :48 Years
+Sex :M
+Accession Number d57583e07f284fd8844276e359e879f40293c9723b459676e197c796
+Modality :CR
+Referring Physician 544211122b6a0ac65556e90d43127d28e85b9b0a08b9efc21694546f
+Study :CHEST
+Study Date 92f0bb58e4397a7d706580dfb34e81800facd8bd4c5cf59cc8b48190
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+   
+Diffuse patchy consolidation with some fibrotic changes noted in left lung with volume loss S/O- Infective?
+
+Blunting of left CP angle noted.
+
+Trachea is shifted to left side .
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Chest X ray findings are suggestive of left lung collaspe .
+For clinical correlation. 
+
+ 
+   Date: 27-Feb-2020 11:01:28

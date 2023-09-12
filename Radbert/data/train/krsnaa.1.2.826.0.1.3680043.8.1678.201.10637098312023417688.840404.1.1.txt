@@ -1,0 +1,22 @@
+
+Patient ID ad67478edc5fa307325115c68b6337e12b9e4205068a1c396f929552
+Patient ID 9eb0d3ca313dd08d17dce2cc3404579fe4539e46d56b1a803a83782d
+Patient Name 2297646bce94c8e115b2c6115361417648f81646953a5b30dbab28b5
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 54df1afb02cead483e477ca0a514c3143ce71e4e960f3bd8ef27de5d
+Study :LT SIDE CHEST FOR LOWER RIBS
+Study Date 48ba4377cd2f2a4eee88a330e5ad01c14b37983ae65023ddfe28953d
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

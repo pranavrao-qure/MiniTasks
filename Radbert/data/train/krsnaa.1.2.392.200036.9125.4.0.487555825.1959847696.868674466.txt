@@ -1,0 +1,28 @@
+Patient ID bcc9f26196cad4da4f3203c3e442a7f2637b2e11f587e6e9c9d6d45d
+Patient Name 0b6577d393f287654d0830085cd5c9a1575c7981f55875ded4cd9e52 45Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 609cd8ee0e2a1a85377aef48d0a50a703b819936e4bc060f547ae56e
+
+
+
+
+
+X-RAY DORSAL SPINE AP / LATERAL VIEW
+ 
+ Normal curvature of the spine
+ 
+ Heights and densities of vertebral bodies are normal
+ 
+Marginal degenerative osteophytes noted in the visualized dorsal vertebral bodies.
+ 
+ 
+IMPRESSION  :  DORSAL SPONDYLOSIS.
+ 
+For clinical correlation. 
+ 
+

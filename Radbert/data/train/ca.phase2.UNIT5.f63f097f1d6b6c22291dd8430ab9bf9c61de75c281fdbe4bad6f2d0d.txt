@@ -1,0 +1,20 @@
+LUNGS: Normal.
+TRACHEA: Normal. 
+PLEURA: There is a small pleural effusion seen bilaterally.
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+Small pleural effusion seen bilaterally.
+
+
+Recommend clinical correlation and further evaluation.  

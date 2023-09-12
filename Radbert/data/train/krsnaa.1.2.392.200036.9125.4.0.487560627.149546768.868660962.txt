@@ -1,0 +1,28 @@
+Patient ID dc8a6a13e34b5475844ccd1ad84bd6d1476ec87d666c533b50d6698b
+Patient Name 22e28382e83a19433b116274498789b3f58fae892d2c6e47b85087d7 26Y DR S PRASAD
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 4d236b8908c0a618d1d5799315a5d37e0d715bf0c960e5c3eb47f153
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ 
+Homogenous opacity noted at left lower zones with blunting of  left CP angle - Pleural effusion.
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+ 
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

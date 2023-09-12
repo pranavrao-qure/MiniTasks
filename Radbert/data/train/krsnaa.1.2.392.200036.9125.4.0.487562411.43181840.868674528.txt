@@ -1,0 +1,27 @@
+Patient ID 430179c5c83b981c2c87c1af9ac15046a7571ab0f46bf235a4af9385
+Patient Name d621dfdb8e13987f1949a3add97235e0e691f1d96f12743e7a55df25 35  yre
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 99e134bc3d4c09fc4f3f8003c52cb3ccc438986eaaac00856ff30b8e
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+Prominent aortic knuckle.
+Prominent right hilar shadow noted.
+Trachea is in midline.
+ Left  hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+

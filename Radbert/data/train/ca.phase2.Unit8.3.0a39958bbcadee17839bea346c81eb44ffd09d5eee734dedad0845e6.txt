@@ -1,0 +1,26 @@
+X-ray Chest PA view: 
+
+LUNGS: Few atelectatic opacities in left basal zone with hazy costophrenic angle.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Elevated right dome of diaphragm.
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+Elevated right dome of diaphragm.
+Few atelectatic opacities in left basal zone with hazy costophrenic angle ( Adv: USG Correlation).
+
+Recommend clinical correlation. 

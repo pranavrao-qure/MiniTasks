@@ -1,0 +1,28 @@
+Patient ID d3ea40dc6c4d3d3df44c0e7dbc2fd891e96fbc0e59a5d852f2289853
+Patient Name dad3b536d11f64924b38c503067ad64fd4e33edbf0253a708d75353d 25YRS REG NO 13725
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date faad4e5461236f04de386b4126794daca92aadcf5811e79cf41a1709
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ Patchy inhomogenous opacities noted in bilateral lung fields - Infective etiology
+Trachea is in midline.
+
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation.   
+
+

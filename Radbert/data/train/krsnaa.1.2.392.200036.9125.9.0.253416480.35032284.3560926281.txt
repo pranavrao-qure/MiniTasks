@@ -1,0 +1,23 @@
+
+Patient ID 926afb62d76cda5958cfffc6f43ee983d634a63522279cd57ce0ab29
+Patient ID 3d364f612d117ea03c095d7758e5c6fae452ef135b20a680c762950f
+Patient Name b4fd032d236f8c0f6ce8384b08e05a570122e210052dade1491c124a 65Y REFDR.B.S.V
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 53be6893117f0e7693316810077f5a2491f222eb9a2ad5eb688e609a
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :        Lung fields show prominent bronchovascular markings / hilar shadows.    No focal lesion seen. 
+    Cardiac size is enlarged.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+

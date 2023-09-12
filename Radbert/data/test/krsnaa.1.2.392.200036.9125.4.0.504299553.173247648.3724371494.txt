@@ -1,0 +1,30 @@
+Patient ID 48f726b43607277bc8c8c0cbcc84f5eae172b0ac3c4a65232f513340
+Patient Name 2eb148713458e6f4a5eed7203b715f09385228f007d6d05d92fa26b5 60y CA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 4a0b75d0ca2163fb09dc75cc93ecf9248ef59aae268fec5657312016
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+ 
+ 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Minimal right pleural effusion noted.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+
+

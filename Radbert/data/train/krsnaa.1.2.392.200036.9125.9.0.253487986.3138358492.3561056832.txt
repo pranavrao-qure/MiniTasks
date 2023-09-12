@@ -1,0 +1,21 @@
+
+Patient ID 3be30dc3d08d7c0997605204f3a96078d266415d1f1fcdfca950d145
+Patient ID 1a6e4c4e36a100d0e8865de935d39ebc54e2695cb93486b365cc1489
+Patient Name c4cc61b75584c6bc99222bc5aa587779f367404c21a743416216449c 55 y|f
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 6f2a6873e2eda6b34dafa60696d48010acd365e573bf57710895dcda
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows homogenous opacity left apical and upper zone with obliteration of hilum and pleural thickening along the chest wall on left side - Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

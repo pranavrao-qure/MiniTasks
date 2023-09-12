@@ -1,0 +1,29 @@
+Patient ID 06577f4e28ce2f3cc88ae8b6f41c77e4e32ddf5c79069b59e840a200
+Patient Name dc0b054ddd9ee582319e49cde408e8e95386036d20f13cc623aa776e 52
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date d1a7fdbbdb49a28dad28ff27d8d70acced2972f9a5a954b666a4f0d4
+
+
+
+
+
+                                                        X - RAY CHEST PA VIEW
+                                            
+ 
+Unfolding arch of aorta noted.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of right CP angle noted - ?Minimal pleural Effusion.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

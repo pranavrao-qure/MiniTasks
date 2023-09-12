@@ -1,0 +1,45 @@
+Patient ID 58f50c32cb0869ff9244527ab6e5016e7ef98985b278e682346312cd
+Patient Name a2b969ea921624088ed1b83d8c6f9efb74007d686a384d74fedc832d 42 YRS T.SPINE
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 3f02deca6754ce230b1555980417a1065d2628d4c1086c08918202b8
+
+
+
+
+
+X-RAY DORSAL SPINE (AP / LAT)
+  
+FINDINGS :
+ 
+Alignment of dorsal spine is normal.
+ 
+Vertebral bodies are normal in shape & density.
+ 
+Posterior arch elements appear normal.
+ 
+Intervertebral discs show normal height.
+ 
+Pre vertebral soft tissues are normal.
+ 
+IMPRESSION : NORMAL STUDY.
+ 
+    Suggested clinical correlation & follow up.
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (AP / LATERAL)    
+FINDINGS :   Alignment of lumbosacral spine is normal.   Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.   Intervertebral disc spaces are maintained.  
+Prevertebral soft tissues are normal.    IMPRESSION  :  NO SIGNIFICANT RADIOGRAPHIC ABNORMALITY.   Suggested clinical correlation & follow up.

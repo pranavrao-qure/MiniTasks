@@ -1,0 +1,26 @@
+Patient ID 061d791a3eaca1e88d0cd4f5d5e6e6a050390f3258031e8f29e75f05
+Patient Name 522bddd71102864bfe11012671f418de1cbaa42d2ecfa851e13a4c0a
+Age :25 Years
+Sex :F
+Accession Number 9480ef6109f5855a5176192952f2425f76b08debc667e4f403e8cf5c
+Modality :CR
+Referring Physician 40826a4f12f4a288f283b574a5302e641a60f2c070fa41b0117cc680
+Study :CHEST PA
+Study Date db5d8a0643305681f6c14064e8214b7ff4a9fd3a2f14c12c029b8600
+
+
+
+
+
+X-RAY CHEST PA
+
+Prominent Bronchovascular markings noted bilaterally 
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+The pleural spaces are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  :
+Prominent Bronchovascular markings noted bilaterally 

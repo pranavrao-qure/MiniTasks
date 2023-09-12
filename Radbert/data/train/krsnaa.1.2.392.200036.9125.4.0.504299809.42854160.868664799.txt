@@ -1,0 +1,34 @@
+Patient ID c3dcef18becdd21ea9ccb5a01c946fccc5c720723af3fb2cdefae5a8
+Patient Name 8571d4e00288d4316445c882d839d347413f6b4676654191b12b2bae 60Y DR MANJEET
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 4a0b75d0ca2163fb09dc75cc93ecf9248ef59aae268fec5657312016
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+Blunting of right  cardio-phrenic angle is seen suggest pleural effusion.
+Patchy consolidation noted left mid zone s/o infective.
+Right paracadiac haziness noted .
+The lung fields are clear.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+ 
+IMPRESSION :  
+Patchy consolidation noted left mid zone s/o infective.
+Right paracadiac haziness noted .
+Blunting of right CP angle suggest pleural effusion.
+ 
+ADV USG THORAX.
+

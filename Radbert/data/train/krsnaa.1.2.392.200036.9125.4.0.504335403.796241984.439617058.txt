@@ -1,0 +1,35 @@
+Patient ID f8c7d775b1228437ac9d3ee277c155417f06bce0511648416f38d370
+Patient Name 82ec05f3b61c34dd34c3adc701e3cb9998caebe3d4fb76f492e9ceb8 72y
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fb155c7817d32ef8635bff51312301014cca2d6778e6311016a21cd7
+
+
+
+
+
+    X - RAY CHEST 
+
+
+Mild haziness noted inbilateral lower  lung zone - -? Infective.
+prominant bilateral hilar shadows noted.
+Unfolding arch of aorta noted.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Mild haziness noted inbilateral lower  lung zone - -? Infective.
+prominant bilateral hilar shadows noted.
+For clinical correlation.
+
+

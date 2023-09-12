@@ -1,0 +1,28 @@
+Patient ID 847f9abcc39c18e1b9f3a2a2dd58103387ae68bfc54a52369bf2f1b2
+Patient Name 4d76943a72ab0e74b2cb66ac5095a30396a011048a8484a94e2e32fb 24Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c48eb8df996ce2b2f84ae0a88c8879330e64cf5fe703c13379bf5a16
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Small nodular opacities noted in right lung.
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  :
+Small nodular opacities noted in right lung.
+Suggested clinical correlation.

@@ -1,0 +1,27 @@
+Patient ID 6c7d16a3df1c689228a1d375aadbd049048f5ab9735a95c5bcdea8fd
+Patient Name 0480c74ba169ecbc98f4bb4d5fb23e9f897406de1aadc69a9ac99902 DEVI80Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fcaefb788bcc88e45acdeeeeac81df98fdc6a09400996e443f4779e5
+
+
+
+
+
+X-RAY CHEST
+Bilateral cp angle blunted , s/o ? effusion .
+Prominent Bronchovascular markings noted bilaterally 
+The peripheral pulmonary vasculature is normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+
+
+
+

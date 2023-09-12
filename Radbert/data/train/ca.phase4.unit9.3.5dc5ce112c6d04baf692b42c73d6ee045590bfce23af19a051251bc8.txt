@@ -1,0 +1,21 @@
+X-ray Chest PA view:
+
+LUNGS, PLEURA: Large left pleural effusion reaching up to the apex with underlying collapse of the left lung, no significant mediastinal shift.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal.
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal.
+Report Impression: 
+Large left pleural effusion reaching up to the apex with underlying collapse of the left lung, no significant mediastinal shift.

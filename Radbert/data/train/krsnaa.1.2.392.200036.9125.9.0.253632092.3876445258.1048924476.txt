@@ -1,0 +1,60 @@
+Patient ID cabf409db58543ed6c627e282c27e6f4b43a2a703a71902fb31ec732
+Patient Name 0467e72909c812167f7eaa50e394ea7f7cfd62532d293fa7848d490a 40Y
+Age :
+Sex :M
+Accession Number 042c44eaed7d928e178ee1e68cbc713dc8130c9661f6e928eb985ea4
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 557f553b45f8ce39be0c49c66b59c69adedbf16c054eb294dc8657a2
+
+
+
+
+
+X - RAY LEFT LEG AP AND LATERAL VIEWS
+ 
+                                      
+Fracture noted at distal shaft of tibia and proximal shaft of fibula with surrounding soft tissue swelling.
+
+Rest of bones appears normal 
+
+No evidence of osteolytic / sclerotic lesion.
+ 
+  IMPRESSION:       
+                             
+Fracture noted at distal shaft of tibia and proximal shaft of fibula with surrounding soft tissue swelling.
+
+For clinical correlation.
+ 
+
+
+
+
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+ 
+ 
+Date: 01-Mar-2020 12:48:55

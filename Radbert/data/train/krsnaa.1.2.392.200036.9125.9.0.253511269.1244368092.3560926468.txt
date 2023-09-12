@@ -1,0 +1,29 @@
+
+Patient ID e9365de1e44ee2733c6530310235db10c1d681ba60e7f74ee9e3de6b
+Patient ID 64194f0fd46852f6100c3a9cb4c6d53a30af97e54e79f27627297113
+Patient Name 85139bb862fb30d3b867c3e6e1a8b4b98c4aba929605c2f7f7c83533 50/M
+Age :
+Sex :O
+Accession Number ced7213d78f137655ca15ecb2dcc78012bc5f12c723297c3ab596dc8
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 3b1409323956eb7e83b1f5da2ff66337c9f2378d7c48e8019d468a11
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

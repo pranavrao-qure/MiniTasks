@@ -1,0 +1,32 @@
+
+Patient ID 2b89b3b08e3dea72fa84ae3be7805cbe2613b0aa53f11c09003ec1d2
+Patient ID b80f6b0d7ca6711f3e9de2b2ce89920499c7b19287a2a1fcf8fd803a
+Patient Name 6807fea87d479328d1e0e3e377b78b5ddcca5be73fda5bf4b932d3da 12 Y REF DR UMAMAHESH
+Age :
+Sex :
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date a8684ce56363be6140182e41295522443543412813dc002c0c426bf3
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+Bony cage and soft tissues appear normal
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

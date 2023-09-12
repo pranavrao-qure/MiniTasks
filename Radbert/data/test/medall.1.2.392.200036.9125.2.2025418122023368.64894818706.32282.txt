@@ -1,0 +1,44 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+X- Ray Chest (PA view)
+
+
+
+Findings
+
+o       
+Trachea and mediastinum normal in position. 
+o       
+Visualised lung fields are clear.
+o       
+Cardiac contour is normal.
+o       
+Hilar shadows normal. 
+o       
+Costophrenic angles clear.
+o       
+Bony cage normal.
+o       
+Soft tissue shadow normal. 
+
+
+IMPRESSION:- 
+
+¬        
+No obvious abnormality noted in visualized lung parenchyma at present.
+¬        
+Both CP angles are clear.
+
+
+
+
+
+Dr.Lakshmi Sathyaraj MD
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+X-ray Chest PA view:
+
+LUNGS: There is haziness in the right paracardiac location with obscured right heart border, unchanged from prior, and may represent mild pectus excavatum.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Prominent right hilum
+AORTA: Normal. 
+
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+There is haziness in the right paracardiac location with obscured right heart border, unchanged from prior xrays, and may represent mild pectus excavatum.
+Clinical correlation and confirmation with lateral view is recommended. 

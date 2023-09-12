@@ -1,0 +1,31 @@
+Patient ID 2be8428c3895157beca02479913eb70b4386992dead58ac481cf5219
+Patient Name 1eddc9f250213636322f9f9954738c6c70f5f45cc9aabf9e5f41e7c9 67YRS/M
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 609cd8ee0e2a1a85377aef48d0a50a703b819936e4bc060f547ae56e
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+ 
+ 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Mild haziness noted in left upper lung zone - -? Infective.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+Mild haziness noted in left upper lung zone - -? Infective.
+

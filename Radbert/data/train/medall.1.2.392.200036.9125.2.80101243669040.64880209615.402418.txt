@@ -1,0 +1,50 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+
+
+ RADIOGRAPH CHEST PA VIEW
+
+FINDINGS
+
+¬        
+Trachea and mediastinum in midline.
+¬        
+No mediastinal widening.
+¬        
+No cardiomegaly
+¬        
+No silhouette of mediastinal margins.
+¬        
+Bilateral hila are normal.
+¬        
+Bilateral lung fields appear normal.
+¬        
+Broncho vascular markings appear normal.
+¬        
+Bilateral CP angles are not obliterated.
+¬        
+Thoracic cage and soft tissue appear normal
+ 
+IMPRESSION
+
+@       
+No significant abnormality is detected in this study.
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6059 by 2514, depth 1
+pict001.wmf
+DR.K.SHAKTHI KUMAR
+ RADIOLOGIST.
+ REG NO. 55346
+
+
+[This report is only for diagnostic purpose, not applicable for medicolegal purpose.
+Clinical correlation is necessary for arriving at final diagnosis.]
+
+
+
+
+
+
+

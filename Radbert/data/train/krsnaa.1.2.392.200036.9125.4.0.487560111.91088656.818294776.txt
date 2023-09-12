@@ -1,0 +1,45 @@
+Patient ID 71b5f3bc1bce011cb4ee5ba3492d140cf13b38cb0238b27d62c1a73a
+Patient Name 1179d0d18f0825c1aca422ef7d1e800b205c48ef630653578049d64c 15YRS
+Age : Days
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 6682329d1d564c72269cdc8b4c278c8089b1caad1227de6bd175d79e
+Study :CHEST
+Study Date 45a1f8f5db2b116ca781acd067d236f39e3843db8b9e3c7ca607ea7c
+
+
+
+
+
+X-RAY LEFT SHOULDER AP VIEW
+ 
+OBSERVATION:
+Bicorticle fracture noted at mid-shaft of the clavicle with associated soft tissue swelling.
+Head of the humerus and proximal third of the shaft appear normal.
+Visualized portions of scapula and ribs appear normal.
+No lytic or sclerotic lesion is noted.
+Joint space appears normal.
+IMPRESSION:
+Bicorticle fracture noted at mid-shaft of the clavicle with associated soft tissue swelling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY RIGHT SHOULDER AP VIEW 
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY 
+
+     Suggest clinical correlation and follow up

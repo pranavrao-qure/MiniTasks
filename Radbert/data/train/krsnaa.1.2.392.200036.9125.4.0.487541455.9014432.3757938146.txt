@@ -1,0 +1,24 @@
+Patient ID 5f46ae3102b1207995be235645dc93fd5936e4d421e2eb7e872b81a7
+Patient Name b4f97571071f597c627611aa35623051db5d5303c6669a05a0f8cd32 83y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 617423244524feb140dd315ed903d24269ca369f640eace172bed1a9
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+  Hyperlucent area   noted at entire left lung devoid of lung markings - ?  Pneumothorax - Adv: CT chest.
+fracture noted at left side 6th rib
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+

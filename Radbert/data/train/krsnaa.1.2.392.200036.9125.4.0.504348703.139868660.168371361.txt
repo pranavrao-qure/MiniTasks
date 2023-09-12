@@ -1,0 +1,30 @@
+Patient ID fcfba00a7d8770d1e967dae4556ec94b61d02237553f9dc9349ec6b0
+Patient Name 2944ed25569c37f8ff97c6d435b7358319720d8327fbf3eb343a2377 60 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 16f7655c3ef8c1cb88c7463ad2316341ccd7bacf64948ea43e965ded
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at right apical,upper and mid lung zone - Infective
+Calcified nodular opacities noted in right upper and left lower  zones- - Old infective 
+Kochâs.
+Prominent bronchovascular markings noted at bilateral lung fields.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy consolidation noted at right apical,upper and mid lung zone - Infective
+For clinical correlation. 

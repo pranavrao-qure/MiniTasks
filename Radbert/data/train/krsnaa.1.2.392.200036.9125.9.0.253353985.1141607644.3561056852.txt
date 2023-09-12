@@ -1,0 +1,35 @@
+
+Patient ID f2174eaf9d4720779e4207a76a3537e8793516a02863242806cc0138
+Patient ID 2b5604433b42735f9cbeb95f600233596360877049565aa4dce4f107
+Patient Name 1772286a8965f22bc63ef49314329f636b6fed8f8b40d6cf2627d84b 70Y F
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 8c50e0cf3fe03c606b196ab99143331b39307ddffefd37bca851afa5
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :     
+  
+Lung fields shows hilar and basal congestion. 
+  
+Cardiac size is enlarged with unfolding of aorta. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ IMPRESSION :  Cardiomegaly - ? LVF. 
+ 
+     Suggested
+clinical correlation and follow up .

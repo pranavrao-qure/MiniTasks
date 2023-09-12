@@ -1,0 +1,29 @@
+
+Patient ID 7e4d198f4bcda16a65b017044548d69c533e035333bafe006f287931
+Patient ID dcb53ec6c66d6bbb4fab7d237cd4b3906ac90c5bfbf5353334133505
+Patient Name fe3c396044f77bed1f6a48045f857f2c552f88f1a0618ff07432e09f 37/F
+Age :
+Sex :F
+Accession Number de0863b16eb85a95d89ceaf744ec2ac9048973d1988214d6f4757cbf
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date f4a0aa4c472f112e25bfc9b9c1ba49cd77c627609c799d01aaa9cd7d
+
+X - RAY CHEST Prominent bronchovascular markings bilaterally Both hila normal in density. Cardiac silhouette maintained.          Both CP angles are clear. Bony cage and soft tissues appear normal For clinical correlation.      Date: 30-Oct-2018
+
+
+
+
+
+                                                          
+
+
+Prominent bronchovascular markings bilaterally
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Bony cage and soft tissues appear normal
+For clinical correlation. 

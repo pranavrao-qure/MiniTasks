@@ -1,0 +1,31 @@
+
+Patient ID 64d2e6302714ea0d20188bcfee832bc0a8ded25a4d30e63a9a6e4888
+Patient ID 14a2b41dda8d7cc1a280891f70c22010515353ccc6e883fda995e8a8
+Patient Name cf1d1c2d1a08b8be8b0e250ecb8e39f4dea896bf8722a84eaf17d15d 40Y FEVER W
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 612b98a1eb8b3d0bd7721b8b0ec46e60b9156238a9b58c3711947b36
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at both lower zones - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+
+
+For clinical correlation. 

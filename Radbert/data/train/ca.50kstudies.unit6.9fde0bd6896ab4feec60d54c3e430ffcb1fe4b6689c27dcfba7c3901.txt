@@ -1,0 +1,38 @@
+LUNGS: 
+-Ill defined patchy and reticular opacities noted in both lungs.
+-Brochiectatic changes noted in both lungs.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: pulled up.
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+
+Report Impression: 
+LUNGS: 
+-Ill defined patchy and reticular opacities noted in both lungs.
+-Brochiectatic changes noted in both lungs.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: pulled up.
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.

@@ -1,0 +1,24 @@
+Patient ID 82d3aec579e35bb5be78f3ea8f830f83d4c5fbe21afbb2badd3ab7ac
+Patient Name e97029f3e4d329e2de4a59f9dad38f9e62ae1d282b914536e3834bdc 65
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 0f66515d1b762a966cffc323b821cb75966ef8ce91eb9bade9f93adc
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+  Prominent bronchovascular markings noted at bilateral lung fields.
+Fine reticular opacities with nodular infiltrate noted in bilateral lung fields Suggestive of infective etiology? Viral. Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION: 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Above x-ray film findings suggestive of infective etiology? Viral.
+ADVICE-Complete Blood Count
+

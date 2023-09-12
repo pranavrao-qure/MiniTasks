@@ -1,0 +1,42 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X-RAY DORSOLUMBAR SPINE (AP & LATERAL VIEWS)
+
+Osteophytes at L4, L5 & S1
+
+Mild decreased intervertebral disc space at L5-S1
+
+The lower dorsal and upper lumbar segments of the spine have a normal
+
+anatomical configuration.
+
+Rest of the vertebrae studied have normal bone texture of their bodies,
+
+laminae, pedicles, transverse and spinous processes.
+
+The costovertebral and costotransverse joints appear normal.
+
+The paravertebral soft tissues do not show any abnormality.
+
+
+
+ ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2552 by 1143, depth 1
+pict001.wmf
+Dr. Keerthi. K., MDRD
+Consultant Radiologist 
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+

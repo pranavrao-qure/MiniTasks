@@ -1,0 +1,27 @@
+Patient ID ba63b1fb0311833beb6a3619e427a7e740a817d6335d815dd65905c1
+Patient Name dea2c19f24263bcec76e7f0c93a1e6abf1e41a504170c4420ef8df8e 16 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date afa30c6bacb9b5b4d53fd2cdc2256f913accbe11e03a06d0a2aeacfd
+
+
+
+
+
+X - RAY RIGHT SHOULDER AP VIEW
+
+
+Lucency noted at greater tuberosity of humerus -? Fracture - For CT Correlation.
+
+Rest of visualized bones appear normal.
+
+No evidence of sclerosis or erosions.
+
+For clinical correlation.
+ 
+
+

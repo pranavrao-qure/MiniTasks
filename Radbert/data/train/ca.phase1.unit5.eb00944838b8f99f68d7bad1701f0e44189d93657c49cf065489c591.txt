@@ -1,0 +1,6 @@
+The patient is rotated.
+
+CARDIA: There is no cardiomegaly. There is a cardiac pacemaker in the (left) chest wall with (dual) leads in place 
+LUNGS: show Prominence of the Hilar & bronchovascular markings.
+PLEURAL EFFUSION: nil significant 
+BONES: There is diffuse osteopenia.

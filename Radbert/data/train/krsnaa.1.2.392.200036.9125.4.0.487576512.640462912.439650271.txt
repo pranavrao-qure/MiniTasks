@@ -1,0 +1,27 @@
+Patient ID 26c5a2ef90331799ffb866647e386ad7bccd448945cecdb5d8295920
+Patient Name db2486d6419fac0c9c58841daeb80200d94b92aaa4f4b3fb896be005 75Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bf1d30c336e55d9e7cd8b3f4e9c7ef38478769ec503b56e5fdea7d40
+
+
+
+
+
+                                                       X - RAY CHEST PA VIEW
+
+Patchy pneumonitis at right mid and lower zones - Infection.
+Rest of lungs are normal.
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+ 
+For clinical correlation. 
+  
+ 
+ 
+Date: 23-Dec-2019 13:16:05

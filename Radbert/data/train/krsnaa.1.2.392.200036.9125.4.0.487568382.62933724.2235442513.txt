@@ -1,0 +1,30 @@
+Patient ID 89233cd00cf763d637a3de7ca8f62571531f5cc39b9af3d850e772ca
+Patient Name 63538ef789f2d9f3f4b0f8e8de0e5994aa0a85c9c8d0a6279a81b86b MADAHI-50Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 776b699e350758d3955305cfa86471da467d3a655fd2bb74d482d6cb
+
+
+
+
+
+                                                          X - RAY CHEST 
+ 
+ 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Mild right pleural effusion noted.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+
+

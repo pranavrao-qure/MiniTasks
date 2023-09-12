@@ -1,0 +1,33 @@
+Patient ID c85fb8fb7fb29ebbb735c3ee377906bcc03cd9fc8e142493650428e8
+Patient Name e4717701274c7118ab96c73f5ffc4c011b78ecfc9a832cd01928c962 50Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date db5d8a0643305681f6c14064e8214b7ff4a9fd3a2f14c12c029b8600
+
+
+
+
+
+X-RAY CERVICAL SPINE AP AND LATERAL VIEWS
+ 
+ Alignment appears normal
+ 
+ IV disc spaces are normal
+ 
+ Marginal degenerative osteophytes noted at C4 to C6 vertebral bodies
+ 
+ Spinous process appear normal.
+ 
+ Heights and densities of vertebral bodies are normal.
+ 
+ Pre and para vertebral soft tissues normal
+ 
+IMPRESSION :  CERVICAL SPONDYLOSIS.
+ 
+For clinical correlation. 
+
+

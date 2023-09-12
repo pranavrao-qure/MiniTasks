@@ -1,0 +1,57 @@
+Patient ID 6e951a872ba17de1f08b7a198d1231300d34fa2beb02d780b3b76c1e
+Patient Name eea7cf3c31883722ef2f678a93b9bb232d9037191a0c2ee046f819bd dey,60yrs
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6e51a1fee4c56ddfa75155b4d40035a0b3b3d7a2434023d86944fd52
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+X - RAY FORE ARM AP AND LATERAL VIEWS
+ 
+ 
+Fracture noted at distal shaft of ulna with surrounding soft tissue swelling.
+ 
+Rest of visualized bones appear normal.
+ 
+No evidence of sclerosis or erosions.
+ 
+IMPRESSION:
+Fracture noted at distal shaft of ulna with surrounding soft tissue swelling.
+ 
+For clinical correlation.
+
+

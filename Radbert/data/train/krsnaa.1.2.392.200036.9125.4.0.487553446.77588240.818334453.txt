@@ -1,0 +1,27 @@
+Patient ID 8ee2b5ed0c5d7a7307444552234a0eb9c836d44ac439649eb43f0bd1
+Patient Name eeca42e3541050e9e61fcb5419efc49fb7488a61723bad9c16f52e6f 32yr
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date cd379b8546ccfd4af248579155fa6aa767df4c16a281a6cf25105e52
+
+
+
+
+
+X - RAY CHEST PA VIEW
+ 
+Tiny nodular opacities noted in both lung parenchyma - Infective etiology - To rule out Koch's.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+ 
+For clinical correlation. 
+
+

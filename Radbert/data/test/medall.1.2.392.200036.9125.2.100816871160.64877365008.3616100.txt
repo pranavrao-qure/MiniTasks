@@ -1,0 +1,41 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+
+RADIOGRAPH CHEST AP VIEW
+
+
+w       
+Unfolding of aorta.
+w       
+Superior mediastinal widening.
+w       
+Blunting of right costophernic angle.
+w       
+Cardiac border appears indistinct. 
+w       
+Trachea and mediastinum in midline.
+w       
+No silhouette of mediastinal margins.
+w       
+Thoracic cage and soft tissue appear normal
+ 
+
+
+DR. A PRASANNA.,MBBS.,DNB.,
+CONSULTANT RADIOLOGIST
+REG NO. 98687. 
+ 
+
+
+[This report is only for diagnostic purpose, not applicable for medicolegal purpose.
+Clinical correlation is necessary for arriving at final diagnosis.]
+
+
+
+
+
+
+

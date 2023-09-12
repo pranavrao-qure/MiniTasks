@@ -1,0 +1,31 @@
+Patient ID 651ff904b49197bb5b44eb5e21bf8284f13408397d13cc40ac3f2bba
+Patient Name c5a26ffd9182a2bf20928444becaa5917c491eb25b9dc593878a971b 42 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c0678e8c214e2e9fc81bb08c68a654f04004bebf62bdd29abcc2383a
+
+
+
+
+
+  X - RAY CHEST 
+ 
+Patchy consolidation noted at left upper lung zone - Infective etiology.
+Calcified granulomas noted bilateral lung field.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+
+
+
+

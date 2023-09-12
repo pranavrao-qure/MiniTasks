@@ -1,0 +1,16 @@
+X-ray Chest RPO view:
+
+RIBS: Normal.  No bony injury. 
+LUNGS: Normal. 
+HEART: Normal. 
+TRACHEA: Normal. 
+MEDIASTINUM: Normal. 
+PULMONARY HILA: Normal. 
+PLEURA: Normal. 
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Normal X-ray of the chest RPO  view.

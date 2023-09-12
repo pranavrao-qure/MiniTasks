@@ -1,0 +1,26 @@
+Patient ID d33449338c5362aaf3ee7642c0be5b311cd0daf26c8956a1a7ad3810
+Patient Name 44517ba1cff364504368d5fca905b6d6da2f28bfc8f333f20966f795 43 YR MA
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :DX
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :ChestErect PA
+Study Date 79a6759ad5dc32b445e0de30ba9b6f5a07eb572bd57c5b2f25130eb0
+
+
+
+
+
+        X - RAY CHEST VIEW
+ 
+Bronchiectasis changes noted in  bilateral mid and lower zones.
+small nodular opacities noted in bilateral peri hiolar region 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

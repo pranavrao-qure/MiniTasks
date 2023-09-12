@@ -1,0 +1,32 @@
+
+Patient ID 8c7342541cb8c42e36c476bbbc372be745e43eacb44e60401e81e91e
+Patient ID 5359833a43f37b41f6e643c9146b7fa06b6dc02f0a0c1a958e3a1b08
+Patient Name 209caf9123f5931510b09754f92ce7081f529996760ed5952db77307 32/M
+Age :
+Sex :O
+Accession Number 37d9848f5de6ff3524a03b7ecd32aef4fd1d099110e428ae783ba690
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date fba536ff92b6f9840a0d2c1f3f00a23c2669ad79d4e27200a28b83de
+
+
+
+
+
+
+
+Soft tissues/ bony cage normal.
+
+Trachea and Mediastinal structures are normal.
+
+Heart size and configuration are normal.
+
+Aorta and pulmonary vascularity are normal.
+
+Lung parenchyma and CP angles are clear.
+
+Bilateral hilae and diaphragmatic contours are normal.
+IMPRESSION :         NORMAL STUDY
+
+- For clinical correlation.

@@ -1,0 +1,22 @@
+Patient ID 467f928fbe8653b0053df6dba068ddd8727b172dbf4a75adc59d40a9
+Patient Name f8599499a7955bfb82cc5ed056a7e0ca9e4f85d871e87fa1b6d51bb1 30YRS REF BY DR V K JAIN
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date a16f552b5ba23156397154ab2f4a0e880eda23fb06bc62e247c55b66
+
+
+
+
+
+X-RAY CHEST PA VIEW
+ 
+FINDINGS :       Lung fields are clear.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.
+  Impression :- NO SIGNIFICANT ABNNORMALITY DETECTED     Suggested clinical correlation and follow up.
+
+ 
+ 
+Date: 24-Feb-2020 12:47:40

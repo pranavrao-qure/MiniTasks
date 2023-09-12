@@ -1,0 +1,26 @@
+X-ray Chest PA  view:
+
+LUNGS: increased transradiancy of bilateral lung zones.
+Bilateral peribronchial cuffing seen.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Flattened both domes of diaphragm.
+Report Impression: 
+1. Increased transradiancy of bilateral lung zones.
+2. Bilateral peribronchial cuffing.
+3. Flattened both domes of diaphragm.
+
+Features are suggestive of COPD.

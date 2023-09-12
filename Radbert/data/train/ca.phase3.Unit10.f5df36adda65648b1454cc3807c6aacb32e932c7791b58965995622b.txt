@@ -1,0 +1,6 @@
+The patient is rotated to the left. 
+Nasogastric tube tip is in the stomach.
+CARDIA: There is no cardiomegaly.  
+LUNGS: Clear.
+PLEURAL EFFUSION: Minimal left basal pleural effusion seen.
+BONES: Normal.

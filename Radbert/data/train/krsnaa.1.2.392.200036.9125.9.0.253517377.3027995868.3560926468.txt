@@ -1,0 +1,49 @@
+
+Patient ID 9472529127c0cf7387ecc48f7a7546fbb8b0edd60c4e1bc113ec2ed2
+Patient ID 851c23ea7b2f5b967f41fbbbab5845b6caeffb7b4a29bd98a892f662
+Patient Name 5203373944608f935d8a8a108dffc057a579d0ed7ffba3d470b9a390 52Y
+Age :
+Sex :M
+Accession Number 2f281e6d59e26ab057fb0c239bee409cac0d9af6f6b570bad657a221
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date c798adfc93bfaba88caa16eb4ce79c22f41a160e8854d4b970171463
+
+
+
+
+
+
+
+X-RAY RIGHT ANKLE AP & LATERAL VIEW      
+
+
+FINDINGS :        
+Fracture noted at medial and lateral malleolus with surrounding s oft tissue swelling.  
+
+Rest of visualised bones appear normal
+          Suggest clinical correlation and follow up X-RAY 
+CHEST AP VIEW 
+ FINDINGS 
+:       Lung fields are clear.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.    IMPRESSION :  NO OBVIOUS ABNORMALITY.     
+Suggested clinical correlation and follow up.
+
+
+
+X-RAY 
+CHEST AP VIEW
+FINDINGS 
+:       Lung fields are clear.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.    IMPRESSION :  NO OBVIOUS ABNORMALITY.     
+Suggested clinical correlation and follow up.
+
+
+
+
+ 

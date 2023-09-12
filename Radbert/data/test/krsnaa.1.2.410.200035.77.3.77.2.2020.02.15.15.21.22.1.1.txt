@@ -1,0 +1,31 @@
+Patient ID d8262c2c5b625bb1ae546f589affb46285a19c2fd8587bd5d0b708da
+Patient Name bfee5ef68c61fdccc7dbe6ceac9a73f2544157e0d5f69a4bdad0c18b
+Age :
+Sex :F
+Accession Number 5ac71f933df494da258451eddd63aebc9eabdd491bffab4418c3640c
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 0f66515d1b762a966cffc323b821cb75966ef8ce91eb9bade9f93adc
+
+
+
+
+
+X-RAY CHEST 
+
+Aortic knuckle calcification noted.(Age related)
+ECG leads noted.
+Mild scoliosis noted.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Aortic knuckle calcification noted.(Age related)
+Suggested clinical correlation.

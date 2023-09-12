@@ -1,0 +1,50 @@
+Patient ID 90b86426aecc496901a9c0114f10067e813b0d6527e97f97cf68c1c6
+Patient Name 60ee68267dcccbd6bdc3da44b92a44945c79989091e98a4047eccec1
+Age :50 Years
+Sex :F
+Accession Number a02946a74140693abf9ed723295aac8fd18fd31cdff801f55d066e3b
+Modality :CR
+Referring Physician 9fac3c94c4ad2e6de04df988f7adcfab185b1cade085717a2ccd5e5c
+Study :CHEST AP,LS SPINE
+Study Date bf1d30c336e55d9e7cd8b3f4e9c7ef38478769ec503b56e5fdea7d40
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (A.P./
+ 
+ Anterior and lateral marginal osteophytes are noted.
+
+The vertebrae show normal alignment.
+  No focal bone lesion is seen.
+  The intervertebral disc spaces are normal.
+  No abnormal paravertebral soft tissue shadow is seen.
+  No abnormal soft tissue calcification is noted.
+  The psoas shadows are well defined and normal.
+  No radio opaque calculus is seen.
+ 
+IMPRESSION  : 
+ 
+ Anterior and lateral marginal osteophytes are noted, degenerative changes
+
+
+
+
+
+
+
+
+
+CHEST RADIOGRAPH AP VIEW
+ 
+Bilateral lung parenchyma and broncho-vascular markings appear normal.  
+Bilateral domes of diaphragm appear normal and are smooth in contour.
+  Bilateral costo phrenic  angles  and pleural spaces appear normal.  
+Cardiac size could not be evaluated on AP view.  
+Visualized bones and soft tissues appear normal.  
+No evidence of lymphadenopathy / mass lesion /effusion is seen.  
+Visualized portion of upper abdomen appears normal.  
+IMPRESSION  : NO SIGNIFICANT ABNORMALITY IS SEEN IN THE PRESENT STUDY.
+ 
+For clinical correlation.

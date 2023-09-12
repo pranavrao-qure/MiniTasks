@@ -1,0 +1,33 @@
+Patient ID bb1ce737da0cc0983308c374de94508967724f24286cd6e20363ee60
+Patient Name 6cca54c7409ba67b2e1e9e679db563833ceaf1e3f8502050cfe0f17d 77
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c46bc56ca8e4c73e8faadd9ad168d28a6c2e12bd0198b388a12edb3b
+
+
+
+
+
+    X - RAY CHEST 
+Mild haziness noted in right mid  lung zone - -? Infective.
+Prominent aortic knuckle noted.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Mild haziness noted in right mid  lung zone - -? Infective.
+Prominent aortic knuckle noted.
+For clinical correlation. 
+ 
+ 
+Date: 04-Feb-2020 13:50:24

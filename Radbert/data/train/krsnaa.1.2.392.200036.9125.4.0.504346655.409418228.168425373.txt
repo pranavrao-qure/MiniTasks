@@ -1,0 +1,28 @@
+Patient ID d57ef85c7f512032354dbdff9c434804461e74d06b44e639f1cf38fe
+Patient Name d862c228edd068571a3e3533d5311c108f74e2b437cdef8817f49cbe 65YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 16f7655c3ef8c1cb88c7463ad2316341ccd7bacf64948ea43e965ded
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at right mid and lower lung zone - Infective
+Prominent bronchovascular markings noted at bilateral lung fields.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy consolidation noted at right mid and lower lung zone - Infective
+For clinical correlation. 

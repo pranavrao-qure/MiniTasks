@@ -1,0 +1,20 @@
+X-ray Chest AP view:
+
+LUNGS: Low lung volumes due to Poor inspiratory effort. Prominent vascular markings noted bilaterally
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal. 
+
+Report Impression: 
+No significant abnormality.

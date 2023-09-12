@@ -1,0 +1,36 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+
+
+v       
+Trachea appears normal.
+v       
+Cardiothoracic ratio is within normal limits.
+v       
+Mild fibro-atelectatic parenchymal opacity is seen in the left basal
+ lung with mild pleural thickening.
+v       
+No pleural effusion seen. 
+v       
+Rest of the bilateral lung fields appear normal.
+v       
+Visualised bony structures appear normal.
+v       
+Extra thoracic soft tissues shadow grossly appears normal.
+
+
+
+ ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 7038 by 3704, depth 1
+pict001.wmf
+ 
+ Dr. Rama Krishnan. M.D., D.N.B.,
+ Consultant Radiologist.
+
+
+
+
+
+

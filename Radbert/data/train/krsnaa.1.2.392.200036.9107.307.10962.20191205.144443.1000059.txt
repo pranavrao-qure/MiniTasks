@@ -1,0 +1,27 @@
+Patient ID 256b224a57bad6976e40e81d76e36a7c83a1aa5072d80bb556a6c188
+Patient Name 90910492cc7bf19a825cdf87bb57dd126a72c412b191d24c61813fb6 37Y/M
+Age :
+Sex :M
+Accession Number 70fd5c904c629ee6d4e8be9e3dee2bebbe2e8433bf640af94df342e1
+Modality :DX
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :ChestErect PA
+Study Date 79a6759ad5dc32b445e0de30ba9b6f5a07eb572bd57c5b2f25130eb0
+
+
+
+
+
+X-RAY CHEST PA  
+ 
+Both lung fields show prominent broncho-vascular markings.
+
+Cardiac size appears within normal limit. 
+
+Trachea and mediastinal soft tissue shadow appear unremarkable.
+
+Both C.P. angles and both domes of diaphragm appear unremarkable.
+
+Bony thorax under vision appears unremarkable.
+
+

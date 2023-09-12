@@ -1,0 +1,28 @@
+Patient ID c4b7f858c43a612849ebd855ab1d7a6115de762807e2e1ae8d5f9e2b
+Patient Name e5479c84c29f30ccc1d43600c1ab2ddc1a476daa9e6c68b951c61b82 60YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date f0d8060b6bd76a0efd5a1cf36fab83625be766fc3d168caa8cf3a33e
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Aortic knuckle calcification noted.
+
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+ 
+
+

@@ -1,0 +1,17 @@
+X-ray Chest PA view:(F.No.605)
+
+LUNGS: Bronchovascular markings are prominent bilaterally with hyperinflated lung fields.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal. 
+
+Report Impression: 
+To rule out chronic obstructive pulmonary disease changes.

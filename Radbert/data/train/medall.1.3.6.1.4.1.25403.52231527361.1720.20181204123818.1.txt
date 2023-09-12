@@ -1,0 +1,24 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+DIGITAL X- RAY CHEST PA VIEW
+
+Trachea appears normal.
+Cardiothoracic ratio is within normal limits.
+Bilateral lung fields appear normal.
+Costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+Extra thoracic soft tissues shadow grossly appears normal.
+IMPRESSION:
+v       
+No significant abnormality demonstrated.
+
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3082 by 1288, depth 1
+pict001.wmf
+Dr.K.Shakthi Kumar
+Radiologist 
+
+Patient and their attenders must check their name, age, sex, printed on their reports and film before leaving the diagnostic centre. Patient identity is not verified. This is a professional opinion not the final diagnosis, the results provided as guidance for medical professionals only. This report is not valid for medico - legal purpose.
+

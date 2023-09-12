@@ -1,0 +1,29 @@
+Patient ID 2bc760f4b1b6e717e6b7c528fe40d3b45ce5778131b7f2b62bc27327
+Patient Name c252c874a56c2890070ca55dcf3568d6814e19cceb5376aec39e21d9 68Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c34621df980a6f523fa57e09c7ece8e3ba78d575709f92b225f0775f
+
+
+
+
+
+
+X - RAY CHEST PA VIEW
+Opacification of the  the  upper one third  right hemithorax  and tenting of right hemidiaphrgm s/o acute  right  upper lobe atelectasis. 
+Right lung  volume loss noted.
+Hyperinflated  left  lung. 
+Trachea is deviated to right side 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Left  CP angles  is clear.
+Bony cage and soft tissues are normal.
+IMPRESSION :   R ight  upper lobe atelectasis. 
+For clinical correlation. 
+
+ 
+ Date: 28-Dec-2019 15:22:57

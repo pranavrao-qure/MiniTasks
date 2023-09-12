@@ -1,0 +1,20 @@
+X-ray Chest PA view:
+
+LUNGS: Bilateral patchy air - space consolidations.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal.
+Report Impression: 
+Bilateral multi focal air- space consolidations .
+ 
+As compared to previous cxr dated:12/09/2012,there is no significant change seen.

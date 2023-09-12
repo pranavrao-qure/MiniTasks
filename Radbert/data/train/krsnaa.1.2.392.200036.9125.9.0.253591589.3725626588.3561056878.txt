@@ -1,0 +1,32 @@
+
+Patient ID f92325938294f2b6af9cf4c89bb5efb50251ee601abad9f3a9780b9b
+Patient ID 3b4ae8205111dfb721437bfa4d223c397ba0b9a5862573d38d580b4b
+Patient Name 2340790a12327c44cd16a1b204581c74472511ece04cf4b065c8ff97 26Y DR ADI
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 82b58aaf34023db3ed6b924aea347fbdfde3ff06a72f3cb0077112de
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at right lower zone - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+
+
+For clinical correlation. 

@@ -1,0 +1,40 @@
+
+Patient ID 3de83e4d2752da4107b07ec1b49531719e9e745e7fda55494bfbb92a
+Patient ID 4f43b59e67f42734ac9c66367627aaa5f2a0a3c48ac748d60540448c
+Patient Name b51e47849ed159ba9116b7740c2e646a1827ed0dde8fb46bc5f68da0 40 Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c8e83e9b434053082f71df54116c3e91c279dd1d0d36fe194bbe34e4
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+                                                                                                                                           
+ Thanks for reference, 
+ 
+ 
+Investigations have their limitations.
+Solitary pathological/Radiological and other investigations never confirm the
+final diagnosis. They only help in diagnosing the disease in correlation to
+clinical symptoms and other related tests. Please interpret accordingly. 
+Disclaimerâ€”Report is done by teleradiology
+after the images acquired by PACS(picture archiving and communication system)
+and This report is not meant for medicolegal purpose 
+ 
+ 

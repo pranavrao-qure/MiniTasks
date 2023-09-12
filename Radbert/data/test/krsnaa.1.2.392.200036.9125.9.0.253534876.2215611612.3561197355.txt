@@ -1,0 +1,22 @@
+
+Patient ID 60443b55466f95de9449799bb09071aa8a1e11311e266e2e7cbc9b30
+Patient ID ec17a55444670f419335c56c67917152b8babcec129c763c60124656
+Patient Name ad73e1f317297ca270f58807faaca2d098cfec4e56786e83ed15a4b1 16Y ORT OP124
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date d92447f87df90a0efa8e00f8ce3de5a836279ae9c43c611ecaca5055
+
+
+
+
+
+
+
+X-RAY RIGHT SHOULDER AP VIEW  
+  
+FINDINGS :         The alignment of the shoulder joint appears normal     Bones appear grossly normal     Soft tissues appear normal     IMPRESSION :  NO SIGNIFICANT ABNORMALITY        Suggest clinical correlation and follow up
+ 

@@ -1,0 +1,41 @@
+
+Patient ID b089625621c99c598cd26189b006d4123d3260b885776005c476c1d7
+Patient ID 8a617bb9548f8b5b1f43de2506786afe37da3a9a003eb66ddc2fa57b
+Patient Name f5eb14b4b058021c45036ff197783edc2b73532c9c8855a35919aae5 25Y REF DR RAVINDRA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c41ac1bc4844fe6b499c378a63cd517deff551c556687cde36573001
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS :     
+  
+Lung fields are clear. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal. 
+? There is increased Right paratrachael shadow noted 
+  
+ 
+    Suggested clinical correlation and follow up.
+ 

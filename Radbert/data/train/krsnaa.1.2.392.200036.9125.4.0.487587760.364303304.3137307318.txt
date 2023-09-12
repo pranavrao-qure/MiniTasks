@@ -1,0 +1,87 @@
+Patient ID d264639b6c3e464672588cf37fd42498576edd77c380e73352f260c4
+Patient Name f125324681c094b284e0b7e3f15a4a8ead9f04ccb7493204dd9854ca 60 YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 42bd556e9c3f73e95a25452841db9c73d516f6a68668ad6cf35453d4
+
+
+
+
+
+X-RAY L-S SPINE A-P/ LATERAL
+ 
+Mild spondylotic changes are seen in spine under vision with marginal osteophytes.
+Facetal arthropathy is seen in lower lumbar region.
+Mildly reduced L5-S1 IV disc space is noted. 
+ 
+Rest of the vertebral bodies and IV disc spaces appear normal.
+No evidence of erosion, wedging or abnormal sclerosis is seen.
+No evidence of spondylolisthesis is seen.
+Psoas shadow appears normal.
+Both iliac bones under view and S.I. joints appear unremarkable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY DORSAL SPINE AP VIEW
+ 
+ Normal curvature of the spine
+   Heights and densities of vertebral bodies are normal
+  Marginal degenerative osteophytes noted in the visualized dorsal vertebral bodies.
+   
+IMPRESSION  : 
+ Marginal degenerative osteophytes noted in the visualized 
+dorsal vertebral bodies.
+ 
+For clinical correlation. 
+ 
+
+
+
+
+

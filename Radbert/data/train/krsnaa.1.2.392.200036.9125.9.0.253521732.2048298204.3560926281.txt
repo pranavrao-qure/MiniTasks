@@ -1,0 +1,32 @@
+
+Patient ID 8b2b22ae3a38867914e1ee487ce4bb00b5e3f50de859673ef55355a2
+Patient ID 64c8d70ca14332583b228d6ab636a69ebb3413086dcf7853544d0236
+Patient Name 55b750ccebf53332e326ef774ea489dac3d48e6d6b33ebc93a4533cf 17Y REF DR B.S.RAO
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date f2f7544e4b9ce740d2a1806950c0c7cc865d379e0a51fcf647891729
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at left upper zone - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+
+
+For clinical correlation. 

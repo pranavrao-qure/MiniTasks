@@ -1,0 +1,29 @@
+Patient ID ce7b794f7fd98827c3fc6853d81612a52c05ac69a6ba597b000d3454
+Patient Name 4d90359b2bfb2fce50a66e02d23f9ab846756948ee37f88a322039db 65YRS M
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date d580956cb55a11dcfcb35e047213e82a7b016fcdf1afb0c1812c8dd3
+
+
+
+
+
+                                         X - RAY CHEST PA VIEW
+ 
+Bronchiectasis changes noted in bilateral lower zone 
+fracture noted at right side 3rd to 7th ribs 
+calcification of ribs noted 
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

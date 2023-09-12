@@ -1,0 +1,29 @@
+
+Patient ID dd455b0ecb5a1e26cab80db0c128fc3b73490f2aa379dc75cc496a37
+Patient ID ae260384ca10f713d0a95db839cf62a88d6c7a5a28e8194d122b1b54
+Patient Name 14fda6a6ce9747c41a7bb04f9418381dd86d49c4ac7774843e63162c 60 Y REF DR LINGANNA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date a78dad654e48464ffb7220ed6ba2c94f9255aa2492982478540d1569
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

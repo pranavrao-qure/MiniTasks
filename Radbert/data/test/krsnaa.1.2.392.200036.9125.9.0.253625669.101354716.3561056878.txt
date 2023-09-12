@@ -1,0 +1,29 @@
+
+Patient ID d24cb4cae4b3e493ecec38fb3ff9ff612582413157558ff8c836c42c
+Patient ID 02d7bd4aeb59a6ad37c2aa72ac74e30495dfea168c03389b0339284d
+Patient Name e7cf3cfbdfcb0e3207bccaaf685ce4fd6b87054a8b44e1d2402ee369 55Y DR SATHYA NARAYANA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date fb3279ec70f13904914b76d046aa4234c894b1efa90a256fa02cccc4
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

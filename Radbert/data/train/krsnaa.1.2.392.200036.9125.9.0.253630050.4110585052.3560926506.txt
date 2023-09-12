@@ -1,0 +1,30 @@
+
+Patient ID 4342eebb5f5c623b014a54536f6b4a5b0ff2c50184166c58b4b2f42e
+Patient ID 382d59187f3e712ab08d9caf8f7b0fa3b1cc3aa57137328f6fd69657
+Patient Name a953c778e69ce87c3ae9f3f56e668e30c761c8b33f16737c7e1c5da2 58 Yrs
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 419929f7288d33aeb7546487cd90c9f04e070f17531126dea8322eec
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Old fractures noted at right 5th and 7th posterior ribs.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

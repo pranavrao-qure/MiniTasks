@@ -1,0 +1,45 @@
+
+Patient ID 2a5181c696719e7341b8635a24c049d1bbbe8515113df1e7510f4960
+Patient ID 53899ce59dcce01515448fa4bbf5943b52d3af2cba0ab539d76cee72
+Patient Name f28b5c64cd05c90108995022b9760f0fdd80d3c205290869086b2105 12/F
+Age :
+Sex :O
+Accession Number b3e54513be6e3354478a768ad8a21e54f87333669e98434eade83ba8
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date f19520e8f37b788942fe88687156cfc829fe22a57fd1eca3faf18da3
+
+SKIAGRAM CHEST P.A. VIEW 
+      
+ Both lung fields are normal in translucency with normal
+bronchovascular markings. 
+ Both costo-phrenic angles are clear.                   
+ Both domes of diaphragm are normal.                   
+ Cardiac shadow is normal. 
+ Trachea is centrally placed.  
+ Bony cage appears unremarkable. 
+ IMPRESSION : No apparent
+cardio-pulmonary pathology is seen . 
+   
+   
+   
+   Date: 26-Sep-2017
+
+
+
+
+
+    
+Both lung fields are normal in translucency with normal
+bronchovascular markings.
+Both costo-phrenic angles are clear.                  
+Both domes of diaphragm are normal.                  
+Cardiac shadow is normal.
+Trachea is centrally placed. 
+Bony cage appears unremarkable.
+IMPRESSION : No apparent
+cardio-pulmonary pathology is seen .
+ 
+ 
+ 

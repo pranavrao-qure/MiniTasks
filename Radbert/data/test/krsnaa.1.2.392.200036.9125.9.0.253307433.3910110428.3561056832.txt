@@ -1,0 +1,31 @@
+
+Patient ID 0708ea0a5e9d1d8a0f9fdfab70beed612f3a8c845a111d5236429735
+Patient ID 786f6eba0f0bb741e932f75f67dddb7d21fa3fd058647606c65ebb5f
+Patient Name a150004b462c485c44d7fd5a498b3d9d1a5030ddf39ef390a6f85f92 25 Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date cb9d2e590ef081a0e7d578675aa6fb1d6fb94f627b408c435cdccff7
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Old healed fracture noted at mid shaft of right clavicle.
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation. 

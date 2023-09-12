@@ -1,0 +1,28 @@
+Patient ID 35947e63552ed9b05efb6d26eeb45a3e27c67919b71994eaa656ae50
+Patient Name 34a675d221be02972bd2f14f48248f09f0e2c6544edd255420c6306d 44Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1127089e88d42baff6bb3866c3315321cdce1145499338cfaef4152a
+
+
+
+
+
+X-RAY LEFT  SHOULDER AP VIEW  
+  
+ 
+FINDINGS :    
+ 
+Fracture noted at greater tuberosity of humerus with surrounding soft tissue swelling.
+ 
+ 
+Rest of bones appear grossly normal.   
+ 
+ 
+   Suggest clinical correlation and follow up.
+
+

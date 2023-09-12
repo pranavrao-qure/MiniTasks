@@ -1,0 +1,31 @@
+
+Patient ID 4f001bbfe56e7fff1eac41b18ae87c03e602d11a9a1359d9cef89f8a
+Patient ID 5efc6472e6eb3d45d170eb52786a4b8f6fc3781bf255f5f7a52026a8
+Patient Name 7e8ba146b9de9d5e0bdfffc3b8532ea6e436e33c51aa3b6b4effa50b 65Y M [DR ANJANEYULU ]
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 9bdb581a6ab4e0565b61e453b3b486d6de2fc8c6c4f267e62b55145c
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+ 
+
+

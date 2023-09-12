@@ -1,0 +1,28 @@
+Patient ID f1108a3e7b65ed880e0065979ee7b2f0a5343890db16f9e401b7655a
+Patient Name 053a75b57f47e34e9a997696861ce1789d26bf93f1a1cfbc7b861f50 30YR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bf1d30c336e55d9e7cd8b3f4e9c7ef38478769ec503b56e5fdea7d40
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ 
+ 
+Diffuse Patchy consolidation noted at  bilateral lung fields s/o - Infective
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+For clinical correlation. 
+
+

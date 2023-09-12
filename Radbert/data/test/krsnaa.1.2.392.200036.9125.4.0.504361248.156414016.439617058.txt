@@ -1,0 +1,55 @@
+Patient ID 4766a75c054792c01c846c7b7455b80afad3fe663c5efde666af4e6d
+Patient Name 9d8a38ded9adc5d418243755176fcfca60a573dcea243ff50022d90f
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 4a0b75d0ca2163fb09dc75cc93ecf9248ef59aae268fec5657312016
+
+
+
+
+
+X-RAY LEFT SHOULDER AP VIEW  
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY CERVICAL SPINE  LATERAL VIEW
+ 
+ Alignment appears normal
+ 
+ IV disc spaces are normal
+ 
+ Spinous process appear normal.
+ 
+ Heights and densities of vertebral bodies are normal.
+ 
+ Pre and para vertebral soft tissues normal
+ 
+IMPRESSION :  NORMAL.
+ 
+For clinical correlation. 
+

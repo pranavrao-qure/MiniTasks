@@ -1,0 +1,23 @@
+Patient ID e05b9f5db72c85da57fc65e9b86755bf78f5f169fa261e3b4ffff2b8
+Patient Name 74264665ff645f73bcceca0d4185819a7d226322fc7c7653faff99ba 40Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ef12f41f305d2e895c3b8f16dc4bf5a0e8f062c2e9e49feee2db20e2
+
+
+
+
+
+X-RAY CHEST PA VIEW
+​​​​​​​
+FINDINGS :                                   Patchy fibrotic opacities noted in right upper  and mid zone 
+Nodular opacities in right mid zone .
+Sequelae of infectiv etiology 
+  Both hila appear are pulled up.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.       
+ Suggested clinical correlation and follow up.
+
+

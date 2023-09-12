@@ -1,0 +1,32 @@
+
+Patient ID a939180d54315290a2d680bed5ff3e6b1aa2c556ebd2f82522610a04
+Patient ID d897c3cf3b6444b3ff8bbdf9a847e6163cd5b460b763450cd80af26e
+Patient Name 08b03557b817ebff5ad10c6235ad43863c203811cc9bc9f4455c0193 45/Y. DR. KONDAIAH. DY.CS.
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date f07e6336e4b987051825dd33b071131f03615d71550c4edb8bf6f600
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+Bony cage and soft tissues appear normal
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

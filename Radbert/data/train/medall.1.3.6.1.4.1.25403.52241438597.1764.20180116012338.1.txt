@@ -1,0 +1,25 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 5 fonts total
+
+-----------------
+ DIGITAL X-RAY CHEST PA VIEW 
+         
+The trachea is in midline.
+         
+HEART: CTR within limit. Aortic knuckle show faint calcification.
+         
+LUNGS: Per bronchial cuffing seen.
+         
+Bones of the thoracic cage are normal.
+IMPRESSION:
+v       
+Mild bronchitis.
+v       
+Athero sclerotic aorta.
+        
+
+ DR.M.Alavudeen., DMRD  
+ 
+ Consultant radiologist.
+
+

@@ -1,0 +1,30 @@
+Patient ID 7e7d9672b70437c71869147fb2954873a7f6a8569731ea4ec7ca0256
+Patient Name 196e2e582a6c801506122cdc0da40d89536b839498c835bdd7b6efdc
+Age :58 Years
+Sex :M
+Accession Number e89e32cd9103b38e52f1b02de2b5a9a233435b4463afd258dbd44779
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 4a0b75d0ca2163fb09dc75cc93ecf9248ef59aae268fec5657312016
+
+
+
+
+
+X-RAY CHEST 
+OBSERVATION:
+Blunting of left and right cardio-phrenic angles is seen suggest pleural effusion.
+The cardiac size is enlarge -  cardiomegaly .
+Diffuse patchy consolidation noted at right  lung zone - Infective
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+
+IMPRESSION :  Blunting of  left and right CP angles suggest pleural effusion.
+
+ADV USG THORAX. 
+ 
+ 
+Date: 03-Mar-2020 17:02:50

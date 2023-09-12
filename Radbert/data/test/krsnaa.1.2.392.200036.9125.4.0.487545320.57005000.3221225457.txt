@@ -1,0 +1,27 @@
+Patient ID 7187048abfa4438de59194dd452a94bfa9e95a8c1179722d31ef82a6
+Patient Name cf435d9fe495e4cd9720cdc7ebf737a71eef0f833d5e5e0111c14fb1 70y ca
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date d163921adef2bf76079a1e3a4a4e79cf88ac22e824d3ee8677563154
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Inhomogeneous consolidation noted at left mid lung zone - Infective etiology
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+

@@ -1,0 +1,31 @@
+Patient ID 19d3c634e7ddd662e92640a64598e34600fff79bcb1807bf7ab7a68a
+Patient Name 057aa13653682af15cb9d4e5cd023495ff3d454d4d8019ca96e3abc4
+Age :76 Years
+Sex :M
+Accession Number 5e3117cf2bbc470c880f27ced0fecfe5ecead852eed0d043d8eb236b
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 709944fb88fbe251907776bbc0075ccdea74ddbe6bb2614213a2a07f
+
+
+
+
+
+X-RAY CHEST
+OBSERVATION:
+Blunting of  left cardio-phrenic angle is seen suggest pleural effusion.
+Suspicious fracture noted at distal shaft of clavicle on left side.
+The lung fields are clear.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+
+IMPRESSION :  Blunting of  left CP angle suggest pleural effusion.
+Suspicious fracture noted at distal shaft of clavicle on left side.
+
+ADV USG THORAX.
+

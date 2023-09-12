@@ -1,0 +1,21 @@
+
+Patient ID 787a58f3895d6e811054b9f76acaeb0a461c689ba6983d95c8cdba78
+Patient ID 2e2594068b2420c1346c16b136564b4379962e9d258df23e0c2d66d5
+Patient Name 47ada04f4918a0605326955017ddb85c7ab05b80b053fc1e4984d553
+Age :52 Years
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 44c0d5f8cd7a36df22b87762bade15fab0549e2303357f6339ad5390
+Study :CHEST PA
+Study Date 7dc5ca1569774ad09c1c261384ad5670799e7acc7bdf6c84c625f85b
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows opacity left upper zone adjacent aortic knuckle.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

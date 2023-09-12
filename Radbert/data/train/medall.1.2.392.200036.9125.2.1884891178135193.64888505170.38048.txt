@@ -1,0 +1,28 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+PLAIN X-RAY ABDOMEN - ERECT VIEW
+
+"        
+Colon distended with gas & fecal matter.
+"        
+No abnormal air-fluid level or dilated small bowel seen.
+"        
+No evidence of air under the diaphragm is seen.
+"        
+Properitoneal fat line appears normal.
+"        
+No abnormal radiopaque shadow is seen.
+"        
+Visualised soft tissue shadows of the intra-abdominal organs appear normal.
+ 
+
+
+
+
+DR.SYED INAAMULLAH.,DMRD.,(DNB).,MD.,
+ CONSULTANT RADIOLOGIST.
+
+
+

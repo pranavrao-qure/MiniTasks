@@ -1,0 +1,33 @@
+
+Patient ID 6bb7e0d278f65208460e1c771ade887e0fd79c0db768948000ba8160
+Patient ID 3857bdff77d7b48ab51ab10e5ddab3e4800cff03ad5cc1bc312eecb7
+Patient Name a081dd58f466aa88c20900a38f9143165af96eca53c14916183a6427
+Age :70 Years
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 4091451d53603ac9bb302d18653fb041839b4df93149d9569956fba9
+Study :CHEST.PA
+Study Date c4dc64b6d499b01b845d4050040d4441baac0f51146e5b7a5dc44531
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+POOR IMAGE QUALITY.
+
+Lucency noted at mid shaft of left clavicle - ?  Fracture .
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation. 

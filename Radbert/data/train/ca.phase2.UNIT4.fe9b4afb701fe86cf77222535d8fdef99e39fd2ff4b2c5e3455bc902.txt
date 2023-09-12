@@ -1,0 +1,22 @@
+X-ray Chest PA view:
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+PLEURA: Bilateral pleural effusions, right > left.
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Bilateral pleural effusions.
+
+
+Correlate clinically.

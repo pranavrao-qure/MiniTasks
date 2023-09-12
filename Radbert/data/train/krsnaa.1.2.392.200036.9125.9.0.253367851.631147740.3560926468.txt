@@ -1,0 +1,40 @@
+
+Patient ID 39fc51d73aa7e613813bd8a0e8df3917b0c18f27a73bc51b3e0c45b5
+Patient ID 19d88f452ebc1b4d1f8a6113af9a787651fb26b59efa899dd8b09b9d
+Patient Name 85af17cd9688822cae4b2c767feaf24ef1812a108ecc5de4b3c22130 43/M
+Age :
+Sex :M
+Accession Number 872b336603f9498bab9bb4034d2621ec6b5fece5bde37fcf02353cbe
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 0f4080e80572ae9fba8bc147214608dfb2da94d4d4c3f15aa3142ade
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS :     
+  
+Other Lung fields are clear. 
+ Prominent bronchovascular marking noted in left lun g 
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ 
+    Suggested clinical correlation and follow up.
+ 

@@ -1,0 +1,24 @@
+X-ray Chest PA view:
+
+LUNGS: Well defined heterogenous opacity measuring approximately 1.8x1.6cm in right basall region. Surrounding lung is normal. 
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+29Year old male for health check up
+X-ray of the chest PA view shows a well defined opacity in right basal paracardiac region - Pleural thickening / parencymal. 
+Opacity not present in chest x ray dated 08.08.2009
+Recommended fuurther evaluation with CT as clinically indicated 

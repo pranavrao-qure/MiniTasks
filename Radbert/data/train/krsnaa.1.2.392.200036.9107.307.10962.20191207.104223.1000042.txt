@@ -1,0 +1,57 @@
+Patient ID 0f4bffe742f8ac05b6586becef1e515c4fb237b4bf866216a94befde
+Patient Name 555220aa29b2eb4f536ecfe1419dbce08358fc61714be0a367c9aa45 33Y/F
+Age :
+Sex :F
+Accession Number 9e3370e7214493c6c4641b0c44db42da67e54b49fb857e9682087caf
+Modality :DX
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :ChestErect PA
+Study Date 99e134bc3d4c09fc4f3f8003c52cb3ccc438986eaaac00856ff30b8e
+
+
+
+
+
+CHEST RADIOGRAPH PA VIEW
+ 
+Bilateral lung parenchyma and broncho-vascular markings appear normal.
+ 
+Bilateral domes of diaphragm appear normal and are smooth in contour.
+ 
+Bilateral costo phrenic  angles  and pleural spaces appear normal.
+ 
+Cardiac size could not be evaluated on AP view.
+ 
+Visualized bones and soft tissues appear normal.
+ 
+No evidence of lymphadenopathy / mass lesion /effusion is seen.
+ 
+Visualized portion of upper abdomen appears normal.
+ 
+IMPRESSION  : NO SIGNIFICANT ABNORMALITY IS SEEN IN THE PRESENT STUDY.
+ 
+For clinical correlation.
+
+
+
+
+
+X-RAY CERVICAL SPINE AP AND LATERAL VIEWS
+ 
+ Loss of lorosis .
+ 
+ IV disc spaces are normal
+ 
+ Marginal degenerative osteophytes noted at C4 to C6 vertebral bodies
+ 
+ Spinous process appear normal.
+ 
+ Heights and densities of vertebral bodies are normal.
+ 
+ Pre and para vertebral soft tissues normal
+ 
+IMPRESSION : EARLY   CERVICAL SPONDYLOSIS.
+ 
+For clinical correlation. 
+
+

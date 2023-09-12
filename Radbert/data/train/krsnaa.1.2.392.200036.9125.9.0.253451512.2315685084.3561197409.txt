@@ -1,0 +1,21 @@
+
+Patient ID 9738ec12c4252ec8a161ede863cdc6782865be424c79fb983a6ef6f0
+Patient ID 1ead027f38434bd5a612e2b30ca52f33c62a107abae724e29709d47d
+Patient Name 0cbd8dfba2b51b70897c56806ff5af94a8cd2a3092760f90135d84da 57/Y. DR. RAGHU. CAS.
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 15148297b53c4113ea38ce642d1118995c77440de4e60fb4bf2915de
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows opacity right hemi thorax with shift of heart and trachea to same side and obliteration of the right dome and CP angle and pneumatocele right upper zone - Chronic Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

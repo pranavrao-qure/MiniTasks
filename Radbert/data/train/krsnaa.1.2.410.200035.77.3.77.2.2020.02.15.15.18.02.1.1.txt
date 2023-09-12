@@ -1,0 +1,35 @@
+Patient ID e5290eeb9d7daea182b19627c11482b68a33e044b31d7c0f9fab5487
+Patient Name 4f997128a8d3b35bde0f0b29dff441bf3aedcc0b46ece7e52b8bf68c
+Age :
+Sex :M
+Accession Number 38aa64d6be9cab0c678d443e7ff512a3a03e7eaeca368f4a3164faf0
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 0f66515d1b762a966cffc323b821cb75966ef8ce91eb9bade9f93adc
+
+
+
+
+
+X-RAY CHEST 
+
+
+Mediastinal widening noted.
+Unfolding of aorta noted .
+ECG leads noted
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Unfolding of aorta noted .
+Suggested clinical correlation.
+
+ 
+Date: 15-Feb-2020 15:42:31

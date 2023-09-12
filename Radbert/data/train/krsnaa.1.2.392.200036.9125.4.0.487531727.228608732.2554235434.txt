@@ -1,0 +1,30 @@
+Patient ID d6ea4419303e9cadd2db4a5aac8a75165352e1b67b927cc43520c281
+Patient Name e846cb00e2463130cf4769b8bd84762ac64799d19cea183be8aa672c 30YRS- CHEST
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 617423244524feb140dd315ed903d24269ca369f640eace172bed1a9
+
+
+
+
+
+X-RAY CHEST PA 
+ 
+Both lung fields show increased broncho-vascular markings.
+Soft tissue infiltrates are seen in both upper zones.
+Both hilar shadows and C.P. angles are normal.
+Heart shadow appears normal in size. Aorta appears normal.
+Bony thorax and both domes of diaphragm appear normal.
+ 
+Findings suggest Koch’s likely.
+ 
+
+
+
+
+
+

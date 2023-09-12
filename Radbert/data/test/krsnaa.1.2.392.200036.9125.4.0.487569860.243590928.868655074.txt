@@ -1,0 +1,28 @@
+Patient ID fc26dd743c8e3abdc917f732eda4add029b046cd2323a1f4bcae6342
+Patient Name 83c5045f4e334cbfd67e0adb097b3bc451268df9f70e67e63ae406ce Rajni30y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 52e7d56fc5bac8e19883d88f6b1e904ef5f4282c95e0bd7a8a496668
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+POOR IMAGE QUALITY
+
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+
+

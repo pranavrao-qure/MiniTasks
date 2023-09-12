@@ -1,0 +1,33 @@
+Patient ID 53d906840d2bd268c75be9ca13b1d1ccdf15329325d5dbb544810edd
+Patient Name 0ee9f3ae510035d243e399689a20893a0a3986a0c456a0e90ed55644 66 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 28352c64aa3ef779929f0951368c5efdf78f0fb6c2ab9e4367ab5ae4
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at right upper lung zone - Infective
+
+Fibrotic opacities noted in bilateral upper zones.
+Right CP angle is blunted- Pleural effusion.
+
+Unfolding arch of aorta noted.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Rest of lung parenchyma are normal.
+For clinical correlation. 
+
+
+ 
+ 
+Date: 17-Feb-2020 17:11:26

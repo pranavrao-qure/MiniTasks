@@ -1,0 +1,22 @@
+
+Patient ID 8b06bb749a53623b4a09f51708cf8e379ffcd1c04728c1c0ceeed8e1
+Patient ID d84e4b031f8fcf35f7ac014116d3bb0bbabe1bf98feddbe2df84e6aa
+Patient Name 702e076ed364a3bba2996c696d402268468d1a9eab2eae7e33d51c4c 30Y DR LAKSHMI
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date fe507ab5d3c19fc3e94c19a020302399028951eba6e1e229a261e8de
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

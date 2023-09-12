@@ -1,0 +1,29 @@
+Patient ID 0626161df32fb56105a06ff2c5b73fe079b97389fb9c7417e8d5d54c
+Patient Name 6eceba144dc0febcb74637550f33d4e5b199b53821adb6e5cd328b01 42YRS DR M K SHUKLA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bff82b3cb92b2602a4fb8913a99995e2b2a6472c2304b8186a1d5c31
+
+
+
+
+
+                                            X - RAY CHEST 
+External artifact noted 
+Prominent bilateral hilar shadows noted.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Prominent bilateral hilar shadows noted.
+For clinical correlation. 
+
+

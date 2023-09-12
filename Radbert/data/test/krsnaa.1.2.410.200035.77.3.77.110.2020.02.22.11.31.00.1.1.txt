@@ -1,0 +1,34 @@
+Patient ID 81dd205806fb611711607d78eddab6402588da2d128e445d049a1ab7
+Patient Name ab81ef95f1081638d93b495d43072c3d3404a22a9509afd61b0cdf0e
+Age :54 Years
+Sex :M
+Accession Number 01b9ac6a345b9094adeb1ac82e4ba6145d76b56760e330c739cbc0ef
+Modality :CR
+Referring Physician 40826a4f12f4a288f283b574a5302e641a60f2c070fa41b0117cc680
+Study :CHEST-PA
+Study Date 9274b7d0b3e6ac187a532b303d6366ce8e172b2ba5ee4ada5fbbba1b
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Fracture noted at 4th to 9th ribs on left side likely suggestive of flail chest .
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Fracture noted at 4th to 9th ribs on left side likely suggestive of flail chest .
+Suggested clinical correlation.
+
+
+ 
+ 
+Date: 22-Feb-2020 11:46:52

@@ -1,0 +1,22 @@
+X-ray Chest PA view:
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Moderate cardiomegaly is seen. Tubular opacity seen in the interclavicular region in the midline of unclear origin.
+PULMONARY HILA: Normal. 
+AORTA: The aorta is ectatic. 
+
+VISUALIZED BONES: Degenerative changes of the spine are noted. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal. 
+
+Report Impression: 
+Moderate cardiomegaly. Recommend clinical correlation. 

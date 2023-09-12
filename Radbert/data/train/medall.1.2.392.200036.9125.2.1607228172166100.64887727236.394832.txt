@@ -1,0 +1,33 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 5 fonts total
+
+-----------------
+X-RAY CHEST (PA VIEW)
+
+
+The cardio thoracic ratio is normal.
+
+The lung fields show normal broncho-vascular markings.
+
+Both the pulmonary hila are normal in size.
+
+The costophrenic and cardiophrenic recesses and the domes of 
+
+diaphragm are normal.
+
+Degenerative changes in the spine.
+
+
+IMPRESSION : 
+
+v       
+No significant abnormality. 
+
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6458 by 1931, depth 1
+pict001.wmf
+Dr.Vitsizono Mepfhuo, MDRD
+Consultant Radiologist
+
+NA
+

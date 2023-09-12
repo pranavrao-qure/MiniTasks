@@ -1,0 +1,25 @@
+
+Patient ID d7f4ef9f5381dcc94361ff5499122224ada8362436179410881ee5f9
+Patient ID 82ff4e2348dbb052e37b20c451567d7e75f366570d194786f4f4d47d
+Patient Name 21c6776a11a71597206a5a0a2e431b5f9eb9f49a0a0b00480e6ad2fc
+Age :60 Years
+Sex :M
+Accession Number 531dd5cb41050ed9059562004fb0cedcfdc1f70474882f6f8f7bbe01
+Modality :CR
+Referring Physician 0ea4acd605957cb01c5496ee59a1f7d86f6415f08f96e0df1c822ef8
+Study :CHEST PA
+Study Date 37413ae4c75d8bfa5e68acf9ad5be3139ecfcb61406213f0b93cf627
+
+
+
+
+
+
+ 
+ 
+
+Ill defined non-homogeneous opacities noted in left lung  parenchyma with volume loss , tracheal deviation and mediastinal shift towards left side  - Chronic Infective.
+ 
+Rest of lung fields are normal
+   Both CP angles are clear.
+   For clinical correlation. 

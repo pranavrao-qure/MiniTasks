@@ -1,0 +1,31 @@
+
+Patient ID 17fa3a53af6d279ed53565da301629c67825c865e0749044671ed4af
+Patient ID 28462738a3beea9586c9eef8925dcfa14c418f1c694e55476d8b97fc
+Patient Name 910f10b5d66cfda028e4413e2e438ec00034395a01a6bb76f1704c26 65Y/M Dr SHAREEFULLA  MD
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date bd6653a20b2a5b1f3bab6a11eedfb1695f3f5ca30f8497f10a5923e5
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+Bony cage and soft tissues appear normal
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation.    
+

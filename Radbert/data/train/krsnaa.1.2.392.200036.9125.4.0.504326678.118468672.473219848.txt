@@ -1,0 +1,26 @@
+Patient ID 084eae12d644f63ca65d54f2dd2939f5cc14acdc4f39054f5c23e6a7
+Patient Name 01f8c37f6ca535348af6c017b863158fbc145179ecf641d9a9e411e2 15 Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 419929f7288d33aeb7546487cd90c9f04e070f17531126dea8322eec
+
+
+
+
+
+X-RAY CHEST 
+OBSERVATION:
+ 
+Fine reticular opacities with nodular infiltrate noted in bilateral lung fields Suggestive of infective etiology? Viral.
+Thick walled cavitatary lesion / Patchy inhomogenous opacities noted in left mid zone - Infective.?
+  Aortic knuckle calcification noted.( age related) Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION: 
+Above x-ray film findings suggestive of infective etiology? Viral.
+ADVICE-Complete Blood Count.
+
+

@@ -1,0 +1,31 @@
+Patient ID aeca4418e8f7829facc3b772833fb618e1ba9265e3cc1adac42215f4
+Patient Name 071f8cdeb9e26037a947939a8d7f164028b3fd02e42841dc3278025e KALITA30YS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 42bd556e9c3f73e95a25452841db9c73d516f6a68668ad6cf35453d4
+
+
+
+
+
+CHEST RADIOGRAPH PA  VIEW
+ 
+Bilateral  broncho-vascular markings appear prominent .
+ 
+Bilateral domes of diaphragm appear normal and are smooth in contour.
+ 
+Bilateral costo phrenic  angles  and pleural spaces appear normal.
+ 
+Visualized bones and soft tissues appear normal.
+ 
+No evidence of lymphadenopathy / mass lesion /effusion is seen.
+ 
+Visualized portion of upper abdomen appears normal.
+ 
+For clinical correlation.
+
+

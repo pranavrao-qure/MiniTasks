@@ -1,0 +1,31 @@
+
+Patient ID 3f814520871b21a23b33d54f6eeef67d6bcdb255ca1d0a71dcd7f5f7
+Patient ID 46f1ea731100a5b991009162722bf9f0ba14928b4857b529e6584478
+Patient Name 9d470c62e40fa570c2da2467cf27406e421a89f800a128f095f533e3 45/F
+Age :
+Sex :O
+Accession Number eb5e703ff6de9aeb992647adabb382c5906dd3d903ec8a025cd4945a
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 22256c3814ae96c4774dc5e1210a7bba978097ebb7514572e122510a
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis at right lower zone - Infection.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+
+
+For clinical correlation. 

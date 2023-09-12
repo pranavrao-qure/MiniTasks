@@ -1,0 +1,34 @@
+X-ray Chest PA view:
+
+Compared with previous chest x-ray dated 9-06-2014. 
+
+LUNGS: There is decrease in opacity in right lower zone compared to the previous X-ray.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Bilateral mild pleural effusion seen. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+X-ray of the chest PA view:
+
+Compared with previous chest x-ray dated 9-06-2014. 
+
+-There is decrease in opacification in the right lower zone compared to the previous X-ray, a small amoun still remains. 
+- Bilateral mild pleural effusion seen.
+
+Recommend clinical correlation. 

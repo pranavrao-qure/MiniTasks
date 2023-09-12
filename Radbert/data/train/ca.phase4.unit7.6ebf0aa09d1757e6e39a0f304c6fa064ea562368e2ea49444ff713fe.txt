@@ -1,0 +1,25 @@
+X-ray Chest PA view:
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Arch calcification noted. 
+
+THORACIC SPINE: Degenerative changes noted.
+OTHER VISUALIZED BONES: Mild osteopenia noted. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal. 
+Report Impression: 
+66 Years old female with CVA,
+
+X-ray of the chest, PA view, does not reveal any obvious significant abnormality.
+Recommend clinical correlation.

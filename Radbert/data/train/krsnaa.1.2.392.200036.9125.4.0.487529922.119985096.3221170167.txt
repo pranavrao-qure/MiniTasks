@@ -1,0 +1,31 @@
+Patient ID 91cbc4ee1bba961bde8570a5e6b7e2d5688cf881db723bc2669ce08f
+Patient Name 73e806712154f3fba4650c4bf17d4572a0424fd8d62578bde7391026 18Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 24b3c9163e059b99b40c1622712d928ab4cee273470fe183a7539bc1
+
+
+
+
+
+X-RAY CHEST
+
+trachea shift to the right side
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+The pleural spaces are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is enlarge -  cardiomegaly 
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  :
+The cardiac size is enlarge -  cardiomegaly 
+ADV : 2D echo
+scoliosis noted.
+
+ 

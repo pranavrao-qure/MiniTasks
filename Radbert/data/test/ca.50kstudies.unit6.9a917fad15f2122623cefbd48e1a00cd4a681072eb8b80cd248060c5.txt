@@ -1,0 +1,26 @@
+X-ray Chest PA view:
+
+LUNGS: Stable haziness and bronchial wall thickening in the right lower zone.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: are prominent, unchanged from prior.
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal. 
+
+Report Impression: 
+There is haziness and bronchial wall thickening in the right lower zone, likely infective.
+Compared with prior chest xray dated 12/9/2011, no change is noted.

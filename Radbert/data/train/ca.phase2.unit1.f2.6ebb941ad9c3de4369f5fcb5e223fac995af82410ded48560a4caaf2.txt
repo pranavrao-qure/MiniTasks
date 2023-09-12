@@ -1,0 +1,27 @@
+X-ray Chest PA view:
+Rotation to left.
+
+LUNGS:  patchy opacity in the right lower zone.
+-- Right basal atelectasis.
+-- Right hilar round density likely to be vascular.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Right mild pleural effusion with pleural thickening noted. 
+
+HEART: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Degenerative changes of the spine are noted. 
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Left hemidiaphragm normal.
+Report Impression: 
+--  Patchy opacity in the right lower zone.
+--  Right mild pleural effusion with pleural thickening  and basal atelectasis.
+
+
+Recommend clinical correlation and CT as indicated. 

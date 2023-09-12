@@ -1,0 +1,31 @@
+
+Patient ID 0e21903ff3c6eb1914a7c19874bc506f37324f414aa66027565d3291
+Patient ID f7f73c5b0409c85f7c21e81767156cc0ff91f60b525b640cd56d952f
+Patient Name 55242f5506e5e36a6cff66ac417fd3c55153b4f3b9104135fb9d6115 3DAYA/M
+Age :
+Sex :O
+Accession Number ce34e387cdcd4937ee8e90cdc2af6270314d501d0ff72b0f34c4f3f7
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date ed8246aaf12d0e06cb3b633d6909545e109f3b154d00f8694c34c15e
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at right lower zone - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+
+
+For clinical correlation. 

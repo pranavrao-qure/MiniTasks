@@ -1,0 +1,30 @@
+Patient ID 7b5bc6304825ea08ba89f26afc225029b148f068ea3e8ac6df4e3da4
+Patient Name d97a33a962297889e2b8efb8caf52ed131bd6fb7d48d14b3b05d1671
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bf2ca8e7decd3ab0b3b65076509d7866573f8071d1e9e4c559cbb3be
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+Both hila normal in density. Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+X-RAY ERECT ABDOMEN   
+FINDINGS :
+No evidence of air under the domes of diaphragm.
+No evidence of abnormal dilatation of bowel loops.
+Properitoneal fat planes normal. 
+IMPRESSION:    NO SIGNIFICANT ABNORMALITY.
+         Suggested clinical correlation & follow up.  
+ 

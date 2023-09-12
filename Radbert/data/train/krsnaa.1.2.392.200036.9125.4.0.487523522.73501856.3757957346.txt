@@ -1,0 +1,29 @@
+Patient ID 94b97d4a5448958d269751892abedd1add161f4d51d59c68bc224677
+Patient Name 67007887a39afd2e501cb01a30d5328dd8869d1a0c4b10adc3dc0e9c 90Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 24b3c9163e059b99b40c1622712d928ab4cee273470fe183a7539bc1
+
+
+
+
+
+CHEST X RAY (PA VIEW)
+CLINICAL HISTORY  – Clinical Details not available 
+OBSERVATION:
+Bilateral bronchovascular markings are prominent.
+Bilateral hilar prominence 
+Bilateral pulmonic plethora .
+Bilateral hazy radio opaque shadow – consolidation pneumonitis.      
+Bilateral apical hazy infiltration .
+Bilateral radio opaque spiculated mass lesion.  
+Thoracic soft tissue and skeletal system appear unremarkable.
+ADVICE :  HRCT Chest Will be more informative   
+
+ 
+ 
+Date: 24-Dec-2019 11:56:18

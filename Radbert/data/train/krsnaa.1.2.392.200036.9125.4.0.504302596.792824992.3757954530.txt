@@ -1,0 +1,31 @@
+Patient ID 5d3016044b76da95123e1c3319c83ecf66697e5cc41c0c79387958c7
+Patient Name 334d4a3450b4958ef0e1d412b9d79ab681be84e7862aa45e2237d6af 40Y RNO 6981
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date afa30c6bacb9b5b4d53fd2cdc2256f913accbe11e03a06d0a2aeacfd
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Patchy consolidation noted in left lower lung zone.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Patchy consolidation noted in left lower lung zone.
+Suggested clinical correlation.
+
+

@@ -1,0 +1,29 @@
+Patient ID 598f1784af31acea8e59ac75b1fee1c4a64d9ff2eac90d4aac87ba61
+Patient Name 60a955ee7a8e3f69acef7d0c5429e50288029cf992205587caff40b6 55Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 617423244524feb140dd315ed903d24269ca369f640eace172bed1a9
+
+
+
+
+
+X-RAY CHEST PA
+
+Prominent Bronchovascular markings noted bilaterally 
+E/o tiny calcification ar bilateral hilar and lower zones .
+? Thin walled cavity at right lower zone ADV HRCT 
+The pleural spaces are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+
+
+
+

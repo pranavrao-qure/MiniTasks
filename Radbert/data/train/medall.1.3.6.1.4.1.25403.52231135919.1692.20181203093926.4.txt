@@ -1,0 +1,40 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+X - RAY CHEST PA VIEW
+ 
+LUNGS:
+Both lung fields are clear.
+Vascular markings are normal. 
+Tracheal air lucency is normal.
+No evidence of abnormal hilar opacities.
+Costophrenic angle recesses are normal.
+
+CARDIA: 
+Cardia is mildly enlarged.
+Diaphragm, Thoracic cage, soft tissues are normal. 
+
+IMPRESSION: 
+
+¬        
+MILD CARDIOMEGALY.
+
+
+ 
+
+
+DR. ANITHA ADARSH       
+        
+        
+        
+        
+ 
+CONSULTANT RADIOLOGIST
+AA/SV
+
+
+
+
+
+

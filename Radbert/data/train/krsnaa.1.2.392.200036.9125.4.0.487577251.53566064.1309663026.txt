@@ -1,0 +1,70 @@
+Patient ID 92e90e5a2fa7828c492a90efaff061045dad78f6752e5a2777515301
+Patient Name 9bc8896bfefca22ab2c1e92f5d0422a2a10a78a28ff5be32c84c6b0d 48YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 80a9f1287ce56949141af052e878511380f2af77c9752055c3313d61
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+                                     X-RAY KNEE (AP & LATERAL VIEW)      
+FINDINGS :   Alignment of knee joint is normal.   Articular margins and joint space is normal.   No obvious bony injury.   Bone density is normal.    IMPRESSION : NO SIGNIFICANT ABNORMALITY   Suggest clinical correlation and follow up
+ 
+X-RAY SHOULDER
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY SKULL (AP & LAT)
+ 
+ 
+FINDINGS :
+ 
+Skull vault and diploic spaces appear normal. 
+Sutural and vascular markings appear normal. 
+Sella appears normal in size. 
+No obvious bony injury / erosions noted. 
+ 
+No pathological intracranial calcifications noted.
+ 
+ 
+  IMPRESSION  :  NORMAL SKULL RADIOGRAPH.
+ 
+Suggested clinical correlation & follow up.    

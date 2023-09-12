@@ -1,0 +1,35 @@
+
+Patient ID 98b9e9259e93b568ef3981243f4aa0bcd6d9c24380dcd0901114cb44
+Patient ID e5cedaccae7996ad6b7011aa8af8329f982008910602d1e263225feb
+Patient Name efaf589a34b57fbe60e98c75cfad6ad34be396026f4305fe8a59c598 55/F
+Age :
+Sex :F
+Accession Number 4601f51dea178fdbd2b55900f2518e0521f856b79918623e64515630
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 2adac60cf12cb4a63e4adb7aa96dfb98d3ae3c3819b31f15277aff5c
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Homogenous opacity noted at left lower zone with blunting of CP angle - Pleural effusion.
+
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+ 
+
+
+
+
+

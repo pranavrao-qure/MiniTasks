@@ -1,0 +1,9 @@
+LUNGS: Normal.
+HEART: Normal.
+PLEURA: Blunting of right costo-phrenic angle is seen suggesting minimal right basal pleural thickening.
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal.
+VISUALIZED RIBS: Normal.
+SOFT TISSUES: Soft tissue swelling is seen around right lower lateral chest wall.
+DIAPHRAGM: Normal.
+VISUALIZED ABDOMEN: Normal.

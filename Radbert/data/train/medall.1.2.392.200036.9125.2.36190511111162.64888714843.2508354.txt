@@ -1,0 +1,32 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+
+Focal patchy consolidation in left apical zone is noted. 
+Trachea appears normal.
+Cardiothoracic ratio is within normal limits.
+Rest of the bilateral lung fields appear normal.
+Costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+Extra thoracic soft tissues shadow grossly appears normal.
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 16233 by 15956, depth 1
+pict001.wmf
+Dr. V. Sudhakar. MD., RD
+        
+        
+        
+        
+        
+        
+Consultant Radiologist
+        
+        
+        
+        
+        
+        
+
+
+

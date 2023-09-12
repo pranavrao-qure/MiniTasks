@@ -1,0 +1,22 @@
+
+Patient ID 73376c54f267a2ebc64cf1f07cc4ca0eff0d4c93761d9e0713a9563b
+Patient ID dac21f3c92761ac5e9ae8910633b277c0427b5d45fb87c7e7c1bec9d
+Patient Name c5afb0ccaecba9bd4ccedaf76c60825e221ed6ae8ea004a87839b788 60Y DR LINGANNA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 0f66515d1b762a966cffc323b821cb75966ef8ce91eb9bade9f93adc
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows ill defined opacities left side of the lung and right upper zone - Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

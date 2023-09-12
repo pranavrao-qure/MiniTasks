@@ -1,0 +1,29 @@
+
+Patient ID 30782134e93d128449e40001aaa842de8c923e723aa77e0cdcaf3fa5
+Patient ID 9f1a9d35d6016ade98a204ff9b34b8a2c8b6f8eb333bf7f9376cecf8
+Patient Name 664d5d28392de49941719088654401178ce95b99a85169d2d023e3ea 58Y ART OP
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 4e350e833b1adae7981c1636c1c45ad19b2e186d98fac1e7a8ff2ef1
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Calcific nodular opacities noted in left upper and mid zones - Infective.
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

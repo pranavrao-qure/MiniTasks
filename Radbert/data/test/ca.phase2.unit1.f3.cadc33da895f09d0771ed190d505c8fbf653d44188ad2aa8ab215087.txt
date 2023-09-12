@@ -1,0 +1,31 @@
+X-ray Chest PA view:
+
+Comparison is made with the previous chest X-ray dated 30/04/2014. 
+
+LUNGS: Minor haziness persists in the left base. 
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+45Year old female 
+
+X-ray of the chest:
+Comparison is made with the previous chest X-ray dated 30/04/2014. 
+Minor haziness persists in the left base. No significant change since the previous radiograph. Recommend clinical correlation. 

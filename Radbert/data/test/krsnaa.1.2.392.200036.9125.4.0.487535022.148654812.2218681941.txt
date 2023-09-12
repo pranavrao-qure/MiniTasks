@@ -1,0 +1,25 @@
+Patient ID 1d93bdb133b02957f42c031c4cf14d27ba9efdca77505b216d533e54
+Patient Name 36d9e7059c9c00d98bbbff0e2c30261aecbbffc9e1e40d3587d3fa5a 23 YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 9ce3f866dcfd9d5757259143a19ad91c22e303702a53ec837389bfe4
+
+
+
+
+
+                                            X - RAY CHEST 
+subtle haziness noted right hilar region   
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation.  and  follow up 
+
+
+

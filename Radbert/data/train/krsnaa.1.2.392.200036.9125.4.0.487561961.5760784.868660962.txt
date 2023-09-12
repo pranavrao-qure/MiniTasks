@@ -1,0 +1,30 @@
+Patient ID 623c2a51c740bb98ed4ba834f110ab12a8f748d9292e0cea641fd74f
+Patient Name cc89fd5310110b96374f52bc7960a0ec889c94a70d5b5670e9946aee 60Y DR M KUMAR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 37413ae4c75d8bfa5e68acf9ad5be3139ecfcb61406213f0b93cf627
+
+
+
+
+
+X-RAY CHEST 
+OBSERVATION:
+Blunting of right  cardio-phrenic angle is seen suggest pleural effusion.
+The lung fields are clear.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+ 
+IMPRESSION :  Blunting of right CP angle suggest pleural effusion.
+ 
+ADV USG THORAX.
+
+

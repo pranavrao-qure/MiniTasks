@@ -1,0 +1,26 @@
+
+Patient ID e7027adc064d7c40f80fb86835014d596287dd8cf621495bc20ff3af
+Patient ID 1574d417a52c689dbc00b788e5f2f9ca46fa70bed36b6affbeb46857
+Patient Name 3467e0cd4ed6b7b48703e3dcc552ac2ba9dc5093a80a1ece81e46780 75yrs/ 6495 /ICU/Asthama
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 083e64bbd95eb1e5c06d50601a9b67b4f9c232775268a37b8d843da3
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette enlarged.          
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 

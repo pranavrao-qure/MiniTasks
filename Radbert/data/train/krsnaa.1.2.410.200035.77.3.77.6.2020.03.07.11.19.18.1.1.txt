@@ -1,0 +1,30 @@
+Patient ID b08724d95f76034987414d7d067668dbec673c91cd8b276c30e286cc
+Patient Name f62366307c3f5ad3853ed6f448188dd4b4db27375d0631c7e117af7d
+Age :75 Years
+Sex :M
+Accession Number 31dd537d3bd24a81c6e417479427d8100b27a5b289c5b09fc4c5593c
+Modality :CR
+Referring Physician 344d8b9be3cff48d5f0bfaaf4d15f7dceb6fa2f4f0a22497745906e0
+Study :chest pa
+Study Date 65998a0d93a1247a02bb4391be0e3a2c668e7e23d0e8d6fe7e3abdfe
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at right upper and mid lung zone - Infective
+Aortic knuckle calcification noted.( Age related)
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+IMPRESSION:
+Patchy consolidation noted at right upper and mid lung zone - Infective
+For clinical correlation.  
+ 
+ 
+Date: 07-Mar-2020 11:43:17

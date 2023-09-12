@@ -1,0 +1,36 @@
+Patient ID baa294e9e0e7cbe2bbca7a8cb195ec8db4f265c3d2d089ff0e762e74
+Patient Name 7abd509d53e52eae5dc18e88533f86e56149f3328f8703d7329154d1 39Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date a02dd7083d590a0cd082510d9c9d013a6e2bff4ad49387e85ca93c93
+
+
+
+
+
+X-RAY CHEST PA VIEW
+ 
+FINDINGS :       Lung fields are clear.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.
+  Impression :- NO SIGNIFICANT ABNNORMALITY DETECTED     Suggested clinical correlation and follow up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (AP / LATERAL)    
+FINDINGS :
+Endplate sclerotic changes noted.   Alignment of lumbosacral spine is normal.   Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.
+  Intervertebral disc spaces are maintained.   Prevertebral soft tissues are normal.    IMPRESSION  :   ​​​​​​​Endplate sclerotic changes noted.   Suggested clinical correlation & follow up.

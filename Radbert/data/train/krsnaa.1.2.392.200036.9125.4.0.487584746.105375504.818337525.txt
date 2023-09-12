@@ -1,0 +1,31 @@
+Patient ID acb0ce3ef27d6520b0a42e6bc880948802c2c85899e4b80f33b747f9
+Patient Name 6299a9ecdac81b9e4548b722e1bbcf0a1211cda060ef7d8680fc6da4 17YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c4dc64b6d499b01b845d4050040d4441baac0f51146e5b7a5dc44531
+
+
+
+
+
+CHEST RADIOGRAPH AP VIEW
+
+
+Left mid and lower paracardiac nodular opacities suggests possibilty of infective etiology .
+Difficult to comment in right lung from this photo  ​​​​​​​
+Bilateral lung parenchyma and broncho-vascular markings appear normal.  
+Bilateral domes of diaphragm appear normal and are smooth in contour.  
+Bilateral costo phrenic  angles  and pleural spaces appear normal.  
+Cardiac size could not be evaluated on AP view.  
+Visualized bones and soft tissues appear normal.  
+No evidence of lymphadenopathy / mass lesion /effusion is seen.  
+Visualized portion of upper abdomen appears normal.
+ 
+
+For clinical correlation.
+
+

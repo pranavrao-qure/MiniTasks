@@ -1,0 +1,21 @@
+X-ray Chest PA  view:
+
+The patient is rotated.
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Mild cardiomegaly seen. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: There is a cardiac pacemaker in the left chest wall with  dual leads in place in the right atrium and right ventricle respectively. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Mild cardiomegaly. Recommend clinical correlation. 

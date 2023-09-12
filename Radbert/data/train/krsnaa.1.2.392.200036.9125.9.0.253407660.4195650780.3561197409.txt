@@ -1,0 +1,21 @@
+
+Patient ID cf27722b4b6d9699a7187c6924af3ecb5819f964452a8f83f5c17d7f
+Patient ID 1dbaddc39356dff96da19a4b09d95cde65fa8a884bf92cde1809cf24
+Patient Name 094372b6d6959a2a37ca794e83d90969409176c9a244e0d91192a574 BASHA/29Y.DR.KONDAIAH.DCS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 09f8dba6e28e5f256919bbaf2587f0a681c540e4e1a85509e041e14d
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

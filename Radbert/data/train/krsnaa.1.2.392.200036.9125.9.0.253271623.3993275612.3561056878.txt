@@ -1,0 +1,43 @@
+
+Patient ID 18beb1202f9b2d5b2d73d195595c2510bb364956781872740df15fbc
+Patient ID e30510e8e1ec8cd23dfcd3369c3c81ff89f1b7239c50ec85f89ad031
+Patient Name c44e6b8a3496c74b8198731ff7ad2cbef4b361b371c36a17c1287f64 60 Y REF DRADINAGESH
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date fba536ff92b6f9840a0d2c1f3f00a23c2669ad79d4e27200a28b83de
+
+
+
+
+
+
+X-RAY    CHEST PA VIEW xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /
+ 
+Inspiratory film. 
+ 
+Visualised lung parenchyma appears normal.
+Hasiness noted in the
+right lower zone in the paracardiac region.
+Incrased  Bronchovascular markings
+in both the lung fields.
+ 
+ 
+Both  costophrenic angles
+appear clear. No e/o pleural effusion.
+ 
+Mediastinum appears
+normal.
+Cardiac silhoutte appears normal.
+ 
+No e/o shift of trachea.
+ 
+The bony thoracic cage and other soft tissues structures of chest
+wall appear grossly normal.
+Impression: 
+  No significant abnormality detected.
+ 
+Kindly correlate clinically.  

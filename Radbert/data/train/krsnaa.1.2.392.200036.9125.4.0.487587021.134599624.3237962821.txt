@@ -1,0 +1,19 @@
+Patient ID 7175e77dacf1ae2de1073672e49e81c462cbdcc0a56addfbcfb2dffa
+Patient Name 3f48ea8799f21def65c981b056789c6b06bccd7fd573887438ddba3f 60 YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date fbd8e1b4bc13e92bfde0710daf48e5b9780a11c1dd8154d99fdd6b8b
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :       Patchy fibrosis noted in right mid and lower zones with volume loss, tracheal deviation and mediastinal shift towards right side - ? Sequelae of Chronic Koch’s.   Both hila appear are pulled up.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.        Suggested clinical correlation and follow up.
+ 
+
+

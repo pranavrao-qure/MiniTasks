@@ -1,0 +1,68 @@
+Patient ID 15043028da2d840aa2c1f4d63b9d24bf14ffcbd03fb09144049d573a
+Patient Name 2beb4d6102ebb1a8abc378f8bac0dbb705739cc795ff9a26f221fbff 48YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date d1a7fdbbdb49a28dad28ff27d8d70acced2972f9a5a954b666a4f0d4
+
+
+
+
+
+X-RAY RIGHT  SHOULDER AP/LAT VIEW 
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+
+X-RAY CERVICAL SPINE AP & LATERAL VIEWS
+
+OBSERVATION:
+ 
+Degenerative changes are noted in the form of anterior marginal osteophytes, intervertebral disc height reduction, and end plate sclerosis.
+Alignment of the vertebrae is normal.
+Atlas and axis are normal.
+Atlantodental interspace is normal.
+Prevertebral soft tissues are normal.
+
+
+IMPRESSION:  Cervical spondylosis.
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LEFT FOOT AP & OBLIQUE VIEW      
+FINDINGS :    
+Calcaneal spur noted
+​​​​​​​ The alignment of the foot appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+
+
+

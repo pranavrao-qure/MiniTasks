@@ -1,0 +1,60 @@
+Patient ID 8486290e661adf8f8b1371e7cd4c9e0fb9f08eaff13e736722c5c148
+Patient Name 41c307168f32861f9185f87fee719dfadb835c20169058532ba350da 32
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 4a0b75d0ca2163fb09dc75cc93ecf9248ef59aae268fec5657312016
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY CERVICAL SPINE AP AND LATERAL VIEWS
+
+Straightening of cervical spine likely due to muscular spasm.
+
+ IV disc spaces are normal
+
+ Spinous process appear normal.
+
+ Heights and densities of vertebral bodies are normal.
+
+ Pre and para vertebral soft tissues normal
+
+IMPRESSION :   Straightening of cervical spine likely due to muscular spasm.
+
+
+For clinical correlation. 

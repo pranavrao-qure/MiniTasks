@@ -1,0 +1,32 @@
+
+Patient ID 231fae04b24df9d405516729194ecb9ad36a7ea0d7323577c06e6416
+Patient ID 861f2ff0d83233aa1c3c155e995d46dee65458b2b794d57b0e9ca0e6
+Patient Name fc81bb39325c6419a79f8f91c7f552c82e24359d40f3494e47502e0c 50/Y. DR. SWATHI. CAS.
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date a31b02ddd531621058de7b0f0dff3c591a07b9a17a3a7a319713e93d
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+ 
+
+
+

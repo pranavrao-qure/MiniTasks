@@ -1,0 +1,31 @@
+Patient ID 97196db8ef1358b5d5671bced80361f3f2fed197cad59a2a07680562
+Patient Name bea47f7eac6bbabd766db620b382762039e7e97e08cdae9b06fba73b 40YER
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ab6fbd955b84e999da2ab43d2a240319699679b5eb589efcf72d5d6e
+
+
+
+
+
+X-RAY CHEST
+
+
+Patchy infiltration with consolidation noted at bilateral lung fields likely due to infective etiology like koch's.
+Straightening of left heart border seen.
+Scoliosis noted with convexity towards left side.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Both CP angles are clear.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Patchy infiltration with consolidation noted at bilateral lung fields likely due to infective etiology like koch's.
+

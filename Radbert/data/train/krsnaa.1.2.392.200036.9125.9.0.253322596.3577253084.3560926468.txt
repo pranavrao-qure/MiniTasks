@@ -1,0 +1,29 @@
+
+Patient ID 8995c598c96e2a404747683b0c3f30e8fc8192f766140773e1ae9a06
+Patient ID b01d1bdcc5610497c9772d88553124fcb4ccb83a53d6e40b6bd4ac60
+Patient Name 8bb6ad529b264437d445c31b42ebbccb7defde3fe6f19d21918c99e4 55Y
+Age :
+Sex :M
+Accession Number 0e87a9ed99e0e439bd3598edc447b7c49bbf12242e98a17e63f9b608
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date e6881e7a2a271e7ced5af4f333c5c9fc0abfb99a932f3ecbb6cef528
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Pleural calcification noted at left lower zone -? Old Innfection
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 

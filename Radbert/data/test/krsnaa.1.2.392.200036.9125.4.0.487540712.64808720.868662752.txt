@@ -1,0 +1,32 @@
+Patient ID b72c57055656197e7c32b76d50d982c4477a50c19b06436f2a15c592
+Patient Name ee9eb074bbb61e9fdc658d5732bbbd9effc7222022b891917b6b1839 63y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date d163921adef2bf76079a1e3a4a4e79cf88ac22e824d3ee8677563154
+
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (LAT  )
+ 
+ Anterior and lateral marginal osteophytes are noted.
+The vertebrae show normal alignment.
+  No focal bone lesion is seen.
+  The intervertebral disc spaces are normal.
+  No abnormal paravertebral soft tissue shadow is seen.
+  No abnormal soft tissue calcification is noted.
+  The psoas shadows are well defined and normal.
+   Radiopacity noted at the level of T12  vertebra on  right side.
+ 
+IMPRESSION  : 
+   Radiopacity noted at the level of T12  vertebra on  right side.
+ Anterior and lateral marginal osteophytes are noted, degenerative changes
+
+
+

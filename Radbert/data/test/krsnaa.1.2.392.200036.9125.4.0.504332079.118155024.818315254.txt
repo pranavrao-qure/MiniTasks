@@ -1,0 +1,36 @@
+Patient ID a9a070298e0c3b0068a5cac047da7fde6cf65844cbdc41f2b4416fed
+Patient Name 265d66cc5bc456e5a4bc2fd7cbcf3c3721a23625348dd98a80f01b9d 45Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6b3f1a99bc0641e428aea25288f46c2d9f985603d37a7918aee11bba
+
+
+
+
+
+    X - RAY CHEST PA VIEW
+
+Meatallic artifact noted.
+Hyperinflated bilateral lungs noted.
+Haziness noted in bilateral lower lung zone -  Infective.
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Hyperinflated bilateral lungs noted.
+Haziness noted in bilateral lower lung zone -  Infective.
+For clinical correlation.
+
+ 
+
+
+Date: 14-Mar-2020 13:06:00

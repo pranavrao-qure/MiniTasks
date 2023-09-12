@@ -1,0 +1,35 @@
+Patient ID f52484ab69839bedcec3dbe1d02af979e5ca0e9b3ef77a0ca8f89689
+Patient Name 528afb1e64cf7ecc90339fc7ba6886ae846771cf96df5142508897f0 28Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fb8087438028f3fc5000892486c1383b022edcfa8ea27380cf30a0e9
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Anatomical marker absent.
+Loss of lung volume noted at right mid zone s/o infective etiology.
+Fisseral thickning noted at right upper zone s/o infective etiology.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Blunting left cp angle s/o pleural effussion.
+Right cp angle appears normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+Heart shadow pulled towards right side.
+The domes of right  diaphragms are normal in position,and show smooth outline.
+
+Suggested clinical correlation.
+
+
+ 
+ 
+Date: 30-Jan-2020 13:25:50

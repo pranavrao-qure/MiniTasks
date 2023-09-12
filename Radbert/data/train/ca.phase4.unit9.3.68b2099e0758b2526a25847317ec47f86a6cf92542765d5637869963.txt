@@ -1,0 +1,21 @@
+X-ray Chest PA view: (Film No 489)
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Cardiomegaly.
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+
+Report Impression: 
+Cardiomegaly. 

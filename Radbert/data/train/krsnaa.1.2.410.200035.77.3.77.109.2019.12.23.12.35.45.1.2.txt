@@ -1,0 +1,77 @@
+Patient ID 4a087e84cf09923aafacaa4ea73779ccc106d7340629bb1613c63f6a
+Patient Name 8c03f0c19f97a56496b7e819dbb6877d446d16547ca7e0f689819c5f
+Age :65 Years
+Sex :F
+Accession Number f1e020acf40e2d0529717bb975a4ce636be118a921857a78a64080e4
+Modality :CR
+Referring Physician 7a62cd8f18fc7ba6cb8c6d4145e13c3b452d2a645aa5d6e7d36d2660
+Study :PELVIS/CHEST PA/ L S SPINE AP
+Study Date bf1d30c336e55d9e7cd8b3f4e9c7ef38478769ec503b56e5fdea7d40
+
+
+
+
+
+X-RAY PELVIS WITH BOTH HIP JOINTS (A.P.VIEW)
+   
+The bones of pelvis and both hip joints show normal architecture and normal alignment.  
+  The hip joint space is normal.
+  The articular margins are normal.
+  No soft tissue mass or calcification is seen.
+  Intertrochanteric fracture of Right femur noted.
+  No evidence of loose bodies or joint effusion is noted.
+  The sacroiliac joints are normal.
+ 
+IMPRESSION  : 
+ 
+Intertrochanteric fracture of Right femur noted.
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LUMBAR SPINE AP & LATERAL VIEWS   OBSERVATION: Degenerative changes are noted in the form of anterior marginal osteophytes. The vertebrae is normal  The posterior elements are normal. The alignment is normal. Para vertebral soft tissues are normal. Both sacro iliac joints are normal. 
+
+
+ 
+OBSERVATION:
+Degenerative changes are noted in the form of anterior marginal osteophytes.
+The vertebrae is normal
+ The posterior elements are normal.
+The alignment is normal.
+Para vertebral soft tissues are normal.
+Both sacro iliac joints are normal. 
+No abnormal radio opaque shadow is seen.
+IMPRESSION:   lumbar spondylosis.
+
+
+
+
+
+
+
+
+
+
+X-RAY CHEST 
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.

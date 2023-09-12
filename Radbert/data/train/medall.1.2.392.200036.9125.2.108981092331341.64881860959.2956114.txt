@@ -1,0 +1,50 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+X-RAY RIGHT HIP (AP / LATERAL VIEWS)
+
+
+The right hip joint has a normal anatomical configuration.
+
+There is no osteolytic or sclerotic lesion.
+ 
+The soft tissues and the periarticular tissues do not show any 
+
+abnormality.
+
+
+IMPRESSION : = Normal study.
+
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2168 by 2286, depth 1
+pict001.wmf
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+DR.DEEPA.T.
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+RADIOLOGIST
+RS
+
+
+
+
+

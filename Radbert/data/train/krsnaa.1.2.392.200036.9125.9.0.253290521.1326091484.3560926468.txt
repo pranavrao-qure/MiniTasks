@@ -1,0 +1,37 @@
+
+Patient ID 9419ef2d506530ebed5577ce08b501068d08f2f67774943ee1114d30
+Patient ID 75fe0a775181ce931880ecd8ea1c26578a30f2186991188c7187e275
+Patient Name c0b3c6f97121bcc78c1bcf1556ee5531607a58d04fd1affbabe3c7a6 65/M
+Age :
+Sex :M
+Accession Number e87de2226857273cad7b8bf5f65531223657575e6d9a946f47867554
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date a8684ce56363be6140182e41295522443543412813dc002c0c426bf3
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Homogenous opacity noted at right lower zones with blunting of CP angle - Pleural effusion.
+
+Patchy inhomogenous opacity in right upper zone - Infective - To rule out kochs
+
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+ 
+
+
+
+
+

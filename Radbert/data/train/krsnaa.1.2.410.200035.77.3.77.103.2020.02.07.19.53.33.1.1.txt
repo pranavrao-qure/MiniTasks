@@ -1,0 +1,33 @@
+Patient ID 1fb715098b7dc0099390878f0c741d7e3cf5d7efc6e981b7daf7b41f
+Patient Name 4347283228cca533750bb6d9e7270941a6b9f432b0733671414e003e
+Age :62 Years
+Sex :F
+Accession Number 5d0e42cdbcb10164c6388e9868cc4caaf72a408267773f774b2ba8c8
+Modality :CR
+Referring Physician 9fac3c94c4ad2e6de04df988f7adcfab185b1cade085717a2ccd5e5c
+Study :CHEST PA
+Study Date a46a082f5ad3d6b06c18b17c31874853f9e1c7970e04021612483314
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Unfolding arch of aorta noted.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Unfolding arch of aorta noted.
+
+
+Suggested clinical correlation.
+
+

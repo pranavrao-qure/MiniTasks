@@ -1,0 +1,31 @@
+Patient ID 4eb48fc9f33de2d7512c6f599b4a9b04fbc7471dbd832f9c7ee07b53
+Patient Name 33059a6b2c30e832e0242b7a0c802217bdb4756cde4a8ccacc416a2a 64YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 709944fb88fbe251907776bbc0075ccdea74ddbe6bb2614213a2a07f
+
+
+
+
+
+X-RAY CHEST
+
+Prominent Bronchovascular markings noted bilaterally 
+Bronchiectasis chnages noted in bilateral mid and lower lung zone.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+The pleural spaces are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  :
+Prominent Bronchovascular markings noted bilaterally 
+Bronchiectasis chnages noted in bilateral mid and lower lung zone.
+
+
+

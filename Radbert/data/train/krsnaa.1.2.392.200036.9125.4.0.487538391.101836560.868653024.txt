@@ -1,0 +1,59 @@
+Patient ID 7911bc5ae014a9d7c55daa9c9a4f38d217f48293ab3dbbf46dfb6636
+Patient Name cf7f5d4ead6671a6346bb3fd941c4c19d618d28e00704c6f6ea713a1 28Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1741ca7c811cee8c3691fce71e91411d170009d920b58244a4d63e4c
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ 
+Homogenous opacity noted at left mid and lower zones with blunting of CP angle - Pleural effusion.
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+ 
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY ERECT ABDOMEN   
+ 
+FINDINGS :
+ 
+No evidence of air under the domes of diaphragm.
+ 
+No evidence of abnormal dilatation of bowel loops.
+ 
+Properitoneal fat planes normal. 
+ 
+IMPRESSION:    NO SIGNIFICANT ABNORMALITY.
+ 
+       Suggested clinical correlation & follow up.  
+ 
+
+

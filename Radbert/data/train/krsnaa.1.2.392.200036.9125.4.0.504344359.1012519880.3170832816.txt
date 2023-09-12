@@ -1,0 +1,27 @@
+Patient ID a9c0e2c249ad91b22f948f8bf8b32fe90ccfa2f827502f3d337faf87
+Patient Name a212d9a2c1183f297449cd6ab5496ae319b980ca4f08a2264e4f320f 60 YRS CXR PA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date b7f8644cbf2badd2c22b1edc3b06adb8a2bad259427f4235ba20d648
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+ 
+Fine reticular opacities with nodular infiltrate noted in bilateral lung fields Suggestive of infective etiology? Viral.
+Fibrotic opacities noted in bilateral upper zones.
+Both hila are normal.
+Cardiophrenic and costophrenic angles are normal.
+The trachea is central
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+ 

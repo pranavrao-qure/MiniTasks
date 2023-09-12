@@ -1,0 +1,40 @@
+
+Patient ID 6f26a451348561b10f84b7ad4682fba4667a015cf7b777a52a44d4ea
+Patient ID 5b602b1431f0668adab606392a84b8c4b4d641cb5fff7e1af9d9ee1a
+Patient Name 1853b717c1b1543949f75f2c3d2e2dc34b4a687ee7ffc8f4f60b9a1d 70/M
+Age :
+Sex :O
+Accession Number f3f225eb0407602d24a524006ceb85821ef5944200310d05d268b7a4
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date d10c3e3064a554b9e3b23946c33dba3d2168737d80c5445b43d69c5e
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS
+:    
+Left upper lobe shows patch of consolidation.
+Left Cp angle appears blunted ; most  likely  due to pleural effusion. 
+  Rest of the Lung fields are clear. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  Right CP angle is clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+    Suggested clinical correlation and USG chest.
+ 

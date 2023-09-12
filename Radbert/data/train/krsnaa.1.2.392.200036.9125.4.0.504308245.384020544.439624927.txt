@@ -1,0 +1,32 @@
+Patient ID 56673521ee725fe2bdeaeb0d79dbbc50cc57eb928e4d182b760f9e4e
+Patient Name 52f9b93a524384cfaeb54cea73b9f287e9eb3329184bea55ece7b2c5 69YR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date faad4e5461236f04de386b4126794daca92aadcf5811e79cf41a1709
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+Blunting of left and right cardio-phrenic angles is seen suggest pleural effusion.
+The lung fields are clear.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+
+IMPRESSION :  Blunting of  left and right CP angles suggest pleural effusion.
+Aortic knuckle calcification noted.
+ADV USG THORAX.
+
+ 
+ 
+Date: 25-Feb-2020 12:40:51

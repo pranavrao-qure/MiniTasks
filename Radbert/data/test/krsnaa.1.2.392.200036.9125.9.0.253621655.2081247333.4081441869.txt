@@ -1,0 +1,45 @@
+Patient ID 2557fa36d61f9c1c22ed165a855e5e3eec183f86960567fc0c6a0880
+Patient Name 4f8fc11381fe98a1b470622ebe1e249a766f7598e54a1444a747c9d6 70YRS/M
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6226f29349fbaf08b9de824880e55de9b989d9b4a024755ae33a6584
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Mild scoliosis noted.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Mild scoliosis noted.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY SHOULDER
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Hair line fracture noted at scapula.
+  Soft tissues appear normal    IMPRESSION :     Hair line fracture noted at scapula.      Suggest clinical correlation and follow up

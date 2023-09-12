@@ -1,0 +1,28 @@
+Patient ID 5b1df116cb544881e59d6409ac0f512a5bf41b0f7fb2bbf293f6b2e3
+Patient Name e49da045493c4df3daaa615138222eee0bdfd0e603d07b977fff45a8 Dhar,25yrs
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6e51a1fee4c56ddfa75155b4d40035a0b3b3d7a2434023d86944fd52
+
+
+
+
+
+                                                   X - RAY CHEST PA VIEW
+ 
+ 
+ 
+Multiple diffuse tiny nodular opacities noted in both lung parenchyma - - Miliary Koch's.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Moderate right pleural effuison noted.
+ 
+For clinical correlation. 
+ 
+
+

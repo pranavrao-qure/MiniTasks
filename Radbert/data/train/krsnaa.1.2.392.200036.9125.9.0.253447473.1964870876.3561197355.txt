@@ -1,0 +1,42 @@
+
+Patient ID ae1f8e62fccffeb10f5d7ac7266f156ad821a00be9d3ebefd11a6d19
+Patient ID c7f1e69e3133b4c759a10a25db372bd1db262fe53cc3ad490528e0af
+Patient Name e7695374f96be98c1b719a7d5e91e75bd227b8ebc262ef89b8518b5a 75Y ICU
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 8d56b56c371d4dc0f8d80c27c9fd905900ea3c9357a20597fef429b5
+
+
+
+
+
+
+ 
+X-RAY CHEST PA VIEW
+ 
+FINDINGS :    
+Changes suggestive of parenchymal
+infiltration seen in both lungs â€“ For further evaluation
+Cardiomegaly   
+
+    
+  
+  
+ 
+Soft tissues and bony cage appear normal.  
+  
+ 
+    Suggested clinical correlation and follow up.
+ 
+  
+ 
+
+ 
+ 
+ 
+ 
+ 

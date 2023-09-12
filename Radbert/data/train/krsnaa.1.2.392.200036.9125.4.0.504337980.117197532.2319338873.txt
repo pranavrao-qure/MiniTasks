@@ -1,0 +1,29 @@
+Patient ID e2c96859e155edba8eec060e28cea8dc2ef311f367238261be0156f1
+Patient Name 7a6816e2ccbb2eb9bc67ef5b8da5bcfeddefcf6ff74bd972831a6604 75 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c3354cc2320866c2fb653970aee53235e301d6f2c2e9680ceca94e9b
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+? Old fracture noted at left clavicle 
+Blunting of  left cardio-phrenic angle is seen suggest pleural effusion.
+Scoliosis noted .
+Aortic knuckle calcification noted.( age related)
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+ADV USG THORAX.
+
+

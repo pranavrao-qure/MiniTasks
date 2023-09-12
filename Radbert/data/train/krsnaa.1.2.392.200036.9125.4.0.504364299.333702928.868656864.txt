@@ -1,0 +1,24 @@
+Patient ID be0b4bdfdd93c919009837b2494375d922bdf56eb572a38a8d23e99c
+Patient Name de9b58acdb4e619cc190b343d0dfc3f9f79f0b64d0ef10811a427cf6 50Y DR. PRABHAT MISHRA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ab80bec866b3e61114e037f72e1c716a0a205561d91182466dd647a6
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+ 
+Fine reticular opacities with nodular infiltrate noted in bilateral lung fields Suggestive of infective etiology? Viral. Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION: 
+Above x-ray film findings suggestive of infective etiology? Viral.
+ADVICE-Complete Blood Count.
+
+

@@ -1,0 +1,36 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 5 fonts total
+
+-----------------
+X-RAY CHEST (PA VIEW)
+
+
+
+Ill-defined haziness in the right upper zone.
+
+The cardio thoracic ratio is normal.
+
+Both the pulmonary hila are normal in size.
+
+The costophrenic and cardiophrenic recesses and the domes of 
+
+diaphragm are normal.
+
+Old mal united fracture right mid shaft of clavicle.
+
+IMPRESSION : 
+
+v       
+Ill-defined haziness in right upper zone (? Fibrotic changes). Clinical correlation to rule out active infection.
+v       
+Old mal united fracture right mid shaft of clavicle.
+
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6458 by 1931, depth 1
+pict001.wmf
+Dr.Vitsizono Mepfhuo, MDRD
+Consultant Radiologist
+
+NA
+
+

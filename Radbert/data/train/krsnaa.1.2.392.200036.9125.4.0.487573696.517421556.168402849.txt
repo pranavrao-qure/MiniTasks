@@ -1,0 +1,45 @@
+Patient ID a57fc366b1e8cecb24b819fd009b66d46096327757bfa78e40d580fe
+Patient Name 556627de8fcaf23c6c67d255570c1580cfeddd860d5103bd9da99ef4
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bf1d30c336e55d9e7cd8b3f4e9c7ef38478769ec503b56e5fdea7d40
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+Bulky left hilum - Infective.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     X-RAY KNEE (AP & LATERAL VIEW)      
+FINDINGS :
+
+Radio opaque density noted  at medial femoral condyle - ? Foreign body.
+  Alignment of knee joint is normal.   Articular margins and joint space is normal.   No obvious bony injury.   Bone density is normal.      Suggest clinical correlation and follow up
+ 

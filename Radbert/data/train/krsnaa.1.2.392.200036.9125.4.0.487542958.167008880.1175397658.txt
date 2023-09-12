@@ -1,0 +1,27 @@
+Patient ID 9ab50f21135abc6865ef7222e6d89db4cf5d8c0b6bb4f401cf78fc37
+Patient Name 510a25bda1882af6692d94506a7a3b18986043df5fe86ed68ad69a72 45 YRS CHEST
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 9ce3f866dcfd9d5757259143a19ad91c22e303702a53ec837389bfe4
+
+
+
+
+
+
+
+                                         X - RAY CHEST PA VIEW
+ 
+  Blunting of both CP angle noted - minimal Pleural Effusion.
+Trachea is in midline.
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+ADV : USG THORAX.
+For clinical correlation. 

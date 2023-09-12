@@ -1,0 +1,31 @@
+Patient ID 3db450ea1bfbbdc49199fc47c682881ea9d78e343b7666948f469616
+Patient Name 4ea86c196a9e79de449bb6792d47767948f7ca8c81e07eeb8da87b08 60Y  CHEST PA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date ff5b2a929c2b756e1ddac2d819ac953edc00a04bf47b66cf76509e20
+
+
+
+
+
+  X - RAY CHEST 
+Patchy consolidation noted at right upper and mid  lung zone - Infective
+Unfolding of aorta noted
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy consolidation noted at right upper and mid  lung zone - Infective
+For clinical correlation. 
+
+ 
+ 
+Date: 19-Feb-2020 15:53:13

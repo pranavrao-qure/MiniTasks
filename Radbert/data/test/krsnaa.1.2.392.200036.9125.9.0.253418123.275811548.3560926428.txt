@@ -1,0 +1,37 @@
+
+Patient ID fe9a102edbba1fbd90800a8f5cb2b28bec0a3b375b9614359c48363d
+Patient ID f253ad27b02c030365f6a4ef0c19e42141d60ad97825555ab3f78ea1
+Patient Name 4830e02ce83fb0cd70a972d10e0791248cffac49489f9ee979ef8141 KUMARI.60/Y OP.29212
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 8c96764d16d16f1b6334c07c0a25604c6185d03faa01f8bbcb043edb
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :     
+  
+Lung fields are clear. 
+  
+Both hila appear normal. 
+  
+Cardiac size is enlarged 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ IMPRESSION :  Cardiomegaly. 
+ 
+     Suggested
+clinical correlation and follow up .

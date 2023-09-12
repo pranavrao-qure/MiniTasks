@@ -1,0 +1,32 @@
+Patient ID b1efeeb2576b655a38af5811259c20f37b13b298c9c7f3b15f9af888
+Patient Name fba95a6042b639bb64a86c2865f19778824fccd68fd675663a58c687 Prasad-45y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 9274b7d0b3e6ac187a532b303d6366ce8e172b2ba5ee4ada5fbbba1b
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+
+Prominent bronchovascular markings noted at bilateral lung fields.
+Tiny nodular opacities noted in right lower zone  - Infective etiology - To rule out Koch's.
+ Patchy inhomogenous opacities noted in both upper zone - Infective etiology
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical orrelation.
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields
+Tiny nodular opacities noted in right lower zone  - Infective etiology - To rule out Koch's
+ Patchy inhomogenous opacities noted in both upper zone - Infective etiology 
+ 
+ 
+Date: 22-Feb-2020 15:30:52

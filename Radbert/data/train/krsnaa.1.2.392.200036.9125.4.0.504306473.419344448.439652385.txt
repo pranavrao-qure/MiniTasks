@@ -1,0 +1,29 @@
+Patient ID 06fb63386716cd20ed0cd40ddb4542b78ea0b41ec4c2ba1ab5549f04
+Patient Name 9aac77b36a30f9a1442ba000385f87b3ce285fab0b0224ea7bbbfbb5 66Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date f030ffdc90c4c5c653e297ba576cff9fc70839270c498b4213b9d0de
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+ 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Suspicious Fracture noted at 5th and 7th ribs on left side and 6th rib on right side.
+Mild haziness noted in bilateral lower lung zone - -? Infective.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.

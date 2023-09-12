@@ -1,0 +1,29 @@
+Patient ID 10b1a0fd56371f4d327fe72e4a67e4f0a5a1d1c146f51bf13f37839b
+Patient Name 332af325b25aa4de444eb1a9bc39675f56f9843bf1078f0105ccf588 40YRS DR N K GIRI
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 45a1f8f5db2b116ca781acd067d236f39e3843db8b9e3c7ca607ea7c
+
+
+
+
+
+                                                       X - RAY CHEST PA VIEW
+ 
+ 
+Patchy pneumonitis at both upper and mid zones - Infection.
+ 
+Rest of lungs are normal.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+ 
+For clinical correlation. 
+ 
+
+

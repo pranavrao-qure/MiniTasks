@@ -1,0 +1,31 @@
+Patient ID f577f4284efd831b46df145702c1863abfad08925acc69a64e1eae44
+Patient Name 18f3504f286d4c882a95d4b1f2b189ffdaa348dcee2ad9b0af73ac25 59Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date b8a50385d367dc9c284cbeb9c4ff038037b8422f8eb9a380731cbc64
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at right lower lung zone - Infective
+Blunting of right  cardio-phrenic angle is seen suggest pleural effusion.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy consolidation noted at right lower lung zone - Infective
+For clinical correlation. 
+
+ 
+ 
+Date: 21-Mar-2020 14:12:44

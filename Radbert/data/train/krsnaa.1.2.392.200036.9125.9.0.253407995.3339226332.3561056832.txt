@@ -1,0 +1,33 @@
+
+Patient ID b6f1c8f9d2e0feb19de580be2c0b1f12ef2b396590d306b422ba93cb
+Patient ID b21ccc57d9732aab01251d44ff4aced37f201ae38febea2e769c7833
+Patient Name 2b2dbe5a4bcb2ef673023cca14c4e2de009ad64e7e8663fb084f4192 75Y/F
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c6d938802c80127c148667f326d1c28763e78ca1c1beb4314565cd70
+
+
+
+
+
+
+
+
+
+Rotation.
+
+Patchy pneumonitis at right lower zone - Infection.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Scoliosis of dorsal spine.
+
+For clinical correlation. 

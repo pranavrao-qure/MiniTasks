@@ -1,0 +1,26 @@
+
+Patient ID d1e1915dd6533e4916a4261b64f468fc19e8676de63633d404ca8208
+Patient ID 4e5958852798d8f37dc357b16e959e4041ba16f47f443e5f5338b65b
+Patient Name 31fa040937284f80bcf092cdea3038be765290cb30ec6de4114ba4b1 3Y/Mch
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 6bae0f8d7a40c9f1eda90a50e75609ff4bf1208956482bbe83d346a1
+
+
+
+
+
+
+ X-RAY CHEST - PA VIEW
+
+Both lung fields appear unremarkable.
+
+No Koch's, consolidation or pleural effusion is seen on either side.
+
+Cardiac shadow appears normal.
+
+Diaphragm and rib cage appear normal.

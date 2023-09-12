@@ -1,0 +1,29 @@
+Patient ID a08864097ea98a9acc66fed963fc322ab2c13a2032530e73d3143c81
+Patient Name 0d6087fefbc96479a8f17f1377875a8a74d61231fac5e7dcf516673f
+Age :35 Years
+Sex :F
+Accession Number bcca22e16de26f926881ca1b8292e008ef97dbf236fe64c58795d891
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 4a0b75d0ca2163fb09dc75cc93ecf9248ef59aae268fec5657312016
+
+
+
+
+
+                                                          X - RAY CHEST  
+ 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Patchy consolidation noted at right mid and lower lung zone - Infective
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+

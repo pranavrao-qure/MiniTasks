@@ -1,0 +1,21 @@
+
+Patient ID df96c6a6930d2e8c58340efcd1c17d91cba3399a26043989f8ccef24
+Patient ID 0b9fc94fa8ec0676cf7db958fcbd72aa9a53375cbe7cf603d218cf01
+Patient Name 8ce2fb9a38402bd7fafb4a29dce21660859430a9b55311a4f30fc4dc 60/Y. DR. UMA MAHESWARI. CAS.
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date a457ee05aa5e7696f5f696267a3aadf5dbd54801b7ad7fa410c7cf77
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows ill defined opacities both upper and left mid zone with cavity on the right upper zone - Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

@@ -1,0 +1,35 @@
+Patient ID 7b1faef3af02509df8700c3e670b3d55f94665c1b7df7527e7df0d50
+Patient Name 8e97140c726979db36ba9479955329172f8713e8c682ffb0f531421b 55 YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date 6bebdb3c0d392e540f958848fdfd17b368dedc93adf9bd5321a1d1a5
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Fracture noted at 5th,7th and 8th ribs on left side and 6th to 9th ribs on right side.
+Mild scoliosis noted
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+
+Fracture noted at 5th,7th and 8th ribs on left side and 6th to 9th ribs on right side.
+Mild scoliosis noted
+Suggested clinical correlation.
+
+
+

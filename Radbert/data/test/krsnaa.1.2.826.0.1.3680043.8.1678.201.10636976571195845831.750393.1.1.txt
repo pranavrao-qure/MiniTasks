@@ -1,0 +1,32 @@
+
+Patient ID a46f2c5d24a116da266cd65f07ee018c6235854728994161f723da6b
+Patient ID 639e22e3e3e7b09e9864b0f6e01391a78a4506d3a18dd92897ff98f9
+Patient Name ddaa23e3c3a840e236fd198ececb898f5d67cb48ae66781e8c977bd0
+Age :60 Years
+Sex :F
+Accession Number e71c9e4b0429e89e663f0d84dae995200c3fc1bfaf4506b08eb40fa4
+Modality :CR
+Referring Physician bb2fef0a76ddc2f33eb3fd7e663f38aaab30cf11ea768d79c50874fc
+Study :CHEST PA
+Study Date ad21cc931b727a135b09d487c45172cc90260cd180552ddac3a01fdc
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Rotation.
+Trachea is in midline.
+
+Both hila normal in density.
+Heart size is normal with LV configuration and unfolding of aorta. 
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+ 
+
+

@@ -1,0 +1,45 @@
+Patient ID b473e1228bf13d4fdfa4e0e29bfe72967d122f6927603c9fe68fc99a
+Patient Name 122e89891c0d513d58bc1fc3eea8715b51fffe3314a5a50c12e47373
+Age :50 Years
+Sex :F
+Accession Number 1038147a80cd06f0ac2b4ebddb763ce188b2e1696a2e0e0206d5d126
+Modality :CR
+Referring Physician 3480ed2664f2f936917cba622b04dc35bef5cd6d2f617cf215b5fab4
+Study :CHEST AP
+Study Date 376a337a6a715b5b280905a8aaf6a8a11da543ae7e99cca587cff3c5
+
+
+
+
+
+X-RAY CHEST AP 
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+The pleural spaces are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is enlarge -  cardiomegaly 
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  :
+The cardiac size is enlarge -  cardiomegaly 
+ADV : 2D echo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY SHOULDER
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up

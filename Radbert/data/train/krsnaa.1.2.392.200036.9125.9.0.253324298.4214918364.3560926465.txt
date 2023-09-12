@@ -1,0 +1,29 @@
+
+Patient ID 6d0121e1c63dd5acc2e9466fa5dc8df21f61bc3d135a2be6d0acf7be
+Patient ID 405faf028b8a356c26f2ab2f90fba020d2ce291450c32cce6d8a5733
+Patient Name 11f9566ec3af67600f4c2d84b1c8e43720218790f5482f3021d7ea78 60Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date a9158c08570ef1639b4415d4543d265d245fcad17481c40a877b4499
+
+
+
+
+
+
+ 
+ 
+
+Ill defined non-homogeneous opacities noted in left upper zone  - Infective.
+ 
+Rest of lung fields are normal
+
+Trachea is in midline.
+ Cardiac silhouette maintained.         
+ Both CP angles are clear.
+ 
+ For clinical correlation. 

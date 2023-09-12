@@ -1,0 +1,29 @@
+
+Patient ID 40bd654d55e2fb43f56ee76b28a210c735bb63acf0df4e7208949fee
+Patient ID 7e0339b7c75e7896220dabae6673c6f143ad71c255a024776a7e9455
+Patient Name b911734bc8ee218114e8549dffeb942e1025dd23c1c8015e78b04022 35Y
+Age :
+Sex :M
+Accession Number 37cd81a7c27f88f852991bbf416b6636fe4175bd4d2284e190dbc611
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 0d12ded252b63c68773c70217a175e8f1e247488a6910415815fdbb4
+
+X - RAY CHEST nonhomogenous opacity noted in right lung with fibrocalcified changes in right upper zone. Prominent bronchovascular markings bilaterally Cardiac silhouette maintained.          Both CP angles are clear. Bony cage and soft tissues appear normal For clinical correlation.      Date: 2-Aug-2018
+
+
+
+
+
+                                                          
+
+
+nonhomogenous opacity noted in right lung with fibrocalcified changes in right upper zone.
+
+Prominent bronchovascular markings bilaterally
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Bony cage and soft tissues appear normal
+For clinical correlation. 

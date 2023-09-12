@@ -1,0 +1,27 @@
+Patient ID 1eaaa72ba17560057cb6c9b8ce3d3377b5d903f3a5b0ab3429023ee5
+Patient Name 57017601c951c041955683e8b924e50ab021c0a6bcd7808cde9fdee3 8YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1127089e88d42baff6bb3866c3315321cdce1145499338cfaef4152a
+
+
+
+
+
+                                            X - RAY CHEST  
+
+Congenital defomity noted  with elivated  right scapula and  deformed  and  fused right sided ribs with  multiple vertebral anamolies.
+Rest of the viziualized skeleton appear normal 
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal
+
+For clinical correlation. 
+
+

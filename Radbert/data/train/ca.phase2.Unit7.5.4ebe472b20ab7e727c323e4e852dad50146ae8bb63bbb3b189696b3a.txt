@@ -1,0 +1,18 @@
+X-ray Chest PA view (F.no 213):
+
+LUNGS: Patchy consolidation is left paracardiac region.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+Patchy consolidation is left paracardiac region.
+
+Recommend clinical correlation. 

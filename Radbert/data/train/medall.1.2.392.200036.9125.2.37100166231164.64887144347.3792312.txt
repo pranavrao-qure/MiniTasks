@@ -1,0 +1,21 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 2 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+
+Aortic unfolding is seen.
+Trachea appears normal.
+Cardiothoracic ratio is within normal limits.
+Bilateral lung fields appear normal.
+Costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+Extra thoracic soft tissues shadow grossly appears normal.
+
+
+        
+
+Dr.Rama Krishnan. M.D., D.N.B.,
+Consultant Radiologist.
+
+

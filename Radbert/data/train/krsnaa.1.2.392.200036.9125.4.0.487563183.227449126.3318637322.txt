@@ -1,0 +1,26 @@
+Patient ID af87ee92d49bbcb418b2c3f6c3d909845aa2c09479c068bed8531f25
+Patient Name bf0040477d3151dab46af3ef296f5cd7067c8c0be0e28d7d67a16304
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 45a1f8f5db2b116ca781acd067d236f39e3843db8b9e3c7ca607ea7c
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+ 
+Air space and interstisial opacities in the bilateral perihilar zones, suggestive of changes of pneumonitis. Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION: 
+Above X-ray Findings are suggestive of Pneumonitis.
+ 
+ 
+ADVICE-Complete Blood Count.
+
+

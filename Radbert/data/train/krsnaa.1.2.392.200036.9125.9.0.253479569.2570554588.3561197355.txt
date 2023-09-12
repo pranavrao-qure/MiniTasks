@@ -1,0 +1,27 @@
+
+Patient ID f70dc8bb35a63faba907da9a89f520ac4c7f00ef9c2adcbb8c6eb4f9
+Patient ID 34af98c71fa74c8b150f18d2dab58d443a00f9a6c27c9a19ded5a171
+Patient Name bc213ab31b5875d540dc49be4965fde6b3e086fec0f7bb4cfc250e59 47Y SADARAN COMP
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date bb7ecc65a4362e2a77359d0178fbd0454c3ee291a3b21eb20513bb73
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

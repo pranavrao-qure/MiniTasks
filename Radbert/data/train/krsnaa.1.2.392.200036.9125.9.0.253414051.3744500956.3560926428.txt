@@ -1,0 +1,21 @@
+
+Patient ID 1799daf322334ae8f1415df81715537737a24af466e76f5d032709ec
+Patient ID 90a4ae920aa518386f65deb94fad21971932ab9a338c8a2115d503ed
+Patient Name 89f6868123d28b90c2842fe3ab21e608145f1c6122c472295c2fa878 SEKHAR.47/Y OP.27036
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 20203dab3b6d5114bcf4c9218e5f9d541e742c391f6880de9d6404a0
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

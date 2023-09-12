@@ -1,0 +1,53 @@
+Patient ID e729b1cf10be595620cfd63376681bd3ebbf790d4e587d7c22129fcc
+Patient Name 99454f39dbed4ffcc434cba103f028a9f651047c4bd94e15b67c6b02 40YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fb8087438028f3fc5000892486c1383b022edcfa8ea27380cf30a0e9
+
+
+
+
+
+                           X - RAY CHEST AP VIEW
+ 
+ 
+   
+ fractures noted at 4th to 8th right posterior ribs.
+ 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY RIGHT SHOULDER AP VIEW  
+  
+ 
+FINDINGS :   
+ 
+fractures noted at 4th to 8th right posterior ribs.
+ 
+Rest of bones appear grossly normal.   
+ 
+   Suggest clinical correlation and follow up.
+

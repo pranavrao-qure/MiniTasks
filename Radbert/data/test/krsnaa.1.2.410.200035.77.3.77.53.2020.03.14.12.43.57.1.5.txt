@@ -1,0 +1,30 @@
+Patient ID 97fa79e146c251a7a9f2c02f49972e10fff9583a309cac48802559e2
+Patient Name f15332f97a4e1bc1a23a540d350b44c19e635dc597a891f5b10024a1
+Age :30 Years
+Sex :M
+Accession Number 7e43313fe07b721e8d0c28b3586880f74b728d5822a8c090be096e68
+Modality :CR
+Referring Physician d5dedc266e3b4a77c7def94bdad4a6599479067f830ee72f0d2a7a24
+Study :CHEST
+Study Date 6b3f1a99bc0641e428aea25288f46c2d9f985603d37a7918aee11bba
+
+
+
+
+
+X-RAY CHEST
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Both CP angles are clear.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is enlarge - Mild  cardiomegaly .
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+The cardiac size is enlarge -Mild   cardiomegaly .
+ADV : 2D echo.
+
+

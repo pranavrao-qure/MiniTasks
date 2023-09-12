@@ -1,0 +1,31 @@
+Patient ID 3eab8e9b10627bde4299a6f3d9f33af3c104e04f8fe75932fdd3deae
+Patient Name 06f442fea7a293f8e22e9442d755ec3d70fdb3baf2c8fe01d654efbf
+Age :80 Years
+Sex :F
+Accession Number 306afdec2f51a19dc031f5f374ca6a7fa577699ffb6d16954b8eaeb0
+Modality :CR
+Referring Physician 608b18f6f9d1d3b7ff4bbe9145f27bf8ed7a77567b9f6cd74a695a7a
+Study :CHEST PA
+Study Date 2b71eff72da3d92b957fe2ac48f804e8716eae528593033ec0c8ef10
+
+
+
+
+
+X-RAY CHEST 
+
+? Fracture noted at 8th and 9th ribs on  right side .
+Crowding of ribs noted 
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Blunting of right CP angle noted - Pleural Effusion.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+? Fracture noted at 8th and 9th ribs on  right side .
+
+Suggested clinical correlation.

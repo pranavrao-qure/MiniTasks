@@ -1,0 +1,32 @@
+Patient ID c343cb6370c86951730770f4835254665c35f8f930a12e5e275fe627
+Patient Name 467ba25c6c3b5fe8e7abb2febe1cf952aa0b59648802353466fb1432 55 YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 2ced35d523efc8b970045a7f4bf1792c64d10b00aa7490fc9fdb5883
+
+
+
+
+
+
+X-RAY CHEST PA  
+ 
+Both lung fields appear clear..
+
+Cardiac size appears within normal limit. 
+
+Trachea and mediastinal soft tissue shadow appear unremarkable.
+
+Both C.P. angles and both domes of diaphragm appear unremarkable.
+
+Bony thorax under vision appears unremarkable.
+IMPRESSION:
+No significant abnormality detected.  ​​​​​​​
+
+ 
+ 
+Date: 05-Mar-2020 13:40:12

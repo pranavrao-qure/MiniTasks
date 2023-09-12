@@ -1,0 +1,25 @@
+Patient ID c5eb81c4ca4df6c32a983c6d04bf0a27fb7f9a5ca5a74667276cf80a
+Patient Name 78a0ebc418ad5fa16698c7a9859e52898ee881fc961d34a9a965d943
+Age :67 Years
+Sex :F
+Accession Number 7ec55f054b7350f1d0101c99572a2da9045f500c18438f9abfa2350e
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date cf5021447e2f0b909738940855a5643376f42acb66773dae13552a5d
+
+
+
+
+
+                                         X - RAY CHEST
+ 
+Bronchiectasis changes noted in right mid and lower zones.
+Prominent aortic knuckle noted.
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.  
+For clinical correlation. 

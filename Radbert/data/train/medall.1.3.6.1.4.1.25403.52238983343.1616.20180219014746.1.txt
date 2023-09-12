@@ -1,0 +1,38 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 2 fonts total
+
+-----------------
+X - RAY CHEST PA VIEW
+ 
+Bilateral lung fields appear normal.
+Moderate cardiomegaly is seen with left ventricular apex pattern
+Bilateral hilar regions appear normal.
+Bilateral domes of diaphragm and costophrenic angles are normal.
+Visualised bones and soft tissues appear normal.
+IMPRESSION :
+"        
+Moderate cardiomegaly is seen with left ventricular apex pattern
+ 
+Dr Parimal Sonawane     
+        
+        
+        
+        
+        
+        
+Dr Rohan Kashyape
+DMRD, DNB.      
+        
+        
+        
+        
+        
+        
+        
+        
+MD, DNB. 
+
+
+
+
+

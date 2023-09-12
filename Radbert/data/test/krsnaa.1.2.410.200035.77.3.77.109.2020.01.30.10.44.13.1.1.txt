@@ -1,0 +1,29 @@
+Patient ID 39af66802770c00387ec68be31b7712e7f5d35c88ab1bbe67fc13cf4
+Patient Name 9c99d8135cf7ceeb605157a178cef4e41b3b65809c008914349ff64a
+Age :43 Years
+Sex :F
+Accession Number 52cf8b1f1486869dba8d2ec304e791b329aeab2d76dcdefca8dd3f1f
+Modality :CR
+Referring Physician 7a62cd8f18fc7ba6cb8c6d4145e13c3b452d2a645aa5d6e7d36d2660
+Study :CHEST PA
+Study Date fb8087438028f3fc5000892486c1383b022edcfa8ea27380cf30a0e9
+
+
+
+
+
+  X - RAY CHEST 
+ 
+Patchy consolidation noted at bilateral apical, upper lung zone - Infective
+Elevation of left diaphragm suggesstive of hiatus hernia.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of right  cardio-phrenic angle is seen suggest pleural effusion.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+
+

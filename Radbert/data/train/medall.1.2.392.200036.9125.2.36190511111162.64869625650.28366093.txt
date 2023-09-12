@@ -1,0 +1,36 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+DIGITAL X-RAY CERVICAL SPINE - AP & LATERAL VIEW
+
+Cervical lordosis maintained.
+Vertebral alignment appears normal.
+Vertebral bodies and posterior elements appear normal.
+Intervertebral disc spaces appear normal.
+Facet articulations appear normal.
+Prevertebral soft tissues appear normal.
+
+IMPRESSION:
+
+¬        
+NO SIGNIFICANT ABNORMALITY DETECTED.
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 15806 by 16164, depth 1
+pict001.wmf
+Dr. V. Sudhakar. MD., RD
+        
+        
+        
+        
+        
+        
+Consultant Radiologist
+        
+        
+        
+        
+        
+        
++91 8056169053
+

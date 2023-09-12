@@ -1,0 +1,34 @@
+
+Patient ID 2adc1dee88770b7439d30e26ba05e384e1a848f520c0d402a648658f
+Patient ID 804b03c2185dc46d67cf2797d05f7a7445aabff99d2681650f622983
+Patient Name 0afd9a528d5c244490395d315fcc9f19e1ed1287a6bfdf96431fc12b 10/F
+Age :
+Sex :F
+Accession Number 68580fabd2621fe0d44cb487c05b73c8559f15d1d77559197d07fcce
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 71c02c1ff24872742460ff04a8e2746a079f8a84f05477ed2158ca2d
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+Thanks
+for reference. 
+Investigations have
+their limitations. Solitary pathological/Radiological and other investigations
+never confirm the final diagnosis. Conclusion is markedly affected by input
+provided at that time .They only help in diagnosing the disease in correlation
+to clinical symptoms and other related tests. Please interpret accordingly

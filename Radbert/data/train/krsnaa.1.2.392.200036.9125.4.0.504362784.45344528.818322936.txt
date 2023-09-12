@@ -1,0 +1,32 @@
+Patient ID 80fa6cdbf653fd84a846ad69042def439abad12e0136dcae151dcc5c
+Patient Name 0a7d3bf2a8d781b6645c9eab74cd4d95a6fc1e4b51cac6f6278340ed 75YR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 4a0b75d0ca2163fb09dc75cc93ecf9248ef59aae268fec5657312016
+
+
+
+
+
+  X - RAY CHEST 
+ 
+Patchy consolidation noted at right upper lung zone 
+  Patchy fibrotic areas are noted in right upper  bilateral mid  zones 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy consolidation noted at right upper lung zone 
+  Patchy fibrotic areas are noted in right upper  bilateral mid  zones 
+For clinical correlation.  
+ 
+ 
+Date: 03-Mar-2020 12:36:03

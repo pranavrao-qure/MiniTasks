@@ -1,0 +1,28 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+
+Trachea in the mid line.
+Bilateral hilar shadows appears normal.
+Cardiac shadows appears normal.
+Bilateral lung fields appear normal.
+Cardiothoracic ratio is within normal limits.
+Costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+No air under the diaphragm seen.
+IMPRESSION:
+v       
+CHEST X-RAY PA VIEW SHOWS NO SIGNIFICANT ABNORMALITY.
+
+
+DR. S.Karthik, M.D., RD.,       
+        
+ 
+Consultant Radiologist 
+
+
+
+
+

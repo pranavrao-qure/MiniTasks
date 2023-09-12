@@ -1,0 +1,22 @@
+
+Patient ID 1e91dacb9db791181f8d99d581f0f66d717257e7eea46b5b66a7b093
+Patient ID b37408f49b042e62fba0b083e9d210d28b0bb45c347446c69374013a
+Patient Name 9b625215286ac5d6bd1771f3eff7e1ba41e57bbf25cbdce15aefe0a4
+Age :40 Years
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician fa3a1a27ba3f0fb49cafc6b79a63397ca9575a247211ab6fb32d6f7f
+Study :chest pa
+Study Date 5fd9f842f3ffaa4af3cd1e89701dd2a7a3df08d40ac7f69bd2b9a5f4
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows pneumonitis right lower zone with obliteration of right dome and CP angle.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

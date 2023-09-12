@@ -1,0 +1,38 @@
+
+Patient ID e7b1033065a5d2a6dd77fd330fb83b7750361b1d6dddd175472e2235
+Patient ID defb75b1240dab5d42f48316374e2f91edf1f290376c5c7a65605326
+Patient Name ce20b6544c9cafc126045d88a521ada0f34f191faaf3655cdb304af7 65 / F
+Age :
+Sex :F
+Accession Number 14601f7644959f3591fa1efd6e77b9e1c193dc9482042188b40dab13
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date ac078612f22ca05fb208c849e0ac1c7c2aaa699b22bac71f56a82df3
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS
+:     
+  
+Opacity noted in the right and left mid lower zone     - S/o Infective
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is enlarged  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ 
+ 
+    Suggested clinical correlation and follow up.

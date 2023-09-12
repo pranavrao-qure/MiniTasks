@@ -1,0 +1,28 @@
+Patient ID 8b5e20c959435b2b68aabad43b1fc8fc1da4b9f507e13313c73d1e73
+Patient Name 0c9027148d8fb450f7711065c10db6a2aff02957bc9f6dca774c4968 AGE17Y   F
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6e51a1fee4c56ddfa75155b4d40035a0b3b3d7a2434023d86944fd52
+
+
+
+
+
+  X - RAY CHEST 
+ 
+  Diffuse ground-glass opacities, pulmonary infiltration and increased interstitial markings in 
+ left lung fields-Pneumonitis.
+Trachea is in midline.
+ 
+Right  hilum normal in density.
+Cardiac silhouette obscured     
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+

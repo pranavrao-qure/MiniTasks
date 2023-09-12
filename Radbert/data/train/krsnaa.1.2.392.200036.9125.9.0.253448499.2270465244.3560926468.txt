@@ -1,0 +1,29 @@
+
+Patient ID cb69fe7234276f159deb566f61ffbfb4270b70ee1e88d464e187716c
+Patient ID 38dd22419fcc89f6d0310ac2a58996e3dd8d389efa05c0568e76ba57
+Patient Name 5f8572df68ef70ac84803f2ea831849d4cf697725fcb989c75d31531 28/M
+Age :
+Sex :O
+Accession Number 2c1ee3f5b30c5bd62cb2402e2c8f877c1df99af249f701556123e015
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date d4fca81da3cdfd2073f5c620d0274eba211dda16873643f6884ee776
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+haziness noted at right hilar resion.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :  haziness noted at right hilar resion. 
+For clinical correlation. 

@@ -1,0 +1,34 @@
+Patient ID 165721f0f004665e8598390d3d1a00c3297dff148d95b28e1bde48ae
+Patient Name ed92f44a57b94fa584793dc374fd896be8a6676bc6d3f258db975b5b
+Age :42 Years
+Sex :M
+Accession Number 66a1e5cd062fe6ca41af0abf38fdfe20deb9dc7219eef2b4e515ff34
+Modality :CR
+Referring Physician ee8c7d67eca07243aaceeed42cd5b101e8dbe0cdddf36f2f14ac6c3c
+Study :CHEST
+Study Date fb3279ec70f13904914b76d046aa4234c894b1efa90a256fa02cccc4
+
+
+
+
+
+X-RAY CHEST 
+
+
+ 
+Prominent aortic knuckle noted.
+Mild scoliosis noted.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Prominent aortic knuckle noted.
+Suggested clinical correlation.
+
+

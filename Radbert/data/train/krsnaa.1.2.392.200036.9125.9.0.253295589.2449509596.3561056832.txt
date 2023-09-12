@@ -1,0 +1,30 @@
+
+Patient ID 52f1e8b6b539ae89d02152705fa71f2aa4083405d0dc005896131a2b
+Patient ID 9d8c98074c33652919a713f8c313e8d6873822b80075d6fdd6fd195c
+Patient Name 1efcf0b94249625b5b92c413262b21211c1175d02122fa439574d820 48Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 477637ca35d1efd097431a2a53ea472e69318312a33bec5a6d04f7a6
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Thick walled cavitatory lesion noted at right surround homogenous opacity - ? Koch's.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Bony cage and soft tissues appear normal
+
+For clinical correlation. 

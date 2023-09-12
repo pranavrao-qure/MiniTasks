@@ -1,0 +1,25 @@
+Patient ID 64934261b69dbaf54cbf89a7140dfcff340e026d18c31c9b78632c11
+Patient Name 721b97475167186321e4dffc3da557ddc5b7ba8033c1fbcacd5091fc 30YRS
+Age : Days
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician c0beae2d04c68d13dd0625d4fe4ac5aba531ccda8a24282203f71365
+Study :CHEST PA
+Study Date 1741ca7c811cee8c3691fce71e91411d170009d920b58244a4d63e4c
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Right pertihilar bronchovascular markings are prominent. Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+ 

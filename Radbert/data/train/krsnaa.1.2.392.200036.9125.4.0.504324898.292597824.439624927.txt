@@ -1,0 +1,38 @@
+Patient ID ca0cc2f48ec3c342e943239eba89666c807ba85bb2b17aa0d4a8d2d3
+Patient Name 5a482a0948afe0ed27f18ca7621025d5e3d905f00ec50b7f96764b7d 70 YER
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bff82b3cb92b2602a4fb8913a99995e2b2a6472c2304b8186a1d5c31
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Small nodular opacities noted in bilateral perihilar region
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Crowding of ribs noted on right  side.
+Prominent aortic knuckle noted.
+Scoliosis noted .
+Small nodular opacities noted in bilateral perihilar region .
+Suggested clinical correlation.
+
+
+
+
+
+

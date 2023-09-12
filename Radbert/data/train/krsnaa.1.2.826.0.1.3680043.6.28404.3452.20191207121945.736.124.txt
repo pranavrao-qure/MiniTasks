@@ -1,0 +1,42 @@
+Patient ID a2de17705503dac6affa744f73d180d56539819456c159977c73463f
+Patient Name 093bec615c607e139fc9489d1061327a6d79fe20e5b4e1e39b1f2eaa 45 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 99e134bc3d4c09fc4f3f8003c52cb3ccc438986eaaac00856ff30b8e
+
+
+
+
+
+  X - RAY CHEST 
+
+Multiple discrete & confluent nodular shadows along with fine reticular markings noted in B/L lungs--s/o infective/inflammatory etiology.
+ suspicious fracture noted at right side 7th rib 
+Prominent aaortic knuckle noted 
+
+Trachea& major bronchi appear unremarkable.
+Both hila appear unremarkable.
+Cardiac shadow is within normal limits.        
+Both CP angles are clear.
+Bony cage and soft tissues appear normal
+For clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY SHOULDER AP
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+

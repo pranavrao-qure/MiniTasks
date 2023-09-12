@@ -1,0 +1,30 @@
+Patient ID e13c7e654d763c252fa43b52dcd2df22691407b4d330aa04e6ea06b3
+Patient Name 14af6a88c7d35b43f1df7cc51059f5282b335a4bb05444b95ddc49c6 65Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fb155c7817d32ef8635bff51312301014cca2d6778e6311016a21cd7
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+Blunting of  left cardio-phrenic angle is seen suggest pleural effusion.
+Small nodular opacities noted at bilateral perihilar rgion 
+
+Both hila are normal.
+The trachea is shifted to right side .
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+
+IMPRESSION :  Blunting of  left CP angle suggest pleural effusion.
+
+ADV USG THORAX.
+

@@ -1,0 +1,24 @@
+X-ray Chest PA view:
+
+LUNGS:Perihilar and lower zone interstitial prominence.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Right convex upper thoracic curve.
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Perihilar and lower zone interstitial prominence, clinical correlation/further evaluation if clinically indicated recommended to exclude interstitial lung disease.
+
+
+Correlate clinically and with other investigations.

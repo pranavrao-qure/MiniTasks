@@ -1,0 +1,27 @@
+Patient ID 3cc20957a7d2bf919eedddf91f1ebb35e8f4ca793ce79f5147cbc9bf
+Patient Name 7ca1ed35afb0e5a3d27563518b79b2d6883ef7aae2b99829b5bd98eb 57Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fcaefb788bcc88e45acdeeeeac81df98fdc6a09400996e443f4779e5
+
+
+
+
+
+                                                           X - RAY CHEST 
+ 
+  Hyperlucent area   noted at right lower zone devoid of lung markings - ?  Pneumothorax - Adv: CT chest.
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+ 
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

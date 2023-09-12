@@ -1,0 +1,29 @@
+
+Patient ID ba58598e136a6374a454a59991b0ed64652741f1468e5725d3d4803a
+Patient ID f63ec1b515aa7e37338ae331a60e3327c9cc9c8d31854ec9a92e3435
+Patient Name a9bb300bc55123110a6745dce7d9c2a02b958d458ad9996c2b99d39e 25Y REF DR RAVINDRA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date ca2aa6cc575f3023df40f8f053f760b25a05a57a4301ddd33d7404a9
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

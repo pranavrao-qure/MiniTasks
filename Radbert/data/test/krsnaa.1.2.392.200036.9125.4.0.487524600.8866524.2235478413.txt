@@ -1,0 +1,30 @@
+Patient ID 4429f7d325f51f38366adfb8fff46856b4c5841eaa6f3e88cc2874c1
+Patient Name dfd14dc953d15e90aa5548f6046327d11a2604003a6cc96140053bb7 61YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 709944fb88fbe251907776bbc0075ccdea74ddbe6bb2614213a2a07f
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+ 
+  Elevated of right diaphragm .
+Prominent bronchovascular markings noted at bilateral lung fields.
+Pace maker noted on left side.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+

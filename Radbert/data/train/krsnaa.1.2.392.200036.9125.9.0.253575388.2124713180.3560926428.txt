@@ -1,0 +1,27 @@
+
+Patient ID 42e42bd45aa2c6e4550c419228a8683b3442029251a15394609cf190
+Patient ID 18a8a8dfbff9e0a669e5e3a1a1c3c31dd989fb045329a31b77a50b6e
+Patient Name 8326b8ab28ceb5bca84e474625562aeb3e5a5460fe7f5e0b1538b492 LAXMI.45/Y OP.44843
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 562537a0d7075e9cc9c7cc6df6c98460c6c695a75c94b74cd33de852
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

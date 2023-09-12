@@ -1,0 +1,29 @@
+Patient ID 6d9e22279f8bb72f44ae6900bfa7b5ce7734a7085f720d6d0c5e6d59
+Patient Name a571e9b18dec9fca399a3c89a50afec760ba246f03ceba91a9721090 35 YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date d3d1dc12498f489548c1b85e11322cd59acf3cfa10e30dfe4966a0c1
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Right paracardiac hazines noted.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+  
+ 
+ 
+Date: 30-Dec-2019 11:22:58

@@ -1,0 +1,59 @@
+Patient ID 0aba1d46fcf00bb0d58885a5a308c118be32fe1b4a8b29ee76283e59
+Patient Name 67cc5a8c5e69aacc8b420726710493de8661f48d3fca9412e7cdd868
+Age :16 Years
+Sex :M
+Accession Number 7a9affdc52bd28f0469ecadf421782ca006d47aa4d90b2ff69bd179b
+Modality :CR
+Referring Physician ca030370459fc8b1364edf20de107928eac241698083ac7200986190
+Study :CHEST PA
+Study Date 9d8b20d0c687fbc5f871dc8477b5358d9790c27ba920dede2fe5f9c9
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY DORSAL SPINE (AP / LAT)
+
+FINDINGS :
+
+Alignment of dorsal spine is normal.
+Vertebral bodies are normal in shape & density.
+Posterior arch elements appear normal.
+Intervertebral discs show normal height.
+Pre vertebral soft tissues are normal.
+
+IMPRESSION : NORMAL STUDY.
+
+    Suggested clinical correlation & follow up.
+
+
+ 
+Date: 23-Feb-2020 12:14:46

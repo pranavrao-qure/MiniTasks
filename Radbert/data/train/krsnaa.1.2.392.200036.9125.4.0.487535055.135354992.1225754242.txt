@@ -1,0 +1,31 @@
+Patient ID b83cada78ec66a2f34c6586fd0a07eddca2584f6d73c7a6fd7bfe559
+Patient Name bdef7c083405bc218e6fb8967bed8f156567da766a1b46d9feba80c0 48YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 617423244524feb140dd315ed903d24269ca369f640eace172bed1a9
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Right paracardiac haziness noted -Infective.
+
+Blunting of right CP angle noted - Minimal pleural Effusion.
+
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of the lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+  
+ 
+ 
+Date: 03-Jan-2020 13:02:44

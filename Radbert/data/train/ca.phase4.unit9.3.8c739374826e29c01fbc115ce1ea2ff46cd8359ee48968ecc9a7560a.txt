@@ -1,0 +1,19 @@
+X-ray Chest PA view: (F.No.205)
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Healed fractures are seen in right 4th, 5th and 6th ribs in anterior aspect.
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal. 
+
+Report Impression: 
+As above.
+
+Adv:Clinical correlation and oblique views for further evaluation.

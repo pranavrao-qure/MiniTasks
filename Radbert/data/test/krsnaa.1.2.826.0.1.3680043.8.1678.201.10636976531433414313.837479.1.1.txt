@@ -1,0 +1,55 @@
+
+Patient ID 76c6fa5b6c7cc13ed4eedadadbaf5a60dede941c21f28779c67358da
+Patient ID 08f2bbce5462afb2bca34cf409e27dc5febdc0daf65a2cf30c679969
+Patient Name 2619c4e748e00da35cbb5f7acced275aeee3353283196999091e2c6d
+Age :45 Years
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician f19a624d57802d44755b08beb95f656d202e81ddfdc0496b4bc0d233
+Study :CHEST PA
+Study Date ad21cc931b727a135b09d487c45172cc90260cd180552ddac3a01fdc
+
+X-RAY LEFT  KNEE (LAT) 
+  
+  
+ FINDINGS: 
+  
+Alignment of knee joint is normal. 
+  
+Articular margins and joint space is normal. 
+  
+No obvious bony injury. 
+  
+Bone density is normal.  
+  
+ IMPRESSION : NO SIGNIFICANT ABNORMALITY 
+  
+      Suggest clinical correlation and follow up 
+  
+   
+     Date: 2-Jul-2019
+
+
+
+
+
+
+X-RAY LEFT  KNEE (LAT) 
+  
+ 
+FINDINGS: 
+  
+Alignment of knee joint is normal. 
+  
+Articular margins and joint space is normal. 
+  
+No obvious bony injury. 
+  
+Bone density is normal.  
+  
+ IMPRESSION : NO SIGNIFICANT ABNORMALITY 
+  
+      Suggest clinical correlation and follow up 
+ 
+ 

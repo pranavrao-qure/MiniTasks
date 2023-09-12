@@ -1,0 +1,30 @@
+
+Patient ID d58b970cec008c71e272eeca54281f114cbbc0efbd0c99f570335265
+Patient ID ea323cbfb19a25f3184fdc8c8e11362481385d19e43e819c72cda835
+Patient Name af5b7ecec2e2259fa8e6f6a7e9db85415a323ae934c12077bdec9ac3 D4 BED SIDE
+Age :
+Sex :M
+Accession Number 8ffbf6245994382c99e5ad7580ac61cdf8138b2cf9d4067eb8e22e35
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 2938dd0a390d7e6eeb5c3c3754c83491d71bcdd576030e964dd9280a
+
+X-RAY
+CHEST AP 
+   
+ Both lung fields show prominent broncho-vascular markings. 
+ Cardiac size appears normal in size. 
+ Bilateral hilar prominence is seen. 
+ Both C.P. angle and dome of diaphragm appear normal. 
+   Date: 8-Sep-2018
+
+
+
+
+
+ 
+Both lung fields show prominent broncho-vascular markings.
+Cardiac size appears normal in size.
+Bilateral hilar prominence is seen.
+Both C.P. angle and dome of diaphragm appear normal.

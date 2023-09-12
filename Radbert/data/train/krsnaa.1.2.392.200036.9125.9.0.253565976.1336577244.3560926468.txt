@@ -1,0 +1,31 @@
+
+Patient ID 7b7ba174afc7e1d082ad5e816f086ee152c69867055c533d5389bd89
+Patient ID 44cdb3617b656bbc320e8cc471fd5960e9baee2c7f95cced215439d3
+Patient Name 70a0e0b61c242f536988fd44a217b48740dd8164ca2f2d84fd459677 37/F
+Age :
+Sex :O
+Accession Number ea49553f07d47c22e2ebca41aa596e889377cd5adf209cdd2842fcd2
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date dc5eb2c5e53e461bf6f0c134b266202830fdd9b47ea055ec991867a1
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy inhomogenous opacities noted in right mid zone - Infective etiology
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

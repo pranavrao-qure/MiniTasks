@@ -1,0 +1,29 @@
+Patient ID df44ac7f403f90964d9c1b23a0b6a47121ced24153ddee75fcccf7f9
+Patient Name cde5993fc32bdb4c8882f98ac88414b445a439dc1bbfdf2360967d25 84Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 4a0b75d0ca2163fb09dc75cc93ecf9248ef59aae268fec5657312016
+
+
+
+
+
+X-RAY CHEST 
+OBSERVATION:
+ 
+Bilateral lung fields are hyper-inflated, hyper-lucent and shows flattened bilateral hemidiaphragms, increased Broncho-vascular markings and small sized heart.
+Calcification of ribs noted.
+Both hila are normal.
+Cardiophrenic and costophrenic angles are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+ 
+IMPRESSION:   Chest X ray findings are suggestive of COPD (Chronic obstructive pulmonary disease).
+
+

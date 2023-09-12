@@ -1,0 +1,24 @@
+Patient ID 42417c809337f035f49bce05f91f9069a00f16c226495d22f5fa9409
+Patient Name 46a470184b38efb5d4bf29e7b81899e29e236b5c9cb7b69b6732d1e4 70Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c4dc64b6d499b01b845d4050040d4441baac0f51146e5b7a5dc44531
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Homogeneous consolidation noted at left  upper lung zone - Infective
+Trachea is in midline.
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 

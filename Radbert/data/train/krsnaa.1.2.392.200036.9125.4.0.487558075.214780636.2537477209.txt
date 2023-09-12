@@ -1,0 +1,26 @@
+Patient ID 93d5232062e028f2715f4ea716a6bae5c53eba850b74fd8c5e2912e6
+Patient Name 43d67f0e93ff14eb710cac690e9dc6354c5e4f00d0db7b77c8b851a5 40Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 06249234fe03b5e828663bb38b83a8da56dd6f8b4d1bcbc33a3de006
+
+
+
+
+
+
+
+X-RAY CHEST 
+
+Both lung fields show increased broncho-vascular markings.
+No evidence of collapse, consolidation, mediastinal lymph adenopathy, soft tissue infiltration or pleural effusion is seen. 
+Both hilar shadows and c.p. angles are normal.
+Heart shadow appears normal in size. Aorta appears normal. 
+Bony thorax and both domes of diaphragm appear normal.
+No evidence of cervical rib is seen on either side.
+
+​​​​​​​

@@ -1,0 +1,20 @@
+X-ray Chest PA view:
+
+Patient is rotated to left side. 
+
+LUNGS: Accentuated bronchovascular markings in the both lungs. 
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Left costophrenic angle is hazy. 
+Mild apical pleural thickening noted bilaterally. 
+HEART: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Degenerative changes in the visualized spine.  
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal.
+Report Impression: 
+- Accentuated bronchovascular markings in the both lungs. 

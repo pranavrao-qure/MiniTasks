@@ -1,0 +1,21 @@
+
+Patient ID 19643e9b790c49060605728b976b694b9f40d915b968e09b2aa86284
+Patient ID a93728de9d166e04db64be09366e2f1f6ecfbc30229bab908a0fcf4e
+Patient Name 259b09a8d1a7c74cb0bdfdf0e16c0c47e74bd784ff3a3107a57ea1eb 73Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c10ba947cb940fccc21a52f572f3f7174b78656b9fe26ac94d2bb549
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows consolidation left apical and lower zone - Infection.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

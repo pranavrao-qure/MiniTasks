@@ -1,0 +1,32 @@
+
+Patient ID 56cde6d2b83c0e1fcae6face1a3930833f020d71a1020982d19a66d7
+Patient ID b5ac6795fad6684524cd11368605a8d4cb539c5d2add4e9a64f31189
+Patient Name 6ea7be6c10216cec04517e4cae80388d58770dc4cdccac8a2a79bd26 38Y
+Age :
+Sex :F
+Accession Number a4f03c5d36da227305fa3a77f7490127a805fc9be41101cf91609909
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 152281b96d8ba942fd29a4a45c53630792cc5788f1c599002acf61f5
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at both lower zones with pleural reaction right CP angle  - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+
+
+For clinical correlation. 

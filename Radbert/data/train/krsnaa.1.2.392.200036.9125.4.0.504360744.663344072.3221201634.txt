@@ -1,0 +1,28 @@
+Patient ID b0e4d16a09579635aaf62c9f946701a93e25a5287a16d38e7a9abb0d
+Patient Name 7baff59780c6873ac64b720f0a6665a34ab054dc3f3133d0bd4a34a8 48Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date f030ffdc90c4c5c653e297ba576cff9fc70839270c498b4213b9d0de
+
+
+
+
+
+  X - RAY CHEST 
+Pneumonitis noted at left mid and lower  lung zone - Infective etiology.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Pneumonitis noted at left mid and lower  lung zone - Infective etiology.
+For clinical correlation. 
+
+

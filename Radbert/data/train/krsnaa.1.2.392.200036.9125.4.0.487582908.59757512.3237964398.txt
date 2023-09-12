@@ -1,0 +1,29 @@
+Patient ID 166c513c488a05582c23499a84a02148078302258638bde84176b574
+Patient Name 74cb34a82b453e6346f92ebb9c85a80e23ae0ff1cf26eef5041addab PROJA,35YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 8dcbf7fa812db75f53b828c6ed32b5b31255dc162a5a027f24360ed0
+
+
+
+
+
+
+
+                                        X - RAY CHEST PA VIEW
+ 
+ 
+ 
+Thin walled cavitatary lesion noted in right lower and left mid zone - Infective.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+ 
+Bony cage and soft tissues appear normal
+ 
+For clinical correlation

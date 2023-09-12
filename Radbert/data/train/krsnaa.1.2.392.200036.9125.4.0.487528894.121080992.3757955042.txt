@@ -1,0 +1,28 @@
+Patient ID a019a6d44f1f6130e8be512805f842d8d5c8e13a00e0b332c85af809
+Patient Name 8b598e9a54bf7be27da2f0dcc261aaa70834a22c04911a8e1b875967 73y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 95bb36e17578341026f7876f7fa4b8c4505cb8ba7b488a4a5ff79f86
+
+
+
+
+
+
+
+
+
+CHEST X RAY (PA VIEW)
+CLINICAL HISTORY  – Clinical Details not available 
+OBSERVATION:
+Bilateral bronchovascular markings are prominent.
+Bilateral hilar prominence 
+Bilateral pulmonic plethora .
+Bilateral apical hazy infiltration .
+Cardiothoracic ratio is normal. 
+Thoracic soft tissue and skeletal system appear unremarkable.
+ADVICE :  HRCT Chest Will be more informative   

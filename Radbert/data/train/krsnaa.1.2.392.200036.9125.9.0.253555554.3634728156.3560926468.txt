@@ -1,0 +1,39 @@
+
+Patient ID 0936656b213537529be7a2fca5c381cfd10da9c3f22f038b37cfba98
+Patient ID 739c891d549b67b6a46e3e24597473ce9079edc41404748c1138ec36
+Patient Name 1f52ac5594e297ab897b7eed328d6b8905537baa034e8ca0c9892b9a 27/M
+Age :
+Sex :M
+Accession Number ff0a4482b945650ee7299e3bd1a56255f8e9c3fabe9816bbec64b4d7
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 7848e557427e3158a5b5a8db9b025d8229b394c1fe8646966952f6ba
+
+
+
+
+
+
+                                                           X - RAY CHEST AP VIEW
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY.  X-RAY ANKLE AP & LATERAL VIEW       FINDINGS :         The alignment of the ankle joint appears normal     Bones appear grossly normal      Soft tissues appear normal         IMPRESSION :   NO SIGNIFICANT ABNORMALITY         Suggest clinical correlation and follow up X-RAY FOOT AP & OBLIQUE VIEW         FINDINGS :         The alignment of the foot appears normal     Bones appear grossly normal     Soft tissues appear normal     IMPRESSION :  NO SIGNIFICANT ABNORMALITY        Suggest clinical correlation and follow up    
+X-RAY ANKLE AP & LATERAL VIEW      
+FINDINGS :        
+The alignment of the ankle joint appears normal     Bones appear grossly normal      Soft tissues appear normal         IMPRESSION :   NO SIGNIFICANT ABNORMALITY         Suggest clinical correlation and follow up X-RAY FOOT AP & OBLIQUE VIEW         FINDINGS :         The alignment of the foot appears normal     Bones appear grossly normal     Soft tissues appear normal     IMPRESSION :  NO SIGNIFICANT ABNORMALITY        Suggest clinical correlation and follow up
+X-RAY FOOT AP & OBLIQUE VIEW        
+FINDINGS :         The alignment of the foot appears normal     Bones appear grossly normal     Soft tissues appear normal     IMPRESSION :  NO SIGNIFICANT ABNORMALITY        Suggest clinical correlation and follow up
+
+ 
+
+For clinical correlation. 
+
+
+

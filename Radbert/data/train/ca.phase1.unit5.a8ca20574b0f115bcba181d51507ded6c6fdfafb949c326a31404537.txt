@@ -1,0 +1,13 @@
+LUNGS: show partial collapse on left lower lung. Rest of visualized lungs show prominence of the hilar & bronchovascular markings.
+TRACHEA: Normal.
+PLEURA: Left sided gross Pleural effusion.
+
+HEART: Normal.
+AORTA: Normal.
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal.
+
+VISUALIZED SOFT TISSUES: Normal.
+DIAPHRAGM: Normal on right side.
+VISUALIZED ABDOMEN: Normal.
+VISUALIZED NECK: Normal.

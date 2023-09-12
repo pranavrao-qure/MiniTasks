@@ -1,0 +1,21 @@
+
+Patient ID 27385f521c0164e379efdc69a8fb748b531066e2d3742585633f1677
+Patient ID 16c3d3e3e8b3a3d44186657411fb60005b0f4a475de06d039c4506f7
+Patient Name c422c54e0f031e457fc817e0feb8df92dd6014882b4661e0b0641889 BABU/40Y.DR.SWATHI.CAS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date d8a60d2a830e18698ca5142ced2cd5690bb2e41d2d64bd82bc14d027
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

@@ -1,0 +1,26 @@
+Patient ID f3d7e79d73d5f4bb84dad7c4c0a7cea11a1a3980ac2ebdb65c21b81c
+Patient Name 2eaf61e459ef2b182afca44502ff6d3d558fe34966a51e32f8c0e5f1 28Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date 97f49accffe2ee3237c2211aaf72c31a9c4279451bbeb959cf01f378
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                     
+ 
+ 
+subtle opacity bilateral lower zone and bilateral prominent hila with prominent bronchovascular  markings in bilateral lung fields - ? infective 
+Rest of lung fields are normal
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+
+Both CP angles are clear.
+For clinical correlation.and follow up 

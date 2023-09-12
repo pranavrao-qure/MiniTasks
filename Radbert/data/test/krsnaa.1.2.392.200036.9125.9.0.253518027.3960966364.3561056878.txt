@@ -1,0 +1,32 @@
+
+Patient ID 915b6240e353be8918c6bd3fcecb1d176009791bf9afcef033bf41ea
+Patient ID fc78a7f3309ee57f5fbc1bdc18cfe0ea917ba452e0eaf7134df0b745
+Patient Name 96c77e3f997979ec46e75c9dcf81a6c116f9a40126028a1f10983a58 LAXMI40 Y REF DR VIJAY
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 28fdce9aecafc6702cb9e60dce23f3b463d1fbb57835e5dbac112605
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at right lower zone - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+
+
+For clinical correlation. 

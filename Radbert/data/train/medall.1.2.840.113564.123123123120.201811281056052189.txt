@@ -1,0 +1,19 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 2 fonts total
+
+-----------------
+ RADIOLOGICAL REPORT
+
+ REFERRED FOR : CHEST PA VIEW. X-ray no - 669.
+ Lung fields are clear.
+ Cardiac size is normal.
+ Both C P angles are clear.
+ Thorasic cage is normal.
+
+ IMPRESSEION : NORMAL CHEST.
+
+
+
+ RADIOLOGIST
+
+

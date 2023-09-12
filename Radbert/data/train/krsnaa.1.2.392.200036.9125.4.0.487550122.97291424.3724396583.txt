@@ -1,0 +1,26 @@
+Patient ID 01ab0514306773ed788d7af6c96ca0d59c9a45917beadcdf121012fd
+Patient Name a94322dbab5b8a748c032b0b9af5e5f8b89624719e7793bd79db8b4b 18 Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bb74ee05c47bf37137ad6fb42548ca6dc1dcb2b031ad90aae5332566
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ Consolidation noted at right upper zone - Infective etiology.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+For clinical correlation. 
+
+

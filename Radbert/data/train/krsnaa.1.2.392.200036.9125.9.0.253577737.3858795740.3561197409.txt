@@ -1,0 +1,32 @@
+
+Patient ID 881003792b3a092980a403823f6a5a1219d4f25326225a3915449ed0
+Patient ID 682d58a47d3059c90ef987fce385cf5748b89a39bc59452b9ae224b3
+Patient Name c277f24b51f7202939beedda8f7adc310b01e99bf632069510c1b26e VALLI/42Y.DR.JYOSHNA.CAS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c42735d38bf81e3d60fbe091d583585cc5d5ad50eae5adeadcbebe81
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy inhomogenous opacities noted in both mid zones - Infective etiology
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+
+Bilateral minimal pleural effusion noted.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

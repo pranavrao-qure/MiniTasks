@@ -1,0 +1,28 @@
+Patient ID 462f1ed5cd7eb6374697908de49fbd7779c2fc406b22f5df1403bfb5
+Patient Name 2ee180b9d7e7fd4752d1c9da538193ad074827f13c48a06aff369041
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST 2R
+Study Date fd0d8f8d35ccb4e258b78d602f43c6e79691c63b6a3336c3fa7c333a
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+Bulky right hilum -Infective.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Bulky right hilum -Infective.
+​​​​​​​ For clinical correlation. 
+
+

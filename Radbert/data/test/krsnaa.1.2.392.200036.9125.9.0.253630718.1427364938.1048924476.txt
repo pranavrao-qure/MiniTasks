@@ -1,0 +1,32 @@
+Patient ID 1a7aaf2f741a857ed7149f46a3147cd87258472af93f569cede8d8d3
+Patient Name 10af723aa4edb560e19193e30ebe2b06821c1818dfcfabaae0c671ee 65Y
+Age :
+Sex :M
+Accession Number f39e3a323c9c82e44665b7a94b86b67b5f904d427bcb9c9ad9ba6ec2
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ef12f41f305d2e895c3b8f16dc4bf5a0e8f062c2e9e49feee2db20e2
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at right upper and left lower lung zone - Infective
+Prominent bilateral hilar shadows noted.
+Unfolding arch of aorta noted.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy consolidation noted at right upper and left lower lung zone - Infective
+Prominent bilateral hilar shadows noted.
+Unfolding arch of aorta noted.
+For clinical correlation.
+                                            

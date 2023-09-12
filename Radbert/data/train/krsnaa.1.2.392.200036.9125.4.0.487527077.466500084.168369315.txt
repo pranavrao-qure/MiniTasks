@@ -1,0 +1,28 @@
+Patient ID 66d9aec8827e50d7466ebeed76b89d8bdd880ca7ce2bcb6ddca5b14d
+Patient Name fea9c4fda9ae275392f174cf866c136507ab01f19f02113d6834e29d
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 7d34cebff3cd339a2683ddb00c06c9972965167603972511dd95b9ac
+
+
+
+
+
+                                                        X - RAY CHEST PA VIEW
+                                            
+ 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of right CP angle noted - Mild Pleural Effusion.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

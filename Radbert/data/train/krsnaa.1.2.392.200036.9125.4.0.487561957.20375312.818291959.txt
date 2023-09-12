@@ -1,0 +1,32 @@
+Patient ID 5fee1015087b86bc9c3335796c31a1990ceb6629af58a36335f19cf0
+Patient Name ed2f4b1763398cccb99c1dff21b840f275524f65f76695add318284b 22y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ec329b92bf045792553167b4ad453900caf8ff070ad9d0aeb35e644c
+
+
+
+
+
+                                            X - RAY CHEST  
+
+Over exposed film.
+Prominent right  hilar shadow noted.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Prominent right  hilar shadow noted.
+For clinical correlation. 
+
+ 
+ 
+Date: 20-Jan-2020 11:07:34

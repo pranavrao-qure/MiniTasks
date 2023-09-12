@@ -1,0 +1,31 @@
+
+Patient ID e7cc6df7651972f730dd9a91cc5f411cde0820a02e1aec851bd0fa4f
+Patient ID 3a513d597092c3b3238821644571a527670a4275523edb39f334c7d2
+Patient Name fe5f3819faf90a88806e4dc8ed9aa058fdc02140d7c14b8b5ff50602 34/M
+Age :
+Sex :M
+Accession Number f5f63835f95b765a86d322b048504d990991d3ec7f478ce4e537bc4e
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date f0391fd24f179c8733a866e9cb53b559d39011fb331dbe7419bc1a95
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Diffuse Patchy consolidation noted at left  lung- Infective
+
+Trachea shifted on left side.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+ Blunting noted at left CP angle.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 

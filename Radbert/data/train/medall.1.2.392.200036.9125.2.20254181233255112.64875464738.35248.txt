@@ -1,0 +1,25 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+
+
+Trachea appears normal.
+Cardiothoracic ratio is within normal limits.
+Bilateral lung fields appear normal.
+Prominent right pulmonary hilum is seen.
+Costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+Prominent right diaphragmatic hump is seen.
+Extra thoracic soft tissues shadow grossly appears normal.
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 7038 by 3704, depth 1
+pict001.wmf
+Dr.Rama Krishnan. M.D., D.N.B.,
+Consultant Radiologist.
+
+
+
+
+

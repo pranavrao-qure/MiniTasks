@@ -1,0 +1,21 @@
+
+Patient ID fd900246d8609f66cce9dea715ab0ced83c94501503aafff7cb36bd4
+Patient ID e80f443d30c5d3386ea7f73c409d0ba2f4b9f28b39d9fc15e9245957
+Patient Name ad9167b72dc1438a84b4ce894059ea9f12bda170faf7dbb03dad911d 76Y REF DR B.S.RAO
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 9226a2e1b5d267c0bdf078788056f31fb0f58f2766fcdbfab87f6a70
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows fibrocalcific lesions both upper zones - Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

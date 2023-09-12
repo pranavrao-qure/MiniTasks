@@ -1,0 +1,28 @@
+X-ray Chest PA  view:
+
+LUNGS: Collapse on right apical region due to pneumothorax. Focal plate atlectasis in right basal region 
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA:Small pneumothorax in right apical region. Blunted right costophrenic angle
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+30Year old male, FUC of right VATS. 
+x-ray of the chest shows 
+
+- Small right apical pneumothorax - Decreased compared to previous radiograph 
+- Blunted right C P angle - ? Post operative 

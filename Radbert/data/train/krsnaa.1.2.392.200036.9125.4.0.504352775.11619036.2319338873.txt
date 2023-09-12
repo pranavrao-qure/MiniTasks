@@ -1,0 +1,35 @@
+Patient ID d9d44412321fe3c57de50e30f28cef34be4e4462a15219e7a17a9ff9
+Patient Name 06965529dd7a7c03dc5da81f508f691aa9b7524531865ac31f99366e 42 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 0f66515d1b762a966cffc323b821cb75966ef8ce91eb9bade9f93adc
+
+
+
+
+
+
+
+X RAY CHEST PA VIEW
+
+
+Inhomogeneous opacity with air bronchogram is seen in the right  upper zone.
+Rest of lung fields are clear.
+Both costophrenic and cardiophrenic angles are clear.
+Cardiac and Mediastinal silhouette is within normal limits.
+Both hilar regions and diaphragmatic outlines are unremarkable.
+Visualised bones are normal.
+
+IMPRESSION: 
+
+Consolidation  in the  right  upper zone.                                                                          
+
+Please note that imaging conclusions need to be correlated with clinical findings & other investigations for final diagnosis.
+
+
+ 
+Date: 15-Feb-2020 10:51:19

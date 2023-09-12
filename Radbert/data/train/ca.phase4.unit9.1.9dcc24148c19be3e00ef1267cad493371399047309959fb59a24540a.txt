@@ -1,0 +1,28 @@
+X-ray Chest PA view:
+
+Note: The patient is markedly rotated.  
+
+LUNGS: Normal.
+TRACHEA: Normal. The right paratracheal soft tissue thickening, likely related to the rotation. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Calcification is noted in the aortic knuckle. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal. 
+
+Report Impression: 
+Normal x-ray of the chest.
+Note: The patient is markedly rotated.  

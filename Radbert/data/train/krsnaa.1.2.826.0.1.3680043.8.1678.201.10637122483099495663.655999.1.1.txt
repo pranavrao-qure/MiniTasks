@@ -1,0 +1,30 @@
+
+Patient ID d1b34e980ad2f11bb2e3a509fce52ad2aa8356a9f9305c4f480645bd
+Patient ID 00f8f3af5876ac99d44abd25df926376d7d0ca9245334094cea71be7
+Patient Name 7df48a901745cfcf7c7b2cb647510e95247452b91a8f45d2abe505b0
+Age :25 Years
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 71914bafab28a96f4ed9db6853fb990f255f14956fed879d0d2c2a5a
+Study :CHEST.PA
+Study Date 60605ba3a3ea0dd1763eaec03ff36e7838534681464ef475bd77f9dc
+
+
+
+
+
+
+X - RAY FORE ARM AP AND LATERAL VIEWS
+
+No evidence of sclerosis or erosions.
+
+Visualized portions of the radius and ulna are normal.
+
+Soft tissue planes are normal.
+
+visualized Joints appear normal.
+
+Impression:   Normal Study.
+
+For clinical correlation.

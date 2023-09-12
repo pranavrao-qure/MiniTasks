@@ -1,0 +1,30 @@
+Patient ID 75e8fe2eb17048cdbad55786396847b12f5c43c846a3bcf9118711e7
+Patient Name dbd9241b5ae32b637c7eb347d13e18d16f59ee68a415ebcc68921ea2
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date cf5021447e2f0b909738940855a5643376f42acb66773dae13552a5d
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+ 
+ 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Fracture noted at distal shaft of clavicle on right side .
+Trachea is in midline.
+
+Cardiac silhouette maintained.          both CP angles are clear. Rest of lung parenchyma are normal. Bony cage and soft tissues are normal. For clinical correlation.
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+
+Fracture noted at distal shaft of clavicle on right side .
+
+ 
+ 
+Date: 10-Jan-2020 18:08:04

@@ -1,0 +1,9 @@
+CHEST XRAY PA
+
+CARDIA: There is no cardiomegaly.  
+LUNGS: There is interval improvement in the airspace opacity in the right lower lobe.
+PLEURAL EFFUSION: Nil
+BONES: Normal.
+Report Impression: 
+Compared to the CXR dated 21/11/2011, there is interval improvement in the airspace opacity in the right lower lobe.
+ 

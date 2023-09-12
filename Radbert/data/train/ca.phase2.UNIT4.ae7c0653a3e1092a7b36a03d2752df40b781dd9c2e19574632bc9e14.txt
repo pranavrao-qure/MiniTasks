@@ -1,0 +1,25 @@
+X-ray Chest PA view:
+
+LUNGS: Mild perihilar and basal congestion.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Mild cardiomegaly.
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: 3cms hyperdense opacity in left paratracheal region suggestive of nodal/thyroid calcification.
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+-Mild cardiomegaly.
+-Mild perihilar and basal congestion.
+-Nonspecific hyperdense opacity in left paratracheal region suggestive of nodal/thyroid calcification.
+
+Clinical/lab correlation/comparison with previous imaging and follow up CT if clinically indicated recommended.

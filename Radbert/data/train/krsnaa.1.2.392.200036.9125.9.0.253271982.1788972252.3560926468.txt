@@ -1,0 +1,56 @@
+
+Patient ID c262932a25a2464f6505b766e192f45b2e872c7c083ce58ea4521e73
+Patient ID 60803c800de9a338b7a7b76f2c0aab3a11998dbfd5c6f5a94df0cca2
+Patient Name ff89a4766c9a0cc6118866b46546bac6b34b43d388c8481e9e8776a1 55/F
+Age :
+Sex :O
+Accession Number 07333ba7f05514fb9e94e6306d84b136efca0c2d4678ab86c46ceab7
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 48f5780eb7346ca3729c72793120c1c4e13a5830107eaf5a1215269f
+
+
+
+
+
+
+X-RAY    CHEST (PA VIEW)
+ 
+ 
+Bilateral lung fieds
+appear normal
+ 
+Right cp angle is obliterated - likely  pleural effusion.Left cp angle is indistinct 
+ 
+Mediastinum appears
+normal.
+ 
+Cardiac silhoutte normal
+ 
+No e/o shift of trachea.
+ 
+Chest wall normal.
+ 
+ 
+Impression:   
+  Right cp angle is obliterated - likely  pleural effusion.Left cp angle is indistinct 
+
+Kindly correlate clinically.  
+ 
+ 
+Investigations
+have their limitations. Solitary pathological/Radiological and other
+investigations never confirm the final diagnosis. They only help in diagnosing
+the disease in correlation to clinical symptoms and other related tests. Please
+interpret accordingly. This report is not meant for medicolegal purpose.
+ 
+ 
+ 
+ 
+Thanks for
+reference, 
+ 
+ 
+
+ 

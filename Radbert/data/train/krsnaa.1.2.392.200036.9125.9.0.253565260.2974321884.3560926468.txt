@@ -1,0 +1,21 @@
+
+Patient ID 6300cce18b20d5a513ad16eded6807c0f01f7999e184ca98ae3dc2ee
+Patient ID 15222ddb3b43083e1277de75a248fa33082025ae3bc0739cb074e2bd
+Patient Name 2286661252a4bf4513ecf6da2af9d9da0302a46b23b8b6bcfd7f5c87 60Y
+Age :
+Sex :F
+Accession Number 8d279d6df910c0173a488403401f35f224b6c4c444eb52172b35b94d
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 5a3c0aa5cc218b7701c878a9d046cb86a6708ffb2d5ad73204da16c0
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows pneumonitis right lower zone with pleural reaction right CP angle and effusion in to minor fissure.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

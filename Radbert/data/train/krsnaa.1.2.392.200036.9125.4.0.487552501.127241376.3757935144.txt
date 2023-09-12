@@ -1,0 +1,32 @@
+Patient ID 100aa19672da721918a865a23d33c9e647ff0effa0ebd1ec29477216
+Patient Name b814a13ec60cff52f666bd7bc3f8790497da0d7fa2c7960111fc96b9 28 Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6226f29349fbaf08b9de824880e55de9b989d9b4a024755ae33a6584
+
+
+
+
+
+                                    X - RAY CHEST PA VIEW
+ 
+ 
+Prominent right hilar shadow noted.
+Patchy opacity in right paracardiac region.
+Blunting of both CP angles noted - Pleural Effusion.
+Trachea is in midline.
+ 
+Left hila normal in density.
+Cardiac silhouette maintained.          Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+ADVICE :  USG CHEST.
+Clinical correlation.
+
+ 
+ 
+Date: 01-Feb-2020 12:07:39

@@ -1,0 +1,24 @@
+X-ray Chest PA view:
+
+LUNGS: Right basal atelectasis.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Enlarged in size.
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Elevated right dome.
+
+VISUALIZED ABDOMEN: Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Cardiomegaly.
+Right basal atelectasis.
+Elevated right dome of diaphragm.

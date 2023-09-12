@@ -1,0 +1,18 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 2 fonts total
+
+-----------------
+RADIOLOGICAL REPORT
+ REFERRED FOR : CHEST - AP (SUPINE). X-RAY NO - 560.
+
+ Pulmonary oedema changes seen in lungs.
+ Cardia shows L V configuration.
+ Both C P angles are clear.
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+Patient ID ef5f524db16f7fe75f8dc27a196f98408b1d7221211d5f50b24e0c6f
+Patient Name 0f7739f5daf2e0926c9d74775dd074a57b5252be1afc96c41f035541 50 Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 9ce3f866dcfd9d5757259143a19ad91c22e303702a53ec837389bfe4
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+ 
+Ill-defined homogeneous opacity obscuring vessels with air bronchogram noted in left lung  suggestive of consolidation ? due to bacterial infective etiology. Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION: 
+Above X-ray Findings are suggestive of Infective etiology? Bacterial.
+ADVICE-Complete Blood Count.
+
+

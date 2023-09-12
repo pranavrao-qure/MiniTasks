@@ -1,0 +1,21 @@
+
+Patient ID ff7df916ab1286349442dde1a88c188082f43cea6175db7d235bd5f8
+Patient ID 3fe67521058b11de4653b670471461a9491e976054dabfb045e166c2
+Patient Name 9af3f7a4358288ada36db1661a249b229b5b8a77b9d49938921b55bc 44Y TB OP
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 8ac2c5be69deec288bfcddb285c2d11fbcad1e39f24f89f92401ec63
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

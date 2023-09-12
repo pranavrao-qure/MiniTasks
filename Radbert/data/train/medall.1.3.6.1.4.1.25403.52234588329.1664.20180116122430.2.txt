@@ -1,0 +1,29 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+CHEST X-RAY (PA VIEW)
+
+
+1.      
+Mild cardiomegaly noted. 
+
+2.      
+Aorta is unfolded and shows calcifications. 
+
+3.      
+Lung fields show diffuse interstitial changes. No focal lesions / consolidations. 
+
+4.      
+Bilateral CP angles and domes of diaphragm are normal. 
+
+5.      
+Bilateral hila are normal. 
+
+6.      
+No evidence of fracture or pneumothorax.
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3540 by 2574, depth 1
+pict001.wmf
+ Dr kanishka 
+

@@ -1,0 +1,25 @@
+Patient ID ad3b5afb744ea568df1e397e19c1db63563e896e1d335366b46d6a4d
+Patient Name eddd40195ff7d34e5d1d39f841bb48bac02447a0539a4ed290aa0e48 16Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date bf2ca8e7decd3ab0b3b65076509d7866573f8071d1e9e4c559cbb3be
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+Right hilum Prominent.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+

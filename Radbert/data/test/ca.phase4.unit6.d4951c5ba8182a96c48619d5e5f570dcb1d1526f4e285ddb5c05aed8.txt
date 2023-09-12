@@ -1,0 +1,10 @@
+CARDIA: There is apparent mild cardiomegaly.  
+LUNGS:Normal
+PLEURAL EFFUSION:Nil
+BONES:Intact.
+
+Report Impression: 
+CARDIA: There is apparent mild cardiomegaly.  
+LUNGS:Normal
+PLEURAL EFFUSION:Nil
+BONES:Intact.

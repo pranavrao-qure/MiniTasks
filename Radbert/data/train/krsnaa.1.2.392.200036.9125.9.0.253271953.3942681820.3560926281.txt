@@ -1,0 +1,39 @@
+
+Patient ID 56fe1f58eea21ff3dc8eb34dace84088c7cc643658536910955bce84
+Patient ID ed6f840a4e5eff5031ee343b6f90a77e25088829046aa8b402bd869d
+Patient Name 3831040ae375c1b42ec7c21dd4578e507eb697ac9f6c308efe4d1bea 11 MONTHS REF DR RAVINDRA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 48f5780eb7346ca3729c72793120c1c4e13a5830107eaf5a1215269f
+
+
+
+
+
+
+X-RAY CHEST- PA VIEW
+ 
+FINDINGS:
+Bilateral lung fields appear clear.    No obvious pleural/parenchymal lesion noted. 
+ 
+Bilateral hila are normal. 
+ 
+Both costo-phrenic and cardio-phrenic angles appear clear.
+ 
+Cardiac silhouette is within normal limits.
+ 
+Both domes of diaphragm appear normal.
+ 
+Bony thoracic cage & soft tissues appear normal.
+ 
+IMPRESSION:
+Chest radiograph PA view
+reveals no significant abnormality.
+
+Dr. Arnab Marik
+DNB
+Consultant Radiologist  

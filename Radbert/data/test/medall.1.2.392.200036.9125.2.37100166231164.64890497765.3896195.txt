@@ -1,0 +1,27 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+DIGITAL X-RAY - K U B REGION
+
+Renal shadow appears normal in size, shape and position on both sides.
+
+Bowel gas pattern appears normal.
+
+Psoas shadows appear normal.
+
+No abnormal radio opaque shadow seen in the KUB area
+
+Bony parts appear normal.
+
+IMPRESSION:
+
+¬        
+No significant abnormality detected.
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 8124 by 3731, depth 1
+pict001.wmf
+Dr. H. Iyengaran Sri Hari , MDRD.,
+Consultant Radiologist.
+
+

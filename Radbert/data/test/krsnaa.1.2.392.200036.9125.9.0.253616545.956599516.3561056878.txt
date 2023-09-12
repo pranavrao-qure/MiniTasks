@@ -1,0 +1,37 @@
+
+Patient ID 04dc47c063820c86dcc7eeae70bdc76f72541c162f0c900ff682970c
+Patient ID 4fd7cf241353577bc6202a47e3bac553c73722d5743f8a7d2e76c1e0
+Patient Name cbbbfd4ddc737fa71f8dbe3e3da9ade01de4a4eaa95a8bdf96d59ffa 65Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date a53b9d6445316883b902a7f145596b1fb966d5b12563edfc001ce27a
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :     
+  
+Lung fields shows hilar and basal congestion. 
+  
+Both hila appear normal. 
+  
+Increased cardiothoracic ratio noted - Cardiomegaly with unfolding of aorta. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ IMPRESSION :  Cardiomegaly. 
+ 
+     Suggested
+clinical and Echo correlation and follow up .

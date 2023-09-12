@@ -1,0 +1,31 @@
+
+Patient ID 9dec7de683f1b73b9715c4b73b1a5fdb47b8f75615bdd759e0c97999
+Patient ID 66c5e8e6c19e9b9e04be69c46c9d36c98f2d78423ca978ad0c75bfe3
+Patient Name 34fedd730c2be1564062dee39a15c83bc7d4ea8c71bd26e862898ec4 42/M
+Age :
+Sex :O
+Accession Number 9db0aea6eddd8ce29fc49a863a838893d717db18c082cca16378afe2
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 23a38c1e552388cca602e3aa2e2616185c9a587f4ef85f037a8bf339
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+right clavicle fracture noted.
+IMPRESSION :   
+
+right clavicle fracture noted.
+For clinical correlation. 

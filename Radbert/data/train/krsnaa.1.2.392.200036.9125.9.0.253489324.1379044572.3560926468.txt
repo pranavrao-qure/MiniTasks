@@ -1,0 +1,29 @@
+
+Patient ID 46795fd7eb1a400f3105161223ce14b4504d881971432fa39dea77a9
+Patient ID 90261a5c0079d330de08eaa31331d20ecb9639efd923b7d8ac2961b9
+Patient Name 831800c151875d2ab1e5d8af4698b9824b4311e5ec256c510097bc5c 74Y  S
+Age :
+Sex :M
+Accession Number 98875c4240a8b94390cb1692ab9d4c9477e21ce78fc7385a05aebe5d
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 04b3fc50adecfbbe47beac1c78dfc9504f10f0fbaf35a5970dc4076d
+
+X - RAY CHEST Haziness in both lower zone. Rest Prominent bronchovascular markings bilaterally Cardiac silhouette is enlarged  Both CP angles are clear. Bony cage and soft tissues appear normal For clinical correlation.      Date: 12-Jan-2019
+
+
+
+
+
+
+
+Haziness in both lower zone.
+
+Rest Prominent bronchovascular markings bilaterally
+
+Cardiac silhouette is enlarged 
+Both CP angles are clear.
+
+Bony cage and soft tissues appear normal
+For clinical correlation. 

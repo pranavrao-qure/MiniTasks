@@ -1,0 +1,41 @@
+
+Patient ID 3219a34e2548bd89fd6cb250d0b3564f9dfad1a5c960c49613a5c7ca
+Patient ID bb32c64341f399ebbef26c9661b8b4936badab5f30846cde69d7f208
+Patient Name e6ee7725b9ad4774a930ec764ba3a10f5039acd7c032568c84456b8a 80/f
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date af9a81cb3d4e513e8cbed76e1c52610d15b8ec04084bcd2312e3ed0b
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS
+:     
+  
+Lung fields shows consolidation right mid and lower zone - Infection. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal with LV configuration and calcification of aortic knuckle. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ 
+    Suggested clinical correlation and follow up.
+ 

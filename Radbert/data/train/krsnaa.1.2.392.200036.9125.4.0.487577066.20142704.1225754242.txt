@@ -1,0 +1,53 @@
+Patient ID dcd39824db1a75283201453276af16288237e19520f4518f350cae45
+Patient Name d1d912ea35d91d0724fc02d88b4af1211899de1db39ad6802a603f91 36YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c4dc64b6d499b01b845d4050040d4441baac0f51146e5b7a5dc44531
+
+
+
+
+
+X-RAY SHOULDER AP VIEW  
+  
+ 
+FINDINGS :    
+ 
+  Fracture noted at mid shaft of clavicle with surrounding soft tissue swelling.
+ 
+  Rest of bones appear grossly normal.   
+ 
+   IMPRESSION:
+
+Fracture noted at mid shaft of clavicle with surrounding soft tissue swelling.
+Suggest clinical correlation and follow up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+X - RAY LEFT  HIP JOINT AP VIEW
+ 
+Hip joint space appears normal.
+ 
+Acetabulum is normal.
+ 
+Left sided Iliac bone fracture noted.
+ 
+Visualized pelvic bones and soft tissues appear normal.
+ 
+
+ 
+For clinical correlation.

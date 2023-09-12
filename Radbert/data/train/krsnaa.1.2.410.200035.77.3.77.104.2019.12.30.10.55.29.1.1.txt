@@ -1,0 +1,100 @@
+Patient ID 510e1cb261e7594414dc4949f4d595572005410c1fefe816902bed74
+Patient Name 6300a7940cf1deb2b06b88d72263dd8c94cd031ccb5aac9a839ad65e
+Age :10 Years
+Sex :M
+Accession Number 06d8b7fc341891a593db1ea918d9b1005bfe96c7c896697b9936010c
+Modality :CR
+Referring Physician 19c33dfe2e94a217a9f3287761c0ffcd9d2384ec79aaf9c25cb4a85e
+Study :RT LEG AP/LAT,CHEST WITH ABDOMEN AP,RT THIGH AP/LAT
+Study Date d3d1dc12498f489548c1b85e11322cd59acf3cfa10e30dfe4966a0c1
+
+
+
+
+
+X - RAY RIGHT LEG AP AND LATERAL VIEWS
+ 
+Bones are normal in density and alignment.
+ 
+No evidence of osteolytic / sclerotic lesion.
+ 
+No evidence of bony injury.
+ 
+Soft tissue planes are maintained.
+ 
+Impression:  Normal Study.
+ 
+For clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    X - RAY CHEST  
+Mild haziness noted in  b/l mid  zone - -? Infective.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation.
+
+
+
+
+
+
+
+
+
+X-RAY ERECT ABDOMEN   
+ 
+FINDINGS :
+ 
+No evidence of air under the domes of diaphragm.
+ 
+No evidence of abnormal dilatation of bowel loops.
+ 
+Properitoneal fat planes normal. 
+ 
+IMPRESSION:    NO SIGNIFICANT ABNORMALITY.
+ 
+       Suggested clinical correlation & follow up.  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X - RAY THIGH AP & LATERAL VIEWS
+ 
+
+Fracture noted at distal  shaft of femur with surrounding soft tissue swelling.
+
+     
+No evidence of osteolytic / sclerotic lesion.
+ 
+ 
+For clinical correlation.

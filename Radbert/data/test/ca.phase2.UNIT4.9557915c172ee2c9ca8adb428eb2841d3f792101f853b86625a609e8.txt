@@ -1,0 +1,23 @@
+X-ray Chest PA view:
+
+LUNGS: Perihilar congestive changes.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Mild cardiomegaly. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Mild cardiomegaly and perihilar congestive changes. 
+
+Correlate clinically and with other investigations.

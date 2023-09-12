@@ -1,0 +1,35 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 7 fonts total
+
+-----------------
+Plain X - ray chest - PA projection show
+
+
+"        
+Trachea - Midline.
+"        
+Aorta is normal.
+"        
+Cardiothoracic ratio is mildly increased.
+"        
+Prominent bronchovascular markings in both lung fields .
+"        
+Costophrenic angles are free.
+"        
+Hilar and both domes of diaphragm appear normal.
+"        
+Bony and soft tissue shadow normal.     
+
+IMPRESSION:
+v       
+Mild cardiomegaly.
+v       
+Prominent bronchovascular markings in both lung fields .
+
+
+
+DR.SYED INAAMULLAH.,DMRD.,(DNB).,MD.,
+ CONSULTANT RADIOLOGIST.
+
+
+

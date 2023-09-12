@@ -1,0 +1,31 @@
+
+Patient ID bde9c0b0acb91c1ced88d56694d43b27c251f68b6745cac5487b83d4
+Patient ID 011c85a6b3d240746ec093498caceaff164e9e732aa1d7f0a37a1532
+Patient Name f957a4ff242e50fde1adc789bebbf51d842b7fb53e20dd1a6681fb51 45/Y. DR. NCP. CAS.
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 5210443d1b5dbbf8513facdad7a469891095914016ea69695bbd624a
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis at left upper zone - Koch's.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+
+
+For clinical correlation. 

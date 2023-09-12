@@ -1,0 +1,33 @@
+
+Patient ID 145ed23e0f97560bcc33c9e22fb9ae44e9c1973a4a9927e0c202f58f
+Patient ID f1d25d9b7998a97f06a1bfefb95a57df7187ccb859979c0fa2cb3fe9
+Patient Name 01c05e55afe8eae88a1bce3a645dd5d2e870825f8b1e583dddce322d 6Y Mc ,REF DR VIJAY
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 2275dc1e931a0698694edf1b413cd58b03743a15c1091bb166e39495
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis at right upper zone - Infection.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Bony cage shows crowding of posterior thirds of ribs on both sides
+
+
+
+For clinical correlation. 

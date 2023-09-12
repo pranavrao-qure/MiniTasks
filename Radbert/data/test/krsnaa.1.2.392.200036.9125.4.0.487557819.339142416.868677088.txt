@@ -1,0 +1,47 @@
+Patient ID 1469dc6d539e60178e2464be24115d2eb444c91d881f04d0c81102f0
+Patient Name bbf075356ba2bf138666f24b26eff00034c391f782892ed28c6069b7 65Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 06249234fe03b5e828663bb38b83a8da56dd6f8b4d1bcbc33a3de006
+
+
+
+
+
+      X - RAY CHEST 
+
+Tram-track opacities with ring shadow noted in bilateral lungs.
+Calcification of aortic knuckle noted.
+Small nodular opacities noted at bilareteal perihilar region.
+ Mild Blunting of  left CP angle suggest pleural effusion.
+Trachea is in midline.
+
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:  Bronchiectasis changes as described above.
+Calcification of aortic knuckle noted.
+Small nodular opacities noted at bilareteal perihilar region.
+ Mild Blunting of  left CP angle suggest pleural effusion.
+
+For clinical correlation.
+
+
+
+
+
+
+
+X-RAY SHOULDER
+  
+FINDINGS :       The alignment of the shoulder joint appears normal
+  Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+
+ 
+ 
+Date: 19-Dec-2019 14:18:10

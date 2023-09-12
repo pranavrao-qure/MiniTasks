@@ -1,0 +1,33 @@
+
+Patient ID e8510d4339e55991d4e9fda167bd4380bb8477bbb809e0e45f1214f4
+Patient ID 8cb0d58469c53cdcfb72056961953eeaa0443951c2ae228cd6ed9a87
+Patient Name 63d291ec5bc94504863c9f315778c3521d7f917b44a90a24b5e3ecc5 65 Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 7233dfac6a651d4818c46eea89648d65a20816a1cbd2cc68239c9a64
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Well defined homogenous opacity noted in right lower zone - ? Infective - Adv - CT chest for further evaluation. 
+
+? Old fracture noted at 4 right posterior rib.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of the lung parenchyma are normal.
+
+
+
+

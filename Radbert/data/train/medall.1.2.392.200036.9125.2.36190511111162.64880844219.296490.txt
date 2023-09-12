@@ -1,0 +1,23 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+DIGITAL X-RAY - LEFT SHOULDER AP VIEW
+Joint space appears normal.
+The articulating margins of head of humerus and glenoid cavity appear normal.
+The head, neck, greater and lesser tubercles of humerus appear normal.
+Visualised portions of clavicle, corocoid and acromion process of scapula appears normal.
+IMPRESSION:
+¬        
+No significant abnormality noted.
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 16233 by 15956, depth 1
+pict001.wmf
+Dr. V. Sudhakar. MD., RD
+        
+        
+        
+        
+        
+        
+Consultant Radiologist
+

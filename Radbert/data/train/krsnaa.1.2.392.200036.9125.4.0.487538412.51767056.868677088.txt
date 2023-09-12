@@ -1,0 +1,47 @@
+Patient ID 202ca2c4cde611a6ebfef5a3e02a0326d2e422af11d8e5144bb24f51
+Patient Name 84bd9ea78810cf60d9e8d7e118ca2f5db7dbd9c6f9b10f0d38a09521 35Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 97f49accffe2ee3237c2211aaf72c31a9c4279451bbeb959cf01f378
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Fine reticular opacities are noted in left upper and bilateral lower lung fields.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IMPRESSION : Chest x ray findings are suggestive of infective etiology.
+Suggested clinical correlation.
+ 
+
+

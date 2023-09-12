@@ -1,0 +1,19 @@
+Patient ID 0f65aa4c2ff5d988ced8ae27c706943d1200251e585ed20a5d013f92
+Patient Name e3c548ea7d14787b76dbc334b0c3caae43bd7affd614e8512590727d 18 Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6b3f1a99bc0641e428aea25288f46c2d9f985603d37a7918aee11bba
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :                                   Large emphysematatous bulla right upper zone  fibrotic opacities right mid zone 
+Calcified granulomas left mid zone  
+​​​​​​​   Both hila appear are pulled up.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.        Suggested clinical correlation and follow up.
+

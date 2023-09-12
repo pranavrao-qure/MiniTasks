@@ -1,0 +1,27 @@
+
+Patient ID b70d6500339f0706d883bcbfdf7d2d02dce0949eb521d5803044011a
+Patient ID 2709866ae2dec98a862859ab73a934e70445baa7440aa9b7c6d2842e
+Patient Name 82c52dd77aa4429b989f17c7dadb3bbcb2d72d8efc5156d3d716c844 14Y CHOP
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 7d4ba2221c9a92dfbb23b0e499c93d58b25f239fce507f6e7c74b6aa
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

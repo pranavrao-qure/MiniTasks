@@ -1,0 +1,20 @@
+
+Patient ID 19bd7634c209b69f0085e203796dbf8fecde34645f6f3d904c8bb500
+Patient ID 1d822e91219b02736fced25d581b0a4c23d932abd5d46748fd4f1e47
+Patient Name 0236c1d380b59b1bf9f92edd20768dd74ad29cafca6ee8ce434add21 48 Yrs
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 443df5453fe574d273dba1594980be167be0fea3b2611c6d1e40524f
+
+
+
+
+
+
+
+X-RAY  CHEST AP VIEW
+FINDINGS  :       Lung fields are clear.   Both hila appear  normal.   Mediastinum is normal.   Cardiac size is  normal.   Both domes of diaphragm are normal.   CP angles are  clear.   Fracture noted at  left 9th lateral rib.         Suggested clinical correlation and follow up.

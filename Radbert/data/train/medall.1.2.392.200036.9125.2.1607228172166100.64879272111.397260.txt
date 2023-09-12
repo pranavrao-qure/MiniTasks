@@ -1,0 +1,25 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X-RAY CHEST (PA VIEW)
+
+Haziness with prominent broncho-vascular markings in the right lower zone 
+
+- ? Infective.
+
+The cardio thoracic ratio is normal.
+
+Both the pulmonary hila are normal in size.
+
+The costophrenic and cardiophrenic recesses and the domes of 
+
+diaphragm are normal.
+
+The bones and soft tissues of the chest wall show no abnormality.
+
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2552 by 1143, depth 1
+pict001.wmf
+Dr. Keerthi. K., MDRD
+Consultant Radiologist

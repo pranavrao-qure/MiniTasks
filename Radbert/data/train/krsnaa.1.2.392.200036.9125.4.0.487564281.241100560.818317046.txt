@@ -1,0 +1,32 @@
+Patient ID 4f6593519cb8ba3a23903bbdb78873673dc36ed88733dfbe6db78eeb
+Patient Name 20fb5250fd4427083804429b46d0edeb8be19b3d5083d73fee18b3c0 70Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c46bc56ca8e4c73e8faadd9ad168d28a6c2e12bd0198b388a12edb3b
+
+
+
+
+
+                                                           X - RAY CHEST 
+ 
+   
+Patchy opacity  noted at bilateral perihilar region - ?Infective
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy opacity  noted at bilateral perihilar region -  ?Infective
+For clinical correlation. 
+
+
+
+

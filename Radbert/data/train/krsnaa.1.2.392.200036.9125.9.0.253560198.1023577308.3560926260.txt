@@ -1,0 +1,48 @@
+
+Patient ID 7aaf27ba54c8858ae090ab92022fb7fc1d0ea0f7778557e9c9d9c197
+Patient ID 393af415e09fde6cbb355c88f1b43187ccbb1ee3605dcf626d42fb8f
+Patient Name 906b07e3529c5fd3e5e6b8c81522b9b91136eb8b3b2cb4a89aa788d5 38Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 1d6c82ea17e8ff6e8605f590c8da97cfef5ea9169b8dfa10af81976b
+
+
+
+
+
+
+X-RAY 
+CHEST AP VIEW
+FINDINGS 
+:       Lung fields are clear.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.    IMPRESSION :  NO OBVIOUS ABNORMALITY.     
+Suggested clinical correlation and follow up. X - RAY RIGHT SHOULDER AP VIEW Post op status. Fracture noted at neck of humerus with internal fixation. Rest of visualized bones appear normal. For clinical correlation.        
+
+
+X - RAY RIGHT SHOULDER AP VIEW
+
+
+
+Post op status.
+
+
+Fracture noted at neck of humerus with internal fixation.
+
+
+Rest of visualized bones appear normal.
+
+
+
+For clinical correlation.  
+
+
+
+
+
+

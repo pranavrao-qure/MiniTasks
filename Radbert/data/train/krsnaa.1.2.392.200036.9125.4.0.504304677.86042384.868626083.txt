@@ -1,0 +1,33 @@
+Patient ID 038588da3c409100a53982222cf5d1a754d363062889f091bfc1ff95
+Patient Name 218d53934bf526001d5764b68980c6f3a4fd131cdde189b0f080aab7 56Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 105bd3c366b5081a0dbf63b778f2ff88f581cc9a30c0be7e98e2ef12
+
+
+
+
+
+  X - RAY CHEST
+Patchy consolidation noted at right upper lung zone - Infective etiology.
+Hyperinflatted lung noted bilaterally.
+Right lung volume loss noted.
+Haitus hernia noted under left dome of diaphragm.
+Trachea is in midline.
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+IMPRESSION:
+Patchy consolidation noted at right upper lung zone - Infective etiology.
+Hyperinflatted lung noted bilaterally.
+Right lung volume loss noted.
+Haitus hernia noted under left dome of diaphragm.
+For clinical correlation.  
+ 
+ 
+Date: 06-Mar-2020 14:35:10

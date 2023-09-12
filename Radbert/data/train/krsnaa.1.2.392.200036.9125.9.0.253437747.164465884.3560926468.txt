@@ -1,0 +1,29 @@
+
+Patient ID 39005b9245993d3b558cc2b8e76df43f51e831db3f4337222602b620
+Patient ID 7d4c1faeeda8714d8ea52d057d4c3b3b91dd871348c40bb09f187d11
+Patient Name b86f423f5101b419a2767562d3f5bee39b1f845c391af81af5085363 55Y
+Age :
+Sex :F
+Accession Number 30f45bcb92ea01b1a937893d29814814e5ec3cee7fc16c3326f781db
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 1a0b05ee51b13f6c6b23475d219875b4e705c3a9d685ddb22278f3ce
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Tiny alveolar opacities noted in both lung parenchyma - Infective.
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation.  

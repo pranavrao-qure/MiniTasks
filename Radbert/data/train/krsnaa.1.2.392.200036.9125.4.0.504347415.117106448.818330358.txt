@@ -1,0 +1,31 @@
+Patient ID d55bcae4ddd479d30ce23ab033ec07104a3645874672da87e24972f2
+Patient Name 749639a7e7865751a988bcd051d16e1fc8c16463ea6fd9183bbcfa35 82Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 92f0bb58e4397a7d706580dfb34e81800facd8bd4c5cf59cc8b48190
+
+
+
+
+
+                                                           X - RAY CHEST  
+
+
+
+Fracture noted at lateral end of bilateral clavicles.
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation.
+  
+
+

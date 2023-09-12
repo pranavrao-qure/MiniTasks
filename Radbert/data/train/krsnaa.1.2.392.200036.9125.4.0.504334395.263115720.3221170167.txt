@@ -1,0 +1,24 @@
+Patient ID 2baf7070c0180385a685246636920a2a23f272c98e2fd7ecdc270e12
+Patient Name 152a8a728ac46650d17dc15ba627a05518f15bdb00d98c7f49756a4b 79Y-P
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 24a6be163119fcf0d95cdb2cac8f29ef1b5d08841f79c58d0c75450d
+
+
+
+
+
+                                         X - RAY CHEST PA VIEW
+ 
+Over exposed film 
+Haziness  noted at b/l  lower zone s/o infective etiology. 
+Patchy consolodation noted at left upper zone s/o infective etiology.
+B/L  crowding ribs noted.
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear. Bony cage and soft tissues are normal.
+For clinical correlation. 

@@ -1,0 +1,19 @@
+Patient ID 47ae663ad3c31f8eb9148d140acd1b15b5f73566a57727e051c4c0c8
+Patient Name c528c514030062e0bca772dba61e5cc4e9b09bf016dc37752e7e14e5 25   YRS   COUGH
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 62365d3ba3666064721b197fcf14a8a5a1d8a2643fc4db708375e799
+
+
+
+
+
+X-RAY CHEST 
+ 
+FINDINGS :       Lung fields are clear.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.
+  Impression :- NO SIGNIFICANT ABNNORMALITY DETECTED     Suggested clinical correlation and follow up.
+

@@ -1,0 +1,29 @@
+Patient ID 66655db2b3be5497646112abcf1995d9e2a3e2f718bba8049f28ca84
+Patient Name c987a06346ccd39f207709d2795e2db2eaf829570ae3bd117a618c8e
+Age :50 Years
+Sex :M
+Accession Number 230a44a06097c73672a1d00ffd88f0233d01fba8993a8a6d0a8ae0b4
+Modality :CR
+Referring Physician 40826a4f12f4a288f283b574a5302e641a60f2c070fa41b0117cc680
+Study :CHEST PA
+Study Date dd09cf71122ff14a9e43768813031f106e2c219dc60b58abc3d713a7
+
+
+
+
+
+  X - RAY CHEST 
+ 
+Patchy consolidation noted at right mid lung zone - Infective
+Fracture noted at mid shaft of clavicle on right side . 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+
+

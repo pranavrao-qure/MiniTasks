@@ -1,0 +1,27 @@
+
+Patient ID 3186914fd1f6868074a95901b87ac1ce8bad94f3f281f7c67bf20973
+Patient ID 46ccc9056a4e695f7ddeeb04c32b413b879222e45b369505dd1cbc8a
+Patient Name 864b533909ff19c131c906d7fca187016f88bb70a0fb7354cbfe2672 62/M OP 264
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 55069ef7a8b67b0c47deb8b6e0f36caa351cb7f29407796711aefb75
+
+
+
+
+
+
+ 
+ 
+
+Ill defined non-homogeneous opacities noted in both upper and left mid zones with volume loss and mediastinal shifts towards right side  - Infective.
+ 
+Rest of lung fields are normal
+
+Trachea is in midline.
+   Mild left pleural effusion noted.
+   For clinical correlation. 

@@ -1,0 +1,27 @@
+Patient ID ff75f7089cc83adbb8ff66114da964c91d92c8ef7dd66641ed3cb45a
+Patient Name 5ffb275abd969519780906f6d8351b66e3f6ed5d447e02639ff5d3ff 24 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 62365d3ba3666064721b197fcf14a8a5a1d8a2643fc4db708375e799
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Bilateral perihilar bronchovascular markings are prominent.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+Suggested clinical correlation.

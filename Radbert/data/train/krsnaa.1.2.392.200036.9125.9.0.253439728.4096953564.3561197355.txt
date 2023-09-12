@@ -1,0 +1,21 @@
+
+Patient ID 96adc61f96f3a944bc831b921f3773f6288a3bb96b5c9cc032ff5e77
+Patient ID b9980a186189bd4fcc262b8c8ec01523fa11da096687dcad58b9f627
+Patient Name 113bb1f15de92a59521a7995a17b2a0200d794f1758a9879e161711b 3MOCH OP
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 5a781b4bd2108c1c013117cf93fd99f194100bb00e4754b4f6118c45
+
+
+
+
+
+
+X-RAY CHEST AP VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

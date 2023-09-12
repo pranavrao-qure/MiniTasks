@@ -1,0 +1,27 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 7 fonts total
+
+-----------------
+X-RAY Chest PA
+
+¬        
+Heart normal size
+¬        
+Left lower zone haziness seen
+¬        
+Otherwise lung fields normal
+¬        
+CP angles normal
+Imp:
+¬        
+Left lower zone haziness -? pneumonitis / due to breast shadow
+-       
+Suggested clinical correlation
+
+
+        
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3210 by 3556, depth 1
+pict001.wmf
+ DR.I.VENKATRAMAN MD, DNB
+ Radiologist
+

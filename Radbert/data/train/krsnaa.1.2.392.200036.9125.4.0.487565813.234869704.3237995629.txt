@@ -1,0 +1,55 @@
+Patient ID 6b952f2a849684ff350e27f6f934c2d67b71a7980ea1cb5c8fb0bee9
+Patient Name 299040a5108698710a5534b00777b9a0ca93e2cfef5532d9764c1b52
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6226f29349fbaf08b9de824880e55de9b989d9b4a024755ae33a6584
+
+
+
+
+
+X-RAY CERVICAL SPINE  LATERAL VIEW
+ 
+Anterior osteophytes noted- degenerative changes
+
+Straightening of cervical spine likely due to muscular spasm
+
+ 
+Vertebral bodies, Pedicles, Laminae, transverse and spinous processes are normal.
+ 
+The intervertebral disc spaces are normal.
+ 
+Spino-laminar line is well maintained.
+ 
+The uncovertebral joints are normal.
+Cranio-vertebral region is normal.
+The prevertebral and pretracheal soft tissue spaces are normal.
+There is no cervical Rib.
+                                          
+ 
+IMPRESSION:
+ 
+Anterior osteophytes noted- degenerative changes
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.

@@ -1,0 +1,25 @@
+Patient ID b0455cfde53148c2a41e7763c6fd5a1c3237b754f1480e7826595f70
+Patient Name 1927993cc63ec91cc7288d4068d7a37cfb96ecc9a951dbc5bba79699 ALI,58YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 376a337a6a715b5b280905a8aaf6a8a11da543ae7e99cca587cff3c5
+
+
+
+
+
+
+X-RAY CHEST PA  
+ 
+Inhomogenus consolidatory areas are seen in right upper and mid zones with volume loss.
+MEdiastinal shift is seen on right side.
+Blunting of right CP angle is seen, --- ?minimal pleural effusion.
+Rest of the lung fields appear clear..
+Cardiac size appears within normal limit. 
+Left C.P. angle and left dome of diaphragm appear unremarkable.
+Bony thorax under vision appears unremarkable.
+

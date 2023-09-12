@@ -1,0 +1,40 @@
+
+Patient ID 7c7072f6203df59e8c0710e15c9f9b887799e22bf14c13ad385d1c1b
+Patient ID d0d7dca816f560eeb48574cf9780369bed5e28237428b273094cf958
+Patient Name bf010cdb7980e423f3aa1bbaca329a6504c8f0e3af74cdfd76f93608
+Age :60 Years
+Sex :M
+Accession Number f184d47ab7076fff116fc401e72ba01771e8f67992e706c340110548
+Modality :CR
+Referring Physician 04dc0647859d0cfa7f1e142cf49fa92ee6ceffae1f766a431187ddf9
+Study :CHEST PA
+Study Date c34621df980a6f523fa57e09c7ece8e3ba78d575709f92b225f0775f
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS
+:     
+  
+Lung fields are clear. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Old fracture 6th and 7th rib on left side in its posterior thirds.
+
+    Suggested clinical correlation and follow up.
+ 

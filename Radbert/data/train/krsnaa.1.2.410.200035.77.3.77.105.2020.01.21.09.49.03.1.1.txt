@@ -1,0 +1,26 @@
+Patient ID a2fa22c3f3d3e3988862e4f980adfa0620fa8dd5eb33ec5cec887782
+Patient Name 96ab8cdbd68a78b4d17cf33cde9b4cfef2b07c88b0beedcd3a162512
+Age :60 Years
+Sex :F
+Accession Number 29bdcb0400fe89ebe0be27595e59cc92e2cc616a0d5905f45fd18095
+Modality :CR
+Referring Physician 1c8f13c2fba7663d89efaf739b560f332f31e0f4db09f9baaffd7cae
+Study :CHEST PA
+Study Date 50551972b322be70a52dbaf70d93813b25de4d140fbdca7ccac90e3f
+
+
+
+
+
+Patchy infiltration with consolidation noted at bilaterally likely due to infective etiology like Koch's .
+Mediastinum widening  noted ? due to lymphadenopathy .
+Both CP angle is blunted ? due to effusion 
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+The heart and trachea are central in position 
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  :
+Patchy infiltration with consolidation noted at bilaterallikely due to infective etiology like Koch's
+
+

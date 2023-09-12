@@ -1,0 +1,27 @@
+
+Patient ID dfd01fcd632ef7dcd563edec57e942cac2b78c80c9fd9a9d7f9b8652
+Patient ID 2e3c0d6940fac99c3845b81147164c8b6c9d929ad677ceeab3021053
+Patient Name a31888efd7f6db598f214d991edac717c1aa9fb779a07389175a372e 40Y REF DR TAJ KUMAR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date d34a931b194bac66a696b067d6144c58756e2179651c1bd2353488ac
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

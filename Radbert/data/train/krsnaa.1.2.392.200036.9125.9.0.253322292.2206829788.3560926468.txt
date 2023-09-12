@@ -1,0 +1,41 @@
+
+Patient ID 64f6637b16480a0d1f78fab53814968bbfe64a6339c705ca9c9094a9
+Patient ID 61a061831a789419a56e3fbda6f6b2bbecf59dc575f1f4cf087c79ce
+Patient Name b80bbf493d2ccf2fabbdb671ccb6df73d4b65a2b6434606007b8cea8 35/M
+Age :
+Sex :O
+Accession Number b99922f98a78da679b1b385a624fd71de642b505c630d6194ecf77d7
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 5ea3d1ac110bf3b0b115433db60e009ff67d95557e2e9f3d44eef560
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS
+:     
+  
+Lung fields  shows patchy pneumonitis both upper & lt mid zone-To exclude koch's. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ 
+    Suggested clinical correlation and follow up.
+ 

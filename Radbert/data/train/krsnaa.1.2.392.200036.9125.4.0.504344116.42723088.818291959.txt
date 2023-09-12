@@ -1,0 +1,36 @@
+Patient ID fbcaff684f321a7a19d6ae34a31c6536ed65b840a0a92b5ebfa58972
+Patient Name 50b9e9fa34d880739e9739955667b3cbdbcd6ca2de46478c64efbb77 50Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bedd05a70cdf74850af1286055214ab29c0288fec48f2c6abbd03cfb
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+
+Reticular shadows bilateral mid and lower zones - pneumonitis.
+Blunting of  left cardio-phrenic angle is seen suggest minimal pleural effusion.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+Right CP angle clear.
+
+IMPRESSION : 
+Reticular shadows bilateral mid and lower zones - pneumonitis.
+ Blunting of  left CP angle suggest minimal  pleural effusion.
+
+ADV USG THORAX.
+Clinical correlation. 
+ 
+ 
+Date: 18-Mar-2020 10:52:16

@@ -1,0 +1,33 @@
+Patient ID 2007aaa47d801979abcc0890f11ee0acb808e17f629ce57c2440f481
+Patient Name 4653e6c48ae7805a18540c69e3fbd73de53c2f6beb44b5d8666a3029 73YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 6bebdb3c0d392e540f958848fdfd17b368dedc93adf9bd5321a1d1a5
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+Elevation of left diaphragm noted likely suggestive of hiatus hernia ?
+
+IMPRESSION  :
+Elevation of left diaphragm noted likely suggestive of hiatus hernia
+Suggested clinical correlation.
+
+ 
+ 
+Date: 28-Jan-2020 13:29:34

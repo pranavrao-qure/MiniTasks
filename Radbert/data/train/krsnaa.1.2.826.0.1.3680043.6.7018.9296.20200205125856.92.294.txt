@@ -1,0 +1,73 @@
+Patient ID 8c81c244d9c5284a84c3d3181165c891291074f93361a24259ba206b
+Patient Name 66bbfe3688af4bc1fa21809d64632b6a01b265242c8044739e7368ea 26 YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 3077405c23fcf6274e160c831b57d97508856a49547e77554d9224ca
+
+
+
+
+
+    X - RAY CHEST PA /OBLI VIEW
+
+
+Mild haziness noted in right lower  lung zone - -? Infective.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Mild haziness noted in right lower  lung zone - -? Infective.
+For clinical correlation.
+
+
+
+
+
+
+
+X-RAY LEFT SHOULDER AP VIEW  
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal  
+Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY RIGHT  SHOULDER AP VIEW  
+
+FINDINGS :    
+ 
+  Fracture noted at mid shaft of clavicle with surrounding soft tissue swelling.
+ 
+  Rest of bones appear grossly normal.   
+ 
+   IMPRESSION:
+
+Fracture noted at mid shaft of clavicle with surrounding soft tissue swelling.
+Suggest clinical correlation and follow up.
+ 
+

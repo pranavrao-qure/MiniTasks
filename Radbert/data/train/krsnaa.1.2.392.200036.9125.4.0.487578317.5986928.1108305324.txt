@@ -1,0 +1,23 @@
+Patient ID 1a68612441366c75b9ee1e5accfb1b278a6d0bcda89282e60ac65c5e
+Patient Name cdb2eed4a83fa27037ace559b6c159f16bcbf87427b8e6f3dd560c3e 45 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP PORT X-WISE
+Study Date fbd8e1b4bc13e92bfde0710daf48e5b9780a11c1dd8154d99fdd6b8b
+
+
+
+
+
+                         X – RAY  CHEST    : -
+
+BOTH LUNGS SHOWS  PROMINENCE OF VASCULAR MARKINGS . 
+THERE IS NO EVIDENCE OF PLEURAL EFFUSION. 
+BOTH CP ANGLES ARE CLEAR.
+HEART SIZE IS NORMAL .
+COMMENTS : NORMAL  CHEST X-RAY.
+
+

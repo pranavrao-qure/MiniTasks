@@ -1,0 +1,30 @@
+Patient ID bcb1cfaf45454cfeb9c92a701462b849d0823a7c38f90444745be133
+Patient Name b0171368f04123d4127863e635dd0d2b205485de9bace7e594e786a6 22Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date f0d8060b6bd76a0efd5a1cf36fab83625be766fc3d168caa8cf3a33e
+
+
+
+
+
+                                                           X - RAY CHEST 
+ 
+ diffuse discrete  opacity bilateral upper zone and right lower zone 
+ cavity lession right upper zone 
+Hyperlucent area   noted at right lower zone devoid of lung markings - 
+?  Pneumothorax - Adv: CT chest.
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+ 
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation.and CT chest 
+
+

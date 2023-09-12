@@ -1,0 +1,31 @@
+Patient ID dc27b44657e45fc8f11472fcf6f65d0889b5b49c31ff787378559e0f
+Patient Name f271ea402163e4e5de8ef19395ac29b1b2d19a83964583902a5984b9 33 YRS CXR AP,PA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 92f0bb58e4397a7d706580dfb34e81800facd8bd4c5cf59cc8b48190
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+ 
+ 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Severe scoliosis noted with convexity towards right side.
+Blunting of  left cardio-phrenic angle is seen suggest pleural effusion.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+
+

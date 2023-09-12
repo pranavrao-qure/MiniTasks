@@ -1,0 +1,28 @@
+Patient ID ba74e56f9816b883843897db51b1df0eb3eeb512363decfd295b5296
+Patient Name cc8e0f2226d4e54ae2167204c759908d6f82d126beda9103ee8ef1d2 60YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 06249234fe03b5e828663bb38b83a8da56dd6f8b4d1bcbc33a3de006
+
+
+
+
+
+                                                          
+                                                           X - RAY CHEST PA VIEW
+ 
+ 
+Patchy infiltraion noted in right upper zone - Infective etiology.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation.  ​​​​​​​

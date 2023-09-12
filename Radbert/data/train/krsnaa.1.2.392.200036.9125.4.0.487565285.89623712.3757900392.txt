@@ -1,0 +1,56 @@
+Patient ID 800277cf3719071ee2c1124bdb9ccffdc98c70280b3e64d43a69f566
+Patient Name 00a8464b670f37abc5f9489f493f779ae5dc68f17dab2ca6a1f8665b 02Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ec329b92bf045792553167b4ad453900caf8ff070ad9d0aeb35e644c
+
+
+
+
+
+X-RAY CHEST 
+
+Foreign artifact noted . 
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Radio opaque foreign body noted at center of abdomen at the level of T12 vertebral body.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+X-RAY ERECT ABDOMEN   
+FINDINGS :
+Radio opaque foreign body noted at center of abdomen at the level of T12 vertebral body.
+ 
+No evidence of air under the domes of diaphragm.
+ 
+No evidence of abnormal dilatation of bowel loops.
+ 
+Properitoneal fat planes normal. 
+ 
+IMPRESSION:
+Radio opaque foreign body noted at center of abdomen at the level of T12 vertebral body.
+Suggested clinical correlation & follow up. 
+ 
+ 
+Date: 20-Jan-2020 11:58:55

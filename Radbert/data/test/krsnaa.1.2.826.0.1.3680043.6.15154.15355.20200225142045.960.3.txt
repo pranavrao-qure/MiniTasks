@@ -1,0 +1,27 @@
+Patient ID a1c44f59648f26b07f5fc99c348b8824ab88f94e8f59379e9d83d4b2
+Patient Name 279edb2ec493d3c0e77e9bce7869c448e4c342075128738a34d68254 55Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date faad4e5461236f04de386b4126794daca92aadcf5811e79cf41a1709
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                     
+Bilateral prominent hila with prominent bronchovascular markings  & interstitial thickening in bilateral lung fields - s/o infective cause.
+ 
+Rest of lung fields are normal
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+ 
+Both CP angles are clear.
+  For clinical correlation. 
+

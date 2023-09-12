@@ -1,0 +1,27 @@
+Patient ID b38ff763188efe36573324834be0fb28c8d5e403ecc4630868ef664c
+Patient Name 6144b3068e801f88039bbc5e9c277dca1e30ded60e924f39bdc978d3 60Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 79a6759ad5dc32b445e0de30ba9b6f5a07eb572bd57c5b2f25130eb0
+
+
+
+
+
+                                         X - RAY CHEST PA VIEW
+ 
+Bronchiectasis changes noted in bilateral lungs 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+
+ 
+ 
+Date: 05-Dec-2019 16:33:21

@@ -1,0 +1,22 @@
+
+Patient ID 60ecf9b16ef9fb404703548198bf5d02bcf8c7037ce3c95ef0f33e71
+Patient ID 4281c8de8f7311c2e60c6d4c88b950771429cdac5ad82d4d07a4b95f
+Patient Name 158dcdd9dbd200d91b606526231a4fe3199dd73f2bf129eb09d909f5 50Y REF DR.RAGHURAM
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c48eb8df996ce2b2f84ae0a88c8879330e64cf5fe703c13379bf5a16
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows calcific lesions both upper zones - Old Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

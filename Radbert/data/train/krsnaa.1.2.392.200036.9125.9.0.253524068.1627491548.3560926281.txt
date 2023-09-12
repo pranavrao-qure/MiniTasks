@@ -1,0 +1,29 @@
+
+Patient ID 4faeb49eabb67454fe7571d98157e577ed84c270682925d595b978cb
+Patient ID d1e00ae53c1247b2202e0824d58c0903063ff3e8982c385f9a524829
+Patient Name 87eb2cfe92c76ac3d465ae18b65817fb4a18ec0af21d5d3cb57e1a0c 55Y REF DR TAJKUMAR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 9733a98b6cb2f29140a151df6579597dbb4c9a35960e43e29fd65e32
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

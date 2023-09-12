@@ -1,0 +1,37 @@
+
+Patient ID 1a612be79c9b0e9d96b22094d82eb324f65cb4e836ed7670f92c09ab
+Patient ID cd7261dcfc7c21f1d29b778ff68fa83888c3fa86ef6eec4115e4bc17
+Patient Name 21cdf6f78161c8c8b11ea14e2f37f8c627ac129daf37bfc89f093e67 60Y/F
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 3b66546fea6ebbe1636fe69975d6e1a3fc88f144dbebda3a092fd87c
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :     
+  
+Lung fields are clear. 
+  
+Both hila appear normal. 
+  
+Cardiac size is enlarged 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ IMPRESSION :  Cardiomegaly. 
+ 
+     Suggested
+clinical correlation and follow up .

@@ -1,0 +1,29 @@
+Patient ID 2f7711cd80a8fa5a8f98b53247d5cddaea15f88514d5d3e4b12ffa58
+Patient Name 5da9fcaa20660a15a4623007d910fc82dfbf90b068cc689719731b27 38YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date f0391fd24f179c8733a866e9cb53b559d39011fb331dbe7419bc1a95
+
+
+
+
+
+
+                                            X - RAY CHEST 
+Bulky bilateral hilar (L>R) shadows noted,
+Lobulated opacity at left hilum is likely to be lymphadenopathy.
+Ill defined alveolar opacity in bilatral parahilar resion S/O pneumonitis / pulmonary edema. 
+Trachea is in midline.
+Cardiac silhouette enlarged - moderate cardiomegaly.
+Both CP angles are clear.
+Rest of  lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+ADVICE : CT CHEST FOR FURTHER EVALUATION.
+For clinical correlation. 
+
+

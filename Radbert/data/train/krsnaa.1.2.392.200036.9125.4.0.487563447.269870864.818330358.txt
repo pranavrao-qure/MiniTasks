@@ -1,0 +1,32 @@
+Patient ID 74ff5187452b3e20e03ca34971b9526641f0af56de5db4f609770c43
+Patient Name 7452d820ba00e87e94a9698312357f2785cfc738f2c2f11a83c9f397 55Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date db5d8a0643305681f6c14064e8214b7ff4a9fd3a2f14c12c029b8600
+
+
+
+
+
+                                                    X - RAY CHEST PA VIEW
+ 
+ 
+Patchy dense sheet like opacification noted in left lower zone â€“ Pleural calcification.
+Ill-defined homogeneous opacity obscuring vessels with air bronchogram noted in bilateral mid and lower zones suggestive of consolidation ? due to bacterial infective etiology.
+Mild Scoliosis noted.
+Prominet aortic knuckle noted. Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+ 
+
+

@@ -1,0 +1,29 @@
+
+Patient ID 4174c2c4e03dec9178f72e37f730aa43ee84267f988e43042db6141a
+Patient ID def158524cb02a2e9996aaa38debcda524864d04517464161f275d4b
+Patient Name c7aada2b0685aadb8ff28fab3634a35f19f77f699519ceadb6804245 24Y ORT OP
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date b50ff5faec0641c05b422c915539f5d9c50db5f86e8822601208b887
+
+
+
+
+
+
+X - RAY LEFT LEG AP AND LATERAL VIEWS
+
+Bones are normal in density and alignment.
+
+
+No evidence of bony injury.
+
+Soft tissue planes are maintained.
+
+Impression:  Normal Study.
+
+For clinical correlation.

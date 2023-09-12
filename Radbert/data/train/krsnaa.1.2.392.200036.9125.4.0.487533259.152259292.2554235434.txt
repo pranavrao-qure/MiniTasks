@@ -1,0 +1,28 @@
+Patient ID 43ec6abcd8fef4fbb20ae4bcfc0ebe6c0a5206310913f7d5c09e7673
+Patient Name 6092dc6beede90e08238b3b901628fe19bdb0e09dc801b3e41f1b021 SAHARIA60   YRS   CHEST   PA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bf2ca8e7decd3ab0b3b65076509d7866573f8071d1e9e4c559cbb3be
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Fracture noted at distal end of left clavicle with surrounding soft tissue swelling.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  :
+Fracture noted at distal end of left clavicle with surrounding soft tissue swelling.
+Suggested clinical correlation.

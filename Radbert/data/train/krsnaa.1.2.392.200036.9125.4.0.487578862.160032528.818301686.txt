@@ -1,0 +1,32 @@
+Patient ID b105a4a9ff8a2db72120b802091fe13a2026d87df7c94e0a6aea06fb
+Patient Name 6d2e2c709ed521bac7b2aa8ccc098cb309785f1bf4ec512aa26f8699 25 YRS.
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 575e108d079132b7db97cee4c374fff7b3a19baa12ba70e35ee0c6a2
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                     
+
+opacity left apices and left  hilar region  with prominent bronchovascular  markings in bilateral lung fields - infective 
+
+Rest of lung fields are normal
+
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+ 
+Both CP angles are clear.
+
+For clinical correlation.and follow up 
+
+ 
+ 
+Date: 27-Jan-2020 17:25:49

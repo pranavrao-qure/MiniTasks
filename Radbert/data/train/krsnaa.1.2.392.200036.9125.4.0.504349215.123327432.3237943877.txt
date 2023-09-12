@@ -1,0 +1,42 @@
+Patient ID cf47c0b32d96281e3cabbdce2b89558b2e95a4a4d02e5c4aa278a148
+Patient Name 0f30eb4b4edee46ee7a4aeb404afcda6d51ad6a913231a11ea3cb870 62  YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 16f7655c3ef8c1cb88c7463ad2316341ccd7bacf64948ea43e965ded
+
+
+
+
+
+X-RAY CHEST 
+
+Bilateral perihilar bronchovascular markings are prominent.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY  SHOULDER AP/LAT 
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up

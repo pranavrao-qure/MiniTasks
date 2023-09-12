@@ -1,0 +1,29 @@
+Patient ID 5ed382b9be83dec8a9a000f5fae570dc05a8e5fbd49b596b7c268485
+Patient Name df75203a8bb24f6f7a6709af7c51edb1ab28e2f31dcdf93d127e126e 22 Y DR RAJESH AGARWAL
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6226f29349fbaf08b9de824880e55de9b989d9b4a024755ae33a6584
+
+
+
+
+
+X - RAY CHEST PA VIEW
+
+Prominent reticular markings bilaterally--? fibrosis .
+
+Horizontal fissural thickening noted at right upper zone.
+
+Hyper lucent area noted at right upper zone.
+
+Both hila appear unremarkable.
+Cardiac shadow is within normal limits.        
+Both CP angles are clear.
+Bony cage and soft tissues appear normal
+
+  For clinical correlation. 
+  

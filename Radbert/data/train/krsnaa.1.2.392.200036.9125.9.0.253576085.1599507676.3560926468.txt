@@ -1,0 +1,46 @@
+
+Patient ID 33ec006721ccbde1b33bc420e8476f08bb2a400804fc444c48ffadb1
+Patient ID bbe11028a0dbd87519d1b48e8dce30f4ed213135af16631dba0d0805
+Patient Name 7775b0086c6acf224d4781b805abd206592838f8e9035437315e5126 55/M
+Age :
+Sex :M
+Accession Number 70d62d8abb7ea46f1e9f9329c42cff48f353e7906250b3e8b0db95f8
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date a5777522b7999abe2e2b4f1d3cdedca40f18573c112f699fbd8aa797
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation.  X - RAY LEFT FORE ARM AP AND LATERAL VIEWS Fracture noted at distal shaft of radius and ulna with surrounding soft tissue swelling. Rest of visualized bones appear normal. No evidence of sclerosis or erosions. For clinical correlation.  
+
+
+X - RAY LEFT FORE ARM AP AND LATERAL VIEWS
+
+
+Fracture noted at distal shaft of radius and ulna with surrounding soft tissue swelling.
+
+Rest of visualized bones appear normal.
+
+No evidence of sclerosis or erosions.
+
+For clinical correlation.
+
+
+
+
+

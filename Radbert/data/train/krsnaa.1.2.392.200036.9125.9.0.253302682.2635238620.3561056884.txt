@@ -1,0 +1,32 @@
+
+Patient ID 2f08e98b033676efe2ae2cfbd11d69f1917617bb8ac384b0147d5c00
+Patient ID a18dbb08c557bc7cee42ce1fe2393fbe2d63c7339e4c4e1aa5e70e6e
+Patient Name ec508a90c567308b745ac6d685d5e19a8690d619698f4ccd7e164795 32 / M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 9f8506f488acd7b7af22c37aa444b43a3085bb54e309d0eea25790be
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Radiolucent area noted at right mid and lower zones devoid of lung markings - Pneumothorax. 
+
+Patchy inhomogeneous opacity noted at left upper and mid zones - Infective Koch's.
+
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Bony cage and soft tissues appear normal
+
+For clinical correlation. 

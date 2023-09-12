@@ -1,0 +1,32 @@
+Patient ID 5916f077427de77391e141cf331c1d704aa3cde08c8f3c17e3583399
+Patient Name d38842583174901f9392e2804d58f63a6eca23119afb6303c911a254
+Age :30 Years
+Sex :F
+Accession Number d4f572d7493fe548668544296104ac43645c99f3c52e7a226e7350c3
+Modality :CR
+Referring Physician 9fac3c94c4ad2e6de04df988f7adcfab185b1cade085717a2ccd5e5c
+Study :CHEST AP
+Study Date 9ce3f866dcfd9d5757259143a19ad91c22e303702a53ec837389bfe4
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Fracture noted at 9th & 10th rib on right side.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :  Fracture noted at 9th & 10th rib on right side.
+
+
+Suggested clinical correlation.
+
+

@@ -1,0 +1,24 @@
+Patient ID 39c7102a724112ddf0d61a7cf8078322a028b3b28ffa16c4d5013b3a
+Patient Name b34b05967c0914fbeb37bc4c78bf8cfdd37d2559c0510c62d2c9c9f2 38Y/M
+Age :
+Sex :M
+Accession Number 19ec438c871aa3a4e1bcbe210adcfbdd5f8e5cb3c0725915de72de5f
+Modality :DX
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :ChestErect PA
+Study Date a16f552b5ba23156397154ab2f4a0e880eda23fb06bc62e247c55b66
+
+
+
+
+
+                     X - RAY CHEST PA VIEW
+Trachea is in midline.
+Small nodular opacities noted in bialteral peri hilar region.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angle are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+

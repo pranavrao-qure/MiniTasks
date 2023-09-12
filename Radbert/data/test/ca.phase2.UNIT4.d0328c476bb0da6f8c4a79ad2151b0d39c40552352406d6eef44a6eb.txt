@@ -1,0 +1,29 @@
+X-ray Chest AP view:
+
+
+patient is rotated to right.
+
+LUNGS: bilateral lung fields show background haziness with increased lung markings.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: reduced subacromial space is seen. osteophytes seen along dorsal spinal column.
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+findings are as described in text.
+
+clinical correlation and further evaluation with HRCT lung is advised to r/o interstitial lung disease.

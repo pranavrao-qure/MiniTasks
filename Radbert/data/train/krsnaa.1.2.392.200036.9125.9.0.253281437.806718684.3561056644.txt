@@ -1,0 +1,29 @@
+
+Patient ID 9042bce0297df3153a0dc17c083ea9525a175f882f93ccef64c28153
+Patient ID 4498015d09b8b9e5d1da71463fc54f1a580f92592fe7c2775714b99a
+Patient Name 1493ab492bc1863369dd296c27f1e88189dc421ac1b18128b2d30dec RAO-56
+Age :
+Sex :M
+Accession Number f4d6d8b24d5bb38a0f19eb84162601f2ef78c13f60608eda1807dc0f
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 4173c54009f152c3e3923d630496f3ca4dd60d669961573a67b909fc
+
+
+
+
+
+
+ 
+ 
+
+Ill defined non-homogeneous opacities noted in both upper , lower and left mid zones  - Infective - Kochs.
+ 
+Rest of lung fields are normal
+
+Trachea is in midline.
+ Cardiac silhouette maintained.         
+ Both CP angles are clear.
+ 
+ For clinical correlation. 

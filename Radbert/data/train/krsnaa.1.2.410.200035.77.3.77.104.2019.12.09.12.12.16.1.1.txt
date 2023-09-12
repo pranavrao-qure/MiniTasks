@@ -1,0 +1,29 @@
+Patient ID 1ecb1e9d3f92d5fa5dc4d9a1630cc08a913ddf437c2edd8959b6dec9
+Patient Name 5a6854f6acd38550bd985084802225f8f974c86ed3c4a76589e82a25
+Age :55 Years
+Sex :F
+Accession Number 5da8c937274e45520476420976e77530ba0169b1fc8dc641a85367b3
+Modality :CR
+Referring Physician 2088903664d80d8a4255e43f13d0e0b287ab439753d8fe7b25ce8e2f
+Study :CHEST PA
+Study Date 9ce3f866dcfd9d5757259143a19ad91c22e303702a53ec837389bfe4
+
+
+
+
+
+                                    X - RAY CHEST PA VIEW
+ 
+  Blunting of both CP angles noted - Pleural Effusion
+Diffuse consolidation noted at bilateral mid and lower lung zones
+Prominenet aortic knuckle calcification noted 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+
+

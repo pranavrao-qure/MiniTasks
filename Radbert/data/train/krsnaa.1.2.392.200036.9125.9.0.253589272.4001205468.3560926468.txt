@@ -1,0 +1,46 @@
+
+Patient ID e554847133b057de5ce0af48f1a68f14404501bc5c2ac5ae7c4c9e78
+Patient ID 1fb4e5949fcb8e12734e446a8e171c215ec77b5d36fd290e8c9b4857
+Patient Name 6b978cbd923f5904a47d9f8fc415f1b2fa8fa6810eb0429511279453 70Y
+Age :
+Sex :F
+Accession Number 12f1a0a015efdc02cc07c6005ec2426fa1b60ff300ad76a9d93a96a3
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 3136fdbc7e2d6c8f38053a03d5d066eb54befde86b4073e0fc5e263b
+
+
+
+
+
+
+X - RAY LEFT HIP JOINT AP VIEW
+
+Displaced intertrochanteric fracture of femur and inferior pubic ramus.
+
+Acetabulum is normal.
+
+For clinical correlation. X-RAY 
+CHEST AP VIEW 
+ FINDINGS 
+:       Lung fields are clear.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.    IMPRESSION :  NO OBVIOUS ABNORMALITY.     
+Suggested clinical correlation and follow up.
+
+
+
+
+X-RAY 
+CHEST AP VIEW
+FINDINGS 
+:       Lung fields are clear.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.    IMPRESSION :  NO OBVIOUS ABNORMALITY.     
+Suggested clinical correlation and follow up.
+
+
+

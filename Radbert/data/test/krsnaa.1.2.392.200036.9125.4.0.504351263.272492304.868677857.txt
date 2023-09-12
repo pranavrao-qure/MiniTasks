@@ -1,0 +1,27 @@
+Patient ID 6efc72743919ab5111d7466b90389b7a46a6440543b2c1490109a84c
+Patient Name f48aec63000c1110a59d5edc5e7f719d5eadb81ce66ca13245cc70ff 55 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 16f7655c3ef8c1cb88c7463ad2316341ccd7bacf64948ea43e965ded
+
+
+
+
+
+X - RAY CHEST PA VIEW
+ 
+Calcified fibrosis noted at both upper lung zone.
+Calcified nodular opacities noted in both upper zones - - Old infective Koch's.
+Volume loss noted bilaterally due to fibrosis specially at the left lung field and is causing cardiac shift to left side.
+Trachea  and mediastinum shifted toward left side.
+​​​​​​​   Both hila normal in density.
+Cardiac silhouette maintained.         
+Tenting of diaphragm noted at the left side.
+Emphysematous areas of hyper lucency are noted bilaterally specially at the lower lung zones.
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+For clinical correlation. 

@@ -1,0 +1,30 @@
+Patient ID aa4f2ae060ef7e5ed765774d7013f569bd248fc8cc03e5c0128598e2
+Patient Name 88301f294e017ad383f30c09ba7d0ad12d3cc5cee6db00b221149d93 79YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date bf2ca8e7decd3ab0b3b65076509d7866573f8071d1e9e4c559cbb3be
+
+
+
+
+
+    X - RAY CHEST PA VIEW
+Mild haziness noted in  bilateral apical and upper zone - -? Infective.
+Prominent aortic knuckle noted 
+Mild scoliosis noted 
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation.
+
+

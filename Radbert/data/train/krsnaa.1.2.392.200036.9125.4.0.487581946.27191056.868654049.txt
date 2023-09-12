@@ -1,0 +1,28 @@
+Patient ID 959e3a32ef8c0b620b7559a8a203cca8d359d00d9edafbd877beac5e
+Patient Name c886bcef3c8939da6fe1936f321e5bd518f8fc30b1699d5f42014a24 20FDr.Rajesh Kumar
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 3077405c23fcf6274e160c831b57d97508856a49547e77554d9224ca
+
+
+
+
+
+                                                           X - RAY CHEST 
+                                                            
+Patchy inhomogenous opacities noted in left  upper zone - Infective etiology
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

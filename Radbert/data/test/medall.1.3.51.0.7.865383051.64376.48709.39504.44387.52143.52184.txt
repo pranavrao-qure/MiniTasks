@@ -1,0 +1,23 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 2 fonts total
+
+-----------------
+
+X-RAY CHEST PA VIEW
+The lung fields are clear.
+Both hila are normal.
+Cardiophrenic and costophrenic angles are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+IMPRESSION:
+"        
+No significant abnormality seen.
+
+Dr. Masum D Shah
+MD Radiodiagnosis
+Consultant Radiologist
+
+G-21239

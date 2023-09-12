@@ -1,0 +1,27 @@
+
+Patient ID 87039ed362fee851016c1db29e61b1250e3cd489395839bc108d9e00
+Patient ID 80652e0eaf09accbc438ab789db13f1f802de68829a643a1c0fef87d
+Patient Name 6553a822db703e3129b1798d190f8316fcf8223751a6822881e32ef8 16 Y REF DR ADINAGESH
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 3942249f9e511bda5a7a2db41cf72493c12996d87bbc863c7c7e47ec
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

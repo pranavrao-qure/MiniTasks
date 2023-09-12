@@ -1,0 +1,41 @@
+
+Patient ID 503f09ea3b099eb116b4502dbd36ef67db87a199ce64d9f84b1ea85d
+Patient ID 5a622f86c9b44c1587215eec285cf2629823021e53d6566a78e20ae8
+Patient Name 94c4d61f724310a335c499d9c4f3bb6e6d939bb14b2d2b5bf8d176c4 BHUSHANAMMA/65 DR NCP  CAS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date c36047393529c673657dd62b05f0059480f39f6e4574ce1f65c0d090
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS :     
+  
+Lung fields are clear. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ IMPRESSION :  NO SIGNIFICANT ABNORMALITY. 
+ 
+    Suggested clinical correlation and follow up.
+ 

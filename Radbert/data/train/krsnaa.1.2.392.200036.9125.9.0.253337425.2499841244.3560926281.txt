@@ -1,0 +1,48 @@
+
+Patient ID b91cefc98d87f8c0e3dd05dcb88b45c695e3ae933a983e01d9fae260
+Patient ID a3622d140ba28f63572971e5caf0bcd169dfd0a11998236c2eb3d92e
+Patient Name 4573600837dad3d6665ece4fbcfa263847feeb25d32dfee882a94d59 2MONTHS REF DR RAVINDRA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 22e0c4fc9fabce05325abcbce5ea4fc6db9c76e9b2a8175eb49c7084
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+
+
+Disclaimerâ€”Report
+is done by teleradiology after the images acquired by PACS(picture archiving
+and communication system) and This report is not meant for medicolegal purpose.
+
+
+
+Thanks for reference, 
+
+
+ 
+
+
+Investigations have their
+limitations. Solitary pathological/Radiological and other investigations never
+confirm the final diagnosis. Conclusion is markedly affected by input provided
+at that time .They only help in diagnosing the disease in correlation to
+clinical symptoms and other related tests. Please interpret accordingly. 
+
+

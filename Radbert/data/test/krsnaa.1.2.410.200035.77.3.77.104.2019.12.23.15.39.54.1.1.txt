@@ -1,0 +1,19 @@
+Patient ID babc138298a2eefe6cba863bd22a2f3670ed27c1b9fcfe7299d2ac5a
+Patient Name 39c5e92dee0da6ea1c5d2b6a6af8c942ec120f36d0e00151979d6e45
+Age :55 Years
+Sex :F
+Accession Number bd053067273bcb2efa26f26e4432113e973019df1c6bb1376c3a0968
+Modality :CR
+Referring Physician ee8c7d67eca07243aaceeed42cd5b101e8dbe0cdddf36f2f14ac6c3c
+Study :CHEST PA
+Study Date bf1d30c336e55d9e7cd8b3f4e9c7ef38478769ec503b56e5fdea7d40
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :                                   Patchy fibrotic areas are noted in bilateral lung  zones - S/o  infective etiology.
+B/l  crowding  ribs noted.   Both hila appear are pulled up.   Cardiac size is enlarged  s/o cardiomegally.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.        Suggested clinical correlation and follow up.
+
+

@@ -1,0 +1,27 @@
+
+Patient ID c86f42f2758c5a59ed1eeddaa95202136efe205fab574a1418d0ddeb
+Patient ID fb4998794c251d254cdd0c61e8ff5b8c6bca956f6105063b2459ffa9
+Patient Name 5ad29f14c0ede90486d08b1e7b04cac84a569c39e86fa6b5ce428b0c 70Y REF DR B.S. RAO
+Age :
+Sex :F
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Study Date 5224f26dc49c024f33ee72e26cf1ea2a2bdac6459d99e46d6cba2dfd
+Study :CHEST PA
+
+
+
+
+
+ 
+ 
+
+Ill defined non-homogeneous opacities noted in right lung fields  - Infective.
+ 
+Rest of lung fields are normal
+
+Trachea is in midline.
+ Cardiac silhouette maintained.         
+ Both CP angles are clear.
+ 
+ For clinical correlation. 

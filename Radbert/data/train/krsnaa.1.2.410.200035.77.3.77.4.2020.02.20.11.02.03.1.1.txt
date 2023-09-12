@@ -1,0 +1,30 @@
+Patient ID 39acd00e06bf16fed7c36e05b6a19efcc666357b4ba1f9d7d9c3a82f
+Patient Name 7f3eaa8f9a6a597df322a850d5b78afadf57b666c2ade40e4719f66e
+Age :62 Years
+Sex :M
+Accession Number 5d8b8987f75ca429bc2de7e15d08d4ee2efe29142a77801dc3942acf
+Modality :CR
+Referring Physician ee8c7d67eca07243aaceeed42cd5b101e8dbe0cdddf36f2f14ac6c3c
+Study :CHEST PA
+Study Date 62365d3ba3666064721b197fcf14a8a5a1d8a2643fc4db708375e799
+
+
+
+
+
+X-RAY CHEST 
+OBSERVATION:
+Blunting of  left cardio-phrenic angle is seen suggest pleural effusion.
+The cardiac size is enlarge -  cardiomegaly
+Prominent bronchovascular markings noted at bilateral lung fields.
+The lung fields are clear.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+
+IMPRESSION :  Blunting of  left CP angle suggest pleural effusion.
+
+ADV USG THORAX.

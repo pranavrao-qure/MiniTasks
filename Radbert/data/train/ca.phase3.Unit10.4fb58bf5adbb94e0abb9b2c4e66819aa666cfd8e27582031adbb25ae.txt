@@ -1,0 +1,15 @@
+LUNGS: Prominent vascular markings in bilateral lung fields 
+TRACHEA: Normal. 
+PLEURA: Bilateral apical pleural thickening 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal.

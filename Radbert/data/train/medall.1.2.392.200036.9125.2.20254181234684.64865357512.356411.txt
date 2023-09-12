@@ -1,0 +1,41 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+X RAY CHEST PA VIEW
+v       
+Both lungs are clear.
+v       
+Cardiothoracic ratio is within normal limits.
+v       
+Trachea is in midline.
+v       
+Both hila are normal.
+v       
+Costophrenic angles are sharp.
+v       
+Visualized bones appear normal.
+IMPRESSION:
+v       
+Normal study.
+ 
+
+        
+        
+DR.PRASIT MAITY, MBBS., DNB(RD)         
+        
+CONSULTANT RADIOLOGIST
+        
+        
+        
+        
+        
+        
+        
+REG.NO: 68239 (WBMC).
+
+
+
+
+
+

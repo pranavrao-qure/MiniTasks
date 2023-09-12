@@ -1,0 +1,24 @@
+X-ray Chest PA view:
+
+LUNGS: Right mid and lower zone heterogenous and atelactatic opacification.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Small right pleural effusion. 
+
+HEART: Mild cardiomegaly.
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Compared to 4/11 there is right pulmonary opacification and small right pleural effusion.
+
+
+Correlate clinically and with other investigations.

@@ -1,0 +1,30 @@
+Patient ID 8413c001300df5166a180918b2744e96f2d7d19c2b45930221dcd2e7
+Patient Name cc2bd6c392f617f42540b4dd975fd5bbfa07110b96723e2b6dd38a53 48
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date b4ac1542be8b2d1d305b5dcc2718c71ead44939796b43544f25d9367
+
+
+
+
+
+X-RAY CHEST
+
+The cardiac size is enlarge -  cardiomegaly .
+Hazines noted right lower zone s/o infective etiology.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Both CP angles are clear.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Hazines noted right lower zone s/o infective etiology.
+The cardiac size is enlarge -  cardiomegaly .
+ADV : 2D echo.

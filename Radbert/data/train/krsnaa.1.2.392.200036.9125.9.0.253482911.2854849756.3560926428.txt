@@ -1,0 +1,47 @@
+
+Patient ID 526f16e9f6135da88c2c468ef4e90ceb04ef1cfe3c53f1d73044b66e
+Patient ID fa6eb9617480bb36dbe8c14886e5a4b8727d743ff69418c752d6862b
+Patient Name 6ec66b7e4a7531a2f17116b35a0960872a11b8c1bd8c2b81ef30e0bf 40/M OP 62557
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 7553c45aede3bea54efff2238831ac2c02297e9520a7320db5599b1b
+
+
+
+
+
+
+X - RAY PELVIS AP VIEW
+
+Normal alignment of the
+bones of pelvis.
+
+Bones are normal in
+density.
+
+Both hip joint and SI
+joints are normal.
+
+No evidence of bony
+injury.
+
+No evidence of
+osteolytic / sclerotic lesion.
+
+Articular margins appear
+normal.
+
+Periarticular soft tissues appears normal.
+Impression:   Normal Study.
+
+For clinical correlation.
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+
+
+ 

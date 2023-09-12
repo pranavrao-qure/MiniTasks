@@ -1,0 +1,28 @@
+Patient ID f1815bafc47592bc3b70a6875b8a6f17308b9a26e5cd2f2be459a886
+Patient Name 83ac403ff193157a971efddda1380e54a6433d659ee707bf206f64d3 32 YRS.
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 37413ae4c75d8bfa5e68acf9ad5be3139ecfcb61406213f0b93cf627
+
+
+
+
+
+X-RAY SHOULDER AP VIEW  
+  
+ 
+FINDINGS :    
+ 
+Fracture noted at acromion process of scapula  with surrounding soft tissue swelling.
+ 
+ 
+Rest of bones appear grossly normal.   
+ 
+ 
+Fracture noted at acromion process of scapula  with surrounding soft tissue swelling.
+
+

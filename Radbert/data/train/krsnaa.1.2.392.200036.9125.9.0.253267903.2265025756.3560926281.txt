@@ -1,0 +1,30 @@
+
+Patient ID 054b09b17f747284277fea3b61067b580128ccfc01c5f50c0cf13906
+Patient ID e9ff88c982e198d60184b1c66056c1ae3bbf2525b5b17c9b47753949
+Patient Name fd11ac5f71287a947dbf2e382d944c3916b22ae80e756bd6142b9682 50Y  REF DR.RAVINDRA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date faf4ba302feca0940a15c1d1c0dba859d847acbfde51c2673e8090e1
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy consolidation noted at both upper zones - Infective.
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 

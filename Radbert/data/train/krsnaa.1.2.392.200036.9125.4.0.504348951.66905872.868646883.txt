@@ -1,0 +1,30 @@
+Patient ID ad9f71900a3d0bda00d7ee1b6797f9b8eca94e72be6f1bf765156b63
+Patient Name afd541b1b819a5906cca7786c3837891032d6409253b604af25a12e5 25 Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 92f0bb58e4397a7d706580dfb34e81800facd8bd4c5cf59cc8b48190
+
+
+
+
+
+X-RAY CHEST 
+
+Fracture noted at 9th rib on right side .
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Fracture noted at 9th rib on right side .
+Suggested clinical correlation.
+

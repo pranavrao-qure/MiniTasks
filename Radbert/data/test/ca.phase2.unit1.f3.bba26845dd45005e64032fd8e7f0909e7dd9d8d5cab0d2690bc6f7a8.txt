@@ -1,0 +1,22 @@
+X-ray Chest PA view:
+
+LUNGS AND PLEURA:  Moderate to large right Pleural effusion with underlying collapse.
+Mild left Pleural effusion.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+
+
+HEART: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal.
+Report Impression: 
+Moderate to large right Pleural effusion with underlying collapse.
+Mild left Pleural effusion.

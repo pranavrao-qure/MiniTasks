@@ -1,0 +1,30 @@
+Patient ID 538e145010787f88a3610c82e76e25972df252c8bacc8c9337f9bee3
+Patient Name c3560370855611e0cb0a0c31abbe0ff350387c328018141fab3f250f 80 Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 62365d3ba3666064721b197fcf14a8a5a1d8a2643fc4db708375e799
+
+
+
+
+
+  X - RAY CHEST 
+
+Multiple discrete & confluent nodular shadows along with fine reticular markings noted in B/L lungs--s/o infective/inflammatory etiology .
+Aortic knuckle calcification noted
+ C alcification of rib
+Trachea& major bronchi appear unremarkable.
+Both hila appear unremarkable.
+Cardiac shadow is within normal limits.        
+Both CP angles are clear.
+Bony cage and soft tissues appear normal
+
+IMPRESSION:
+Aortic knuckle calcification noted
+ C alcification of ribs
+Multiple discrete & confluent nodular shadows along with fine reticular markings noted in B/L lungs--s/o infective/inflammatory etiology
+For clinical correlation.

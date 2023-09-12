@@ -1,0 +1,29 @@
+Patient ID 1f3567b35b24bbeee668dd02139e1d0a23894439a651c68c434c43d7
+Patient Name 5d94c3b2e894ac26f16db96933ad31683c37ec2f630b5193201c50ac 27Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c0678e8c214e2e9fc81bb08c68a654f04004bebf62bdd29abcc2383a
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at left mid and upper lung zone - Infective etiology.
+Scoliosis noted at dorsal spine convexity towards right side.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+
+

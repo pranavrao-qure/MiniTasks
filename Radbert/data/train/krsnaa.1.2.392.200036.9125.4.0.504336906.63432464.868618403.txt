@@ -1,0 +1,33 @@
+Patient ID 21429018d410f3fb6dff0a543215fe48c6f254b027ee2fc30f62e181
+Patient Name c586b1502a0611daace7c4b8c5e68f170e5da12dd89d4690d6d7a826 50Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 28352c64aa3ef779929f0951368c5efdf78f0fb6c2ab9e4367ab5ae4
+
+
+
+
+
+    X - RAY CHEST
+Mild haziness noted in bilateral lower  lung zone - -? Infective.
+Unfolding arch of aorta noted.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Mild haziness noted in bilateral lower  lung zone - -? Infective.
+​​​​​​​Unfolding arch of aorta noted.
+​​​​​​​ For clinical correlation. 
+ 
+ 
+Date: 17-Feb-2020 13:32:58

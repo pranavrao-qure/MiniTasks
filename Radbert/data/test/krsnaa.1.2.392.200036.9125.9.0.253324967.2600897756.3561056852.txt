@@ -1,0 +1,42 @@
+
+Patient ID 30a382b2aa08fb87f864e5709a3e9810f0c6661bda10fa2524bfaee2
+Patient ID 2c58c57af78377125cacfced58778131a6507a9b85b1020a6fd0cf56
+Patient Name f9bc182b7056dc54b589369be98126677cae69cd2d13d94ed4fd0dce 1Y M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST CHILD
+Study Date f76d36b74ca0c7f0e1bd5b97d444876894b4edeb62860a232dafec38
+
+
+
+
+
+
+X-RAY CHEST- PA VIEW
+ 
+ 
+Consolidation is noted in
+right middle lobe.
+ 
+Rest of the bilateral
+lung fields appear clear.   
+ 
+Bilateral hila are
+normal. 
+ 
+Both costo-phrenic and cardio-phrenic angles appear
+clear.
+ 
+Cardiac silhouette is within normal limits.
+ 
+Both domes of diaphragm appear normal.
+ 
+Bony thoracic cage & soft tissues appear
+normal.
+ 
+ 
+Impression:    Consolidation
+in right middle lobe.

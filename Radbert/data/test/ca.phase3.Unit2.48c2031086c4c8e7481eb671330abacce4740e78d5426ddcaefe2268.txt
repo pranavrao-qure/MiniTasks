@@ -1,0 +1,33 @@
+X-ray Chest  AP view:
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: 
+- complete displaced fracture medial shaft of right clavicle.
+- fracture neck of right humerus.
+- fracture right 6th and 8th rib lateral aspect.
+
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+- complete displaced fracture medial shaft of right clavicle.
+- fracture neck of right humerus.
+- fracture right 6th and 8th rib lateral aspect.
+- lung fields appear clear.
+Recommended clinical correlation. 
+

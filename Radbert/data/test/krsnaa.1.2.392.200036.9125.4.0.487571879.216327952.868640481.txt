@@ -1,0 +1,33 @@
+Patient ID ea328cab9fcbe417de0d01decb9a2d38a9891f0ae802c853936db2a7
+Patient Name df8cd5afeb44d668e163df46a64d3ac2aadc2fb87f15eb7a331d976f
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 035cdc8f205d4e96323b5e14c8092bf5053978d875421de98c6d3bbf
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                    
+Patchy areas of consolidation in both lung fields s/o infective cause.
+Bilateral prominent hila with prominent bronchovascular markings and interstitial thickening in bilateral lung fields .
+ 
+  Rest of lung fields are normal
+   
+Trachea is in midline.
+   
+Cardiac silhouette maintained.         
+   
+Both CP angles are clear.
+   
+For clinical & CT correlation. 
+
+
+ 
+ 
+Date: 04-Dec-2019 16:47:35

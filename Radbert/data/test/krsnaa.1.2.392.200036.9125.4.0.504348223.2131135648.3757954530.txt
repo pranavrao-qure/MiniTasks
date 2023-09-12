@@ -1,0 +1,27 @@
+Patient ID 84821cd3800307cbc89e3980013bc288efdc8032d52b9c4f6a806752
+Patient Name de6520d5e962b0343da3934b6c4a734c273812d14f548b5b5b3646ee 46Y R NO 6373
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date cf41406b58da246d04d66cb849f65c6fb14e24a4664ed7054fc5904f
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                               
+
+
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+
+Both CP angles are clear.
+
+For clinical correlation. 
+
+

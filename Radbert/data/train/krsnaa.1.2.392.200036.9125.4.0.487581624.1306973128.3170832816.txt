@@ -1,0 +1,19 @@
+Patient ID 1d4af178bdcf949c041a168c757b268b04bb06a232eed1e2683439d4
+Patient Name 955784330e520d16a68ad380630e02788cc7f34f186c994edbd7c4d4 N55 YRS LT. SHOULDER
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bd9c4bad0267d7832ff5b6831632aededce9cdf06c1436f6451f2c45
+
+
+
+
+
+X-RAY SHOULDER
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+
+

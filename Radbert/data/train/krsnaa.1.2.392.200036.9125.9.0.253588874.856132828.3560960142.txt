@@ -1,0 +1,41 @@
+
+Patient ID 1b491fe3cef770294ead1b020dd6a8242cf62f7e47d95c5d4402778f
+Patient ID 2cf90b60d11e763a686e39f11aa486942c59355b3588ae3b07bce868
+Patient Name 29bb20816dd6526f74a9ce08083e2ee8fd828e5d9b3a288586756cd2 35Y/
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 13beba85a99a313e408f9a57eba4a64fec60e6053387c23f7a9ddd7b
+
+X - RAY CHEST  Bilateral lungs appear unremarkable.   Trachea& major bronchi appear unremarkable.   Both hila appear unremarkable.  Cardiac shadow is within normal limits.          Right pleural effusion    Bony cage and soft tissues appear normal   For clinical correlation.      Date: 28-Oct-2019
+
+
+
+
+
+                                                          
+X - RAY CHEST 
+
+Bilateral lungs appear unremarkable.
+
+ 
+
+Trachea& major bronchi appear unremarkable.
+
+ 
+
+Both hila appear unremarkable.
+
+ Cardiac shadow is within normal limits.       
+ 
+
+Right pleural effusion    Bony cage and soft tissues appear normal   For clinical correlation.      Date: 28-Oct-2019 
+
+
+
+ 
+
+For clinical correlation. 

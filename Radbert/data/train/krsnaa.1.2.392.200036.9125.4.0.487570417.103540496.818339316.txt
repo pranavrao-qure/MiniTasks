@@ -1,0 +1,105 @@
+Patient ID 4d2d6cac85f2a6a655350ad7a3f376aad82f1602d589d21cc759b537
+Patient Name 2b0d7737b7a467d083f31506c42aefd0e7ea7684cfc2fa833d67050d 58YR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 609cd8ee0e2a1a85377aef48d0a50a703b819936e4bc060f547ae56e
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at bilateral upper lung zone - Infective
+Mediastinal widening noted.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY DORSAL SPINE AP/LAT VIEW
+ 
+ Normal curvature of the spine
+   Heights and densities of vertebral bodies are normal
+  Marginal degenerative osteophytes noted in the visualized dorsal vertebral bodies.
+   
+IMPRESSION  :  Marginal degenerative osteophytes noted in the visualized 
+dorsal vertebral bodies.
+ 
+For clinical correlation. 
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+X-RAY LUMBOSACRAL SPINE (A.P./LAT)
+ 
+ Anterior and lateral marginal osteophytes are noted.
+The vertebrae show normal alignment.
+  No focal bone lesion is seen.
+  The intervertebral disc spaces are normal.
+  No abnormal paravertebral soft tissue shadow is seen.
+  No abnormal soft tissue calcification is noted.
+  The psoas shadows are well defined and normal.
+  No radio opaque calculus is seen.
+ 
+IMPRESSION  : 
+ 
+ Anterior and lateral marginal osteophytes are noted, degenerative changes
+
+
+
+
+
+
+
+
+
+
+X-RAY CERVICAL SPINE AP & LATERAL VIEW
+ 
+Anterior osteophytes noted- degenerative change
+Straightening of cervical spine likely due to muscular spasm.
+The cervical lordosis is well maintained.
+Vertebral bodies, Pedicles, Laminae, transverse and spinous processes are normal.
+The intervertebral disc spaces are reduced .
+Spino-laminar line is well maintained.
+The uncovertebral joints are normal.
+Cranio-vertebral region is normal.
+The prevertebral and pretracheal soft tissue spaces are normal.
+There is no cervical Rib.
+                                          
+IMPRESSION:
+Anterior osteophytes noted- degenerative changes
+
+ 
+ 
+Date: 29-Jan-2020 16:20:45

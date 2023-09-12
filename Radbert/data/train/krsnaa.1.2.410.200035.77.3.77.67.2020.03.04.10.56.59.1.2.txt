@@ -1,0 +1,55 @@
+Patient ID 53036b8667d9716a3b9e012e6d60234f1a75026bd07e7132627f20bd
+Patient Name 72bd028a75f707c96579ae23225851aa6f487ba73ff830fa8acc46be
+Age :55 Years
+Sex :M
+Accession Number 812b5bde0a84139ef1b9c3db58e9f1b1ec789117d2af8f4695f6a65c
+Modality :CR
+Referring Physician ee8c7d67eca07243aaceeed42cd5b101e8dbe0cdddf36f2f14ac6c3c
+Study :CHEST PA,RT FA A/L
+Study Date bff82b3cb92b2602a4fb8913a99995e2b2a6472c2304b8186a1d5c31
+
+
+
+
+
+X - RAY FORE ARM AP AND LATERAL VIEWS
+ 
+ 
+Fracture noted at proximal shaft of radius with surrounding soft tissue swelling.
+ 
+Rest of visualized bones appear normal.
+ 
+No evidence of sclerosis or erosions.
+ 
+IMPRESSION:
+Fracture noted at proximal shaft of radius with surrounding soft tissue swelling
+ 
+For clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.

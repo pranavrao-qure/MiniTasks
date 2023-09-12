@@ -1,0 +1,28 @@
+
+Patient ID bc4b3bf45c5c6f9cb572037135a6988e340222440db1668a2a00236c
+Patient ID e868782ace3f565bcc5d979b25d9a1df2bb265ae41e35e941c7593e6
+Patient Name b1afe38c02a80daa3971fafc7b30b3ac0dee066839410a9606937aac NAGAMMA40 Y REF DR ADINAGESH
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date ebfc8907c1f729816fd1b4a99cdc8b3548eb6a9d4f1b9511f9d4d0eb
+
+
+
+
+
+
+Mild haziness noted in right lower zone - -? Infective.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

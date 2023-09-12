@@ -1,0 +1,31 @@
+
+Patient ID 3384118ed492ed3c65e8360d563f821975bab20d099345c08cd934e0
+Patient ID 12a4a63be20648739232b4cc92ec3c0595f8ebed54381a3401a6380e
+Patient Name e4fb05965113ee7c3c573fdb1a6d21c45f9f8b16b1e819d1bc6d7725 1M  SNCU
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 60c76578e1dee57aa73447191cc1bb2e9bb657e85f8ca2326b40eac0
+
+
+
+
+
+
+                                                           X - RAY CHEST AP VIEW
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+
+
+

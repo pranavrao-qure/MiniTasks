@@ -1,0 +1,31 @@
+Patient ID 3be6db3ca0a91eff063521b6b1f191a18806c6fcd08a87124959250a
+Patient Name 4b372b44a94362446771975b608ff6cd0ba5b350a3d21de7357e3b8e 18 YRS CHEST PA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date a16f552b5ba23156397154ab2f4a0e880eda23fb06bc62e247c55b66
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Extensive consolidation  noted at left lung zone - infective letiology.
+Loss of lung volume left hemithorax. 
+Trachea is in midline.
+  Right hila normal in density.
+Cardiac silhouette obscured.        
+Right CP angle clear.
+Left CP angle blunted - ? minimal pleural effusion.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+For clinical correlation. 
+
+ 
+ 
+Date: 24-Feb-2020 15:58:24

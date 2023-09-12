@@ -1,0 +1,25 @@
+Patient ID 6a9ef712c3892eaaebd4140fa0e71362b4d52e8faf5e1d4d2dd88a47
+Patient Name 42ce2e9e14a06bb8ef7d1f12dcd46daa8825038dc3955c4f36b35ed6
+Age :53 Years
+Sex :M
+Accession Number 45ca2af0ff6ca176e1372be24b4ef4eef58eb43d888e073de1447ec1
+Modality :CR
+Referring Physician c573014713c7fb730a6a8a3956b588cabbeaa5209a34f22fbe954a24
+Study :chest-pa
+Study Date bf2ca8e7decd3ab0b3b65076509d7866573f8071d1e9e4c559cbb3be
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+There is symmetrical area shadowing in the central region of both lungs with congestion in the pulmonary veins-alveolar cardiogenic edema
+Trachea is in midline.
+           Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+ 
+
+

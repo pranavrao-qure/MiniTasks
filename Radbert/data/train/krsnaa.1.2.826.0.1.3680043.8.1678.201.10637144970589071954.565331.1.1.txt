@@ -1,0 +1,22 @@
+
+Patient ID 2488312e422879dc416823582c323af82ff606f087e04ff8d610b299
+Patient ID 9823e1b99e05f664c7ebf288ad754685cbebc8fc086a45758753c35b
+Patient Name 8ded2e7f3e36b002e8abdd9db02ddd6e1aa840524ed0e240333c4b4a
+Age :45 Years
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 65fc155c72d5dcd28d20a908d3cfcbc518406a33e1c35b05b0e4ed31
+Study :CHEST PA
+Study Date 0816ae3100198751073fd273f0ec735140fa9e1bfe08c257d8aa4e4a
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows calcific lesions right upper and both mid zones - Old Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

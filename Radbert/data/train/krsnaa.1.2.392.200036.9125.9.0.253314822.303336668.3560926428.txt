@@ -1,0 +1,30 @@
+
+Patient ID 3eaa782e4b2fe17c56a5f7c248100a092d5a0c8c17f8e4be5df2930c
+Patient ID ca3dc4fb8bd4f13f5cf49db2ae7fcfbcc519c7b39763a739ac650b56
+Patient Name 8a31e20589552dc1db0cd261bfbc34d126d0bb0f6726d94c549efa72 BABU.20/Y OP.38227
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 7bbe6d0206d053d1d6390b12acaee673a35ff44477cbb4a3f5c24a76
+
+
+
+
+
+
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of left CP angle noted - Pleural Effusion.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+   
+

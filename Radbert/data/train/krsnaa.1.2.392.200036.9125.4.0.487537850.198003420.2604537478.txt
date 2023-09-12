@@ -1,0 +1,23 @@
+Patient ID e71e4dfd0d1f6ed6a8bbfbdb7a973b10b4eb466bfac03baa4fb7d8d6
+Patient Name 58d82ac9d6f614d710cfc8e4b25dc46542827e8e02bc4f25ed1c3e0c 27 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 60605ba3a3ea0dd1763eaec03ff36e7838534681464ef475bd77f9dc
+
+
+
+
+
+
+
+CHEST X RAY (PA VIEW)
+ 
+Bronchovascular markings are prominent. 
+Left lung hyperinflation- bronchitis.
+Both costo-phrenic angles appear clear.
+Cardiothoracic ratio is normal. 
+Thoracic soft tissue and skeletal system appear unremarkable. 

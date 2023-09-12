@@ -1,0 +1,21 @@
+
+Patient ID 55e18564e913dbb2128b82a64beb572ebdd3fdf8a9e6162225eff24b
+Patient ID be870f3576c69a659e8f40a7802c052d949e236859da0e5504136af9
+Patient Name 15b4c9122e1a6218c624a3b3ec1383464bf1df1915b94388d925b2f1 50Y DR ADI
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date b16bcf47a8bb4406dc121fa1725fd4a805abee7bad2599e11453034f
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

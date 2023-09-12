@@ -1,0 +1,19 @@
+X-ray Chest PA view:
+
+LUNGS: Normal.
+PLEURA: Normal. 
+HEART: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal. 
+
+Report Impression: 
+Normal x-ray of the chest.

@@ -1,0 +1,31 @@
+Patient ID 58d23a4839df70c568d7ae6e4bfc362f80774303aa1608d0be0e45b5
+Patient Name a0dd625fb3452dded0d94b95c393165f9792e6e325c37d791da17f12 7 M0NTHS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 24a6be163119fcf0d95cdb2cac8f29ef1b5d08841f79c58d0c75450d
+
+
+
+
+
+CHEST RADIOGRAPH AP VIEW
+ 
+E/o consolidation at right upper and mid zone -infective .
+Bilateral domes of diaphragm appear normal and are smooth in contour.
+Bilateral costo phrenic  angles  and pleural spaces appear normal.
+Cardiac size could not be evaluated on AP view.
+Visualized bones and soft tissues appear normal.
+No evidence of lymphadenopathy / mass lesion /effusion is seen.
+Visualized portion of upper abdomen appears normal.
+For clinical correlation. 
+ 
+ 
+Date: 23-Mar-2020 18:02:30
+
+
+
+

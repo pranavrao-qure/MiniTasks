@@ -1,0 +1,41 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X-RAY LUMBOSACRAL SPINE (AP & LATERAL VIEWS)
+
+
+Straightening of the lumbar spine is seen.
+
+Sacralization L5 vertebrae is seen.
+
+All the lumbar vertebrae have a normal bone texture of their bodies,
+
+laminae, pedicles, transverse and spinous processes.
+
+The intervertebral disc spaces are normal.
+
+The paravertebral soft tissues do not show any abnormality.
+
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 16452 by 16822, depth 1
+pict001.wmf
+Dr. V. Sudhakar. MD., RD
+        
+        
+        
+        
+        
+        
+        
+        
+Consultant Radiologist
+
+
+RS
+
+
+
+
+
+

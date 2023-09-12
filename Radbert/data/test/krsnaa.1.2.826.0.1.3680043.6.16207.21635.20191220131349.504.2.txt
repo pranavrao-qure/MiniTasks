@@ -1,0 +1,20 @@
+Patient ID 1ffa432210d4fe4e3395bd0384440d3ae806636b704525a5cc535293
+Patient Name 41e6ff079f599062c545b80e8233196bceae0f3ebf0a10ecf2757014 26YRS CHEST PA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 8dcbf7fa812db75f53b828c6ed32b5b31255dc162a5a027f24360ed0
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :                                   Patchy fibrotic areas are noted in left upper zone - S/o old infective etiology    There is fusion of 7th right posterior rib to 6th rib near costo-chondoal junction
+Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.        Suggested clinical correlation and follow up.
+
+

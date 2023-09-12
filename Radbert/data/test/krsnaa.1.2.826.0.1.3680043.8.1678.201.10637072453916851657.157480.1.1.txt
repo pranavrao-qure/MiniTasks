@@ -1,0 +1,25 @@
+
+Patient ID 3b8735c746156d30715142ee72a3fa6b60512cbba903e3a16da99828
+Patient ID ea2e0a67ef9feda4619cdb0d4f6be9a17b5c3abefde2e8b843119ffc
+Patient Name a011c0670373e25aefb1efb85adab21ce74b0b9bb507517c75521657
+Age :40 Years
+Sex :M
+Accession Number 7457fc918dd7cd2f63f6ec46ba395aaa43ffb5c4ca1f67009e53c4bd
+Modality :CR
+Referring Physician 04dc0647859d0cfa7f1e142cf49fa92ee6ceffae1f766a431187ddf9
+Study :CHEST PA
+Study Date f4a7ca4b8d9b15e73d6edf25c2f8cc36546308cdd395f346177ca0a5
+
+
+
+
+
+
+Check marker.
+
+Suboptimal radiograph.
+
+Left CP angles are clear.
+Visualised left lung parenchyma are normal.
+
+For clinical correlation. 

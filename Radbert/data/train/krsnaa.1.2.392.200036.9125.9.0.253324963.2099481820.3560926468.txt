@@ -1,0 +1,78 @@
+
+Patient ID 362f2589b51b9d9d99e4345d843c2ddbe59e75f6d330e38da642f8bd
+Patient ID d6c7f53e6ccd97d8412df1ab46dd8876ea1c64921c1ff6e32fa2bf4c
+Patient Name 1fda5cb16ce788ce4eb7430a0448a3a3b67436bd0e2f79e9d651433e 40/F
+Age :
+Sex :O
+Accession Number 5b11cf1adee6f00bce163e990633b23ba075574b5e705d1def941dab
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date f76d36b74ca0c7f0e1bd5b97d444876894b4edeb62860a232dafec38
+
+X - RAY CHEST  
+ 
+ Bilateral lungs appear unremarkable. 
+   
+ Trachea
+& major bronchi appear unremarkable. 
+   
+ Both hila
+appear unremarkable. 
+ 
+Cardiac shadow is within normal limits.         
+ 
+Both CP angles are clear. 
+ 
+Bony cage and soft tissues appear normal 
+   
+   
+ Impression:   No significant abnormality detected.   For clinical correlation.        Date: 21-Sep-2017
+
+
+
+
+
+                                                         
+
+X - RAY CHEST 
+
+
+
+ Bilateral lungs appear unremarkable.
+
+
+ 
+
+
+Trachea
+& major bronchi appear unremarkable.
+
+
+ 
+
+
+Both hila
+appear unremarkable.
+
+
+
+Cardiac shadow is within normal limits.        
+
+
+
+Both CP angles are clear.
+
+
+
+Bony cage and soft tissues appear normal
+
+
+ 
+
+
+ 
+
+
+Impression:   No significant abnormality detected.  
+For clinical correlation. 

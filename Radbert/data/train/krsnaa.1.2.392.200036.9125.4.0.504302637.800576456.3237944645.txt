@@ -1,0 +1,31 @@
+Patient ID 10fdf1eaf00de199f2ae884f86a6beccf9b841e8f339f51a1a04f01f
+Patient Name 4c2815be661a720a91ed91fd61d0fc10a1e935f27e7d9473d3ffdd87 6Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ab6fbd955b84e999da2ab43d2a240319699679b5eb589efcf72d5d6e
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Mildly prominent bronchovascular markings bilaterally
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Mildly prominent bronchovascular markings bilaterally
+Suggested clinical correlation.
+
+

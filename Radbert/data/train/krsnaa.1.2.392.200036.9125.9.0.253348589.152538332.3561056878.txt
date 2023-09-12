@@ -1,0 +1,36 @@
+
+Patient ID 3a78bee0732934a626e085c89371cd82953a004cf41b39d9c50ee5f9
+Patient ID f5dfd54c4b47bb2f8e2c1d060124b22fb60b0873a60aad8226186451
+Patient Name 917ed28e4f5cf24e68c1007235aef811efc31912b9dfe16b8870d190 50Y DR VIJAY
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 3ebcc2ece7a0cc2299b808329e3cb578685b9a3fc6186e6ef27f1d67
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :     
+  
+Hyperluncent area devoid lung markings noted in left mid and lower zone - Pneumothorax.
+Patchy fibrotic areas are noted in left upper zone - S/o Kochs 
+   
+Both hila appear are pulled up. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ 
+    Suggested clinical correlation and follow up.

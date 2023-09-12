@@ -1,0 +1,31 @@
+Patient ID f7ad03d3bc1bac4eb3b77dbddf20f4f808051d474b02b2542e8dda3d
+Patient Name 7fd16a387fc4b487d46207eddb5c5b120a7cdb59905d054026e1638d 47Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 42bd556e9c3f73e95a25452841db9c73d516f6a68668ad6cf35453d4
+
+
+
+
+
+                           X - RAY CHEST AP VIEW
+ 
+ 
+Suspicious fracture noted at 6 th  right posterior rib.
+ 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation.
+
+
+
+

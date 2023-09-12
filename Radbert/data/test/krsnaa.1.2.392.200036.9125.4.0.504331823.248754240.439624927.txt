@@ -1,0 +1,32 @@
+Patient ID 031661908cd118852041a1bb33a2f958d4c8c421a679d92e8b4b4761
+Patient Name 5ea04b974e6ae1a7ed12f9f2835a8f57fb929355cbb71c835f25cbcf 70YR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6b3f1a99bc0641e428aea25288f46c2d9f985603d37a7918aee11bba
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+ 
+ 
+Prominent bronchovascular markings noted at bilateral  perihilar region 
+Ribs end calcification noted 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral  perihilar region  
+ 
+ 
+Date: 14-Mar-2020 12:40:53

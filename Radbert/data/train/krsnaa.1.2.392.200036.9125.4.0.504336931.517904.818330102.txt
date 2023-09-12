@@ -1,0 +1,26 @@
+Patient ID c543a8a2295fc645e8d1244627b1690603d9840b629c7768af67aafa
+Patient Name 2a3b9975ba9a62f8daf4aa5f17c0ebc25d25255fd4b908701e6de3d9 50 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA X-WISE
+Study Date 2ced35d523efc8b970045a7f4bf1792c64d10b00aa7490fc9fdb5883
+
+
+
+
+
+X - RAY CHEST PA VIEW
+ 
+Both lung fields show prominent broncho-vascular markings
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+

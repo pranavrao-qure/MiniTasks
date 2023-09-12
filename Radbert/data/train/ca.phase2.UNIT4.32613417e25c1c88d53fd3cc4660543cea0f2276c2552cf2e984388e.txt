@@ -1,0 +1,23 @@
+X-ray Chest PA view:
+
+LUNGS: Right lower zone atelactatic opacification.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Small right pleural effusion. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Right dome elevated. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Right lower zone atelactatic opacification with elevation of right dome and small right pleural effusion not significantly changed compared to previous xray from 27/10/12.
+
+Correlate clinically.

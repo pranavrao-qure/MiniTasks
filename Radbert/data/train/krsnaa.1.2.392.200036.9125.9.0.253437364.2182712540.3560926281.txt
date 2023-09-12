@@ -1,0 +1,21 @@
+
+Patient ID 59844d392debf1705e548f2a26d294e600a2c5b2dcbb890bb71f8280
+Patient ID d29f41473f8d68e2b180c526fd91cd0a96fbb4cc72f346f428231583
+Patient Name 367f9554fbe677febc321dc87dd087e01d73ac50a86cc8f20a7afff1 42Y REF DR B.SRAO
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 998e69bafa7cc88ed3d569e2cd1474239a60662bfd7c6e53b2d82f1f
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows ill defined opacities left side of the lung - Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.         Suggested clinical correlation and follow up.
+ 

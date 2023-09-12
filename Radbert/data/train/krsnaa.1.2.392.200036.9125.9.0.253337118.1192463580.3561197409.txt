@@ -1,0 +1,39 @@
+
+Patient ID b84d8e536a54d735d28c3d6a1679c4b67fcc865fa17c7ce03be1b4cc
+Patient ID beffe6b3847a61b867b05b3294b6f8663c5003a100f0fdf9498e7db7
+Patient Name 47d7c6d050bd2d2ac8e2d89ef30e8f2f24978c7510c219d36f301784 61/Y. DR. NCP. CAS.
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date eeaf2006454b873231d3936bce880173dd1e3e9b843ab26b43fec53d
+
+
+
+
+
+
+X-RAY
+EXAMINATION      :     CHEST P.A VIEW                        
+         
+                                        
+Fibrocavitatory lesion noted in right upper zone.
+ 
+Cardiac silhouette and
+mediastinum appear normal.
+                                 
+Both the costo-phrenic
+angles are clear.                  
+                 
+
+Both the domes of
+diaphragm appear normal.
+ 
+Bony thorax does not
+reveal any abnormality.
+ 
+ 
+IMPRESSION: Fibrocavitatory lesion noted in right upper zone.
+s/o Pulmonary Koch`s.

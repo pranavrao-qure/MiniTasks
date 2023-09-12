@@ -1,0 +1,32 @@
+Patient ID 03ce71592aa75bbcd679ef4a3498ee18dddd50554c5459fccb18fc01
+Patient Name f8893133ff6d85143493082b108273e4406b8d059fc4821d0c37230c 23yrs dr n k giri
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ab6fbd955b84e999da2ab43d2a240319699679b5eb589efcf72d5d6e
+
+
+
+
+
+
+X-RAY CHEST PA  
+ 
+Fracture noted at mid shaft of right clavicle with surrounding soft tissue swelling.
+ 
+Both lung fields appear clear..
+
+Cardiac size appears within normal limit. 
+
+Trachea and mediastinal soft tissue shadow appear unremarkable.
+
+Both C.P. angles and both domes of diaphragm appear unremarkable.
+
+Bony thorax under vision appears unremarkable.
+IMPRESSION:
+
+Fracture noted at mid shaft of right clavicle with surrounding soft tissue swelling.
+

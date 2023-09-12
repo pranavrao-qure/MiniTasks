@@ -1,0 +1,32 @@
+Patient ID 7abb27fd1ea5df5fd7c3c371a378ec72b17912d8630bc8936b20fd8e
+Patient Name af75565aa32a712f3284600f03934336168902972cc2dfde02bd3029 25Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c0678e8c214e2e9fc81bb08c68a654f04004bebf62bdd29abcc2383a
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+Emphysematic bullae noted at left upper zone.
+​​​​​​​Cavitory lesion noted right mid zone s/o infective etiology.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+

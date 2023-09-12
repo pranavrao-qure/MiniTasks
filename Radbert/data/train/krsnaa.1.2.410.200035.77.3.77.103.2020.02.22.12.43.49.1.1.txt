@@ -1,0 +1,47 @@
+Patient ID 34f6740692f744c22231637f2b01415cb4e22d991335a8c89f5ab49d
+Patient Name 0d9ff255de5433fca25a8e770229508b99d716f01fc55c2a22b6fd16
+Age :55 Years
+Sex :F
+Accession Number 0a5a094ad71e123a483091121e9b0fce1b0e5ede140a7963bfcea092
+Modality :CR
+Referring Physician 9fac3c94c4ad2e6de04df988f7adcfab185b1cade085717a2ccd5e5c
+Study :CHEST AP
+Study Date 9274b7d0b3e6ac187a532b303d6366ce8e172b2ba5ee4ada5fbbba1b
+
+
+
+
+
+CHEST RADIOGRAPH AP VIEW
+ 
+Bilateral lung parenchyma and broncho-vascular markings appear normal.
+  Small nodular opacities noted in bilateral perihilar region .
+Bilateral domes of diaphragm appear normal and are smooth in contour.
+ 
+Bilateral costo phrenic  angles  and pleural spaces appear normal.
+ 
+Cardiac size could not be evaluated on AP view.
+ 
+Visualized bones and soft tissues appear normal.
+ 
+No evidence of lymphadenopathy / mass lesion /effusion is seen.
+ 
+Visualized portion of upper abdomen appears normal.
+ 
+IMPRESSION  :  Small nodular opacities noted in bilateral perihilar region .
+ 
+For clinical correlation.
+
+
+
+
+
+
+
+
+
+
+X-RAY RT SHOULDER
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal
+  Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up

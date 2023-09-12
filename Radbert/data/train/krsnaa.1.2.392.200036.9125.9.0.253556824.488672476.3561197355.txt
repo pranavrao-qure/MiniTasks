@@ -1,0 +1,32 @@
+
+Patient ID 2becf5e16043bbdd6d8172088e177f71c5ad1c81856fc48e5f304731
+Patient ID a75ae0239d811202b3fd81cd0104f17871e1ec7566f2cb59479f814b
+Patient Name bbb093caf0077f03cc060832a1be3264839d90db563bd58a6db92bf3 54Y ART OP
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 16eee230fe9524be23da4216ddca48aa9bdd20ae95c14d27d7bc78ae
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Rotation.
+Trachea is in midline.
+
+Both hila normal in density.
+Heart size is normal with LV configuration and unfolding of aorta. 
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+ 
+
+

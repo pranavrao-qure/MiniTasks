@@ -1,0 +1,33 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+
+Convexity of the left atrial appendage noted. 
+Cardiothoracic ratio is within normal limits.
+Blunting of left costophrenic angle.
+Trachea in the mid line.
+Bilateral hilar shadows appears normal.
+Bilateral lung fields appear normal.
+Right costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+No air under the diaphragm seen.
+
+
+IMPRESSION:
+v       
+Left atrial enlargement .
+v       
+Minimal left pleural effusion.
+-       
+Please consider ECHO for further evaluation.
+
+
+DR. S.Karthik, M.D., RD.,       
+ Consultant Radiologist 
+
+The report expressed is subjected to the inherent limitation of the modality, kindly correlate with other parameters. For any clarification please contact Doctors direct phone number : 9940358905 
+
+
+

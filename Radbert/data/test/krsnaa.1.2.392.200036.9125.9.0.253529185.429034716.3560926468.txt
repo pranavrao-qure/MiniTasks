@@ -1,0 +1,37 @@
+
+Patient ID 636d8f8fa1befd7cd10e44cee578648d75eee848b9b8d2c3137d028c
+Patient ID f4ecf24e5222c4541565cf5c3abf01faa1de7cbaaa3e345ac49a3fdb
+Patient Name a4e51ffbb5d7c83ab0809256ee42b655e6d5225d3ce648df087b14c7 70Y
+Age :
+Sex :F
+Accession Number 89ef5af15f948ceac8c2228cc676ee6634f06614ac93618c047c52a3
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date d8590ece349854b8241a525634d8e359f507f38bf967465fa5147a0b
+
+
+
+
+
+
+X-RAY 
+CHEST AP VIEW
+FINDINGS 
+:       Lung fields are clear.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiomegaly.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.    IMPRESSION :  NO OBVIOUS ABNORMALITY.     
+Suggested clinical correlation and follow up.
+  X - RAY LEFT HIP AP VIEW Fracture noted at neck of femur with surrounding soft tissue swelling. No evidence of osteolytic / sclerotic lesion. For clinical correlation.
+X - RAY LEFT HIP AP VIEW
+
+
+Fracture noted at neck of femur with surrounding soft tissue swelling.
+
+No evidence of osteolytic / sclerotic lesion.
+
+
+For clinical correlation.
+
+
+

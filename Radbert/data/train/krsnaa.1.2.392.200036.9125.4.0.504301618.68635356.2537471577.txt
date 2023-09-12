@@ -1,0 +1,29 @@
+Patient ID 02e1bf7cc3912a85f0a473fe41333c0a82ea0d681ed78e587b3eaf3f
+Patient Name 7d3f1f16c45d6462cb2bd6b0cf0947badf355ce74b223953f43cff81 66YRS M
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date fd0d8f8d35ccb4e258b78d602f43c6e79691c63b6a3336c3fa7c333a
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+Unfolding arch of aorta noted.
+Patchy consolidation noted at left upper lung zone - Infective
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+
+Right CP angle appears normal.
+Blunting of left CP angle noted -  pleural effusion. .
+Rest of lung parenchyma are normal.
+For clinical correlation.  
+ 
+ 
+Date: 16-Mar-2020 11:21:32

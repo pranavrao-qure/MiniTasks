@@ -1,0 +1,33 @@
+Patient ID e31254cc192dfe5e566a35c96d1917ee830061a92993ed63c5cd0b01
+Patient Name 1dc5a0f25489e58d1ff34f30734b6cd9686703e1e2bf9be548a00309 devi57yrs
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 241b18fede4ac6262802a7bc5e850a575d4ce261471e1ebe19c9193e
+
+
+
+
+
+    X - RAY CHEST 
+Mild haziness noted in left  lower  lung zone - -? Infective.
+External artifact  noted.
+B/L  crowding  ribs noted.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Mild haziness noted in left  lower  lung zone - -? Infective.
+For clinical correlation. 
+ 
+ 
+Date: 27-Mar-2020 13:24:07

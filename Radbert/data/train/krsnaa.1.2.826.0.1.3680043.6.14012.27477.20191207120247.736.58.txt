@@ -1,0 +1,58 @@
+Patient ID bce806d3d252f7ecbf89b2fef531cbbd69c7dcaf6148c9c764662882
+Patient Name e80923f04f842d2b8ab6566ae55165d5ac1cff971fb2f0923cc885fc 26 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 99e134bc3d4c09fc4f3f8003c52cb3ccc438986eaaac00856ff30b8e
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ Patchy inhomogenous opacities noted in right upper and both mid zones with cavitary lesion noted right upper zone - Infective etiology
+Trachea is in midline.
+
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+
+
+
+
+
+
+
+
+
+
+X-RAY DORSAL SPINE (AP )
+  
+FINDINGS :
+ 
+Alignment of dorsal spine is normal.
+ 
+Vertebral bodies are normal in shape & density.
+ 
+Posterior arch elements appear normal.
+ 
+Intervertebral discs show normal height.
+ 
+Pre vertebral soft tissues are normal.
+ 
+IMPRESSION : NORMAL STUDY.
+ 
+    Suggested clinical correlation & follow up.
+           
+    
+ 
+ Date: 07-Dec-2019 13:40:17

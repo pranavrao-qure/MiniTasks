@@ -1,0 +1,44 @@
+
+Patient ID 86908694c40a9a2148f513208cdb5be610f441fab491bb41b36140d0
+Patient ID fa1d88dc02e7e4a01fd2ffde9b4e346f5c5d2396af338b9cebc7568c
+Patient Name 7701f5796ace98b001b659882c13495ff1f76ccf58a694a6306ebabc 56Y/
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 0cbc956633c000f72af58a3d3d83344f13b37b1903f3aae3f00ad9f0
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+  
+ FINDINGS :     
+  
+Patchy areas of consolidation in right upper lung zone with fissural thickening.
+
+Mildly prominent bronchovascular markings noted in both lung fields. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal. 
+   
+
+
+Suggest clinical & CT correlation and follow up 
+ 
+ 

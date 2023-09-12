@@ -1,0 +1,27 @@
+
+Patient ID 276357d3f8865de6fe6586d0815ab24558f5896fc52ba878a15b54f2
+Patient ID e3caa6f6713c0f8daadca620d11fbcd9c8bff0a81829fdc38918d174
+Patient Name 07012e05abe0adc5bdff547e89d63df92fa828994864ec92bbf2b5d8 KUMARI.20.
+Age :
+Sex :F
+Accession Number e264987b58538a7e5ae34d3aec8900e8bdcc7cac320d9f60658ae293
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date f3b52c8cdbab74e02ad403f9deca2e1710f06f79c0f7d64117749613
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

@@ -1,0 +1,32 @@
+
+Patient ID d23d35f0ba705150ffff6fd92441ce4da77a8726897f2930ca2ff58b
+Patient ID c6c32ce8b68862781fa5271b9046d1efb18da696be89f57994c7367c
+Patient Name 700a81dde7b983470c04d6f648e799f4746f0545a5d9d0abe25f2850 30 Y REF DRPADMAKUMAR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date aecaab4d70c2fce2a43fab0c5dec784072e218ef1a7fcc30b064f6af
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+Bony cage and soft tissues appear normal
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

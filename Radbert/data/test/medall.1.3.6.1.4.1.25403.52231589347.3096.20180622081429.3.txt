@@ -1,0 +1,33 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+
+X-RAY PARANASAL SINUSES
+
+        
+
+
+"        
+The nasal septum is in mid line.
+"        
+Bilateral turbinates appear normal.
+"        
+The nasal cavities are clear.
+"        
+The antral walls and zygoma are intact.
+"        
+Haziness noted in right maxillary sinus.
+"        
+The petrous apices and internal auditory meati are normal.
+
+
+
+
+DR. A. PRASANNA.,MBBS.,RD(DNB)
+CONSULTANT RADIOLOGIST
+REG NO. 98687
+
+
+
+

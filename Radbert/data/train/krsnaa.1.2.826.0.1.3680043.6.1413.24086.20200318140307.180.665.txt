@@ -1,0 +1,69 @@
+Patient ID bc8091e824196a61c5ae67b2f7afc9a23799d34388dd77f7268a01aa
+Patient Name 82665f38b356d712c74b6810bf841c06e91da180460555b0501d020b 8YER
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bedd05a70cdf74850af1286055214ab29c0288fec48f2c6abbd03cfb
+
+
+
+
+
+    X - RAY CHEST PA VIEW
+
+
+Mild haziness noted in right lower lung zone - -? Infective.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Mild haziness noted in right lower lung zone - -? Infective.
+For clinical correlation.shou
+
+
+
+
+
+
+
+
+
+X-RAY LEFT SHOULDER AP VIEW  
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal   
+IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+ 
+X-RAY RIGHT  SHOULDER AP VIEW  
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+
+
+
+
+
+
+
+X-RAY ELBOW AP   VIEW
+ 
+ 
+ FINDINGS :    
+ 
+The alignment of the elbow joint appears normal
+ 
+Bones appear grossly normal
+ 
+Soft tissues appear normal
+ 
+ 
+IMPRESSION :  NO SIGNIFICANT ABNORMALITY
+ 
+

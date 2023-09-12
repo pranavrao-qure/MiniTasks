@@ -1,0 +1,38 @@
+
+Patient ID 78b5a91c7be45a66591bf12985b2975231a3a4f20aa425b73e4998d5
+Patient ID cfa83f1904231bb5fa85f8de9cb99e81e13e8091feddc9c3883928fa
+Patient Name 9b68e246ee7f8e0949b89677f34cadae43b8aec8a92ff51e336a6266 44Y REF DR P.V. RAO
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 39c474e46e87f38e662df46eb99fda31e5b50876bbd64a2e0347392f
+
+
+
+
+
+
+X-RAY CHEST- PA VIEW
+ 
+Expiratory radiograph.
+ 
+Bilateral lung fields
+appear clear.    No obvious
+pleural/parenchymal lesion noted. 
+ 
+Bilateral hila are
+normal. 
+ 
+Both costo-phrenic and cardio-phrenic angles appear
+clear.
+ 
+Both domes of diaphragm appear normal.
+ 
+Bony thoracic cage & soft tissues appear
+normal.
+ 
+ 
+Impression:    Normal study.

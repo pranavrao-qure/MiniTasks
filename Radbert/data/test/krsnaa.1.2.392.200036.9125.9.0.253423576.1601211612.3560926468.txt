@@ -1,0 +1,33 @@
+
+Patient ID 700b7a256b3636f09baf87a2acd73084dfbf615eaed231cad6b0e612
+Patient ID b4f819a597f754d79c03584da2805a546efaf87d41fa959e2fde39be
+Patient Name e7f05ade298a2cd07db1d78c5a5053bea3c101a80f929d146ccf0046 60Y
+Age :
+Sex :F
+Accession Number deeeb52ca90b3ffed6b72254e8e98a444a2068e5f821cb1573577d68
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 0058b1cef31851c7512e73c7578b884cf410b401af3e1f4fc3400f51
+
+X - RAY CHEST INHOMOGENOUS OPACITY NOTED AT BILATERAL LOWER ZONES Prominent bronchovascular markings bilaterally Both hila normal in density. Cardiac silhouette maintained.          Both CP angles are clear. Bony cage and soft tissues appear normal For clinical correlation.      Date: 3-Jul-2018
+
+
+
+
+
+                                                          
+
+  X - RAY CHEST
+
+INHOMOGENOUS OPACITY NOTED AT BILATERAL LOWER ZONES
+
+
+Prominent bronchovascular markings bilaterally
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Bony cage and soft tissues appear normal
+For clinical correlation. 

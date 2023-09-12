@@ -1,0 +1,30 @@
+Patient ID 2e1bd81a52070eac24ef0d29ffcddd2a5d95f00e4ae3f47789145032
+Patient Name 47fcbc2f022a015c157968150c80ea5b38ee10d8860044bca28591da 70Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 9274b7d0b3e6ac187a532b303d6366ce8e172b2ba5ee4ada5fbbba1b
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+ 
+Bilateral lung fields are hyper-inflated, hyper-lucent and shows flattened bilateral hemidiaphragms, increased Broncho-vascular markings and small sized heart.
+ Small nodular opacities noted in bilateral perihilar region .
+Aortic knuckle calcification noted.
+Both hila are normal.
+Cardiophrenic and costophrenic angles are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+ 
+IMPRESSION:   Chest X ray findings are suggestive of COPD (Chronic obstructive pulmonary disease).
+Small nodular opacities noted in bilateral perihilar region .
+

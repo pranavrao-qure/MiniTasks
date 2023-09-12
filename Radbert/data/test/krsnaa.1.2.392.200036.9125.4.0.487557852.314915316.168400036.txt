@@ -1,0 +1,29 @@
+Patient ID 3865abd1844b3f43e188defa5f8e53a81f9193a428ccd6f18d14b6d5
+Patient Name 75a7ed52bd3d3f044d01d487f1df8b06c3bbb27c270080a09282b38a 40YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 0816ae3100198751073fd273f0ec735140fa9e1bfe08c257d8aa4e4a
+
+
+
+
+
+X-RAY SHOULDER AP VIEW  
+  
+ 
+FINDINGS :    
+ 
+  Fracture noted at lateral shaft of clavicle with surrounding soft tissue swelling.
+ 
+  Rest of bones appear grossly normal.   
+ 
+   IMPRESSION:
+
+Fracture noted at lateral shaft of clavicle with surrounding soft tissue swelling.
+​​​​​​​ Suggest clinical correlation and follow up.
+
+

@@ -1,0 +1,35 @@
+Patient ID 0de5420672406a13d6a37600389d5055c24b3679f30992cc55b32606
+Patient Name ed1dc00d57eb182e053d91937480b510a8c38f69c29582662a24291f 85Y R NO 3426
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ec329b92bf045792553167b4ad453900caf8ff070ad9d0aeb35e644c
+
+
+
+
+
+CHEST X RAY (PA VIEW)
+CLINICAL HISTORY  – Clinical Details not available 
+OBSERVATION:
+Bilateral lungs hazy infiltration.
+Right mid zone hazy radio opaque shadow – consolidation pneumonitis.   Advice : CT Chest will  more informative  
+Rest of the lung fields appear clear. Both costo-phrenic angles appear clear. Cardiothoracic ratio is normal.  Both domes of diaphragm appear normal. Thoracic soft tissue and skeletal system appear unremarkable. ADVICE :  HRCT Chest Will be more informative      
+ 
+ 
+Date: 20-Jan-2020 12:58:01
+Rest of the lung fields appear clear.
+
+Both costo-phrenic angles appear clear.
+Cardiothoracic ratio is normal. 
+Both domes of diaphragm appear normal.
+Thoracic soft tissue and skeletal system appear unremarkable.
+ADVICE :  HRCT Chest Will be more informative   
+ 
+
+ 
+ 
+Date: 20-Jan-2020 12:58:01

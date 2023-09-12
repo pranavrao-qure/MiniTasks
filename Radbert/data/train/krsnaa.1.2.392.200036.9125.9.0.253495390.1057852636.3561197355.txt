@@ -1,0 +1,21 @@
+
+Patient ID e6b87ae8d7535aa3d7eff5f87462539d2e11f7b46d139b152233365d
+Patient ID 93a0c5a1abc40b0ab77f09f92a487671dea55c6f57e1844e6343e37f
+Patient Name 0236c1d380b59b1bf9f92edd20768dd74ad29cafca6ee8ce434add21 60Y FM OP
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date a020b687486dac6318fde334845134395c389011b0d577c326cc0c8b
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows opacity right apical and upper zone and patchy pneumonitis right lower zone - Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

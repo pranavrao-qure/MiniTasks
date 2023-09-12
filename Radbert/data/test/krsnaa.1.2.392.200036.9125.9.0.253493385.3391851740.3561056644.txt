@@ -1,0 +1,21 @@
+
+Patient ID a15905c7a016c72a56b52aea1edc12cdf17e046a7bae042e57f09aa9
+Patient ID ca8f1008449edeb2f867faf4783e79876e8aeb84a9773406e1764e8a
+Patient Name a9293766f3492c76e2ad8a9af09e7e555abd1784e3eef104c00bc6b0 ALIM-25Y
+Age :
+Sex :M
+Accession Number be1880db5faa880b1722b92703d09d920fffd744db93f74994749ed0
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date a25c5f8dae6f824f4d48207cd5f543a91794b22ee8b9e4c77ff8181a
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

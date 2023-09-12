@@ -1,0 +1,32 @@
+Patient ID 20ebb024539589c242b498413da9a25017ecd085cf0982cec826c30a
+Patient Name dc7b0b06903257015c2695ada698e478011276d6b77a7550175dd0ef 28 YER
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST 2R
+Study Date fe507ab5d3c19fc3e94c19a020302399028951eba6e1e229a261e8de
+
+
+
+
+
+X-RAY CHEST
+
+Bronchiectasis changes noted in bilateral mid and lower lung zone.
+Prominent Bronchovascular markings noted bilaterally 
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+The pleural spaces are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+A Bump is noted on the right dome of diaphragm
+
+IMPRESSION  :
+Prominent Bronchovascular markings noted bilaterally 
+
+
+
+

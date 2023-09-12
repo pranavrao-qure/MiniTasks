@@ -1,0 +1,32 @@
+
+Patient ID 09194910a8240cd7161bc97bb0e5d221aea157e96b7c71fa63a5ba93
+Patient ID ef07c346d89bcb393311d4af88a9ae4674954f915153e1328bfc02d2
+Patient Name 5ea5ae1d710a4ba66523fd203eed398e9cc580ec1266c2e06feea7f4 65Y F,REF DR PADMAKUMAR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 60c76578e1dee57aa73447191cc1bb2e9bb657e85f8ca2326b40eac0
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Rotation.
+Trachea is in midline.
+
+Both hila normal in density.
+Heart size is normal with LV configuration and unfolding of aorta. 
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+ 
+
+

@@ -1,0 +1,29 @@
+Patient ID d11014c7df2ad62938fc06ff00a6fcd39e130c2456798ca2c6e5b7b7
+Patient Name b676a2f7761b2a416f1fb903e978dbe26cb43bb9c8705a3fbb587f8f
+Age :68 Years
+Sex :M
+Accession Number 4f9f964810084865ba0a7aedbcf34cae1036179cb58181ec63fb2bc1
+Modality :CR
+Referring Physician ee8c7d67eca07243aaceeed42cd5b101e8dbe0cdddf36f2f14ac6c3c
+Study :CHEST PA
+Study Date 7d34cebff3cd339a2683ddb00c06c9972965167603972511dd95b9ac
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Small nodular opacities noted in bilateral perihilar region
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Small nodular opacities noted in bilateral perihilar region .
+Suggested clinical correlation.

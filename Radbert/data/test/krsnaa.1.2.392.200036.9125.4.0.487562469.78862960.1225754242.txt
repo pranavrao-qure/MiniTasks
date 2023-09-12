@@ -1,0 +1,30 @@
+Patient ID a839dba90a1c72763ec382315c905dcce4822963f9fabc33d2366b86
+Patient Name a7402e8747814d2ace9b5b6f5bc5b5f1bc960478a4fbb6bbd0f7a930 40YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ec329b92bf045792553167b4ad453900caf8ff070ad9d0aeb35e644c
+
+
+
+
+
+X-RAY CHEST PA  
+ 
+Heterogenous soft tissue opacities noted in left lower zones.
+
+Rest of the lung fields show prominent bronchovascular markings.
+
+Cardiac size appears mild enlarged.
+
+Trachea and mediastinal soft tissue shadow appear unremarkable.
+
+Both C.P. angles and both domes of diaphragm appear unremarkable.
+
+Bony thorax under vision appears unremarkable.
+
+
+

@@ -1,0 +1,19 @@
+X-ray Chest PA view (F.no 396):
+
+LUNGS: Patchy consolidations are noted in right lower zone.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal. 
+
+Report Impression: 
+As above.
+
+Adv:Clinical correlation.

@@ -1,0 +1,61 @@
+
+Patient ID 75cf7eac3b5168df9ad1f8c2914bdf7ae364a31ab6f64568e35fd471
+Patient ID b8d796a20a4e87c95b18a9ae8cd4c3dc9c5fa8cabcdb461843a48b13
+Patient Name cd8201b11a7910948b2313554be51bcca7a57e7c53e2faa8ba755029 39/M
+Age :
+Sex :O
+Accession Number 73b2a28b5681d0f5c02cc0bb5e04f547bebf5ae8119d0a2f12e7b24d
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 6b3f1a99bc0641e428aea25288f46c2d9f985603d37a7918aee11bba
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+  
+ X-RAY ERECT ABDOMEN    
+   
+ FINDINGS : 
+   
+ No evidence of air under the domes of diaphragm. 
+   
+ No evidence of abnormal dilatation of bowel loops. 
+   
+ Properitoneal fat planes normal.   
+   
+ IMPRESSION:     NO SIGNIFICANT ABNORMALITY. 
+   
+         Suggested
+clinical correlation & follow up. 
+
+X-RAY ERECT ABDOMEN   
+ 
+FINDINGS :
+ 
+No evidence of air under the domes of diaphragm.
+ 
+No evidence of abnormal dilatation of bowel loops.
+ 
+Properitoneal fat planes normal.  
+ 
+IMPRESSION:     NO SIGNIFICANT ABNORMALITY.
+ 
+        Suggested
+clinical correlation & follow up.
+
+
+
+

@@ -1,0 +1,43 @@
+
+Patient ID de6bab0b60a4fb88018d439028fb1e8ba52e36159043018244d37d80
+Patient ID 0e2f696703d87074fd6f84d9ecfaed3068a02c36bfaee7756d92dc35
+Patient Name aa1b5e81993c039ade0e35118abecaf04b0caeb4a72f31ca68d4147e 56Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 73304f07e5b3fd0b09fd58703c690d50310e4019b5c934276445ff70
+
+Chest
+x-ray 
+   
+ Both lung fields shows
+prominent bronchovascular markings. 
+   
+ Both C.P angles are clear. 
+   
+ No evidence of pleural
+effusion on either side. 
+   
+ Heart size is normal. 
+   Date: 30-Jul-2018
+
+
+
+
+
+ 
+Chest
+x-ray
+ 
+Both lung fields shows
+prominent bronchovascular markings.
+ 
+Both C.P angles are clear.
+ 
+No evidence of pleural
+effusion on either side.
+ 
+Heart size is normal.

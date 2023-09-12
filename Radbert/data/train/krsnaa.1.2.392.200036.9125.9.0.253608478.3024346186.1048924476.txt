@@ -1,0 +1,25 @@
+Patient ID fcc343ff0d653ca26fb5b8c8bee756f843dae35b2dc3d2f19fa618f9
+Patient Name 5e10e0c34dd56531a6e5a7034f1c37105a5e39f634fe5ad1fae1b9c0 64Y
+Age :
+Sex :M
+Accession Number a86ca6f59761c5e636e651065998c2063130329b32947dc37c331eb1
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 24b3c9163e059b99b40c1622712d928ab4cee273470fe183a7539bc1
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+Prominent bilateral hilar shadows noted.
+Unfolding arch of aorta noted. ​​​​​​​
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+

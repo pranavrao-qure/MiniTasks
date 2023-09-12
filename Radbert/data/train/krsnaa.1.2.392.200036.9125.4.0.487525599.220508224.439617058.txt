@@ -1,0 +1,28 @@
+Patient ID 82e736c3f9f174082fe3b084cd26f348f0af8b0bb60ec33a391f197f
+Patient Name f173eb468627e5f4d6f4bcc6bdc0f18d346768f6b58c65cffd0d702c
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date d1a7fdbbdb49a28dad28ff27d8d70acced2972f9a5a954b666a4f0d4
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+Right paracardiac haziness noted- Infective.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Right paracardiac haziness noted- Infective.
+​​​​​​​ For clinical correlation. 
+
+

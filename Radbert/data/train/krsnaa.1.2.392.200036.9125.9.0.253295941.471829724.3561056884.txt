@@ -1,0 +1,31 @@
+
+Patient ID 40cb18808ee9028c09787080bee0d421fdfa69fd61dbe4ef2dc46114
+Patient ID a7e879710dbf8863361584fba786ad2343232515e14b0acd7238107d
+Patient Name 8eaaea7419e818b582488309d33e8c039655125045d3570ed3076e55 45/ F
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date b04e77a3d85a18ae37f4b96868cc159ed9a62b71c02bd07250e5dbde
+
+
+
+
+
+
+ 
+ 
+
+Ill defined non-homogeneous opacities noted in both upper zone with cavitatory lesion noted right upper zone  - Koch's.
+
+Blunting of right CP angle - Pleural effusion. 
+ 
+Rest of lung fields are normal
+
+Trachea is in midline.
+ Cardiac silhouette maintained.         
+
+ 
+ For clinical correlation. 

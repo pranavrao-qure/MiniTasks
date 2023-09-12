@@ -1,0 +1,54 @@
+Patient ID 5598c8b7717559a89b6b8eddb406d7768cc618ea26c4daca8e36999f
+Patient Name 08db984d0cd403e60c06a42d6460a65f70d6c1d3c95f5cf71339acdd 48 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 92f0bb58e4397a7d706580dfb34e81800facd8bd4c5cf59cc8b48190
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at both upper lung zone - Infective
+Thick walled cavitatary lesion noted in left upper zone - Infective.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy consolidation noted at both upper lung zone - Infective
+For clinical correlation. 
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY THORACO LUMBAR SPINE (A.P./LAT)
+ 
+ Anterior and lateral marginal osteophytes are noted.
+The vertebrae show normal alignment.
+  No focal bone lesion is seen.
+  The intervertebral disc spaces are normal.
+  No abnormal paravertebral soft tissue shadow is seen.
+  No abnormal soft tissue calcification is noted.
+  The psoas shadows are well defined and normal.
+  No radio opaque calculus is seen.
+ 
+IMPRESSION  : 
+ 
+ Anterior and lateral marginal osteophytes are noted, early degenerative changes

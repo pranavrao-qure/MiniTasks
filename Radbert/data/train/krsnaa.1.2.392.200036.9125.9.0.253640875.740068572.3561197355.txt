@@ -1,0 +1,31 @@
+
+Patient ID 46abd39ef4140cf745135474a2cc6275cad2f8ebbf9152c011ebfbff
+Patient ID 3ac8c82b9a58a099264af5a1ad042228da8de4bd1164b0d8cdc967dc
+Patient Name 7a20a99076f04ea00fc8b3f8a632306e4231be03da9b55c7a08e7a33 10DAY SNCU279
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 241b18fede4ac6262802a7bc5e850a575d4ce261471e1ebe19c9193e
+
+
+
+
+
+
+                                                           X - RAY CHEST AP VIEW
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+
+
+

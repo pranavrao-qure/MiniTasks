@@ -1,0 +1,22 @@
+
+Patient ID bf07d0bd40a909116592dcbd47c0233c0909783ab4b15b267fb3c293
+Patient ID c607a542d057992e474b76ba2e0edd880af7d482596dcebe691e26db
+Patient Name 898bfbc2ca9b4a21fcc528983a6ce41270fe12c170535238cf2102ca
+Age :65 Years
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 06a62e9eb5477144ada7f83083bf1ce1c3bc1edb739418190a3b2653
+Study :CHEST P.A VIEW
+Study Date 9f538cb486e34f6c97eb0eb71cbe9c4327a54bd3367f2d2131b82338
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows opacity left apical region.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Old fracture 6th to 9th rib on right side in its posterior thirds.
+     Suggested clinical correlation and follow up.
+ 

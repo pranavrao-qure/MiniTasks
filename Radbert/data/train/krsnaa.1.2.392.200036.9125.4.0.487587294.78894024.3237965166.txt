@@ -1,0 +1,26 @@
+Patient ID 85fb7f960c164fd02d2b09cca0c04bd6212dca98666a8495e9a398b6
+Patient Name 6b54cace2cadab144e0083dc0df558741104b084b9ef5b1693094e1f
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date d1a7fdbbdb49a28dad28ff27d8d70acced2972f9a5a954b666a4f0d4
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+Inhomogeneus opacity noted in right mid zone s/o pneumonitis.
+Haziness obscuring bilateral cardiophrenic angles probably due to pericardial fat pad.
+
+Right basal consolidation noted.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of the  lung parenchyma are normal.
+Bony cage and soft tissues are normal
+Advice  clinical correlation. 

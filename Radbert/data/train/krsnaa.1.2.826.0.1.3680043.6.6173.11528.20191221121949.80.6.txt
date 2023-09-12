@@ -1,0 +1,28 @@
+Patient ID a64299827845795e86526f2a4ae84c428644f9c92361791d86ceeb68
+Patient Name 459c51128faeeb4abaa61075299e3e1c3e6cea665eec019c308408c9 45Y DR  S SINGH
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 95bb36e17578341026f7876f7fa4b8c4505cb8ba7b488a4a5ff79f86
+
+
+
+
+
+X-RAY rt SHOULDER AP VIEW  
+  
+ 
+FINDINGS :    
+ 
+Fracture noted at mid shaft of clavicle with surrounding soft tissue swelling.
+ 
+ Fracture noted at 4th to 6th ribs 
+Rest of bones appear grossly normal   
+ 
+ 
+   Suggest clinical correlation and follow up
+
+

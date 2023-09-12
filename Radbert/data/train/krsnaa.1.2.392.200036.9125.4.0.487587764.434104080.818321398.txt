@@ -1,0 +1,28 @@
+Patient ID 902af15a9d0afbd0a154eb5b7b67a939777f9b568015697d4c13bef3
+Patient Name edd61bf9a373406cd84c79c55ff368f6143d6f3cbb43243d55da6b78 60 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date d93538b5d6bb9f65d7774d35096ea5edf66d672d63d1fbaded731978
+
+
+
+
+
+X-RAY CHEST
+Patchy infiltration with consolidation noted at both upper and mid zone likely du eto infective etiology like koch's
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+The pleural spaces are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  :
+Patchy infiltration with consolidation noted at both upper and mid zone likely du eto infective etiology like koch's
+

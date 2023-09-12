@@ -1,0 +1,26 @@
+Patient ID ae2662c5ca01ea36318d136acdb81d0bbd7021541f4ca4da6e37ebb7
+Patient Name 00791b9500e459a2938fa895c298f03d5eaf2f916c9e52320cde9a3c
+Age :27 Years
+Sex :F
+Accession Number 2d32b0de0b9e964e44142b7498b930e2b74546ffa05d2f2510b1b267
+Modality :CR
+Referring Physician 9fac3c94c4ad2e6de04df988f7adcfab185b1cade085717a2ccd5e5c
+Study :CHEST PA
+Study Date d505ddecb003a5312d9340c3c0a18e3ee48dc581185e49458b7282a5
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+ 
+Air space and interstisial opacities in the  right lower zones, suggestive of changes of pneumonitis. Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION: 
+Above X-ray Findings are suggestive of Pneumonitis.
+ 
+ 
+ADVICE-Complete Blood Count.
+
+

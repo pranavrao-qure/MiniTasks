@@ -1,0 +1,19 @@
+Patient ID c64b431f7ff60f3dc65c4688b2c3fb999cf3cf1036ac5529cae1b2a7
+Patient Name d827fdf6f33c22b5785f50d1835d2256daa718592229ec52975ce60d 50Y DR ROHAM
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 2b71eff72da3d92b957fe2ac48f804e8716eae528593033ec0c8ef10
+
+
+
+
+
+X-RAY CHEST   
+  FINDINGS :  Patchy  illdefine opacity noted at right mid zone s/o infective etiology.     Mildly prominent bronchovascular markings noted in both lung fields.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is enlarged  s/o cardiomegally.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.   .
+Suggest clinical correlation and follow up
+
+

@@ -1,0 +1,27 @@
+Patient ID d3b014bd77b25064b5eb49e862ae0fe32ac04f81791772fb04daeeeb
+Patient Name 04baebe0e51241f5d45a10b560ae8f6c1c5dfa6ce3b0c276cfbe82e9 SINGHA,45YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date 24b3c9163e059b99b40c1622712d928ab4cee273470fe183a7539bc1
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+Patchy consolidation noted at left mid lung zone - Infective  etiology.
+Hyperexpansion of right lung noted.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+For clinical correlation. 
+

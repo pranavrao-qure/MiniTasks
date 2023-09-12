@@ -1,0 +1,37 @@
+
+Patient ID 967c3989d7f8eb58770e4de1b041d21c526536fb53fb5464507bddf9
+Patient ID b7b46ed06bb27e59de508735452527a256bb644a42db55166d1e2360
+Patient Name 078c10ea109ba9b9b9dc5a2950b94dbff14c6f04cb0661c89ccc1163 60/f
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date b816880220f0abcef02a4a81688b1502a6c239e768c6c2f57980e2e3
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :     
+  
+Lung fields shows hilar and basal congestion. 
+  
+Both hila appear normal. 
+  
+Cardiac size is enlarged with calcification of aortic knuckle. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ IMPRESSION :  Cardiomegaly. 
+ 
+     Suggested
+clinical and Echo correlation and follow up .

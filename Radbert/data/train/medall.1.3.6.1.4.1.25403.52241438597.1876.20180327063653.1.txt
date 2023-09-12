@@ -1,0 +1,25 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+Trachea in mid line. 
+Cardiothoracic ratio is within normal limits.
+Lung fields show patchy ground glass opacities seen in upper and mid zones . 
+Costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+Extra thoracic soft tissues shadow grossly appears normal.
+IMPRESSION:
+
+ù        
+Alveolar patchy pneumonitis.
+ù        
+PC to be considered. 
+
+        
+ DR.M.Alavudeen.,DMRD 
+        
+        
+Consultant Radiologist
+
+

@@ -1,0 +1,29 @@
+Patient ID 195b0e1cdb0ef4e77d4585d026cc6a44df35d06c3c13f686dc111657
+Patient Name ec65623700cff2d20b6595b4ecd3083d02889a1390d2397964c4f5ef 44Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c48eb8df996ce2b2f84ae0a88c8879330e64cf5fe703c13379bf5a16
+
+
+
+
+
+  X - RAY CHEST 
+
+Multiple discrete & confluent nodular shadows along with fine reticular markings noted in B/L lungs--s/o infective/inflammatory etiology .
+Patchy consolidation noted at left  lower lung zone - Infectiv
+Trachea& major bronchi appear unremarkable
+Both hila appear unremarkable
+Cardiac shadow is within normal limits.       
+Both CP angles are clear
+Bony cage and soft tissues appear norma
+ 
+IMPRESSION:
+Multiple discrete & confluent nodular shadows along with fine reticular markings noted in B/L
+ lungs--s/o infective/inflammatory etiology
+Patchy consolidation noted at left  lower lung zone - Infective
+For clinical correlation

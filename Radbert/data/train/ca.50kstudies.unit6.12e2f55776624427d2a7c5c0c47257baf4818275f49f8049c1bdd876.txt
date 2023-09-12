@@ -1,0 +1,37 @@
+LUNGS: Normal.
+TRACHEA: Normal.
+PLEURA: Normal
+
+HEART: Moderate cardiomegaly.
+PULMONARY HILA: Normal.
+AORTA: There is atheromatous calcification of the aortic knob.
+
+THORACIC SPINE: Degenerative changes of the spine are noted.
+OTHER VISUALIZED BONES: Normal
+VISUALIZED SOFT TISSUES: Normal.
+
+DIAPHRAGM: Normal.
+
+VISUALIZED ABDOMEN: Normal.
+VISUALIZED NECK: Normal.
+
+ 
+Report Impression: 
+LUNGS: Normal.
+TRACHEA: Normal.
+PLEURA: Normal
+
+HEART: Moderate cardiomegaly.
+PULMONARY HILA: Normal.
+AORTA: There is atheromatous calcification of the aortic knob.
+
+THORACIC SPINE: Degenerative changes of the spine are noted.
+OTHER VISUALIZED BONES: Normal
+VISUALIZED SOFT TISSUES: Normal.
+
+DIAPHRAGM: Normal.
+
+VISUALIZED ABDOMEN: Normal.
+VISUALIZED NECK: Normal.
+
+ 

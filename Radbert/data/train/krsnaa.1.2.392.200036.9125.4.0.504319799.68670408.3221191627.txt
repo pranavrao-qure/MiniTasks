@@ -1,0 +1,33 @@
+Patient ID 911e4777edaf60e3d220d2f7df3bed515827605c1ea48adda198d0f0
+Patient Name 47ec0633e1681b5b4b8db1cca3dc1117d609a310d561e9b21c392bd1 60Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date bedd05a70cdf74850af1286055214ab29c0288fec48f2c6abbd03cfb
+
+
+
+
+
+X-RAY CHEST PA VIEW
+ 
+ nodular infiltrate are noted in bilateral PERIHELAR  lung fields. 
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+ 
+IMPRESSION : Chest x ray findings are suggestive of infective etiology.
+Suggested clinical correlation.
+ 
+ 
+ 
+ 
+
+

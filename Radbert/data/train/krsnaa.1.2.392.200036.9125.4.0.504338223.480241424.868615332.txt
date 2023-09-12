@@ -1,0 +1,33 @@
+Patient ID 38fba62ed38cda7b3c469f9b5e113ffed5b50d7bfe37ca68e33dd780
+Patient Name d84b6313d2ff00ac161a8f58d65ab5e174bed28156bb19c515241bb9 40Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6b3f1a99bc0641e428aea25288f46c2d9f985603d37a7918aee11bba
+
+
+
+
+
+  X - RAY CHEST 
+
+Multiple discrete & confluent nodular shadows along with fine reticular markings noted in B/L lungs--s/o infective/inflammatory etiology .
+
+Trachea& major bronchi appear unremarkable.
+
+Both hila appear unremarkable.
+
+Cardiac shadow is within normal limits.        
+
+Both CP angles are clear.
+
+Bony cage and soft tissues appear normal
+ 
+IMPRESSION:
+Multiple discrete & confluent nodular shadows along with fine reticular markings noted in B/L lungs--s/o infective/inflammatory etiology
+For clinical correlation.
+
+

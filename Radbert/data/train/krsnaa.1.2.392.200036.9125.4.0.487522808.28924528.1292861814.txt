@@ -1,0 +1,27 @@
+Patient ID 1ea517cbfa28b4dfff72bfb0c54e0fd5f05d412f527763d981bab419
+Patient Name 8c4dae5378f9b6ebd2bf4102d4a9f119f6e36e51eda4278bef3b593f ROY,75YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 709944fb88fbe251907776bbc0075ccdea74ddbe6bb2614213a2a07f
+
+
+
+
+
+X - RAY CHEST PA VIEW
+ 
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+ 
+For clinical correlation. 
+
+

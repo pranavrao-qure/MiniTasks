@@ -1,0 +1,26 @@
+X-ray Chest PA view:
+
+LUNGS: Heterogenous opacity seen in right suprahilar region with infiltrating opacities in right upper zone.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+Heterogenous opacity in right suprahilar region with infiltrating opacities in right upper zone - s/o infective etiology - possibly tubercular.
+On comparison with previous x-ray dated 10.02.2012, resolution of cavitatory area in right perihilar region noted.
+
+Recommend clinical correlation. 

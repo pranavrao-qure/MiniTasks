@@ -1,0 +1,22 @@
+
+Patient ID 4a7e2a133fdc3660a8e01e48a754009f3709f13f916a012bc1ef4c06
+Patient ID 371c5d492a687578d300a02a0cf6c4a4568838933d68b436da85496e
+Patient Name c7be9e0a19484838d68dc729cd89ba43c1956d7ce654bfb119388855 LATHA.44Y DR PVK REDDY CAS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date ce22d6c546046e32424beeefc6cce0a9d35e0cfbcd1b208973b614ea
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

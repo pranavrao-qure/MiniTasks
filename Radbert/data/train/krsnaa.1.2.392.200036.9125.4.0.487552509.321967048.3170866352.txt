@@ -1,0 +1,28 @@
+Patient ID e32eeb590afa7566cb508de98a1bbfd212a2a4dc72703e35a1c69f61
+Patient Name f98f093ee93541c08ee2e46fd2a198ce451a46bb1eaa6839131cccf5 60Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date a46a082f5ad3d6b06c18b17c31874853f9e1c7970e04021612483314
+
+
+
+
+
+ 
+XRAY CHEST- PA VIEW
+
+Both lung fields shows prominent bronchovascular markings.
+
+Both C.P angles are clear.
+
+No evidence of pleural effusion on either side.
+
+Heart size is normal.
+
+Bony thorax appears unremarkable.
+
+

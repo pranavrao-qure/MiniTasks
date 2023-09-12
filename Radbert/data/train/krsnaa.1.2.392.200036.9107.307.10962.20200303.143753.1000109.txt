@@ -1,0 +1,26 @@
+Patient ID afcf264f80fb5e52583f77eabad1c0a197ac9443ed7d0b116c2d85f0
+Patient Name d2829dd9098fac46f2107323a0c5d3805c88a59637d075855d957074 53Y/F
+Age :
+Sex :F
+Accession Number d86c296ed5d3b49f21558dfd25d45047ddefe7777366a4ece54c3c16
+Modality :DX
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :ChestErect PA
+Study Date 4a0b75d0ca2163fb09dc75cc93ecf9248ef59aae268fec5657312016
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+     
+PROMINENT BRONCHOVASCULAR MARKINGS BILATERALLY
+Trachea is in midline.
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+For clinical correlation. 
+
+
+

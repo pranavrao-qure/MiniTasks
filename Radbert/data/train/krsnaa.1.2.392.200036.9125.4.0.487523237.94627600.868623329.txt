@@ -1,0 +1,26 @@
+Patient ID 414de49b670d74d91ea09fd93301a70dea5ac1e1ff8aa123831f4df5
+Patient Name 976239c134fe6112c748a1eefc2d424b5c4192a0bfb9c2c61410c28b 75 YRS DR. AMIT CHAURASIYA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 7d34cebff3cd339a2683ddb00c06c9972965167603972511dd95b9ac
+
+
+
+
+
+                                                           X - RAY CHEST 
+
+Scoliosis of thoraco lumbar spine noted convexity towards right side.
+Trachea is in midline.
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+For clinical correlation. 
+ 
+
+

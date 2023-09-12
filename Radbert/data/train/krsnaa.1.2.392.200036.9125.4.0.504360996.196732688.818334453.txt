@@ -1,0 +1,21 @@
+Patient ID fb751dff853cf32f1983eca5919e743aa729b9a79e2b3ec270de5fc1
+Patient Name 09ee81e411e2d43ac6762d8b0ebd547df779d012eee3df5903ea0916 30yr
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 105bd3c366b5081a0dbf63b778f2ff88f581cc9a30c0be7e98e2ef12
+
+
+
+
+
+X-RAY CHEST 
+ 
+FINDINGS :       Bifid rib noted at 7th right posteiror rib.
+
+Lung fields are clear.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.
+    Suggested clinical correlation and follow up.
+

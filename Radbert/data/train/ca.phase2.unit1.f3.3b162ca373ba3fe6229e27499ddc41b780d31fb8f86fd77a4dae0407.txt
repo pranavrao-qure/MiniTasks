@@ -1,0 +1,8 @@
+XRAY CHEST AP : 
+The patient is rotated.  
+CARDIA: There is no cardiomegaly.  
+LUNGS: Normal.  
+PLEURAL EFFUSION: nil  
+BONES: Normal.
+Report Impression: 
+as described above 

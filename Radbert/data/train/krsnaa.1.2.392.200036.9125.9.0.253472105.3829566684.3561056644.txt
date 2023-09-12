@@ -1,0 +1,27 @@
+
+Patient ID d99165110d88a908212e8482608662e1ea4ee9c8a7dc513e76f46b18
+Patient ID dca981862065a014f7d7a71f09c7ec382c506258b3cb97b43a3e7673
+Patient Name eac5e90a971eb78755f2413ce3cedfd6e7e8912b1f355c3f4321d20f DASU-30Y
+Age :
+Sex :M
+Accession Number e4d33834e2b41d064ab02a6e31d20a4fcb668e2e455675335e1176a8
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 7f059d0ca09661f0b32c00d8bdf539a1c8085fbdcab1134458305bcb
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

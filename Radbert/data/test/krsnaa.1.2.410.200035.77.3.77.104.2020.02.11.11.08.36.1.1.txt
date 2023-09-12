@@ -1,0 +1,54 @@
+Patient ID 496401bc154d58825fe9c81122453c20cd971c8da8132512cd8be3a5
+Patient Name efeb0d89f9f6521187be1db043e0f3a9d742c5f5df6dca0ecc8243df
+Age :35 Years
+Sex :M
+Accession Number 3dec9e8e206a57d920177abbe0d6feaa41564c1eb2e8abec38413278
+Modality :CR
+Referring Physician 40826a4f12f4a288f283b574a5302e641a60f2c070fa41b0117cc680
+Study :CHEST PA N ABDOMEN
+Study Date f0391fd24f179c8733a866e9cb53b559d39011fb331dbe7419bc1a95
+
+
+
+
+
+X-RAY CHEST 
+
+
+Prominent aortic knuckle noted.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Prominent aortic knuckle noted.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+PLAIN XRAY ABDOMEN (A.P.VIEW)
+   
+No radio opaque calculus is seen in the hepatobiliary, panreatic or renal areas.
+The renal shadows are well defined.
+The renal margins are smooth.
+The psoas shadows are well seen.
+No abnormal soft tissue shadows calcification is noted.
+The sacroiliac joints show no abnormality.
+IMPRESSION  : 
+ 
+NO SIGNIFICANT ABNORMALITY IS DETECTED.
+
+
+

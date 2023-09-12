@@ -1,0 +1,89 @@
+
+Patient ID 36fd99a4d2b836c562908673fa32893d49012e5ed2eadec037361316
+Patient ID b65157e09dccfcd064a980a8b26a6b3a2823788bbffbf5cc711e1885
+Patient Name 6d6680881c079027a8e083f390f28c0e2dc2a4f40c5f78f4a406f7f6 58 y/m
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 9733a98b6cb2f29140a151df6579597dbb4c9a35960e43e29fd65e32
+
+
+
+
+
+
+X-RAY 
+CHEST AP VIEW
+FINDINGS 
+:       Lung fields are clear.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.    IMPRESSION :  NO OBVIOUS ABNORMALITY.     
+Suggested clinical correlation and follow up. 
+ X-RAY KNEE (AP & LAT)    
+  
+ FINDINGS
+: 
+  
+ Alignment of knee joint is normal. 
+  
+The knee joint space is reduced, more so of the medial compartment. 
+  
+Marginal osteophytes noted. 
+  
+Tibial spine spiking noted. 
+  
+No obvious bony injury. 
+  
+Bone density is normal.  
+  
+IMPRESSION : OSTEOARTHRITIS CHANGES 
+  
+       Suggest clinical correlation and follow up 
+   
+
+
+X-RAY KNEE (AP & LAT)   
+
+ 
+FINDINGS
+:
+
+  
+ Alignment of knee joint is normal.
+
+  
+The knee joint space is reduced, more so of the medial compartment.
+
+  
+Marginal osteophytes noted.
+
+  
+Tibial spine spiking noted.
+
+  
+No obvious bony injury.
+
+  
+Bone density is normal. 
+
+  
+IMPRESSION : OSTEOARTHRITIS CHANGES 
+  
+     
+ Suggest clinical correlation and follow up
+ 
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+X-ray Chest PA / AP view:
+
+LUNGS: show prominence of the hilar &  bronchovascular markings. 
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: There is mild cardiomegaly with CTR measuring 16: 27.6. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+prominence of the hilar &  bronchovascular markings. 
+mild cardiomegaly with CTR measuring 16: 27.6. 
+
+
+Recommend clinical correlation. 

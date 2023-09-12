@@ -1,0 +1,29 @@
+
+Patient ID b27d63a0e242d87b0adb98751e027621b66bf2b3b8fc4bf9dcd76d5e
+Patient ID bbad515fd381499544bbba704e2ef95c6a0de9a78d8b2bf91a23fdb3
+Patient Name 4dc2f586b03cea9daf0fac891e933473af4ee791028a99c05f62acaa KRISHNA/50Y.DR.NCP.CAS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date ce4357d55fccf6bc52611189bc9245c590e99d8f2e092a8c184efc75
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

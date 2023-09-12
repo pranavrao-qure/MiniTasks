@@ -1,0 +1,29 @@
+
+Patient ID 68b98ea88e6f6cedc8d5d161cab8c8b0f33d82d1cc013f45667046e6
+Patient ID 0e460c57fb0787cc466cde76f272f54660c910f3ed3d7d9e71a8ca3c
+Patient Name 46574d6979d7c07b5b47b2e2255427f8283382f7c8d129f36ac40eaf 25Y REF DR RAGHURAM
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date a25c5f8dae6f824f4d48207cd5f543a91794b22ee8b9e4c77ff8181a
+
+
+
+
+
+
+
+Mild haziness noted in left mid zone - -? Infective.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

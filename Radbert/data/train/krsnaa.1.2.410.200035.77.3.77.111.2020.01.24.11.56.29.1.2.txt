@@ -1,0 +1,54 @@
+Patient ID 01ee26f50a26de1c0c50111ff3344537774aa869f7eda0de44e5fea4
+Patient Name 03d32764bf7c0e7bb9e410e14926d5f3cca047a1c4cc82687f1e3f15
+Age :40 Years
+Sex :F
+Accession Number 86cd94ae49c618636b0b792469d00c6680eeaf575381a0d3d2c71add
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST , L SPINE
+Study Date c4dc64b6d499b01b845d4050040d4441baac0f51146e5b7a5dc44531
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (A.P./LAT)
+ 
+  The vertebrae show normal alignment.
+  No focal bone lesion is seen.
+  The intervertebral disc spaces are normal.
+  No abnormal paravertebral soft tissue shadow is seen.
+  No abnormal soft tissue calcification is noted.
+  The psoas shadows are well defined and normal.
+  No radio opaque calculus is seen.
+ 
+IMPRESSION  : 
+ 
+NO SIGNIFICANT ABNORMALITY DETECTED.

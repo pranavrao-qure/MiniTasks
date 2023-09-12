@@ -1,0 +1,33 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 5 fonts total
+
+-----------------
+X-RAY CHEST (PA VIEW)
+
+
+Patchy areas of fibrotic changes scattered in both lung fields. 
+
+Blunting of the left CP angle. 
+
+The cardio thoracic ratio is normal.
+
+Both the pulmonary hila are normal in size.
+
+The bones and soft tissues of the chest wall show no abnormality.
+
+
+IMPRESSION: 
+
+¬        
+Patchy areas of fibrotic changes scattered in both lung fields. 
+
+¬        
+Blunting of the left CP angle - correlate for pleural reaction. 
+
+
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6458 by 1931, depth 1
+pict001.wmf
+Dr.Vitsizono Mepfhuo, MDRD
+Consultant Radiologist
+

@@ -1,0 +1,22 @@
+Patient ID 0069aa540e128cc85031abcba6810d6f4d7345cfed66df1b3958b6a8
+Patient Name a5993035c0e325ff5799da08c762f425a8fb33788664b2af749660b9 68 YR MA
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :DX
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :ChestErect PA
+Study Date bf2ca8e7decd3ab0b3b65076509d7866573f8071d1e9e4c559cbb3be
+
+
+
+
+
+                           X – RAY  CHEST    : -
+
+BOTH LUNGS SHOWS  PROMINENCE OF VASCULAR MARKINGS . 
+THERE IS NO EVIDENCE OF PLEURAL EFFUSION. 
+BOTH CP ANGLES ARE CLEAR.
+HEART SIZE IS NORMAL .
+
+

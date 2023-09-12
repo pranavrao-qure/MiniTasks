@@ -1,0 +1,29 @@
+
+Patient ID 87f54b927498df42e0caad83c0914c4ac05f379446b519d4f78679cd
+Patient ID fd5847f25b32f754980c7afc7839e8baafac55b09fb866dbd9e6bd8a
+Patient Name e0a44de891ded49b19c4316af24dc514ffac0278e0bcc5cbabd001a5 30Y DR VIJAY
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 5ebe98f33ceb4acdfcf6843e585da178c4d179bc684a6b14f66a8657
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

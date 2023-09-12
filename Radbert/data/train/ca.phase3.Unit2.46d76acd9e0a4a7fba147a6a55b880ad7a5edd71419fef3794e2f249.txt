@@ -1,0 +1,20 @@
+X-ray Chest PA  view:
+
+LUNGS: 
+- Prominant bronchovascular markings.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal.
+Report Impression: 
+- Prominant bronchovascular markings.
+Recommend clinical correlation. 

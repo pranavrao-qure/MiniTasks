@@ -1,0 +1,29 @@
+
+Patient ID 394fd17a31e57a99e5b2396e8537c513e912faf6f94299cf3ba2ace0
+Patient ID 4c4b6d9ad0078c7735defd688ad8c968cea3e42bb219110710fa564b
+Patient Name 1042541f722f34f0053747967e0e3211cc8c0d818d689ac473df8b86 NARAYANAMMA/50Y.DR.NCP.CAS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 3136fdbc7e2d6c8f38053a03d5d066eb54befde86b4073e0fc5e263b
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

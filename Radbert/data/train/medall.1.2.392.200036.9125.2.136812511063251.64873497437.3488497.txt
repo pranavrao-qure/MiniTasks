@@ -1,0 +1,37 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X-RAY CHEST (AP VIEW)
+
+
+Degenerative changes are seen in the bones.
+
+Unfolding of the aorta.
+
+Subpleural fibrosis in bilateral lung fields (? Interstitial lung disease). 
+
+Bilateral costophrenic angles are blunted - likely minimal effusion / pleural thickening. 
+
+The cardio thoracic ratio is normal. 
+
+Both the pulmonary hila are normal in size.
+
+The cardiophrenic recesses and the domes of diaphragm are normal.
+
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 17873 by 11538, depth 1
+pict001.wmf
+Dr.Balaji Selvaraj.,DMRD
+Consultant Radiologist
+
+NA
+
+
+        
+        
+        
+
+
+
+

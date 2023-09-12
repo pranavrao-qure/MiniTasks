@@ -1,0 +1,23 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+
+
+Cystic bronchiectatic changes are seen in the left mid and lower zones.
+Parenchymal fibrotic bands are seen in the bilateral mid and lower zones.
+Ill-defined, irregular radio opacities are seen in the right lower zone. 
+-       
+Suggested CT for further evaluation. 
+Trachea appears normal.
+Cardiothoracic ratio is within normal limits.
+Costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+Extra thoracic soft tissues shadow grossly appears normal.
+
+
+ 
+Dr. H. Iyengaran Sri Hari , MDRD.,
+Consultant Radiologist.
+

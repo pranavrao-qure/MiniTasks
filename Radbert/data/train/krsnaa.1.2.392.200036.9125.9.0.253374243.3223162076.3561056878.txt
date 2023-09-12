@@ -1,0 +1,27 @@
+
+Patient ID 15909cf3c6d038c629b1256cc408a3bbc81a08d7bee7cb8f6b653747
+Patient ID 6bb1331d3334518ec4ca25d329e91cf6cdbd416c92df9cb2b90f6f43
+Patient Name fb2567402d302907b7d355a728ae123cc3ee6b4e5bdb61ff9ed1a53b 35 Y REF DR RAJASEKAR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date c470e30bf8f76126124f49714993712aea901c7394700e2ff2e16243
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

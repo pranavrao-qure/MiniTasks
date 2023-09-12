@@ -1,0 +1,47 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+
+RADIOGRAPH CHEST AP VIEW
+
+
+w       
+Trachea and mediastinum in midline.
+w       
+No mediastinal widening.
+w       
+No cardiomegaly
+w       
+Unfolding of aorta.
+w       
+No silhouette of mediastinal margins.
+w       
+Hazy heterogeneous opacities noted involving left lung fields.
+w       
+Patchy opacity noted in right lung lower zone.
+w       
+Bilateral hilar prominent.
+w       
+Bilateral CP angles are not obliterated.
+w       
+Thoracic cage and soft tissue appear normal
+ 
+
+
+
+DR. A PRASANNA.,MBBS.,DNB.,
+CONSULTANT RADIOLOGIST
+REG NO. 98687. 
+ 
+
+
+[This report is only for diagnostic purpose, not applicable for medicolegal purpose.
+Clinical correlation is necessary for arriving at final diagnosis.]
+
+
+
+
+
+

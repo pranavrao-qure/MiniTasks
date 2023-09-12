@@ -1,0 +1,62 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+
+ RADIOGRAPH CHEST PA VIEW
+
+FINDINGS
+
+w       
+Trachea and mediastinum in midline.
+w       
+No mediastinal widening.
+w       
+No cardiomegaly
+w       
+No silhouette of mediastinal margins.
+w       
+Bilateral hila are normal.
+w       
+Bilateral lung fields appear normal.
+w       
+Broncho vascular markings appear normal.
+w       
+Bilateral CP angles are not obliterated.
+w       
+Thoracic cage and soft tissue appear normal
+ 
+IMPRESSION
+
+@       
+No significant abnormality detected.
+
+
+DR. A PRASANNA.,MBBS.,RD(DNB).,
+CONSULTANT RADIOLOGIST
+REG NO. 98687. 
+ 
+
+
+[This report is only for diagnostic purpose, not applicable for medicolegal purpose.
+Clinical correlation is necessary for arriving at final diagnosis.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

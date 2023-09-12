@@ -1,0 +1,38 @@
+
+Patient ID 0f58c777356a84b62e7e998a4e86992bcc86dd098e060e5d0dbe6bc1
+Patient ID bf5044c5d7cfd2211c0e2beaa826440d600f87fbedd87c68dc28146f
+Patient Name ced5807a31c6a4b6118b2d1a0a4d7d5410efcd363f2a652e600a9d37 28/M
+Age :
+Sex :O
+Accession Number ce8c393d361d18fb16cfc87ea9a554b359d4ae55eafa46d54eb81884
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date fcf52078540ae016ae5e13630503c77a667d87e9e0f0d6639ae94a05
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation.  X-RAY RIGHT  FOOT AP & OBLIQUE VIEW         FINDINGS :     Fracture noted at 1st distal phalanx and medial cuneiform bone with surrounding soft tissue swelling.    Rest of bones appear grossly normal       Suggest clinical correlation and follow up     
+X-RAY RIGHT  FOOT AP & OBLIQUE VIEW        
+
+FINDINGS :    
+
+Fracture noted at 1st distal phalanx and medial cuneiform bone with surrounding soft tissue swelling.
+
+   Rest of bones appear grossly normal   
+   Suggest clinical correlation and follow up   
+
+
+

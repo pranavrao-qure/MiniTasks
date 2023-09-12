@@ -1,0 +1,23 @@
+Patient ID 0e8e328605baa708d28302b98e540c5c15a90b5571dffdcae68adb98
+Patient Name 967ebdc6aa36a4de78df3d71e36c3118930013900071635089215a9c
+Age :80 Years
+Sex :F
+Accession Number a1abd4e79a8f2d640d6a08f289bc811f94acb7b7a04839801c8d6620
+Modality :CR
+Referring Physician f79f5b1d13ef37686ce14e3be9c65ab3b0d9bb2a1f1d312d1f8174e1
+Study :CHEST P.A.
+Study Date e0317fc1dc1f8201b8b898f9f0dfa71676364894e7dcdae661fd43ac
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at bilateral lower lung zone - Infective
+bad xray film
+Artifacts noted
+Trachea is in midline.
+Both hila normal in density. Cardiac silhouette maintained.          Both CP angles are clear. Rest of lung parenchyma are normal
+For clinical correlation. 
+

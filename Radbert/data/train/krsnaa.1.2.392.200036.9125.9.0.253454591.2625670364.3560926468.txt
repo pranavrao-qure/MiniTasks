@@ -1,0 +1,31 @@
+
+Patient ID c0c1f2f3f5e60380301fc2ae97c91af191990490a43ea7bc81d6a47c
+Patient ID fa22a8e06d2010ec2cc7a134b2ae943b5f3dbc4ca1fccf1f94116394
+Patient Name f3300c9124b179f91f724b6a9c1e97111bd6df0f63ed771cc71b7c9c 60Y
+Age :
+Sex :M
+Accession Number 5cbc04e397f41bc93b3ecf3ccbe6ee2aad22618fe00fde6099e433fc
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date da6f8d298f950349ee686e726755a79c7e9a251feeb643da8c9be28f
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at both lower zones - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Old fracture noted at 8th rib on left side in its posterior thirds.
+
+For clinical correlation. 

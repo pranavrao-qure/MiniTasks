@@ -1,0 +1,26 @@
+X-ray Chest  AP view:
+
+LUNGS: 
+- Diffuse increased bronchovascular markings.
+- fluffy alveolar opacities in bilateral perihilar region.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: left pleural effusion.
+
+HEART: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+- Case of ARDS, followup xray.
+- As compared to the previous xray there is partial resolution of alveolar opacities.
+Recommended clinical correlation. 

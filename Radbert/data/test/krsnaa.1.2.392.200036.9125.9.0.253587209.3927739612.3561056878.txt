@@ -1,0 +1,32 @@
+
+Patient ID 22562d54eccec69300af8539a24341f7c3bd8845f4c2cec499b9dceb
+Patient ID 8380f0571af25751fea5a324480d5c830ea05cd1c28b2c026ee23c74
+Patient Name 0c77e81879534c062095afda988d6d0d0a6d21a25919accf68739389 25Y M,REF DR SRUJAN
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 3a41115a68bee0bd17dc9f7378f9584f03d2c7ced44964752c63daa1
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at both lower zones - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+
+
+For clinical correlation. 

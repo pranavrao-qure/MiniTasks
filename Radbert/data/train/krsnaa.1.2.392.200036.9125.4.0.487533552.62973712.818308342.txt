@@ -1,0 +1,25 @@
+Patient ID f0b2dfecbe619a3381f2d61e15dd073f8ea0f768fae260998ebd7691
+Patient Name 4cedb76715f18657c579246cfed6e3d86471c9ea060c75efe413adb5 40Y DR GUPTA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6bebdb3c0d392e540f958848fdfd17b368dedc93adf9bd5321a1d1a5
+
+
+
+
+
+X - RAY CHEST PA VIEW
+ 
+Calcified nodular opacities noted in right upper zone- - Old infective Kochâ€™s.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+

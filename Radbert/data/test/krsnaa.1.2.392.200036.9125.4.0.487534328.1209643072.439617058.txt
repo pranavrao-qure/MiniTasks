@@ -1,0 +1,28 @@
+Patient ID 398b66d70c2fab3524c975d82edc3552a275d6f6e61e9683d419e590
+Patient Name 5432cac896a18825e53941ae5db5e87b9c3b075776ab31b66eb0c8ff 88y
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 709944fb88fbe251907776bbc0075ccdea74ddbe6bb2614213a2a07f
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at bilateral apical and upper lung zone - Infective
+Trachea is shifted to right side.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+
+

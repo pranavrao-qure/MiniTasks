@@ -1,0 +1,27 @@
+Patient ID c4384aa301cda7cd4c354d45912487083fee5b3f23fb388c6a8d1270
+Patient Name d06e67f3f2e8a8a803a17bdc72b712b7fd9d6f7c720fe0ffaea23754 33Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 419929f7288d33aeb7546487cd90c9f04e070f17531126dea8322eec
+
+
+
+
+
+X - RAY RIGHT SHOULDER WITH ARM AP  VIEW
+ 
+Humerus shows normal density of the cortex and medulla.
+ 
+No lytic or sclerotic lesions noted.
+ 
+Soft tissues of the arm are normal.
+ 
+Impression:    Normal Study.
+ 
+For clinical correlation. 
+
+

@@ -1,0 +1,26 @@
+Patient ID dcea5a92e4c7daf7e3c8fa3dea8cf45bac86fd98bbeefcb0aaed7f11
+Patient Name 28daa7003055b7e77ca799c1062872fa35137d3e61caccebb252ad2b 68yrs
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 45a1f8f5db2b116ca781acd067d236f39e3843db8b9e3c7ca607ea7c
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+
+Metallic artifact noted.
+Prominent bilateral hilar shadows noted.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+

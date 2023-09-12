@@ -1,0 +1,26 @@
+Patient ID caa6fee1b0628e34a199646cb93b866632f495b54f53005c82f5ff66
+Patient Name 21c84999a11588df86f9bdec4453ee3e034389aef92f86c8654c7d8a
+Age :18 Years
+Sex :F
+Accession Number 7ff03d7dc28e2b447d08b35dcb67e2bfa8ed940dcadd6a5a2bea5bf8
+Modality :CR
+Referring Physician 9fac3c94c4ad2e6de04df988f7adcfab185b1cade085717a2ccd5e5c
+Study :CHEST AP
+Study Date 6226f29349fbaf08b9de824880e55de9b989d9b4a024755ae33a6584
+
+
+
+
+
+CHEST RADIOGRAPH AP VIEW
+ 
+Fracture noted at 9th & 10th rib on right side.
+Bilateral lung parenchyma and broncho-vascular markings appear normal.
+Bilaeral domes of diaphragm appear normal and are smooth in contour.
+Bilateral costo phrenic  angles  and pleural spaces appear normal.
+Cardiac size could not be evaluated on AP view.
+Visualized bones and soft tissues appear normal.
+ 
+IMPRESSION  :  Fracture noted at 9th & 10th rib on right side.
+
+For clinical correlation.

@@ -1,0 +1,29 @@
+Patient ID 35c939df535650a076bb49e0e0c1da1c053f1a6ee6fe8f0c7a149126
+Patient Name cba5afac6f8eeb51a92d059675a44874d4cc0f37dacc59a1c170b1c6 40y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN A->P
+Study Date 4d236b8908c0a618d1d5799315a5d37e0d715bf0c960e5c3eb47f153
+
+
+
+
+
+                                                      X - RAY CHEST AP /OBLVIEW
+ 
+     
+Fracture noted at 9th left lateral rib.
+ 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation.
+
+

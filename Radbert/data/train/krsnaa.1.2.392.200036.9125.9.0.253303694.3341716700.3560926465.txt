@@ -1,0 +1,27 @@
+
+Patient ID fea733a1e6474f4036b7ce458b7dcf8ad9ff5a31a14f0d76d5624b6c
+Patient ID 1bdff51064d3a7b6c673560e71a7506f4a893d1f966c665dc057259b
+Patient Name 4a069179cf5f4f5881a58e997892f9bf5120528c3a3f95f9c77606a2 55Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date a89cf011e294de670bd3d81a79c24537cf17ade0ca1cf1e75834aa33
+
+
+
+
+
+
+ 
+ 
+
+Ill defined non-homogeneous opacities noted in both lung fields  - Infective.
+ 
+Trachea is in midline.
+ Cardiac silhouette maintained.         
+ Both CP angles are clear.
+ 
+ For clinical correlation. 

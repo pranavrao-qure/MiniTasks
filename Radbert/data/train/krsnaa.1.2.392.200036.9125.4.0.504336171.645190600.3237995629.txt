@@ -1,0 +1,21 @@
+Patient ID 9e395f6c368a2839024ad6f46db43fbbfd192d3d2e5b026306eb8c28
+Patient Name 462845f7de88b9cf1ab176831b2a4b7cf3e248dfb28f896750dd6ff5 63 Y CA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fb155c7817d32ef8635bff51312301014cca2d6778e6311016a21cd7
+
+
+
+
+
+X-RAY RIGHT  SHOULDER AP VIEW  
+  
+FINDINGS :   
+
+DEGENERATIVE CHANGES NOTED.    The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal         Suggest clinical correlation and follow up
+
+

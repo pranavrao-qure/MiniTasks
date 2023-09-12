@@ -1,0 +1,10 @@
+CARDIA: There is no cardiomegaly.  
+LUNGS: Normal. 
+PLEURAL EFFUSION: Nil. 
+BONES: Degenerative changes.
+
+Report Impression: 
+CARDIA: There is no cardiomegaly.  
+LUNGS: Normal. 
+PLEURAL EFFUSION: Nil. 
+BONES: Degenerative changes.

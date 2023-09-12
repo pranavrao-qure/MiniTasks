@@ -1,0 +1,29 @@
+Patient ID ae2d89bebbfcbfcedd23ca7af9bb4f73826a6beaf5f1194249eebd63
+Patient Name 34bdeb53b82164fe3f52f8bbcfcb9a57687eafdcc47cf8febb2d673e
+Age :61 Years
+Sex :M
+Accession Number 530f429e6ba5a348ec4bf9addef0995bd303a82fb217e271c8a90a77
+Modality :CR
+Referring Physician 7ea09f6bc118955c92f6ec0fd7e2164950b23e4b65b7be1612449236
+Study :CHEST PA
+Study Date ef12f41f305d2e895c3b8f16dc4bf5a0e8f062c2e9e49feee2db20e2
+
+
+
+
+
+  X - RAY CHEST
+ 
+Patchy consolidation noted at right mid lung zone - Infective
+Fracture noted at 7th rib on right side.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+ 
+Patchy consolidation noted at right mid lung zone - Infective
+For clinical correlation. 

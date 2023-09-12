@@ -1,0 +1,29 @@
+Patient ID 196667e7a9dfc7c4954c97a60f0660faa6ef607ed5dbc06d3a4073d0
+Patient Name 99d10691c34a46f6b09a44287ab8eabeeee1b049bad1013d7c1bec3f
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 45a1f8f5db2b116ca781acd067d236f39e3843db8b9e3c7ca607ea7c
+
+
+
+
+
+    X - RAY CHEST PA VIEW
+Metallic artifact noted.
+Mild haziness noted in right lower zone - -? Infective.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation.
+
+

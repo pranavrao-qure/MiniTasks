@@ -1,0 +1,79 @@
+Patient ID 7f4826c5a482d9a2f3ab98baf2da4dbc15c6eb6a7967f81015483da3
+Patient Name 818af92f85de51efb0d167a0b779ef8bd60d67e88c2131fcc050bed4 70Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bedd05a70cdf74850af1286055214ab29c0288fec48f2c6abbd03cfb
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+ 
+ 
+Prominent bronchovascular markings noted at bilateral lung fields.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Minimal right pleural effusion noted.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X - RAY PELVIS AP VIEW
+ 
+ 
+Subchondral sclerosis with narrowing of joint space - Osteoarthritis changes
+ 
+Rest of visualized bones appear normal
+ 
+No obvious bony injury noted.
+ 
+Articular margins appear normal.
+ 
+For clinical correlation.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LEFT HIP JOINT AP VIEW
+ 
+OBSERVATION:
+Sclerotic changes noted at bilateral acetabular margin with bilateral hip joint space reduction suggestive of osteoarthritis.
+Visualized bones of pelvis are normal.
+No abnormality is seen in head, neck and visualized parts of femur.
+No abnormal radio opaque shadow seen.
+ 
+IMPRESSION: 
+Above X-ray Findings are suggestive of moderate of osteoarthritis.

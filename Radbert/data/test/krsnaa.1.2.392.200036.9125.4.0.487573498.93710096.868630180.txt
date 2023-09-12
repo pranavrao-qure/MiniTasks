@@ -1,0 +1,29 @@
+Patient ID 30a679c3508d230d889ca8cb41b28ca2a75fbb5136622656e1f43cce
+Patient Name 6d91566977379daeeb8ded1f3be15ad72d5b6e8db46f596eb6c588fb 35 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 3077405c23fcf6274e160c831b57d97508856a49547e77554d9224ca
+
+
+
+
+
+                                                      X - RAY CHEST 
+ 
+     
+Fracture noted at 3rd to  5th left posterior ribs.
+ 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation.
+
+

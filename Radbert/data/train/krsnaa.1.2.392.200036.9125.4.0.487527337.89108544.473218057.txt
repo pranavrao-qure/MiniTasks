@@ -1,0 +1,53 @@
+Patient ID 4042a545aefe5dcb88be21519ebc3a17ad8136b7b7c07e441ee100b9
+Patient Name 2a744ffd936612c52c28309284cf8fa6275581c414b2a20c477dc3d1
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 79a6759ad5dc32b445e0de30ba9b6f5a07eb572bd57c5b2f25130eb0
+
+
+
+
+
+                                         X - RAY CHEST PA /OBLI VIEW
+ 
+Bronchiectasis changes noted in bilateral lungs 
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY DORSAL SPINE (LAT)
+  
+FINDINGS :
+ 
+Alignment of dorsal spine is normal.
+ 
+Vertebral bodies are normal in shape & density.
+ 
+Posterior arch elements appear normal.
+ 
+Intervertebral discs show normal height.
+ 
+Pre vertebral soft tissues are normal.
+ 
+IMPRESSION : NORMAL STUDY.
+    Suggested clinical correlation & follow up.

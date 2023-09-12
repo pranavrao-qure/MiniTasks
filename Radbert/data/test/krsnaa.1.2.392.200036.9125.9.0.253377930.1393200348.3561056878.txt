@@ -1,0 +1,29 @@
+
+Patient ID 5543b54af6029269d2730413a742f8bbf41c6eabac7ad37a284097ff
+Patient ID fef9b96cf54fc302626a0b0be33064ddf2c5b8ff26e38891f1ac8f06
+Patient Name 8f3cc6c4c37407df835d5a7d1039733daa800998f7fc27e08a6a8ba4 45 YREF DR RAJASEKAR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date bd6738b06c5d6521f4ce05c9c07096af92b11fc8229339a87a21eb14
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Nodular opacities noted in right upper zone - Infective.
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

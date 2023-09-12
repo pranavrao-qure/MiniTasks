@@ -1,0 +1,27 @@
+
+Patient ID e92ec13ab5d57e9d3d1301309097e35964ec85be2e43dd1c5754d750
+Patient ID d1d8acf3c6a9652258882eea77bf75f191125bff03f908598380959c
+Patient Name 3b2436077f963d55b6dce579c928dc16d022c19916af7e82910de010 RATHNAMMA/32Y.DR.MUNEER.CAS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date d2b2fcc257049a3512888209c0441d72f1f64a394fadf733cc41b293
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

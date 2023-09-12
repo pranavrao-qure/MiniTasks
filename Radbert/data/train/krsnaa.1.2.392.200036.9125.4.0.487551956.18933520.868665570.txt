@@ -1,0 +1,23 @@
+Patient ID 935d95ccb6a4b9ee6fb86dc5e1162a926581fb03c9ff6bdce33369a8
+Patient Name 3976511be7a6fc94c63d23d6d6613658e2bb6a0f8b57916ea37a1550 24YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date e0317fc1dc1f8201b8b898f9f0dfa71676364894e7dcdae661fd43ac
+
+
+
+
+
+X-RAY CHEST PA VIEW
+ 
+FINDINGS :      
+Metallic artifact noted.
+Lung fields are clear.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.
+  Impression :- NO SIGNIFICANT ABNNORMALITY DETECTED     Suggested clinical correlation and follow up. 
+ 
+ 
+Date: 07-Jan-2020 12:51:13

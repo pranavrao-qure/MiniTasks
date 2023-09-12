@@ -1,0 +1,24 @@
+Patient ID aa3c9cb2530aa6dc02cb2c35f4993fadf93d3d0e36c5b055c9059e09
+Patient Name 5cc2679ba8cd7363c31d9a37bd77da37b96f1e11a32fa3d3f7850c04
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 92f0bb58e4397a7d706580dfb34e81800facd8bd4c5cf59cc8b48190
+
+
+
+
+
+X-RAY DORSO LUMBAR SPINE AP & LATERAL VIEWS
+ 
+OBSERVATION:
+Degenerative changes are noted in the form of anterior marginal osteophytes, intervertebral disc height reduction, and end plate sclerosis.
+No lytic or sclerotic lesion is seen.
+Para vertebral soft tissues appear normal.
+Visualized parts of the ribs appear normal.
+ 
+IMPRESSION:   Dorso-lumbar spondylosis.
+

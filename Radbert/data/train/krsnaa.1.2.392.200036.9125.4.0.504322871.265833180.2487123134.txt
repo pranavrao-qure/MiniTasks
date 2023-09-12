@@ -1,0 +1,54 @@
+Patient ID 8d96b355939e89ef373d247da3fdb519129f81ca0dfde59026154c8e
+Patient Name 97f1b6b877f54da9be62f253eb7c7f1c7446b0bbfb5d92b34db41a6f 70Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fe507ab5d3c19fc3e94c19a020302399028951eba6e1e229a261e8de
+
+
+
+
+
+X-RAY CHEST 
+
+PATCHY CONSOLIDATION NOTED IN RIGHT MID LUNG ZONE.
+AORTIC KNUCKLE PROMINENT.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+PATCHY CONSOLIDATION NOTED IN RIGHT MID LUNG ZONE.
+AORTIC KNUCKLE PROMINENT.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+X-RAY LUMBAR SPINE AP & LATERAL VIEWS
+ 
+OBSERVATION:
+Degenerative changes are noted in the form of anterior marginal osteophytes, intervertebral disc height reduction, and end plate sclerosis.
+Straightening of lumbar spine likely due to muscular spasm.
+The vertebrae is normal
+ The posterior elements are normal.
+The alignment is normal.
+Para vertebral soft tissues are normal.
+Both sacro iliac joints are normal. 
+No abnormal radio opaque shadow is seen.
+IMPRESSION:   lumbar spondylosis.
+Straightening of lumbar spine likely due to muscular spasm.

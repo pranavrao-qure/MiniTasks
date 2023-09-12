@@ -1,0 +1,33 @@
+Patient ID 63f4ee86f78098c6fa1d6252b014a25239cc8f60d69dd5a169fb2c54
+Patient Name f897d9bef31e9ecae4be95d38707ae32291fabd6ded7f9e89dbcc519 72Y
+Age :72 Years
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 709944fb88fbe251907776bbc0075ccdea74ddbe6bb2614213a2a07f
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+Prominent bronchovascular markings noted at bilateral lung fields.
+Aortic knuckle calcification noted.
+Mild scoliosis noted.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lung fields.
+Aortic knuckle calcification noted.
+
+ 
+ 
+Date: 03-Feb-2020 18:24:41

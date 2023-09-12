@@ -1,0 +1,29 @@
+Patient ID 53a491c43ee93ad0e8c71cc7967108abcd3767b3ee802db540ad421c
+Patient Name 9606c931e0fe6141fce0205f30dbde9e773a0644dda7d8c49da636f7 24Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 42bd556e9c3f73e95a25452841db9c73d516f6a68668ad6cf35453d4
+
+
+
+
+
+
+
+
+
+CHEST X RAY (PA VIEW)
+CLINICAL HISTORY  – Clinical Details not available 
+OBSERVATION:
+?PLeural effusion seen in left c.p. angle.
+Bilateral bronchovascular markings are prominent.
+Bilateral basal hazy infiltration.
+Cardiothoracic ratio is normal. 
+Both domes of diaphragm appear normal.
+Thoracic soft tissue and skeletal system appear unremarkable.
+ADVICE :  HRCT Chest Will be more informative   
+

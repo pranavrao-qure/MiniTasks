@@ -1,0 +1,30 @@
+
+Patient ID 65883497abaf338064752680ab1a8cc7b8295e967c18d421561824c0
+Patient ID c6c4567e04890f31adcce003270a05b8ddbef487ce39ce3ffa64fc70
+Patient Name ed29b35358963ef9a3b819c27fb5ba060dee860fcb3f4d2ef4d50c14 NAGANNA40 Y REF DR ADIANGESH
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 41166e2a14145cff980e7bf8e5dfa8693fed5ee6c179b895525ca78e
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy consolidation noted at right mid zone - Infective
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 

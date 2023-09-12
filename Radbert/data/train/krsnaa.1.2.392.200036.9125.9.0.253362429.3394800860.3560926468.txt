@@ -1,0 +1,30 @@
+
+Patient ID 1f12e9b9e70644df8ef614ebc416793c976542c6aeed9119dd44d95e
+Patient ID 2484125a282e0c1b44276d1b99ce1e658268a70dd59362c48d30f45a
+Patient Name c38dee7ced726103837289fc3b07f2da215f39a7070593da4be60a48 78/M
+Age :
+Sex :M
+Accession Number 455233b22d0942e0896c25e1970f88be76a79cee4ac6df1f99e4f5c1
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 3d87f1a921a5f78a7bfa050460e779b7d3e0b685935a8cb4482316f8
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Calcific lesions in left upper zone - - Old healed kochs.
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiomegaly .         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 

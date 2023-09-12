@@ -1,0 +1,77 @@
+Patient ID 48d03ab0a3239294043a0250917570e3ff712d5ae617db17c92ebb16
+Patient Name ba8b8826f56858c285bd4614ad609d77f3a2df095cc0394621f240c1 80Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 776b699e350758d3955305cfa86471da467d3a655fd2bb74d482d6cb
+
+
+
+
+
+                                         X - RAY CHEST PA/LAT VIEW
+ 
+ 
+Aortic knuckle calcification noted.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of left CP angle noted - Pleural Effusion.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+
+
+
+
+
+
+
+
+
+
+X-RAY DORSAL SPINE (AP / LAT)
+  
+FINDINGS :
+ 
+Alignment of dorsal spine is normal.
+ 
+Vertebral bodies are normal in shape & density.
+ 
+Posterior arch elements appear normal.
+ 
+Intervertebral discs show normal height.
+ 
+Pre vertebral soft tissues are normal.
+ 
+IMPRESSION : NORMAL STUDY.
+ 
+    Suggested c
+
+
+
+
+
+
+
+
+
+
+PLAIN XRAY ABDOMEN (A.P.VIEW)
+   
+No radio opaque calculus is seen in the hepatobiliary, panreatic or renal areas.
+The renal shadows are well defined.
+The renal margins are smooth.
+The psoas shadows are well seen.
+No abnormal soft tissue shadows calcification is noted.
+The sacroiliac joints show no abnormality.
+IMPRESSION  : 
+ 
+NO SIGNIFICANT ABNORMALITY IS DETECTED.
+linical correlation & follow up.

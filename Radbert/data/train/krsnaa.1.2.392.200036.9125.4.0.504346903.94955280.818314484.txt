@@ -1,0 +1,18 @@
+Patient ID 192f55563444040ca83087d9a0e35730beb5c4bd1613a5e77d036e93
+Patient Name c8738c25ddf21ecf5615527c569e865b8c1b41def22a670aecbe0ad9 20YRS DR N K GIRI
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 92f0bb58e4397a7d706580dfb34e81800facd8bd4c5cf59cc8b48190
+
+
+
+
+
+X-RAY CHEST 
+FINDINGS :                                   Patchy fibrotic areas are noted in right mid zone and left lung parenchyma  - S/o Kochâ€™s.   Both hila appear are pulled up.   Cardiac size is normal.   Both domes of diaphragm are normal.   Moderate left pleural effusion noted.   Soft tissues and bony cage appear normal.        Suggested clinical correlation and follow up.
+
+

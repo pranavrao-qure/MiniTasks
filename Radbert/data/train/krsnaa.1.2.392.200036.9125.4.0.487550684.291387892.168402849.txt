@@ -1,0 +1,28 @@
+Patient ID 240e0f8874614638f10d88a477c33121b003edfde7e23eb4449d135d
+Patient Name a7f4092f801f93d8be94f1c0dc373c0e3cec80cb0770bf7569d9068e
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 0816ae3100198751073fd273f0ec735140fa9e1bfe08c257d8aa4e4a
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Forien metal body noted on right side
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+Suggested clinical correlation.
+
+

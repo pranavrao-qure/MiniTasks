@@ -1,0 +1,27 @@
+Patient ID e5c81fca59f878a8d11ba264a9de3fbaacaab12a57f92d31fbe9f47a
+Patient Name bca940789b1e51f31a9a9bb342d9235dfbf7bd6bca0abe82e2ed9619 Paswan.20y.F.
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ff5b2a929c2b756e1ddac2d819ac953edc00a04bf47b66cf76509e20
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                     
+  Rest of lung fields are normal
+   
+Trachea is in midline.
+ 
+  Cardiac silhouette maintained.         
+ 
+  Both CP angles are clear.
+ 
+  For clinical correlation.  ​​​​​​​
+
+

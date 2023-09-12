@@ -1,0 +1,31 @@
+
+Patient ID eeed8ed6b01d2ea5fe237ddabd080f1d1e9d7d3093b2ea2c7e51f435
+Patient ID ba020c86266f90445d33943d4e23e4d52f2376759c825f9183d770df
+Patient Name 1042541f722f34f0053747967e0e3211cc8c0d818d689ac473df8b86 SWAMY/70Y.DR.NCP.CAS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 5c359717377a9a80c3db0ed7846c2e7059340faffe0e7e0986005cb7
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at right mid and lower zone - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+
+
+For clinical correlation. 

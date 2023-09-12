@@ -1,0 +1,30 @@
+
+Patient ID 98eedc530a0b2c02fe3c206b633535bc632f976ad0c4872cd4669674
+Patient ID c4d9e198a22655ce11f85d1fb5bd5981cb2e1148559e9261e9a9c6db
+Patient Name 47f9d57daba5e854b404b835b49142cb2775c3fa457e0c82a23b25be KRISHNA-57Y
+Age :
+Sex :M
+Accession Number 20597a0f92840e88d1917f9dda09db4882c62b97199e873b793a5415
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 274a6e19e5579492a0d02d3b38c983d5c86a3ab1808821d6bd3f223b
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Thick walled cavitatary lesion noted in right upper zone - Infective.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Bony cage and soft tissues appear normal
+
+For clinical correlation. 

@@ -1,0 +1,51 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+X-RAY NECK (LATERAL VIEW FOR ADENOIDS)
+
+
+The adenoid shadow is normal.
+
+The pre-vertebral soft tissue shadow is of normal thickness.
+
+No abnormal air pocket is seen.
+
+No loculated collection is seen.
+
+IMPRESSION : Normal study.
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 12492 by 12273, depth 1
+pict001.wmf
+Dr. V. Sudhakar. MD., RD
+        
+        
+        
+        
+        
+        
+Consultant Radiologist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

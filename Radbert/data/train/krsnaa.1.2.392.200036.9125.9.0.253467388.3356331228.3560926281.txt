@@ -1,0 +1,21 @@
+
+Patient ID 461d222517b432b60bab8a8535e0527c771fcbc936ecee7cc6827301
+Patient ID 2eab9f98abbb620774c8a848260d4f657a124faffa3a4d52d62cc7a5
+Patient Name 11acc3e6ed762cddfac044998b109c51196994e2442fbcbeadcf58e0 30Y REF DR B.S RAO
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c03c50e33f8e17e28d4364056ba8352be585e9c64b1edd37e7a98577
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

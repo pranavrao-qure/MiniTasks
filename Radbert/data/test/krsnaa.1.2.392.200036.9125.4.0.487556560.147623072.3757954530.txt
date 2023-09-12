@@ -1,0 +1,50 @@
+Patient ID e1dbe51d31d6978313c9128c018ccd4c1c2b6e1d5acabd04e94646c3
+Patient Name 0d6386af33adfca46571cae13853d4fabb3b5fb19f13bd60d97f5408 45Y RN-674
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 5d7fae4fa38e6e5c1257f75cade06fa1df619624d745012822d0cf96
+
+
+
+
+
+CHEST RADIOGRAPH AP VIEW
+ 
+Bilateral lung parenchyma and broncho-vascular markings appear normal.
+ 
+Bilateral domes of diaphragm appear normal and are smooth in contour.
+ 
+Bilateral costo phrenic  angles  and pleural spaces appear normal.
+ 
+Cardiac size could not be evaluated on AP view.
+ 
+Visualized bones and soft tissues appear normal.
+ 
+No evidence of lymphadenopathy / mass lesion /effusion is seen.
+ 
+Visualized portion of upper abdomen appears normal.
+ 
+IMPRESSION  : NO SIGNIFICANT ABNORMALITY IS SEEN IN THE PRESENT STUDY.
+ 
+For clinical correlation.
+
+
+
+
+
+
+
+
+                                   X-RAY LEFT ANKLE AP & LATERAL VIEW     
+FINDINGS :       
+ ? Fracture noted at lateral malleolus with surrounding soft tissue swelling.
+  Rest of bones appear grossly normal     
+
+
+
+
+

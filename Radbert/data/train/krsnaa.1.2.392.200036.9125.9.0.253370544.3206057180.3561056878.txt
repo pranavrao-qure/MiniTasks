@@ -1,0 +1,29 @@
+
+Patient ID 31b72de41f825880b28f613d8f4cc4ebc9c222b700d6f6356c3afe73
+Patient ID f8c5eb58e63eeefd26316015b84e04a28cd7ae2d6355d86ab97c8bf7
+Patient Name 51b79780ae19d1f89e8ffc2570217088ce2ffff35036e250428dd7af 60Y M,REF DR RAJASHEKAR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date f68cb4a8d995db4101afcee2f7136bba01b6f11958e9209b6a8c4398
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Calcific nodular opacities noted in both upper zones - Infective.
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

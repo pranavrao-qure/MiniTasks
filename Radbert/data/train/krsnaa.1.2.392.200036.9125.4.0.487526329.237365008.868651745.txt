@@ -1,0 +1,43 @@
+Patient ID 46a812cc5b6f7b024d1140b135347528f034168e5e38a1fd36189955
+Patient Name 65921b09f38efb0e7b0cc290b578aa1e93dae45ac275dc7b699cb072 60y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bd9c4bad0267d7832ff5b6831632aededce9cdf06c1436f6451f2c45
+
+
+
+
+
+X-RAY CHEST PA VIEW
+ 
+  FINDINGS :    
+Fracture noted at 2nd to 7th ribs on right side   Mildly prominent bronchovascular markings noted in both lung fields.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.   IMPRESSION :  MILDLY PROMINENT BRONCHOVASCULAR MARKINGS BILATERALLY, S/O NON-SPECIFIC BRONCHITIS.
+
+Fracture noted at 2nd to 7th ribs on right side
+Aortic knuckle calcification noted    Suggest clinical correlation and follow up
+
+
+
+
+
+
+
+
+
+
+X-RAY  KNEE JOINT AP & LATERAL VIEW
+ 
+Marginal osteophytes and medial tibiofemoral joint space reduction are noted with medial tibial condyle showing subchondral sclerosis.  
+Suspicious Fracture noted at proximal shaft of fibula 
+No abnormal soft tissue calcification seen.
+Bones show normal architecture.
+ 
+IMPRESSION
+Grade 3 osteoarthritic changes (Kellgren and Lawrence classification
+Suspicious Fracture noted at proximal shaft of fibula 
+
+

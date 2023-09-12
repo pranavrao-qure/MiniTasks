@@ -1,0 +1,27 @@
+X-ray Chest PA view:
+
+Midinspiratory exposure.
+Rotation+.
+LUNGS: Normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Unremarkable. 
+OTHER VISUALIZED BONES: Unremarkable, except for linear metallic density in the left humerus. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+
+
+Report Impression: 
+65 Years old male, complaints of lump in the throat with expectoration and nasal obstruction,
+
+X-ray of the chest does not reveal any significant abnormality.

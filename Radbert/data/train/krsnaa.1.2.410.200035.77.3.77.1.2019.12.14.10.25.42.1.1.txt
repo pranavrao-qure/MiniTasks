@@ -1,0 +1,27 @@
+Patient ID 81f29fe4c2736c1db9a130c62ef968d34ff58f240db0215b1c695056
+Patient Name 50338e26c3b423b7bff0dacbde24eb2360ce9fcf8d111b4a27b43af3
+Age :65 Years
+Sex :M
+Accession Number 422a15151762064534b01210aa92de74c544a1f1c590c9fcb00c6678
+Modality :CR
+Referring Physician 636e46f0da3c65b442657e7ffccd22b05b9520133f0b6b7d7f06c07e
+Study :CHEST-PA
+Study Date d93538b5d6bb9f65d7774d35096ea5edf66d672d63d1fbaded731978
+
+
+
+
+
+                                         X - RAY CHEST PA VIEW
+ 
+Bronchiectasis changes noted in bilateral  lower zones.
+  Fracture noted at right side 8th to 9th ribs 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Blunting of both CP angles noted - Pleural Effusion.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

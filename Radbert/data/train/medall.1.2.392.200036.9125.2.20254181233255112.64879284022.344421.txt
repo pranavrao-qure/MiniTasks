@@ -1,0 +1,25 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 5 fonts total
+
+-----------------
+
+DIGITAL X- RAY CHEST AP VIEW
+
+
+Increased broncho vascular markings noted in both lung fields.
+Trachea appears normal.
+Cardiothoracic ratio is within normal limits.
+Rest of the lung fields appear normal.
+Costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+Extra thoracic soft tissues shadow grossly appears normal.
+IMPRESSION:
+
+¬        
+Bronchiolitis.
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2725 by 1799, depth 1
+pict001.wmf
+Dr.Karthik MDRD
+ RADIOLOGIST.
+

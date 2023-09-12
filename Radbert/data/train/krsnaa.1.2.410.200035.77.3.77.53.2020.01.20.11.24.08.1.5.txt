@@ -1,0 +1,26 @@
+Patient ID 273a836b15e1cba957c666b4cb3d29161222e2938184fdf247718904
+Patient Name a1ed25484d7b39a5d0d8a3d1047b4ba39cd7432e964a244b0b3fb233
+Age :46 Years
+Sex :M
+Accession Number e79dd010b2a34e1cf625dee37fe323771a608559c1614a73889eeece
+Modality :CR
+Referring Physician fb3b431f6a77150fcf850e35abbaf3a8d88656a9bc77c7afce6d5a28
+Study :CHEST
+Study Date ec329b92bf045792553167b4ad453900caf8ff070ad9d0aeb35e644c
+
+
+
+
+
+  X - RAY CHEST
+ 
+Patchy consolidation noted at bilateral upper lung zone - Infective
+Suspicious Fracture noted at right side 5th to 7th ribs and left side 3rd to 5th ribs?
+Trachea is in midline.  
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+

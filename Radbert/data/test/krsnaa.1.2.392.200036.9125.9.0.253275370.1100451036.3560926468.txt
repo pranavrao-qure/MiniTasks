@@ -1,0 +1,33 @@
+
+Patient ID 47b1fbd08f426fb35de667d1a67684dc9eff346798423115ad065907
+Patient ID 7b3ff1828446944d66991217dac6d009a22bd54239148356b850cc21
+Patient Name 6f408247662ec86b82e063f54e4baa2f805b1c60abdf2ed4df5f1779 45/M
+Age :
+Sex :O
+Accession Number f96a024097bc15e86cbc9132ad514c5724e0933cbe178bb210356fee
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 0d2332b243cad983a760958c0c02efdeec92af93079c799d321c2273
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy inhomogenous opacities noted in right upper zone - Infective etiology
+
+? Old healed fracture of right clavicle.
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

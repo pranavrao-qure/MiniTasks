@@ -1,0 +1,28 @@
+Patient ID 37583b0dd17f3cfc470b8221464c35609dc3f7c11e1a8d45e46bf5ac
+Patient Name 4424cb87122deede9c55efe8e4182b1c860e1503f533a5926647171f CHOUDHURY,54YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA X-WISE
+Study Date ff5b2a929c2b756e1ddac2d819ac953edc00a04bf47b66cf76509e20
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ 
+Homogenous opacity noted at right upper , mid and lower zones with blunting of CP angle - Pleural effusion.  
+ADV CT FOR UNDERLYING PATHOLOGY 
+ 
+Shift of trachea and mediastinum to left side 
+
+
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

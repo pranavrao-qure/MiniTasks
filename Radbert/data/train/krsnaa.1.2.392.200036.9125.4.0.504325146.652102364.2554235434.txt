@@ -1,0 +1,28 @@
+Patient ID 6d2e3ef9ea69efd7906174df4c5a65d0e4b0d39860a3a7606908a38e
+Patient Name 2749ec64167e1fb59f5e5d56ed11a34cfdc753e2f9c4d48cf9ee327f 10Y  LT SHOULDER
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 7b0f051c7f6767a78bcf5c40fc2924e5dcc33cd70e9aaa8318751e3e
+
+
+
+
+
+X-RAY SHOULDER 
+  
+ 
+FINDINGS :    
+ 
+? Fracture noted at NECK  of humerus with surrounding soft tissue swelling.
+ 
+ 
+Rest of bones appear grossly normal   
+ 
+ 
+   Suggest clinical correlation and follow up
+
+

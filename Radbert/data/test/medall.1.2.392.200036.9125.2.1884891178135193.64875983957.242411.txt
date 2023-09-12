@@ -1,0 +1,36 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+X-RAY CHEST (PA VIEW)
+
+v       
+The cardio thoracic ratio is normal. 
+v       
+The heart size and configuration are within normal limits. 
+v       
+The aortic arch is normal.
+v       
+The lung fields show normal broncho-vascular markings.
+v       
+Both the pulmonary hila are normal in size.
+v       
+The costophrenic and cardiophrenic recesses and the domes of diaphragm are normal.
+v       
+The bones and soft tissues of the chest wall show no abnormality.
+IMPRESSION :
+v       
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are -29394 by 20320, depth 1
+pict001.wmf
+No significant abnormality detected in both lungs fields.
+        
+        
+        
+        
+        
+
+
+
+
+  

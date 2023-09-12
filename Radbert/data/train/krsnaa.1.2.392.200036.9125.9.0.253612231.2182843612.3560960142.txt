@@ -1,0 +1,29 @@
+
+Patient ID f892b373d3a42f89e9ed6c31d5445465bd85c604ba0a20f429c5eb43
+Patient ID f97dfbac2f9afd37246c373ab0ca099addce06cb70f49c0cce473807
+Patient Name 24d9c470ee81576e49930e5d94564a2d2b1db82437c4f3611e7d8762 25Y/
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 1c57156b02a06bbe9436e37c01e9a23353702441d4e0bbb7c93df9f3
+
+
+
+
+
+
+
+
+Radiolucent area devoid of lung markings noted in left upper zone - Pneumothorax.
+
+Patchy pneumonitis noted at both mid and lower zones - ? Infective.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation                                                   

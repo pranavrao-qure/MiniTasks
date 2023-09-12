@@ -1,0 +1,28 @@
+Patient ID cf5ebfab126035e24629005eb26d42eac6ffd4649b244ba11ad70664
+Patient Name 0962803fffe3deeac257487d6a8463491b153a55f4493399aa703644
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date cd379b8546ccfd4af248579155fa6aa767df4c16a281a6cf25105e52
+
+
+
+
+
+X-RAY RIGHT SHOULDER AP VIEW  
+  
+ 
+FINDINGS :    
+ 
+Fracture noted at lateral end of clavicle with surrounding soft tissue swelling.
+ 
+ 
+Rest of bones appear grossly normal   
+ 
+ 
+   Suggest clinical correlation and follow up
+
+

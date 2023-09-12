@@ -1,0 +1,28 @@
+Patient ID 71b71db0e4148f2bc6be26f56109776caeff535a36c30b7c605c082c
+Patient Name dbe21f109d5af4a2e53280a5f2f6fd89fc9b1fd535a919ff05414d58
+Age :50 Years
+Sex :F
+Accession Number 579298e31abc9e56b20632f420121e916041f348286b8b9a63b9db99
+Modality :CR
+Referring Physician 3480ed2664f2f936917cba622b04dc35bef5cd6d2f617cf215b5fab4
+Study :CHEST PA
+Study Date 419929f7288d33aeb7546487cd90c9f04e070f17531126dea8322eec
+
+
+
+
+
+X-RAY CHEST 
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.

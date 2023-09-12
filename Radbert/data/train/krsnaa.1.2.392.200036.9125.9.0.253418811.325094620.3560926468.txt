@@ -1,0 +1,74 @@
+
+Patient ID 291dfc8c31dd02017f6b908f7ac97f6f519beb2d83632c52517b5926
+Patient ID fa44832ea4c5eff1dfb82bdb41aea2ef951977a242b6647bc79f1ec0
+Patient Name afebe5ff2462226aa9c60dbddb8d42c93aa7f5aa36fddfdc1a76dc62 2Y
+Age :
+Sex :M
+Accession Number 4e61da7ba1018e6f8e83a53cc0f681ca1ce63c6379ca03127aa9909a
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 2ea0a9736ed93701600e71dcb62688ada72692bde6bb93433e123a0f
+
+CHEST RADIOGRAPH AP VIEW 
+ Haziness in middle zone of bilateral lung fields s/o infective etiology. ? Enlarged cardiac size. 
+ Bilateral domes of
+diaphragm appear normal and are smooth in contour. 
+ Bilateral costo
+phrenic  angles  and pleural spaces appear normal. 
+ Visualized bones and
+soft tissues appear normal. 
+ No evidence of
+lymphadenopathy / mass lesion /effusion is seen. 
+ Visualized portion of
+upper abdomen appears normal. 
+ 
+ For clinical correlation . 
+   Date: 20-Jun-2018
+
+
+
+
+
+                                        
+ CHEST RADIOGRAPH AP VIEW 
+ Haziness in middle zone of bilateral lung fields s/o infective etiology. ? Enlarged cardiac size. 
+ Bilateral domes of
+diaphragm appear normal and are smooth in contour. 
+ Bilateral costo
+phrenic  angles  and pleural spaces appear normal. 
+ Visualized bones and
+soft tissues appear normal. 
+ No evidence of
+lymphadenopathy / mass lesion /effusion is seen. 
+ Visualized portion of
+upper abdomen appears normal. 
+ 
+ For clinical correlation . 
+
+CHEST RADIOGRAPH AP VIEW
+
+Haziness in middle zone of bilateral lung fields s/o infective etiology.
+
+? Enlarged cardiac size.
+
+Bilateral domes of
+diaphragm appear normal and are smooth in contour.
+
+Bilateral costo
+phrenic  angles  and pleural spaces appear normal.
+
+
+Visualized bones and
+soft tissues appear normal.
+
+No evidence of
+lymphadenopathy / mass lesion /effusion is seen.
+
+Visualized portion of
+upper abdomen appears normal.
+
+
+For clinical correlation .
+
+

@@ -1,0 +1,23 @@
+X-ray Chest PA view:
+
+LUNGS: Mass like opacity is noted in left perihilar region with minimal peribronchial cuffing
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal.
+Report Impression: 
+Mass like opacity is noted in left perihilar region with minimal peribronchial cuffing.
+
+
+Recommend clinical correlation and CT for further evaluation. 

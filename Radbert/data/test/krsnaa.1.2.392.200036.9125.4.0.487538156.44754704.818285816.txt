@@ -1,0 +1,28 @@
+Patient ID 5e77bdf5f729c9e0503781ad1eed8232cc80bab2a5e7220114419ba7
+Patient Name cd23071e861608525aaf76de06536af8a227034cf0e6159cfc26968b 40Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 97f49accffe2ee3237c2211aaf72c31a9c4279451bbeb959cf01f378
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Displaced fracture noted at mid shaft of left clavicle noted.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+Suggested clinical correlation.
+
+

@@ -1,0 +1,47 @@
+
+Patient ID 1ef86ed3810467577966e54ca019c5915b65e089e9f2253aef7da7dc
+Patient ID ec81c9fbbc682b8460daa37eb91fd7153b2eba7ce17c84a0797a7827
+Patient Name bbb093caf0077f03cc060832a1be3264839d90db563bd58a6db92bf3 1Y DR LINGANNA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 75481f892ae0ccb515eda3d8bca1cb314a34bbf12aab6a1b4d7a14ed
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+  
+ FINDINGS :     
+  
+Mildly prominent bronchovascular markings noted in both lung fields. 
+ Haziness seen in both lung field upper and mid zone . 
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal. 
+   
+ IMPRESSION :  
+MILDLY
+PROMINENT BRONCHOVASCULAR MARKINGS BILATERALLY, S/O NON-SPECIFIC BRONCHITIS.
+
+
+     Haziness seen in both lung field upper and mid zone ? infective .
+
+Suggest clinical correlation and follow up 
+ 
+ 

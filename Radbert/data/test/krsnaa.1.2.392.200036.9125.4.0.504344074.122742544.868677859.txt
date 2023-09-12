@@ -1,0 +1,29 @@
+Patient ID f1fb8147332a31251524b83d5da589573e30910ec147ed514de32588
+Patient Name 103ff747807bc09381c27ea41e41eac8c6db14f6fcf9a09f4fffc554 50yrs
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 28352c64aa3ef779929f0951368c5efdf78f0fb6c2ab9e4367ab5ae4
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+Right paracardiac haziness noted.
+Unfolding arch of aorta noted.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+​​​​​​​ Suggested clinical correlation.
+
+

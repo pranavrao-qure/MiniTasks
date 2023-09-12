@@ -1,0 +1,27 @@
+
+Patient ID 27d85c514385a7f4f1d9e18421826ac73e6105ad0c18f4f82ba87782
+Patient ID 37730b120da0edd3bf358d8d374e9e64d6d48853b4871062f7634c5c
+Patient Name 856fcdc37c01e1036d9390acc62cc15aae06edaea2e2eea5d02a8c2f 13Y REF DR RAGHURAM
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 7d32b43464d5253afb3b8edb6cf57b768616e538112035b0024de467
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

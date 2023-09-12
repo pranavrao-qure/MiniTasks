@@ -1,0 +1,30 @@
+Patient ID 3b16c357081ece1e606e729dd6a7d9e7b1dd6771c51c9139d8e0d9fd
+Patient Name 17057bf7a3723a2ea1f1353cf33426f6e7437e4752a26e32fce23119 ISLAM,32YRS.
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date 0f66515d1b762a966cffc323b821cb75966ef8ce91eb9bade9f93adc
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Prominant right hilar shadow noted.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Prominant right hilar shadow noted.
+Suggested clinical correlation.
+
+

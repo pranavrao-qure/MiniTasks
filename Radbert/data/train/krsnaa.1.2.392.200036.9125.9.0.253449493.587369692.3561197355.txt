@@ -1,0 +1,21 @@
+
+Patient ID db96f328b7aab927d0a8d715da122980dd5174eac29eb05374737b87
+Patient ID c8e7339cca786dd0175b531ea8f851db16d8d08e17dc14edeeffdff9
+Patient Name ebddda4e49df4649e7dcde1dff3bdd7d36fc2d7acec010f97c3a4146 40Y MMOP
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 5c717302cf6a6e14dee53cf003eab09f9720952ef9cc517390cdf8c6
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows homogeneous opacity left hemi thorax with shift of heart to the left side and obliteration left dome and CP angle - Chronic Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Soft tissues and bony cage appear normal.         Suggested clinical correlation and follow up.
+ 

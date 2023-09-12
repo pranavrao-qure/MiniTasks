@@ -1,0 +1,56 @@
+Patient ID 169689885d1128bdb0a49a9fef40615bbff0e1980febab0b3d7b48f2
+Patient Name 1e480507f9b67dd1bc6ee752b79fd9347a9470f3bc5a8aebd8cd4441
+Age :45 Years
+Sex :F
+Accession Number 56bc98a38304e20c8869af05a4c5fdf6476c54147bb3446d4fc48d47
+Modality :CR
+Referring Physician 7a62cd8f18fc7ba6cb8c6d4145e13c3b452d2a645aa5d6e7d36d2660
+Study :CHEST PA/KNEE
+Study Date a46a082f5ad3d6b06c18b17c31874853f9e1c7970e04021612483314
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Mild Scoliosis noted.
+Prominent aortic knukle noted.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Mild Scoliosis noted.
+Prominent aortic knukle noted.
+Suggested clinical correlation.
+
+                               
+
+
+
+
+
+
+
+
+
+      X-RAY KNEE (AP & LATERAL VIEW)      
+FINDINGS :  
+          Fracture noted at patella  with surrounding soft tissue swelling .
+
+
+Alignment of knee joint is normal.   Articular margins and joint space is normal.    Bone density is normal. 
+IMPRESSION:
+
+
+         Fracture noted at patella  with surrounding soft tissue swelling .
+
+Suggest clinical correlation and follow up
+
+

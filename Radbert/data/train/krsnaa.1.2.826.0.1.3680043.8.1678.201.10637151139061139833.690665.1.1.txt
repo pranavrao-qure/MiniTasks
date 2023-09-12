@@ -1,0 +1,30 @@
+
+Patient ID 9760cc294bbb3b46ff3f15af3f2849df40f9c3f0cd474d9466fc2700
+Patient ID 5a26ae203d0395815db0b529d7ee66ffb273f5fd0496e7bbf14b0765
+Patient Name 996d8ac5e215eeb42f0267018ceb96629eca338f12a07a0f64fe3a87
+Age :60 Years
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 4950a94245d550ff3604f6aa57ca8d33c34676c7790329eb20d54e0b
+Study :CHEST PA VIEW
+Study Date ec329b92bf045792553167b4ad453900caf8ff070ad9d0aeb35e644c
+
+
+
+
+
+
+
+
+Trachea is shifted to right side ..
+
+Mild scoliosis noted 
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of both CP angles noted - - Minimal bilateral effusion.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

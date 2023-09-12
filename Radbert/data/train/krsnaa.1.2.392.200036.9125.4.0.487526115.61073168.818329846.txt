@@ -1,0 +1,27 @@
+Patient ID 7459fd9139f7eda8607060a9d0214709a40102f39b93f23f5e081b1e
+Patient Name 8130dae8ffd95a5407f31f610ef63353a861f2438356dc1f1688c820
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1127089e88d42baff6bb3866c3315321cdce1145499338cfaef4152a
+
+
+
+
+
+X-RAY SHOULDER WITH ARM AP VIEW
+ 
+ 
+     FINDINGS :   Anatomical marker not seen. 
+Fracture noted at head   of humerus with surrounding soft tissue swelling.
+ 
+Rest of bones appear grossly normal
+ 
+    IMPRESSION: Fracture noted at head of humerus with surrounding soft tissue swelling.
+  
+     Suggest clinical correlation and follow up
+
+

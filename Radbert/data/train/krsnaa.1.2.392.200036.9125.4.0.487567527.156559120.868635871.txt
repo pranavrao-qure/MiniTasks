@@ -1,0 +1,30 @@
+Patient ID 1c6a286c2e53cc11d73b52eec754bd137bb17d72fc8d54cae70dba28
+Patient Name f8990eeec44c359de1eff31b2478e2b7df70744d501e391a45c40986 30Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 035cdc8f205d4e96323b5e14c8092bf5053978d875421de98c6d3bbf
+
+
+
+
+
+                                                           X - RAY CHEST 
+ 
+ 
+Homogenous opacity noted at left lung zones with blunting of CP angle - Pleural effusion.
+
+Pneumothorax seen in left upper lung zone.
+ 
+Trachea and mediastinal shift to left side.
+ 
+Cardiac silhouette maintained.         
+ 
+Bony cage and soft tissues are normal.
+ 
+For clinical & CT correlation. 
+
+

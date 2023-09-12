@@ -1,0 +1,31 @@
+
+Patient ID e9542a68da885d09d23ccdf240bea837bc1531025c451d7b360e9c99
+Patient ID 44a1e37bd801113e3de06ddcf3718c1ea32fbd1e221d733e2adf0a0e
+Patient Name 1117d95918fdbdd3fdf3ebd0d2c0647ec391059b3aeff5094678a104 48Y REF DR RAGHURAM
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date acd7f9b2ebe7fd737a3fa46110882ad4289e0128b48e6344481892dc
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy inhomogenous opacities noted in both mid zones - Infective etiology
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

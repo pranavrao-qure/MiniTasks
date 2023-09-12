@@ -1,0 +1,4 @@
+CARDIA: There is mild cardiomegaly.  
+LUNGS: Clear.
+PLEURAL EFFUSION: Nil.
+BONES: Median sternotomy sutures are seen.

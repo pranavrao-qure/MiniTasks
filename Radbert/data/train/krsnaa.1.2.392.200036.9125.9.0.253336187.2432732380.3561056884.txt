@@ -1,0 +1,25 @@
+
+Patient ID a197c792465dc80112f0573974f76074bf7d8fee254596f71187af64
+Patient ID 763d868b0a0707e8e56adc445e08964f831987d7a447775ac916a28f
+Patient Name 2dfeb10ca4e447b4510247b0fdc1d8f43be2c33a2cb8a3f7b0f8c99e 45 / f
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 07c94a366855b6b0d688894011a85c6671b2dede22ce5076a9468137
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Probably pleuro pericardial cyst / cardiac aneurysm in right para cardiac region
+
+For clinical correlation. 

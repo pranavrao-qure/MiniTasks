@@ -1,0 +1,33 @@
+
+Patient ID bf87b15c291a7190dcd6b2afb7bcc94cf7e37829ce4000f58fde134a
+Patient ID c41051b6af08abefddee8d1adb35f3e294d68cbc32dafc753ffe96c0
+Patient Name 9fb4c6179d4a96555a451dbce82207857b5f763707441cb417811fa5 70/M
+Age :
+Sex :O
+Accession Number c8f1532d6051e1f15f2f3181369217405a0d4322f85d6b2988617fab
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date faf4ba302feca0940a15c1d1c0dba859d847acbfde51c2673e8090e1
+
+
+
+
+
+
+
+
+
+Patchy consolidation at both upper and mid zones - Infection.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+
+
+For clinical correlation. 

@@ -1,0 +1,38 @@
+Patient ID a12b39236c1bd58ce6ca74dc51b8b6e543ecf83b9ca4f93ac2296537
+Patient Name 14228b7c5604a3d71aa6a5fb384b859a4669779aaaa4842b791fcaad
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 609cd8ee0e2a1a85377aef48d0a50a703b819936e4bc060f547ae56e
+
+
+
+
+
+X-RAY LEFT SHOULDER AP VIEW  
+  
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY ANKLE AP & LATERAL VIEW     
+FINDINGS :       
+The alignment of the ankle joint appears normal   Bones appear grossly normal    Soft tissues appear normal       IMPRESSION :   NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+ 
+
+

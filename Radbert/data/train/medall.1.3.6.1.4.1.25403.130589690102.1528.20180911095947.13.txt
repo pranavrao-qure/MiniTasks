@@ -1,0 +1,276 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 5 fonts total
+
+-----------------
+X-RAY CHEST (PA VIEW)
+The heart size and configuration are within normal limits. 
+The aortic arch is normal.      
+
+The lung fields show normal broncho-vascular markings.
+Both the pulmonary hila are normal in size
+The costophrenic and cardiophrenic recesses and the domes of 
+diaphragm are normal.
+The bones and soft tissues of the chest wall show no abnormality.
+IMPRESSION : 
+"        
+Normal study
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6059 by 2514, depth 1
+pict001.wmf
+Dr.K.Shakthi Kumar
+Radiologist
+
+
+
+
+	 MEDICAL FITNESS REPORT	
+
+	TEST REPORTS STATUS FINAL RESULT	
+
+	PHYSICAL ATTITUDE       
+        
+        
+        
+        
+        
+ NORMAL
+ GENERAL APPEARANCE/NUTRITIONAL STATUS  
+ HEALTHY
+FACIAL APPEARANCE       
+        
+        
+        
+        
+        
+        
+ NORMAL
+*RESPIRATORY SYSTEM     
+        
+        
+        
+        
+        
+ NVBS
+
+*CARDIOVASCULAR SYSTEM  
+        
+        
+        
+        
+        
+        
+        
+
+BP      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+ 130/70mmHg
+PULSE   
+        
+        
+        
+        
+        
+        
+        
+        
+ 102/Min
+HEIGHT  
+        
+        
+        
+        
+        
+        
+        
+        
+ 171cm
+WEIGHT  
+        
+        
+        
+        
+        
+        
+        
+        
+ 45Kg
+BMI     
+        
+        
+        
+        
+        
+        
+        
+        
+        
+ 15.4(UNDER WEIGHT)
+HEART SOUND     
+        
+        
+        
+        
+        
+        
+ S1,S2 HEARD NORMALLY
+
+*BASIC EYE EXAMINATION
+CONJUNCTIVA     
+        
+        
+        
+        
+        
+        
+        
+ NORMAL
+EYELIDS 
+        
+        
+        
+        
+        
+        
+        
+        
+ NORMAL
+EYE MOVEMENTS   
+        
+        
+        
+        
+        
+        
+        
+ NORMAL
+CORNEA  
+        
+        
+        
+        
+        
+        
+        
+        
+ NORMAL 
+
+DISTANCE VISION RIGHT EYE WITHOUT GLASSES       
+        
+        
+ NORMAL
+DISTANCE VISION LEFT EYE WITHOUT GLASSES        
+        
+        
+ NORMAL
+NEAR VISION RIGHT EYE WITHOUT GLASSES   
+        
+        
+        
+ NORMAL
+NEAR VISION LEFT EYE WITHOUT GLASSES    
+        
+        
+        
+ NORMAL
+COLOUR VISION   
+        
+        
+        
+        
+        
+        
+        
+ NORMAL
+*BASIC ENT EXAMINATION  
+        
+        
+        
+        
+ NORMAL
+
+
+*SUMMARY
+
+RELEVANT HISTORY        
+        
+        
+        
+        
+        
+ NOT SIGNIFICANT
+
+RELEVANT GP EXAMINATION FINDINGS        
+        
+        
+        
+ NOT SIGNIFICANT
+        
+        
+        
+        
+        
+
+RELEVANT LAB INVESTIGATION      
+        
+        
+        
+        
+        
+NOT SIGNIFICANT
+        
+        
+        
+        
+        
+        
+
+RELEVANT NON PATHOLOGY DIAGNOSTICS      
+        
+        
+        
+NOT SIGNIFICANT
+        
+        
+        
+
+REMARKS/RECOMMENDATIONS 
+        
+        
+        
+        
+ ---------
+        
+        
+        
+        
+        
+        
+        
+
+*FITNESS STATUS
+        
+        
+        
+        
+        
+
+        
+        
+        
+ 
+
+NAME OF THE MHC CONSULTANT
+ Signature/ Seal
+
+
+
+
+

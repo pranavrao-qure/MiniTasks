@@ -1,0 +1,22 @@
+X-ray Chest PA  view:
+
+LUNGS: Perihilar and basal interstitial opacification with prominence of vascular markings suggestive of congestive changes.
+TRACHEA: Normal. 
+CARINA: Normal. 
+PLEURA: Normal. 
+
+HEART: Moderate cardiomegaly. 
+PULMONARY HILA: Prominent. 
+AORTA: Atherosclerotic calcification in arch, otherwise normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+As above.
+
+Correlate clinically.

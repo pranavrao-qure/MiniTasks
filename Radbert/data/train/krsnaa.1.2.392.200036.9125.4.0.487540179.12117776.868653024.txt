@@ -1,0 +1,18 @@
+Patient ID 898b5349a61434036c69d53f2c90d92b58373f8311db3751fdaca295
+Patient Name d827fdf6f33c22b5785f50d1835d2256daa718592229ec52975ce60d 28Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date b44224eaa7edb11b2550334204c6ef1f5e05c30e423517761b1105b9
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :                                   Patchy fibrotic areas are noted in left upper zones - S/o Kochâ€™s.   Calcified granulaomas noted in both lungs.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.        Suggested clinical correlation and follow up.
+
+

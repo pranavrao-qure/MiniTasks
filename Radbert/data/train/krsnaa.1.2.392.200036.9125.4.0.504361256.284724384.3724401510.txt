@@ -1,0 +1,30 @@
+Patient ID bead7f3543434e573675faab7ffa88d024e4dd1608a5c1c84dbae0c4
+Patient Name a668f9ad382b785dab21e614bdf8df2ce09dbdb7037c19d6652301c6 80Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date f030ffdc90c4c5c653e297ba576cff9fc70839270c498b4213b9d0de
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Patchy infiltration with consolidation noted at bilateral mid and lower zones likely due to infective etiology like koch's.
+Fibrotic opacities noted in bilateral upper zones.
+No focal lung lesion is seen.
+Both CP angles are clear.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+
+Patchy infiltration with consolidation noted at bilateral mid and lower zones likely due to infective etiology like koch's.
+Fibrotic opacities noted in bilateral upper zones.
+

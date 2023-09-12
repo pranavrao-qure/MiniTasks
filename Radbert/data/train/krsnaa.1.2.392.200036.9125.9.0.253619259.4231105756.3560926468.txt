@@ -1,0 +1,31 @@
+
+Patient ID 842cfe6aae208ab74fea81f6dbd74f7e798244eafb5b7138a22d41ab
+Patient ID cef819694dce746266dabea3c224fd165237fa97e75847ee9e4e663c
+Patient Name 5b6fb845fda500bc222d23993357a7f29c6013a22949a33e6f21a2f9 2/F
+Age :
+Sex :F
+Accession Number 4d2124b9c7959e9941bd7af1ac5307ec2b77453af1b999dfdd0c65d5
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 97f49accffe2ee3237c2211aaf72c31a9c4279451bbeb959cf01f378
+
+
+
+
+
+
+                                                                 
+
+                                                                          X - RAY CHEST AP VIEW
+
+Diffuse ground glass opacities noted in bilateral lung parenchyma - ? Respiratory distress syndrome .
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

@@ -1,0 +1,27 @@
+
+Patient ID d068abadf445e9e2d3a24792309d4160652b6a8c57c08487000d64e3
+Patient ID a92cb95fa3dd4ea55db2be2f8993d82f0ce82b7dd00bd1bff4a2035b
+Patient Name 6f46a4ab09ab2893839942d4f1b8b3762a1fd8298e5a1f304ce88f6f 50/Y. DR. NCP. CAS.
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 22e0c4fc9fabce05325abcbce5ea4fc6db9c76e9b2a8175eb49c7084
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Patchy pneumonitis and fibrosis noted in both upper zone
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+  For clinical correlation. 

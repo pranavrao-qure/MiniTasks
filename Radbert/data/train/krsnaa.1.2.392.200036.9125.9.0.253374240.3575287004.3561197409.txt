@@ -1,0 +1,29 @@
+
+Patient ID f137f5136c4a430f6d3812b25291e709aedd9728550a15776f613c57
+Patient ID 39ca325829d446998c2aeae5b3f48dabf6235220a0a7e33004f9e42c
+Patient Name a2b5c0252f9ce1eb22afe2becb4fe048ee211d986291c7dcbbfc4c8a 50/Y. DR. SREE LAKSHMI. CAS.
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date c470e30bf8f76126124f49714993712aea901c7394700e2ff2e16243
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

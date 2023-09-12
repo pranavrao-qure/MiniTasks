@@ -1,0 +1,33 @@
+Patient ID 34b65aaa7a2ad70f97ae5fe48ccf77b77f665b743bc80dd3099bab8f
+Patient Name d2be3f27ce1e571ab558684f77a2efd47ad77159e6c020d3407245a4
+Age :36 Years
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 37413ae4c75d8bfa5e68acf9ad5be3139ecfcb61406213f0b93cf627
+
+
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Tiny opacities noted in bilateral upper lung zones - infective etiology .
+Bulky left hilar shadow noted.
+Fissural thickening noted at right perihilar zone.
+Trachea is in midline.
+  Right hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+Impression : Above findings are S/O infective etiology.
+
+For clinical correlation. 
+
+
+

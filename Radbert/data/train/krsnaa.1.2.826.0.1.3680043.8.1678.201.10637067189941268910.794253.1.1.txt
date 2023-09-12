@@ -1,0 +1,30 @@
+
+Patient ID a332921ae42a27e80dd004581d8c085a12dfce33634401a4a973a299
+Patient ID 623038470fcd7095f584941dbdfe83a2b8d9227a7a3e489c47fad011
+Patient Name f1f7e4e94ebfb51ab60a59da304c2a711a8c7390cda6722f23588b47
+Age :40 Years
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician bd4f69f250a3365ad1d167db6c50d185333fbff210894043174f713c
+Study :CHEST PA
+Study Date 92f9a3e8252a1172c9887e011d12593c3e7436ec4d305217d8e02d91
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Thick walled cavitatary lesion noted in left lower  zone - Infective.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Bony cage and soft tissues appear normal
+
+For clinical correlation. 

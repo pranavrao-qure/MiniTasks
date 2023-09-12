@@ -1,0 +1,40 @@
+
+Patient ID 368c439099f9f6a1d1125e21afefbb433eaa1861261c7bdaf9f4415c
+Patient ID 001f6f018a3776e0b816e3610de28e82d66f61b290310574ab5bdfa0
+Patient Name 35b4e6dadd328a4d395de4c576943db888876116f76c83cf0e0ed5bc 57/F
+Age :
+Sex :F
+Accession Number a87d655d2d7d57febf900b66f37487801ea3d96245cea1e79f98103c
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 2fb3b32c0c68252d16747de7e9bc577658d8bdc17c7ad6bbe0bd8fc9
+
+
+
+
+
+
+X-RAY
+EXAMINATION      :     CHEST PA VIEW                         
+         
+                                      
+No obvious lung
+parenchymal abnormality is noted.
+ 
+Cardiac silhouette and
+mediastinum appear normal.
+                                 
+Both the costo-phrenic
+angles are clear.                  
+                 
+
+Both the domes of
+diaphragm appear normal.
+ 
+Bony thorax does not
+reveal any abnormality.
+ 
+ 
+IMPRESSION:
+No significant abnormality noted.

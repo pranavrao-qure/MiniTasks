@@ -1,0 +1,32 @@
+Patient ID 7e5e63f12685f066d58286c34f839201fb52fb34d1a523c48a6c9e96
+Patient Name 2a79b6198b34e765b9cb4b2f53903fe842903cf7d853e330643665de
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6bebdb3c0d392e540f958848fdfd17b368dedc93adf9bd5321a1d1a5
+
+
+
+
+
+                                         X - RAY CHEST PA VIEW
+   
+
+History not avaliable.
+Artifactul film. 
+Blunting of left CP angle noted - Pleural Effusion / consolidation
+? Resection of left 6th and 7th ribs
+Trachea is in midline.
+  Right  hila normal in density.
+Cardiac silhouette obscured.   
+Right CP angle appear normal.      
+Rest of lung parenchyma are normal. Bony cage and soft tissues are normal.
+
+ADVICE : USG CHEST. For clinical correlation. 
+
+ 
+ 
+Date: 28-Jan-2020 13:22:26

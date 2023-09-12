@@ -1,0 +1,21 @@
+
+Patient ID 15457a0082bf4855914645043646a62d472480b4960c0d8879163f90
+Patient ID 99d98e90f81545e3d079469f21a6fc3cfbaea8089694821bf53e1d3b
+Patient Name 800d137949d013d1f107f0e452b0ae690432615080eebed15b30570b 55Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 48f1b8db347dbaf858bb15da6982df40bc7c422bf7c7596f904527cf
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows pleural effusion left side.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.    Soft tissues and bony cage appear normal.         Suggested clinical correlation and follow up.
+ 

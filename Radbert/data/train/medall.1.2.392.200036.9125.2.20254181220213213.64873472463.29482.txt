@@ -1,0 +1,24 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+Trachea appears normal.
+Cardiothoracic ratio is within normal limits.
+Lung fields show epical haziness in right apex.
+No cavity and no hilar opacity.
+Costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+Extra thoracic soft tissues shadow grossly appears normal.
+IMPRESSION:
+
+ù        
+Early pulmonary kochs.
+
+
+
+ DR.M.Alavudeen., DMRD  
+ 
+ Consultant radiologist.
+
+

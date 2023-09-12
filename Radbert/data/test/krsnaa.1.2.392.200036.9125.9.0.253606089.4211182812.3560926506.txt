@@ -1,0 +1,25 @@
+
+Patient ID 7739489b4a68124f36f8a9362b0de28d1a6435a2e69dfa5e985879d4
+Patient ID 8f7056888679b7d90c7f4e1a227a330d612128797b67d4fd234267e2
+Patient Name dd83fdd6a6f415d1ebd67fc31590abd88b717cee092e40da2e6639f6 50 Yrs
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date bd9c4bad0267d7832ff5b6831632aededce9cdf06c1436f6451f2c45
+
+
+
+
+
+
+X-RAY 
+CHEST AP VIEW
+FINDINGS 
+:       Lung fields shows opacity left apical and upper zone - Koch's.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.        
+Suggested clinical correlation and follow up.

@@ -1,0 +1,38 @@
+
+Patient ID 09497372dc1650316bbdf85e43eeb1d794bdd7fa5157335da2fedcce
+Patient ID 1f3de74a3cc4bf974c70c5485e3c0dc0197dd1cb99d425a3f813818b
+Patient Name 1b11a85932c048a5bc0c6b29a33dbde0e4a6e382cf276855b94e9a63 65/F
+Age :
+Sex :O
+Accession Number 2c4aa029ba2f4aa06653f1d6d1162f00caa2b930cb022754dc1a863f
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 48f5780eb7346ca3729c72793120c1c4e13a5830107eaf5a1215269f
+
+
+
+
+
+
+ 
+                                 X-RAY CHEST- PA VIEW
+patient is on gross rotation  
+ 
+Visualized Bilateral lung fields
+appear clear.    No obvious
+pleural/parenchymal lesion noted. 
+ 
+Bilateral hila are
+normal. 
+ 
+Both costo-phrenic and cardio-phrenic angles appear
+clear.
+ 
+Both domes of diaphragm appear normal.
+ 
+Bony thoracic cage & soft tissues appear
+normal.
+ 
+ 
+ 

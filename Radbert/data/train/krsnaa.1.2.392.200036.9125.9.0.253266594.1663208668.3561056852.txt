@@ -1,0 +1,27 @@
+
+Patient ID 2dbd25b0f2a176215dc46f9cd68eb571b28eeb3046b3bbbc0bfcd182
+Patient ID 3574555c61c13fdb938565d183db0e092a29ca7488a750c44bb2c614
+Patient Name f57c92171e909a180eb3bb55c07b1287f1a81db1398bd051bb9f3a51 47Y M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date a8b9e3916dda12bd81c91a0ab27f228034b35c4479cf8608abef2994
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Homogenous opacity in right lower zone with blunting of right CP angle - effusion.
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

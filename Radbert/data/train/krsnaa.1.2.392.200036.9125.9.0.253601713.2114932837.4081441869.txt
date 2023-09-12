@@ -1,0 +1,32 @@
+Patient ID 39e58c664ec00b0f42ba8a7029c2f30d4c5aaaa2b2e9e236f9dc1322
+Patient Name 22894350906a97825b1f170c218e03cd8fcbe2a26c9e0dd91699d515 44YRS/M
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 035cdc8f205d4e96323b5e14c8092bf5053978d875421de98c6d3bbf
+
+
+
+
+
+X-RAY CHEST
+
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+The pleural spaces are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  :
+Normal study.
+suggested clinical correlation and follow up.
+
+
+
+ 
+ 
+Date: 04-Dec-2019 12:51:13

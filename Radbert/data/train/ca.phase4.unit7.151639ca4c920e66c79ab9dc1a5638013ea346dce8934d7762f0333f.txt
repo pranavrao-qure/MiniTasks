@@ -1,0 +1,22 @@
+X-ray Chest Right Oblique view:
+
+LUNGS: Normal.  
+HEART: Normal. 
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+MEDIASTINUM: Normal. 
+AORTA: Normal. 
+PULMONARY HILA: Normal. 
+PLEURA: Normal. 
+
+THORACIC SPINE: Normal.
+RIBS : Normal.  
+OTHER VISUALIZED BONES: Normal.
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+35 year gentleman with trauma right side of chest.
+
+X-ray Chest Right oblique view shows no fracture.

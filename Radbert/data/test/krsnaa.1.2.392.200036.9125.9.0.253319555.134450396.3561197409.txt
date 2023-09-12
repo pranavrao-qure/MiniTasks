@@ -1,0 +1,29 @@
+
+Patient ID 5bc86c2b82fd52319055b5bacc0e143a8e4164905816af4de835c455
+Patient ID da6f61c2a98aa61e4b354953048879e51ce05817073665f8ff708b3b
+Patient Name 6ef434961bf34d38ac9f1f850c497ed6b856213c0801135e40a28cc9 /60Y DR RAGHU CAS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 4653bb5685342fa998b5decfe2353da04d7b4a16b6ee7838eb312a4e
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

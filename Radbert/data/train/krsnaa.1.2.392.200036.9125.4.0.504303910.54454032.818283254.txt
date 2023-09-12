@@ -1,0 +1,31 @@
+Patient ID df7cf552b4044f239f4e02ac821a6c7bef9eb79297dca0149aa665e4
+Patient Name c663e5049c8b154039b0d062a10f0e97c9598ae85a5ab2eac9f5bc64 40YRS CXR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 65998a0d93a1247a02bb4391be0e3a2c668e7e23d0e8d6fe7e3abdfe
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+Blunting of  left cardio-phrenic angle is seen suggest pleural effusion.
+Mild haziness noted in bilateral mid and  upper lung zone - -? Infective.
+The lung fields are clear.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+
+IMPRESSION :  
+Mild haziness noted in bilateral mid and  upper lung zone - -? Infective.
+Blunting of  left CP angle suggest pleural effusion.
+
+ADV USG THORAX.

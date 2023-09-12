@@ -1,0 +1,35 @@
+
+Patient ID 7247c32c40c07c041e9a9db1cb0372e62fd87cb43d9e7f65577ebbb0
+Patient ID cb9a9469083d68f668d949b81eaabbe591b682fe0693ad7a21b29145
+Patient Name 22805002cb8b2cba975fba53089dff01d389ad2e12a59e9588e95e0c 53Y M,REF DR VIJAY
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date ff30b9771a867e06d1bdbbc58493099e63d2307dfe8aa667174f4f0f
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Homogenous opacity noted at left lower zone with blunting of CP angle - Mild pleural effusion.
+
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+ 
+
+
+
+
+

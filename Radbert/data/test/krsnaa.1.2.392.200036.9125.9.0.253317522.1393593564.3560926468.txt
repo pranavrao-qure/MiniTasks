@@ -1,0 +1,34 @@
+
+Patient ID 0c9c1505122e0497d834b08cfea19aa0e59d90756b93a8160994985d
+Patient ID c34e8e3724bcd4feee56782e137edb2bc526eaac468e86b5675fee22
+Patient Name 59106d8a559a8960613da68bd74299b3e24a99a47250dcf25827d7f0 50/M
+Age :
+Sex :
+Accession Number 665c0c56421d5c7c246c6984927ed08959ee3650f294fecb2fb6c974
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 02f9509518efc23990218d7bf299cbdf4410151927e13f86edc2d353
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Patchy infiltration seen in bilateral upper and mid lung zone with perihilar lymphadenopathy seen due to infective etiology.
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :   
+
+
+Patchy infiltration seen in bilateral upper and mid lung zone with perihilar lymphadenopathy seen due to infective etiology. . 
+For clinical and HRCT correlation . 

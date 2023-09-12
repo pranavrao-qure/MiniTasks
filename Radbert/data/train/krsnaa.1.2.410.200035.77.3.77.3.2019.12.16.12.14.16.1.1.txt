@@ -1,0 +1,31 @@
+Patient ID 3d5255e693fa684cf342f12343a2e7d999a668035779b398e4c21cb8
+Patient Name 0cb1f4010218b4830e95d5917d3270b408a0bb846d109e630068fa95
+Age :65 Years
+Sex :F
+Accession Number a4a7054115535937a0c8d5881c47bad7767986b8dbd5ac28926adbc2
+Modality :CR
+Referring Physician 19fabefce43a73d48115d7646f3838b0274c7cd5174c82bbae4f0948
+Study :CHEST PA
+Study Date db5d8a0643305681f6c14064e8214b7ff4a9fd3a2f14c12c029b8600
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Prominent aortic knuckle noted 
+Suggested clinical correlation.
+
+

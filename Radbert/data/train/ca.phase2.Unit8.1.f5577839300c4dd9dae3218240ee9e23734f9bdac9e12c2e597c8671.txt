@@ -1,0 +1,23 @@
+X-ray Chest  PA view
+
+LUNGS: Normal.
+HEART: Normal.
+TRACHEA:Normal 
+CARINA:Normal 
+RIGHT AND LEFT MAIN BRONCHI:Normal 
+MEDIASTINUM:Normal 
+AORTA:Normal 
+SVC:Normal 
+PULMONARY BAY:Normal 
+PULMONARY HILA:Normal 
+RIGHT HEART BORDER:Normal  
+LEFT HEART BORDER:Normal 
+PLEURA:Normal 
+CLAVICLES:Normal 
+RIBS:Normal 
+SCAPULAE:Normal  
+SPINE:Normal 
+HEMIDIAPHRAGMS:Normal 
+VISUALIZED ABDOMEN:Normal
+Report Impression: 
+Normal X-ray of the chest  PA view.

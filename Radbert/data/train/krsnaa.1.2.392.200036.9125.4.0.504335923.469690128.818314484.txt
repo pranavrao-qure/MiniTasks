@@ -1,0 +1,31 @@
+Patient ID 7bcb088f2e7578686f4a645543dffd41fd94aa40f4e691ce1606c0c1
+Patient Name 66a89db60b1067a747cf8ba7bc161e86b3f7dd79b525f8459151253a 38YRS DR N K GIRI
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1a742348c3f86b026556de96a9bc611e45d523b3fca6507f3dc58b9d
+
+
+
+
+
+    X - RAY CHEST
+Mild haziness noted in  bilateral lower lung zone - -? Infective.
+Diaphragmatic hump noted on right side .
+
+ Trachea is in midline
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Mild haziness noted in  bilateral lower lung zone - -? Infective..
+For clinical correlation. 
+ 
+ 
+Date: 17-Mar-2020 15:09:03

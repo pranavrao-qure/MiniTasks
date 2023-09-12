@@ -1,0 +1,27 @@
+Patient ID b54d839d6c87e04d524b839f4f6532e1f0104806960675f645e9d7f0
+Patient Name 9b827c8c91a028500468eff047bb0206901458dfb5f0f4b6b1ff7b2e
+Age :70 Years
+Sex :M
+Accession Number ecfd1e08296f5a11b7f97f16a1a2e4d23fe292412289ade3b1b71a4b
+Modality :CR
+Referring Physician 40826a4f12f4a288f283b574a5302e641a60f2c070fa41b0117cc680
+Study :CHEST-PA
+Study Date c132168590381189a969ecea86011de67000abce98a407e9339c297f
+
+
+
+
+
+  X - RAY CHEST 
+ 
+Patchy consolidation noted at bilateral apical and upper  lung zone - Infective
+Tenting of diaphragm on right side.
+Trachea is in midline.
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy consolidation noted at bilateral apical and upper  lung zone - Infective
+For clinical correlation. 

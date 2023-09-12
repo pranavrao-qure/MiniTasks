@@ -1,0 +1,22 @@
+
+Patient ID 22741bb868753e4a7e31b86488d56885a3da1d0d267da9d9e27b6d82
+Patient ID a9f306e8a01c2df30a11b257fd917a09e648688f1de5aabde3d9e65a
+Patient Name 7db04adacf6f6e4cb8659af4e02b73845c820d738030d82974eb7080 6/M
+Age :
+Sex :O
+Accession Number 65a8d28fd3e5a92d291932efb5001d71b6f01008cd49f26e6063d21c
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date e5927ef797eec47b5f70c8c6e21361972b7d4b752b9d51af6761f736
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows ill defined opacities left upper and lower zone - Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Old fracture right clavicle and 3, 4, and 5th rib on right side in its anterior thirds.
+     Suggested clinical correlation and follow up.
+ 

@@ -1,0 +1,26 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+
+
+Prominence of left hilum with normal density.
+Haziness in bilateral lower zones - Likely atelectatic changes.
+Trachea appears normal.
+Cardiothoracic ratio is within normal limits.
+Rest of bilateral lung fields appear normal.
+Costo and cardiophrenic angles appear normal.
+Chest wall and soft tissues shadow appear normal.
+
+IMPRESSION:
+
+"        
+Prominence of left hilum - Suggested clinical and ECHO correlation.
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2328 by 1349, depth 1
+pict001.wmf
+DR.ABHINAYA MD RD.,
+Consultant Radiologist.
+
+

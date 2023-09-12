@@ -1,0 +1,32 @@
+Patient ID b74152bd8c11f4983afca54839a6e391c5ccc914dc816d2c609d3b7f
+Patient Name 8dcbc089d915fe8bdde61ae1227eed0eed5008d5a90cc87df611a694 Tamang,55yrs
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fd0d8f8d35ccb4e258b78d602f43c6e79691c63b6a3336c3fa7c333a
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                     
+ 
+ 
+Bilateral prominent hila with prominent bronchovascular  markings in bilateral lung fields - ? Pneumonitis.
+  Unfolding arch of aorta noted.
+Mild enlargment of left ventricle is noted.  
+Rest of lung fields are normal
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.   
+ 
+Both CP angles are clear.
+ 
+For clinical correlation. 
+
+

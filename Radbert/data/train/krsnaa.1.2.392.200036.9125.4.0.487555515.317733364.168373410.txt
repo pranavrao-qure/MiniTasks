@@ -1,0 +1,27 @@
+Patient ID 9d5d94d2f4b10e0dccead21b5d1b95b4c81c69dee23804d1079bb1b9
+Patient Name 5e0bc7bf641d10fe20df9c597b7b516b1571d7c25399aef86036c24a 43Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 06249234fe03b5e828663bb38b83a8da56dd6f8b4d1bcbc33a3de006
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Tiny opacities noted at bilateral lung upper zone - infective.
+Trachea is in midline.
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+ 
+
+

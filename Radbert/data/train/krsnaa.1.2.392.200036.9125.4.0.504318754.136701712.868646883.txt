@@ -1,0 +1,31 @@
+Patient ID 9f0dc76087f8de5322e52b3697ab2e08502d0085fe6df8ff4f0e30fd
+Patient Name 61f47938b991e392e515f1f37574ed10115ef8fcee901dce945ac625 40
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bff82b3cb92b2602a4fb8913a99995e2b2a6472c2304b8186a1d5c31
+
+
+
+
+
+X-RAY CHEST 
+OBSERVATION:
+Blunting of right  costo-phrenic angle is seen suggest moderate pleural effusion / consolidation.
+Emphysematous bulla in right mid  zone - Infective etiology.
+Prominent left hilar shadow noted.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+Left CP angle clear.
+Rest of lung parenchyma normal.
+ 
+IMPRESSION :  
+
+ADV USG THORAX.
+Clinical correlation.

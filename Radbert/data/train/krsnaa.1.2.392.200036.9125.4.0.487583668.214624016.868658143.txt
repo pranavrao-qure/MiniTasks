@@ -1,0 +1,36 @@
+Patient ID 018a8b22231804e52ce7b4c9e303895ca6a47c8e5fca52f7f7296fb1
+Patient Name 5f2cde341931dc4e599becfd47e7a003b5bdb52f8c439077bf6b4f16 60Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date d93538b5d6bb9f65d7774d35096ea5edf66d672d63d1fbaded731978
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Bilateral crowding ribs noted.
+Unfolding arch of aorta noted.
+Mild scoliosis noted with convexity towards right side.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Bilateral crowding ribs noted. Unfolding arch of aorta noted
+Mild scoliosis noted with convexity towards right side.
+Suggested clinical correlation.
+
+ 
+ 
+Date: 14-Dec-2019 17:07:07

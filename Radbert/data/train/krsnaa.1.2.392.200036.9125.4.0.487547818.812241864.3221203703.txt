@@ -1,0 +1,31 @@
+Patient ID d902aae586c85d1403ad7bc4efcb754b5f00b8a3e57ec3beacb3f58c
+Patient Name 4ddb4bedd44cb6c384f69f2c001071c1b68ef7a14110eb1b3eb1d04e 48Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bb74ee05c47bf37137ad6fb42548ca6dc1dcb2b031ad90aae5332566
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+ 
+ 
+Sternotomy sutures noted.
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+ 
+ 
+Date: 06-Dec-2019 14:13:42

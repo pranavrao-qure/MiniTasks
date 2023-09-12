@@ -1,0 +1,28 @@
+Patient ID ee1a657bf756ccd7f2a0515a265e0e018ed2dac9e261de0f7e713cd0
+Patient Name 056aeaa14e7ad312757e196728c57cdcc76f927f3a2360e4e01b4d4e 74y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fcaefb788bcc88e45acdeeeeac81df98fdc6a09400996e443f4779e5
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ 
+Homogenous opacity noted at left lower zones with blunting of CP  angle and air fluid levels above it - Hydropneumothorax - Adv: CT chest.
+ 
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+ 
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

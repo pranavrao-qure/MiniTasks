@@ -1,0 +1,21 @@
+
+Patient ID 6ca357be62e89bee51662434cf7b469155cf0ca1b7b372490447d847
+Patient ID c3033d6001eaaae1edad6f489a2a44f63236b6fa68b8c7344aa67e87
+Patient Name 4ffc98df1a2011dd93cb20a0c88a8652f43a82273d301366faa58738 REDDY/48Y.DR.PVKREDDY,CAS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date e51c96468f35c8448a973c6876d9b1385452501ef8e9b213e6040b13
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

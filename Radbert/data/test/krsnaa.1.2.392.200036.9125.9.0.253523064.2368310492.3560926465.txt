@@ -1,0 +1,22 @@
+
+Patient ID bf27e699ba3ddbf650e5e7c0eddb2e544b310b2c07281f8eaafbda67
+Patient ID 541e0ae19f963273c0a4520bf63a3eb7524467fea4de3032f50b1ce0
+Patient Name 0955010b8a0fa669b705e771c23bcbc77bfdbfc09463e4cec4b93d4e 60Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 5a46077bf5f4efa4ab80efce814a6450381a27001b272cd634d3c3f2
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.    Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Old fracture right clavicle and old fracture 4th and 9th rib on right side and 6th to 10th rib on left side in its posterior thirds.
+     Suggested clinical correlation and follow up.
+ 

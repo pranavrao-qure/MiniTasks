@@ -1,0 +1,31 @@
+
+Patient ID 5d74ecb464b18a2be2da5b01d625876a2d1962d74b9b2a5ef743d54d
+Patient ID 6c619c030826b64653ae2dbcbe72468423a493170327161415059a77
+Patient Name 8d3abb5bf055f8ab50b98a0b83d3fe05a3793bceac40932f6841e15c 2Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 3fd73795c28e644596010ad3121cd279ab6c8f3af79cf59401e07ed3
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Displaced fracture noted at mid shaft of left clavicle.
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation. 

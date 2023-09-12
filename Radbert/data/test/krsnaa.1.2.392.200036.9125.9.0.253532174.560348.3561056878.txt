@@ -1,0 +1,27 @@
+
+Patient ID 80080cc4275a43907bebcac34323335732284c23015d3d99f9292ea9
+Patient ID 4978c04a84800ff8e45752b6c821983377c22a2150a3ca4a3377eeb8
+Patient Name ec95b516c789e4dac55941dc105b7f996ce36eb461541c0ddb5cb725 NARASAMMA46 Y REF DR SRUJAN
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 6a5fb47c00c3cb3ec6d8b312ee1be8cdaa9cd68e61a35bc61539846b
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

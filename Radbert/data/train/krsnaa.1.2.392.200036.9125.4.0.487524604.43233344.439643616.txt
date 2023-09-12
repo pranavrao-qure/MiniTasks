@@ -1,0 +1,29 @@
+Patient ID f9e0d66fff2f9fe56fc4530c65e3cbf841ecd97ad39ee37d8334a1a2
+Patient Name d5f5c1dceb07bc2f9394836aeac4786c761a3743fba7cd2fa2130572
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST 2R
+Study Date 6e51a1fee4c56ddfa75155b4d40035a0b3b3d7a2434023d86944fd52
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at right  perihilar region - Infective
+Aortic knuckle calcification noted.
+Trachea is in midline.
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+IMPRESSION:
+Patchy consolidation noted at right  perihilar region - Infective
+For clinical correlation.  
+ 
+ 
+Date: 06-Feb-2020 11:20:15

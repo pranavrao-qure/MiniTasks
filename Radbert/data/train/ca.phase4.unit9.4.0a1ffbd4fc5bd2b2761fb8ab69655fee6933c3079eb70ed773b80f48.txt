@@ -1,0 +1,24 @@
+X ray Chest PA view (F.No. 483)
+
+LUNGS: Normal.
+HEART: Normal.
+TRACHEA:Normal 
+CARINA:Normal 
+RIGHT AND LEFT MAIN BRONCHI:Normal 
+MEDIASTINUM:Normal 
+AORTA:Aortic knuckle calcification noted.  
+SVC:Normal 
+PULMONARY BAY:Normal 
+PULMONARY HILA:Normal 
+RIGHT HEART BORDER:Normal  
+LEFT HEART BORDER:Normal 
+PLEURA:Normal 
+LOWER CERVICAL SPINE AND NECK:Normal 
+CLAVICLES:Normal 
+RIBS:Normal 
+HEMIDIAPHRAGMS:Normal 
+VISUALIZED ABDOMEN:Normal 
+
+
+Report Impression: 
+Normal X ray of the chest PA view.

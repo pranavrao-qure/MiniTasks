@@ -1,0 +1,21 @@
+Patient ID 19dad32666bc1725ffd44031a38faf7fa87f6a00e8a85c59ddc12ffa
+Patient Name c7fcf52e3447d7bf37e1ed1988d33057e4b81f9690c284c255d6c500
+Age :40 Years
+Sex :F
+Accession Number 708a1a081e9febb17a9863dabee6f73b433d122b7827232066929594
+Modality :CR
+Referring Physician d5dedc266e3b4a77c7def94bdad4a6599479067f830ee72f0d2a7a24
+Study :CHEST
+Study Date fd0d8f8d35ccb4e258b78d602f43c6e79691c63b6a3336c3fa7c333a
+
+
+
+
+
+                                     X-RAY KNEE (AP & LATERAL VIEW)      
+FINDINGS :
+Joint space is reduced.   Alignment of knee joint is normal.   Articular margins  is normal.
+No obvious bony injury.   Bone density is normal.    IMPRESSION : J oint space is reduced .   Suggest clinical correlation and follow up
+ 
+
+

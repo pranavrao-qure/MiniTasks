@@ -1,0 +1,26 @@
+
+Patient ID 0089c3f242c5ee0f47264c7d2a37d9d54b68041e40ed3b2974c4d090
+Patient ID 06169e7b02920ac6f5e282cb5f0a6e49fcb0c55e098ec3c14c35962b
+Patient Name c09038cb58ec0dd8af025f5a3a48ed480792beefc8b279e4d8415e22 38Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c428480a685c3edeb31823378edae752367aebf7024c7ca1858c4a71
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Hyperlucent area  devoid of lung markings noted in right mid and lower zones - pneumothorax
+
+ Trachea is in midline .
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+For clinical correlation. 

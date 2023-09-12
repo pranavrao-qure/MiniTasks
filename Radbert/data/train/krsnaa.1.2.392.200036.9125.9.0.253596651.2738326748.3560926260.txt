@@ -1,0 +1,29 @@
+
+Patient ID bd2762a1b717909fb47b8b1f4265effaf2745559d85ac180adf3131b
+Patient ID 50aca4474a7014f57ba77bd0bf2aefe02a137b4ba18a9e0788a4ab79
+Patient Name 9e7d4d105e60d867c57eb900ba0861120695b9579ddce1f7dd7e591e 38Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 48ba4377cd2f2a4eee88a330e5ad01c14b37983ae65023ddfe28953d
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy infiltration at both upper and left mid  zone p/o Koch's 
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+For clinical correlation. 

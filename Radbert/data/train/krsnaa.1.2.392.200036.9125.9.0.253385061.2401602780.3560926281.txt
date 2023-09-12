@@ -1,0 +1,31 @@
+
+Patient ID 90f95d13833d1e3be3ccc4fb852b422028521b0c17e7d3fb15ea870d
+Patient ID ec3f361e79d63232e432f3a94de649084f207f07c9a7db8e663e918f
+Patient Name c5b0b93251a03438d7d744f1d673df23956ba4a98b825e5cb6a2384a 70Y REF DR PRASUNAMBA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 358f59ded48d6e6d5624c354d832abaf983f8eda2da72663eed7c731
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy inhomogenous opacities noted in left upper zone - Infective etiology
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Mild left pleural effusion noted.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

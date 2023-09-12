@@ -1,0 +1,81 @@
+Patient ID a794590259ec522db455626453e250d9d290a9d8e72c1fef7e9294b8
+Patient Name d4af4f08d1d7a1b652197099873493439b85652119e4b2bb358a775c
+Age :40 Years
+Sex :M
+Accession Number f473022d468ea7e5f2ee926e72b00f6410723ab454d045016e066667
+Modality :CR
+Referring Physician 1f9f2d028db2aaa06ec8547e5c6581c98b763079ec7f3c72d953c704
+Study :rt-knee,chest,leg
+Study Date c34621df980a6f523fa57e09c7ece8e3ba78d575709f92b225f0775f
+
+
+
+
+
+X - RAY LEG AP AND LATERAL VIEWS
+ 
+                                     
+suspicious Fracture noted at lateral malleolus with surrounding soft tissue swelling.
+
+Rest of bones appears normal 
+
+  Calcaneal spur noted
+ 
+No evidence of osteolytic / sclerotic lesion.
+ 
+ 
+For clinical correlation.
+ 
+
+
+
+
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+X-RAY  KNEE JOINT AP & LATERAL VIEW
+ 
+Marginal osteophytes and medial tibiofemoral joint space reduction are noted with medial tibial condyle showing subchondral sclerosis.  
+ 
+fracture noted at patella  .
+ 
+No abnormal soft tissue calcification seen.
+ 
+Bones show normal architecture.
+ 
+ 
+IMPRESSION:
+
+Grade 3 osteoarthritic changes (Kellgren and Lawrence classification)
+fracture noted at patella 
+
+

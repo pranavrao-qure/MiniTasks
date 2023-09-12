@@ -1,0 +1,22 @@
+
+Patient ID 6a5acba86aa92f6c761360ce74440ebfad0445586afa41c5f97caf3e
+Patient ID 1ffbc11c5b68cb03647308d1df71f32c46f673b74b7b5865dba10a5a
+Patient Name 6a8c4e76746bf9027ed5366711ab3b05f1c57e1345f9f5d4a52d746f 22Y MOP128
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 50551972b322be70a52dbaf70d93813b25de4d140fbdca7ccac90e3f
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows minimal pleural effusion both sides.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

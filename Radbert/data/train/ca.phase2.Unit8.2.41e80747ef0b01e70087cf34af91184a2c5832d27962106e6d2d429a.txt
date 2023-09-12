@@ -1,0 +1,23 @@
+X-ray Chest PA view:
+
+LUNGS: A homogenous opacity is seen in the right lower zone, with concave upper margin and elevated lateral border. The hemidiapghragm is obscured. TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+LEFT DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+Homogenous opacity in right lower zone that is obscuring the hemidiapgragm- suggestive of effusion with subpulmonic component.
+Advise right decubitus chest skiagram/CECT throrax.

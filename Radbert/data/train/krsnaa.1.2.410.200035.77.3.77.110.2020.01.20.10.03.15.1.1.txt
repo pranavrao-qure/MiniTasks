@@ -1,0 +1,30 @@
+Patient ID 044a2cf8bce3eed290db6296fdfbba4bb656cb54fb0f623e7dd65284
+Patient Name 8a3f9721e9d4c2a7cc6c8534978451c2d9c0955593c3681e3d87b09b
+Age :60 Years
+Sex :M
+Accession Number a50629771b22a2803eb3f6dbec5328f1d350bdcb5d85aeda02399fd0
+Modality :CR
+Referring Physician 40826a4f12f4a288f283b574a5302e641a60f2c070fa41b0117cc680
+Study :CHEST-PA
+Study Date ec329b92bf045792553167b4ad453900caf8ff070ad9d0aeb35e644c
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+Blunting of right  cardio-phrenic angle is seen suggest pleural effusion.
+Diffuse consolidation noted at bilateral lungs.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+ 
+IMPRESSION :  Blunting of right CP angle suggest pleural effusion.
+ 
+ADV USG THORAX.
+
+

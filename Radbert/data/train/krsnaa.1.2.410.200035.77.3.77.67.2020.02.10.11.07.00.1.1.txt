@@ -1,0 +1,28 @@
+Patient ID 044daee25ec126d22998966bee992e8dc5b899953e19f4387fe19bbc
+Patient Name 2e90d1ef08bb0b1ffef863c9f99feafdcb2bc53b09b3229e49dd2927
+Age :80 Years
+Sex :F
+Accession Number aee3b7abd5f06b1f6684f2e89f3430124f4ccbc1fc810e46df76bfa2
+Modality :CR
+Referring Physician ee8c7d67eca07243aaceeed42cd5b101e8dbe0cdddf36f2f14ac6c3c
+Study :CHEST PA
+Study Date dd09cf71122ff14a9e43768813031f106e2c219dc60b58abc3d713a7
+
+
+
+
+
+  X - RAY CHEST 
+ 
+Patchy consolidation noted at bilateral perihilar region- Infective
+Scoliosis noted.
+Trachea is in midline.
+ 
+Both hila normal in density.
+
+The cardiac size is enlarge -  cardiomegaly
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+

@@ -1,0 +1,29 @@
+Patient ID c883c1d7edc8c140a33b018da7b07e70d0f00a845b87f4fcb75290ca
+Patient Name a2ccd45095759d3a4e43664604b6009aaf5ff5e738a919d873f82e9a 45YRS DR. AMIT CHAURASIYA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date faad4e5461236f04de386b4126794daca92aadcf5811e79cf41a1709
+
+
+
+
+
+                                                          X - RAY CHEST 
+Prominent bronchovascular markings noted at bilateral lower 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION:
+Prominent bronchovascular markings noted at bilateral lower 
+
+ 
+ 
+Date: 25-Feb-2020 15:46:09

@@ -1,0 +1,27 @@
+Patient ID d6568ddaf941ec4a3e74b9286248e1895eaee182e4e25d919bd70f8e
+Patient Name 5603d397dc83f781716e1630a281f400f22b52bf3dc682ca6a585a24 70 Y
+Age :
+Sex :F
+Accession Number 82f552a220924a15df2e86c0c97fbd765c2fc287d22fa2d8239bec3d
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 105bd3c366b5081a0dbf63b778f2ff88f581cc9a30c0be7e98e2ef12
+
+
+
+
+
+X-RAY RT SHOULDER AP VIEW  
+  
+ 
+FINDINGS :    
+ 
+  Fracture noted at lateral 1/3 shaft of clavicle ? old un-united fracture 
+
+  Rest of bones appear grossly normal.   
+ 
+
+Suggest clinical correlation and follow up.
+
+

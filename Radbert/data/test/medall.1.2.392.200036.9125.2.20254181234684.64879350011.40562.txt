@@ -1,0 +1,33 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+ X-RAY  
+CHEST PA
+
+FINDINGS:
+
+ · Both lung fields show mild increased bronco vascular markings .
+ 
+ · Both domes of diaphragm and CP angles are normal.
+ 
+ · Both hila are normal.
+ 
+ · No evidence of mediastinal shift is seen.
+ 
+ · Cardiothoracic ratio is normal.
+ 
+ · Bony rib cage appears normal. 
+ 
+ 
+IMPRESSION:
+
+ · Both lung fields show mild increased bronco vascular markings .
+
+
+
+ 
+  ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 9629 by 1958, depth 1
+pict001.wmf
+
+

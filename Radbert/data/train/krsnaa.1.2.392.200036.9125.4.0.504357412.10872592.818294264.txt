@@ -1,0 +1,19 @@
+Patient ID 058482af0670f4cd1e97852b857cd239bc58d4df4dfb4e2df3a82b28
+Patient Name 4d020d1fba8942e9d3c471a91dcfd0cf126a77d24d0d5a1f752c4753 30 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 105bd3c366b5081a0dbf63b778f2ff88f581cc9a30c0be7e98e2ef12
+
+
+
+
+
+X-RAY SHOULDER AP  VIEW
+  
+FINDINGS :   Fracture noted at scapula bone.      Bones appear grossly normal   Soft tissues appear normal       Suggest clinical correlation and follow up
+
+

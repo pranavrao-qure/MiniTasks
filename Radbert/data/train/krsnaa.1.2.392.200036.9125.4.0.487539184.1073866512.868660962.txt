@@ -1,0 +1,29 @@
+Patient ID e3f1c7c214b003289f3950bc84118eaadbcc91a5106fc603f10523a3
+Patient Name c072bf13093004505a7551caad919416fa3dd3d9c731b363270989cc 19Y DR S PRASAD
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6bebdb3c0d392e540f958848fdfd17b368dedc93adf9bd5321a1d1a5
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Diffuse consolidation noted at left upper lung zone - Infective etiology.
+Bronchiectasis changes noted in bilateral lung fields.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+
+

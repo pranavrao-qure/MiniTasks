@@ -1,0 +1,29 @@
+Patient ID 7f7ebc563677686bfbfddc7d9cf3a316e462fded2b783d57b2b1e090
+Patient Name 746e7d945c056e171410f0f858edd67d36a4201466fe53bf9db27a32 55  Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 24b3c9163e059b99b40c1622712d928ab4cee273470fe183a7539bc1
+
+
+
+
+
+      X - RAY CHEST PA VIEW
+
+bronchiectasis changes noted in bilateral mid and lower lung zone.
+
+Trachea is in midline.
+
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+IMPRESSION: 
+bronchiectasis changes noted in bilateral mid and lower lung zone.
+For clinical correlation.
+
+

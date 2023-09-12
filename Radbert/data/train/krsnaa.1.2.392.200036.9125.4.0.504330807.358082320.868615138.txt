@@ -1,0 +1,33 @@
+Patient ID 4847bca5d7181157e37dd3b7a5b004c84f6d1691cdb049a93b687576
+Patient Name 00a1889f5b53f94147eeb89a72de2f65ddd035e77de9697deee26c06 50yr
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fe507ab5d3c19fc3e94c19a020302399028951eba6e1e229a261e8de
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+ 
+Large Old healed calcified granulomatous lesion noted at left lung fields suggest sequel to old infection.
+Crowding of ribs noted at left mid lung zone.
+Both hila are normal.
+Cardiophrenic and costophrenic angles are normal.
+The trachea is central
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+ 
+IMPRESSION: 
+Above X-ray Findings are suggestive of old Infective etiology.
+
+ 
+ 
+Date: 20-Mar-2020 13:51:34

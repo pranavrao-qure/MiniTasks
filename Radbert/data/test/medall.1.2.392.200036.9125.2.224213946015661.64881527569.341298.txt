@@ -1,0 +1,63 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+X-RAY CHEST - PA
+
+FINDINGS:
+«        
+Lungs   
+        
+        
+        
+        
+ : Clear.
+«        
+Trachea 
+        
+        
+        
+ : Central.
+«        
+Cardiomediastinal silhouette    
+ :
+"        
+Calcification of the aortic knuckle. Rest appears normal.
+«        
+Costophrenic angle      
+        
+        
+ : Clear.
+«        
+Bony Thorax     
+        
+        
+ : Unremarkable.
+«        
+Diaphragm       
+        
+        
+        
+ :
+"        
+Elevated right hemidiaphragm with smooth contour.
+"        
+Left hemidiaphragm appears normal.
+IMPRESSION:
+¬        
+Elevated right hemidiaphragm.
+ 
+Kindly correlate clinically.
+
+
+
+ DR.SRAVANI.S, MD 
+CONSULTANT RADIOLOGIST  
+
+
+THIS IS A PROFESSIONAL OPINION NOT FOR MEDICOLEGAL PURPOSE
+
+
+
+
+

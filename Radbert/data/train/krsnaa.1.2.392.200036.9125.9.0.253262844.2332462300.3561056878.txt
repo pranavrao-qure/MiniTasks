@@ -1,0 +1,32 @@
+
+Patient ID 6a668cf355ce9d7bea14b16927bbf7efb4c7e5824a26fdfb9f2dd9f6
+Patient ID cbdab2cce9a5644cbfbefc652cee874dacee9838ddb90d0a802d4fe1
+Patient Name eb02659297586b9130a3f728f88ac30dc6b6bc77152d450443e59e0c 70Y DR P KUMAR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date f4d26f8fce9b0d76f4f8d41feb92b92e777681f921b264a2bdaa3dea
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+
+Calcified lesion noted at left mid zone - Old infective.
+
+Fibrotic lesion noted at right upper and perihilar region.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

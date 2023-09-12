@@ -1,0 +1,31 @@
+X-ray Chest PA view:
+
+LUNGS: Passive left basal atelectasis
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Moderate left pleural effusion noted has increased slightly since prior.
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal. 
+ 
+IMPRESSION 
+Moderate left pleural effusion noted with Passive left basal atelectasis.
+
+ 
+
+Report Impression: 
+Compared with prior dated 18/3/2012, the Moderate left pleural effusion noted has increased slightly.
+The patient is likely to benefit with thoracentesis.

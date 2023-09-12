@@ -1,0 +1,27 @@
+
+Patient ID 8855e732bb08547dad30fd9322cacc744b5a079b053b3239476e0a0b
+Patient ID 8908f80cd399bbdb9dc2e5963b49f085a34064b6cbe8c9e9fe893be3
+Patient Name b81c3c2dc95d84dcf88b2651701a680ab1ccb66f4e81c5404e8c63c7 40Y F,REF DR BHAGYALAXMI
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date d55f95c4b08f13a107743e8fc65646fa42b87bc5c30b7f6f58769be9
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

@@ -1,0 +1,72 @@
+Patient ID 94b04343b3409bc2c9dffae66741b07cacc522a6e1ead47d166a4541
+Patient Name 8901451bcf94147f9e3bafb9d078e66e13846524d1e2191d78e8f1a8 56Y/M
+Age : Days
+Sex :M
+Accession Number d824ef87062af376b98eb4a9dc45baa5b5ecf6af0e40666a30582007
+Modality :DX
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :ChestErect PA/ L.S.SPINE AP/LAT
+Study Date d163921adef2bf76079a1e3a4a4e79cf88ac22e824d3ee8677563154
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (A.P./LAT)
+ 
+ Anterior and lateral marginal osteophytes are noted.
+The vertebrae show normal alignment.
+  No focal bone lesion is seen.
+  The intervertebral disc spaces are normal.
+  No abnormal paravertebral soft tissue shadow is seen.
+  No abnormal soft tissue calcification is noted.
+  The psoas shadows are well defined and normal.
+  No radio opaque calculus is seen.
+ 
+IMPRESSION  : 
+ 
+ Anterior and lateral marginal osteophytes are noted, degenerative changes
+Date: 22-Jan-2020 11:24:46
+
+
+
+
+
+
+X-RAY CHEST
+The cardiac size is enlarge -  cardiomegaly 
+Mediastinal eidening noted.
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+The pleural spaces are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position is visible.
+The domes of the diaphragms are normal in position,and show smooth outline.
+IMPRESSION  :
+The cardiac size is enlarge -  cardiomegaly 
+Straightening of left heart border seen.
+ADV : 2D echo
+Date: 22-Jan-2020 11:24:46
+
+
+
+
+
+
+
+X-RAY PELVIS WITH BOTH HIP JOINTS (A.P.VIEW)
+   
+The bones of pelvis and both hip joints show normal architecture and normal alignment.  
+  The hip joint space is normal.
+  The articular margins are normal.
+  No soft tissue mass or calcification is seen.
+  There is no evidnece of fracture/ dislocation.
+  No evidence of loose bodies or joint effusion is noted.
+  The sacroiliac joints are normal.
+ 
+IMPRESSION  : 
+ 
+NO SIGNIFICANT ABNORMALITY DETECTED.
+
+

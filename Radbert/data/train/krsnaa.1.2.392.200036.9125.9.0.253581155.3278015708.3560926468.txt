@@ -1,0 +1,35 @@
+
+Patient ID bb6755cc908842c9a7017ae54dc764b3235a995c8352a3b775a1a5f4
+Patient ID 3592e6c1c81b94995ebed1ceb5b5b787f94594eab73c1ef04766eee5
+Patient Name d8b9c0f06f5089f3041aa5418e4a8546001ac3b0acb9424de231e093 65/M
+Age :
+Sex :M
+Accession Number 55eb58f7cd9a30118c39c418299de4e6d2b887431627d0a93513e9d6
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 89ff8b973d67ae46b57ff26ef0715889a6daef2d55e7c38fa72044da
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :     
+  
+Patchy fibrotic areas are noted in right upper and mid zones - S/o Koch's. 
+  
+Both hila appear are pulled up. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ 
+    Suggested clinical correlation and follow up.

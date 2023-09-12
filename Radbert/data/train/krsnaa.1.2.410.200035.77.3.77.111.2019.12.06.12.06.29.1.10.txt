@@ -1,0 +1,21 @@
+Patient ID 433f18c0629ac1440c221929ed476d57fb3994e86f84adad2dfdf42d
+Patient Name 3dd15a90f84082b179771d01e06032f4c1cf42c58aff895c28d6acf2
+Age :57 Years
+Sex :F
+Accession Number f89eec2ba547f5aa54ca96e7d9e5207e19641a1d2ec3d76bf502b61a
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bb74ee05c47bf37137ad6fb42548ca6dc1dcb2b031ad90aae5332566
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+Bilateral pulmonary hyperlucency associated with air trapping is seen. Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION:  Above X-ray Findings are suggestive of air trapping.
+Small nodular opacities noted in bilateral perihilar region .
+

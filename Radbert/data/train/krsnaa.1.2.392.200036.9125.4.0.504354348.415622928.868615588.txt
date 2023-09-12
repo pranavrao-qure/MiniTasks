@@ -1,0 +1,31 @@
+Patient ID b384aa03ef8d32471e0d138b972c2c34d71938140740c9cea2ed33f5
+Patient Name bd4994966d348c879eec574c6c1c0990fdb617c2eeb150b24597e94b 46Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ab6fbd955b84e999da2ab43d2a240319699679b5eb589efcf72d5d6e
+
+
+
+
+
+X-RAY ERECT ABDOMEN   /LATERAL VIEW 
+ 
+
+FINDINGS :
+
+Multiple air fluid levels noted at center of abdomen - ? Small bowel obstruction - Advised CT Abdomen.
+ 
+No evidence of air under the domes of diaphragm.
+ 
+Properitoneal fat planes normal. 
+ 
+  IMPRESSION:
+Multiple air fluid levels noted at center of abdomen - ? Small bowel obstruction - Advised CT Abdomen.
+ Suggested clinical correlation & follow up.  
+
+
+

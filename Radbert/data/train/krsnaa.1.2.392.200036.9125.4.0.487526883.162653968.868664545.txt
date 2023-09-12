@@ -1,0 +1,28 @@
+Patient ID 182b9c91751b18b815cc276d98650fee72a5cd28f1ef62cbaf5d5909
+Patient Name 281d1e80c3fb6f44625f521ffc32bf765bb10774d46043e6170af695 40Y DR AJIT SINGH
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1127089e88d42baff6bb3866c3315321cdce1145499338cfaef4152a
+
+
+
+
+
+                                         X - RAY CHEST PA VIEW
+ 
+ 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of left CP angle noted - Mild pleural Effusion.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+

@@ -1,0 +1,22 @@
+
+Patient ID ab0f8213db14909d61cd450d1b4eb182434172f8fd2a8e5cc7dd1222
+Patient ID 4c8d45f69e440a9e4a3fe9ea308358cda657f44f2781ce809bf8a7eb
+Patient Name d86b8af893cf75bac7fe337daa2e61a4a665e7be489ebeb79d618520 38Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date ff942513342983413371eed655eafda851b0c51cd640e021496672da
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows infiltrations both mid zones - Koch's.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.          Suggested clinical correlation and follow up.
+ 

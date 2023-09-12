@@ -1,0 +1,24 @@
+X-ray Chest PA view:
+
+LUNGS: Normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: mild elevation of right dome lateral aspect.
+left - Normal.
+Report Impression: 
+X-ray of the chest shows -
+
+Mild elevation of lateral aspect of right dome of diaphragm -possible subpulmonic effusion.
+
+To correlate with ultrasound scan.

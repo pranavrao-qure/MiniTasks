@@ -1,0 +1,27 @@
+
+Patient ID 7929c158943bfbf03b0417524300fdd605966f0d4602f633c881dda0
+Patient ID 64d6033ac65569133a8580fc6153796ff09131dbd4d9a1c7ffef44b5
+Patient Name 89cc34ad27e1c7a161d57ae9bb679ba17c4c17ba6d69124fea6c1815 RAMULU.50/Y OP.3906
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date dcec79e3074f6ea73c24b7cc2ac2b8ee04e6eb084c9e8bbb2db184e0
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

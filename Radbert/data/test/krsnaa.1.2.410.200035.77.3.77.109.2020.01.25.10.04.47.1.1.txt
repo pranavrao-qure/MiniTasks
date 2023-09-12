@@ -1,0 +1,32 @@
+Patient ID 07557b822777633f2e01c6a342529a100cf0b1dc174190c66feef5ca
+Patient Name c5257e8ec1ca2038a286bb515d00304bf252ad94e7151e333b82214c
+Age :58 Years
+Sex :F
+Accession Number 586b92e3a9cc211f430027156fbaa7e17de25189fb072fa992c566aa
+Modality :CR
+Referring Physician 7a62cd8f18fc7ba6cb8c6d4145e13c3b452d2a645aa5d6e7d36d2660
+Study :CHEST PA
+Study Date 97f49accffe2ee3237c2211aaf72c31a9c4279451bbeb959cf01f378
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Mild scoliosis noted.
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+
+Mild scoliosis noted.
+Suggested clinical correlation.
+
+

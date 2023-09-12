@@ -1,0 +1,25 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+Thanks for your reference
+DIGITAL X- RAY CHEST PA VIEW
+
+Trachea appears normal.
+Cardiothoracic ratio is within normal limits.
+Bilateral lung fields appear normal.
+Costo and cardiophrenic angles appear normal.
+Visualised bony structures appear normal.
+Extra thoracic soft tissues shadow grossly appears normal.
+IMPRESSION:
+v       
+No significant abnormality demonstrated.
+
+ DR. FOUZAL HITHAYA MD(RD).,
+Consultant Radiologist
+
+
+
+
+
+

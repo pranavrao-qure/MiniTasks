@@ -1,0 +1,21 @@
+
+Patient ID b6f9d2353521d248f0ef55865643dbc30373e1833477b9e838a1dd3c
+Patient ID 053a19f21e3afea22ee0b1a46c02eb717e6bad1442f1ba3230cc877d
+Patient Name 3d6289f25d2cf3420635e8c36b20cb72ea67313c032a8b0da5eb1207 KRISHNAMURTHY43 Y REF DR SRUJAN
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 19ea505e9ad688d4cf23f1f16bbe402087723e7b2e3d1ef3b0403a9c
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

@@ -1,0 +1,32 @@
+
+Patient ID 7e7b996a1da3fcc2664e0e7c9de9370876c285db410dc044f3296841
+Patient ID 776eb016a0e7e5af8a8d4974bc4ef6e7ce7096ce4efad5b179f14e5c
+Patient Name fbda69274097c90d4e22472710697a5d0ea8985f465ee51f02a136e3 66/Y. DR. PVK REDDY. CAS.
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP FOR RIBS
+Study Date 1384f4c39e0941eda38c2ef0bb9d41cabf4790c7460ce8faa56a29fd
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+
+Cardiomegaly
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+
+
+For clinical correlation. 

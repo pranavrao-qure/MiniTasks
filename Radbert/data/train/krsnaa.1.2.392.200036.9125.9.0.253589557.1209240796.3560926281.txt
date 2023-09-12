@@ -1,0 +1,22 @@
+
+Patient ID 21dc289dab61cbc00b166e758ac2a79a9a3df793d9bac6297c6a0213
+Patient ID 9c227b144069984d87ec3a1825eb68d5b7e0e4591a252990b3f47b2c
+Patient Name 98d742703c1ea0b6607f4de174d6e28d73def3d2491ce7da4ae670a2 45Y REF DR RAGHURAM
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 0cc6d4b64b1ba864ff470300bad649f6f49e0d9e73fc4373106b83b1
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

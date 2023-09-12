@@ -1,0 +1,41 @@
+
+Patient ID 5b628872f4b6bcb1951a6ae119b21063f4b552821d5884620a0a4123
+Patient ID e05d08d4fe5a5af3bf730f9aaab77de3de6c401af378c8ffa5cc0de7
+Patient Name 53c4d5d2eb11a91f0bdc9ba3cb8db279be2db70f8c13f75b533c6a4b 35Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date bf0b6da8cd4dfe691652d659e251909fd0383c7e06c7bf811a203a36
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+  X-RAY HAND AP & OBLIQUE VIEW      FINDINGS :     Displaced fracture noted at 3rd  mid  phalanx with surrounding soft tissue swelling.    Rest of bones appear grossly normal    Suggest clinical correlation and follow up  
+
+X-RAY HAND AP & OBLIQUE VIEW     
+
+FINDINGS :    
+
+Displaced fracture noted at 3rd  mid  phalanx with surrounding soft tissue swelling.
+   Rest of bones appear grossly normal   
+Suggest clinical correlation and follow up
+
+ 
+
+
+

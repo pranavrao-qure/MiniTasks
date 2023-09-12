@@ -1,0 +1,61 @@
+
+Patient ID b0a7d3163c731dc1d740371790fb5641fab5826a866d19d1fa18161c
+Patient ID 7ec3a60e5d3e3526dbb58034d83edd846b4bf4fb86cca1f6c6d3479e
+d14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fPd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fad14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42ftd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fid14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fed14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fnd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42ftd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42f d14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fNd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fad14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fmd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fed14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42f d14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42f:d14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fBd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42f/d14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fOd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42f.d14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fSd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fad14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fid14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fld14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fad14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fjd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fad14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42f,d14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42f1d14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42f0d14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fmd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42f/d14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42fMd14a028c2a3a2bc9476102bb288234c415a2b01f828ea62ac5b3e42f
+Study Date 6bad490e5ca5df648eb3b5dee3e18ac54413355d411041333b695d63
+Age :
+Sex :M
+Modality :CR
+
+Study :CHEST AP
+CHEST RADIOGRAPH AP VIEW 
+ Bilateral lung
+parenchyma and broncho-vascular markings appear normal. 
+ Bilateral domes of
+diaphragm appear normal and are smooth in contour. 
+ Bilateral costo
+phrenic  angles  and pleural spaces appear normal. 
+ Cardiac size could not
+be evaluated on AP view. 
+ Visualized bones and
+soft tissues appear normal. 
+ No evidence of
+lymphadenopathy / mass lesion /effusion is seen. 
+ Visualized portion of
+upper abdomen appears normal. 
+ IMPRESSION  :  NO SIGNIFICANT
+ABNORMALITY IS SEEN IN THE PRESENT STUDY. 
+ For clinical correlation. 
+     Date: 31-Aug-2017
+
+
+
+
+
+CHEST RADIOGRAPH AP VIEW
+
+Bilateral lung
+parenchyma and broncho-vascular markings appear normal.
+
+Bilateral domes of
+diaphragm appear normal and are smooth in contour.
+
+Bilateral costo
+phrenic  angles  and pleural spaces appear normal.
+
+Cardiac size could not
+be evaluated on AP view.
+
+Visualized bones and
+soft tissues appear normal.
+
+No evidence of
+lymphadenopathy / mass lesion /effusion is seen.
+
+Visualized portion of
+upper abdomen appears normal.
+
+IMPRESSION  :  NO SIGNIFICANT
+ABNORMALITY IS SEEN IN THE PRESENT STUDY.
+
+For clinical correlation.

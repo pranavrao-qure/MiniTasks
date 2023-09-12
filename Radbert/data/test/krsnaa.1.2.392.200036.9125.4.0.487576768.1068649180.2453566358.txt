@@ -1,0 +1,27 @@
+Patient ID 43bd02bf2b442ef2fc696d647778363d8fa78b84b7896705e03a2566
+Patient Name 67860f093e8fd95ce8f0361e5030b39caed3ecd151df68cb5eba870e MURAH,27YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date bf1d30c336e55d9e7cd8b3f4e9c7ef38478769ec503b56e5fdea7d40
+
+
+
+
+
+
+
+X-RAY CHEST
+Patchy infiltration with consolidation noted at left upper and mid zone likely du eto infective etiology like koch's
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+The pleural spaces are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+

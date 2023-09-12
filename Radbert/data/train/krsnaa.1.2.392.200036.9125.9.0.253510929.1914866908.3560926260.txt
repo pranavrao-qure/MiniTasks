@@ -1,0 +1,27 @@
+
+Patient ID c666476613b5d3c000de14d253a1f5a1dcd143acf2e27cd4dca5648a
+Patient ID 6425c3b40e0061397cf2ec2f6fbd9754f1224d5a3b237224f06a0a24
+Patient Name 208e535b62146fc96aeea7532c4576c581df744fdbb5ea86d4145dd0 60Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 89102261e847a54674079163d9519a543715684afc19bb56a1621bd2
+
+
+
+
+
+
+
+
+Radiolucent area devoid of lung markings noted in left upper and lower zones - Pneumothorax.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

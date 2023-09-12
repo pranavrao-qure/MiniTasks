@@ -1,0 +1,27 @@
+X-ray Chest PA view:
+
+LUNGS: Normal.  - asthenic build. 
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALISED THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Diffuse osteopenia.
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal.
+Report Impression: 
+81 year old lady with history of pain abdomen.
+
+Chest radiograph demonstrates:
+
+- Normal study.
+

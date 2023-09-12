@@ -1,0 +1,62 @@
+
+Patient ID 51a125eb228f53eb0d686e843339ccfeae815f02cd66f8c4a9c19621
+Patient ID d6bd41cbde1d68c0469451e519d903b0a7c3d77b371ef29eed1accfe
+Patient Name 0b592e45c2321ed6b37f203637d2de787d46c3b5a758dbe72cd2f7d7 60/f
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date bdc5fe70ce9c4c8fb3cd9915fb6eccbebafc3731cfd3e74f1a4f8958
+
+X-RAY KNEE (AP)    
+  
+ FINDINGS
+: 
+  
+Alignment of knee joint is normal. 
+  
+The knee joint space is reduced, more so of the medial compartment 
+  
+Marginal osteophytes noted 
+  
+Tibial spine spiking noted 
+  
+No obvious bony injury. 
+  
+Bone density is normal.  
+  
+ IMPRESSION : OSTEOARTHRITIS CHANGES 
+  
+       Suggest clinical correlation and follow up 
+   
+     Date: 25-Apr-2017
+
+
+
+
+
+
+X-RAY KNEE (AP)   
+
+ 
+FINDINGS
+: 
+  
+Alignment of knee joint is normal. 
+  
+The knee joint space is reduced, more so of the medial compartment 
+  
+Marginal osteophytes noted 
+  
+Tibial spine spiking noted 
+  
+No obvious bony injury. 
+  
+Bone density is normal.  
+  
+ IMPRESSION : OSTEOARTHRITIS CHANGES 
+  
+       Suggest clinical correlation and follow up
+ 

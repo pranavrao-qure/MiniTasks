@@ -1,0 +1,28 @@
+Patient ID 13a9508034c4f3a74f9eb2afe598aa48d60e3e440177efd23597bd3e
+Patient Name 00677b181d669f99203fb4ca40a4901b23a661d7e46e3f45cba1cb9a 67 Y M
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bf2ca8e7decd3ab0b3b65076509d7866573f8071d1e9e4c559cbb3be
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+Metallic artifact noted.
+Trachea is in midline.
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+ 
+
+

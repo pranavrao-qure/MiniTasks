@@ -1,0 +1,26 @@
+Patient ID 959ce1ef967f470a5d2c0cb218389c4ffe9fdd1a43960a27b41bd56b
+Patient Name ffac22f96752847a179fc36f13acc0a7dd2f48a75d2ec89141bcf045 50YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 709944fb88fbe251907776bbc0075ccdea74ddbe6bb2614213a2a07f
+
+
+
+
+
+  X - RAY CHEST 
+ 
+Patchy consolidation noted at right mid and upper lung zone with volumme loss- Infective
+
+Left  lung hyperinflated.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+For clinical correlation. 

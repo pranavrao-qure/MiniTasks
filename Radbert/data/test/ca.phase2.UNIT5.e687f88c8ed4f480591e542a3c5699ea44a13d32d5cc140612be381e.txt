@@ -1,0 +1,31 @@
+X-ray Chest PA / AP view:
+
+LUNGS: Hilar and vascular markings are prominent.
+Slight peribroncho-vascular thickening & coarsening seen
+Small patchy opacity seen in right para-cardiac region
+Widening of para-tracheal stripe
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Mild cardiomegaly. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Mild Cardiomegaly
+Hilar and vascular markings are prominent.
+Slight peribroncho-vascular thickening & coarsening seen
+Small patchy opacity seen in right para-cardiac region
+Widening of para-tracheal stripe
+
+Adv: Clinical correlation and CECT & HRCT chest

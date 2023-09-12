@@ -1,0 +1,34 @@
+Patient ID af490999ca65991170c7a40b14cabbe928baa919ee8f5ba02288ccfa
+Patient Name bf10d046e5e467b5fa6d23cd5617ca38477471a006f76d72e4d6304c
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 24a6be163119fcf0d95cdb2cac8f29ef1b5d08841f79c58d0c75450d
+
+
+
+
+
+  X - RAY CHEST 
+
+Patient  in rotation.
+External artifact  noted.
+Multiple discrete & confluent nodular shadows along with fine reticular markings noted in B/L lungs--s/o infective/inflammatory etiology .
+Patchy consolodation noted at left upper zone s/o  infective etiology.
+Trachea& major bronchi appear unremarkable.
+Left sided lower muliple  ribs fracture noted.
+B/L  crowding  ribs noted.
+Both hila appear unremarkable.
+Cardiac shadow is within normal limits.        
+Blunting b/l  cp angles s/o pleural effussion.
+Bony cage and soft tissues appear normal
+IMPRESSION:
+Multiple discrete & confluent nodular shadows along with fine reticular markings noted in B/L lungs--s/o infective/inflammatory etiology
+Blunting b/l  cp angles s/o pleural effussion.
+​​​​​​​Left sided lower muliple  ribs fracture noted.
+For clinical correlation 
+ 
+ Date: 26-Mar-2020 12:01:41

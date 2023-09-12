@@ -1,0 +1,21 @@
+Patient ID 8fd99fbb28f9be322165cc487c3876c8455b5670f7b4df69de004459
+Patient Name 2822b849587552dc0daf428eb6d2a944f56bf0b944eb9e09e7aed568 35Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date b8a50385d367dc9c284cbeb9c4ff038037b8422f8eb9a380731cbc64
+
+
+
+
+
+X-RAY CHEST PA VIEW
+ 
+FINDINGS :       Lung fields reveal B/L Prominent bronchovascular markings.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is enlarged   Both domes of diaphragm are normal.   CP angles are clear.
+  Impression :- 
+B/L Prominent bronchovascular markings.
+Mild Cardiomegaly.     Suggested clinical correlation and follow up.
+

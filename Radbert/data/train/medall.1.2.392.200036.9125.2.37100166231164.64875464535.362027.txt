@@ -1,0 +1,41 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+
+Unfolding of aorta is seen.
+
+Age related calcific changes are present.
+
+Trachea appears normal.
+
+Cardiothoracic ratio is within normal limits.
+
+Bilateral lung fields appear normal.
+
+Costo and cardiophrenic angles appear normal.
+
+Visualised bony structures appear normal.
+
+Extra thoracic soft tissues shadow grossly appears normal.
+
+        
+        
+        
+        
+        
+        
+        
+        
+
+ 
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 8124 by 3731, depth 1
+pict001.wmf
+
+Dr. H. Iyengaran Sri Hari , MDRD.,
+Consultant Radiologist.
+
+
+
+

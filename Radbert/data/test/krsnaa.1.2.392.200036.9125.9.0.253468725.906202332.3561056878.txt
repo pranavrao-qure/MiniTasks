@@ -1,0 +1,22 @@
+
+Patient ID fb76170552082a81b62c299091b2058213619f2318a2c07d92debae5
+Patient ID a4c6bf5fafffad7e4ac66088190db0d5b1688685c5ae8e407f8d5454
+Patient Name 55b88b0ada67727d9ae57aeaa01479d6011b3fff9a49e4f7e0d5cbe3 18 Y REF DR ADINAGESH
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date e63be7eda526e98aa1f20ab055edeb37e38ec0fa6d2d87409924b09f
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Artifacts.
+Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

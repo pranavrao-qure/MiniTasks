@@ -1,0 +1,32 @@
+Patient ID 0288add4b44db24542746d8526132da3b55d065f2da3c3db1c613d01
+Patient Name 4c14c0f12f7334c78e4ee87558c3b7d22b7a4a87e12311d61c86f51a 50Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 776b699e350758d3955305cfa86471da467d3a655fd2bb74d482d6cb
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at left mid lung zone - Infective etiology.
+ 
+Haziness noted at left lower lung zone - infective.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+
+
+
+

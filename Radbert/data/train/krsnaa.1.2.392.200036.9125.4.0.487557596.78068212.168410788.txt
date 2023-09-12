@@ -1,0 +1,53 @@
+Patient ID 2c445ee323b556c99dd271714783388631361def66503a568ebaa330
+Patient Name 1d017d4b4da0961c58549411117ae457bcfe43472a60bd83cfdb6a6a 40Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 0816ae3100198751073fd273f0ec735140fa9e1bfe08c257d8aa4e4a
+
+
+
+
+
+X-RAY LEFT SHOULDER AP VIEW  
+  
+ 
+FINDINGS :    
+ 
+  Fracture noted at mid shaft of clavicle with surrounding soft tissue swelling.
+ 
+  Rest of bones appear grossly normal.   
+ 
+   IMPRESSION:
+
+Fracture noted at mid shaft of clavicle with surrounding soft tissue swelling.
+Suggest clinical correlation and follow up.
+
+
+
+
+
+
+
+
+
+
+
+                                                           X - RAY CHEST  
+
+
+
+Fracture noted at mid shaft of left clavicle.
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+For clinical correlation.
+  

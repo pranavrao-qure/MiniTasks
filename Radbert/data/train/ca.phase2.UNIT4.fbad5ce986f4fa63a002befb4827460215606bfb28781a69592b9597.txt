@@ -1,0 +1,24 @@
+X-ray Chest PA view:
+
+LUNGS: Mild left lower zone atelactasis.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Mild cardiomegaly.
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+1. Mild cardiomegaly.
+2. Mild left lower zone atelectasis, could be partly due to incomplete inspiration.
+
+Clinical/lab correlation and follow up recommended.

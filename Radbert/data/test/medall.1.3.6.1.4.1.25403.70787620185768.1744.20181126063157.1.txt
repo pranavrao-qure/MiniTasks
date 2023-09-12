@@ -1,0 +1,38 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+X-RAY CHEST (PA VIEW)
+
+Ill-defined patchy opacity is seen in left upper zone is seen.
+
+The cardio thoracic ratio is normal. The heart size and configuration are
+
+within normal limits. The aortic arch is normal.
+
+Rest of the lung fields show normal broncho-vascular markings.
+
+Both the pulmonary hila are normal in size.
+
+The costophrenic and cardiophrenic recesses and the domes of 
+
+diaphragm are normal.
+
+The bones and soft tissues of the chest wall show no abnormality.
+
+-       
+Suggested CT chest correlation.
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 16233 by 15956, depth 1
+pict001.wmf
+Dr. V. Sudhakar. MD., RD
+        
+        
+        
+        
+        
+        
+Consultant Radiologist
+
+

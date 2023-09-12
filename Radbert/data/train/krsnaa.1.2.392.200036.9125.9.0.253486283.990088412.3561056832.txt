@@ -1,0 +1,21 @@
+
+Patient ID dcd04d353a75794476ee0c9c41dd3f84436c355ef8618007a1aebbdd
+Patient ID ddbdb52050e628654339d6bee146203931ac88e30ecde77c8c20a1c9
+Patient Name a13f633eff7ced292ffef8af97f491e1e4f0233654def1b71bdf972a 55Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date fbc7c9fbd24dbe8f72369f6def37c8bf93ed0eca7d3faa22c42eedac
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields shows ill defined opacities both upper zones - Koch's .     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.       Suggested clinical correlation and follow up.
+ 

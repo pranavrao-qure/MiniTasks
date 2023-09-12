@@ -1,0 +1,26 @@
+X-ray Chest PA view:
+
+Rotated to the left.
+
+LUNGS: Small radio-opacity in the right midzone is most likely due to overlapping shadows. Otherwise Normal.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+54 year lady for health check.
+
+X-ray Chest PA view shows:
+
+1. Small radio-opacity in the right midzone is most likely due to overlapping shadows. Correlation with prior radiograph / follow up xray after 3-6 months is suggested.
+2. Otherwise Normal radiograph.

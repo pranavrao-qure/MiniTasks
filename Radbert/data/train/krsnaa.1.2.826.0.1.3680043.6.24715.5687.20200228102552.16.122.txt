@@ -1,0 +1,36 @@
+Patient ID 170c692c40a57628861e74f3a08abd0a02c96a782032f08097a12d71
+Patient Name 8ed839f511ec421608ed4d84e09ddddb6643e5d2a7a7266dfb6f2a33 60 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date ef12f41f305d2e895c3b8f16dc4bf5a0e8f062c2e9e49feee2db20e2
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Straightening of left heart border seen.
+Prominant bilateral perihilar shadows noted 
+The lungs on the either side show equal translucency. 
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :  
+Prominant bilateral perihilar shadows noted 
+Straightening of left heart border seen.
+Suggested 2D ECHO.
+  Advie clinical correlation.
+
+ 
+ 
+Date: 28-Feb-2020 13:12:19

@@ -1,0 +1,27 @@
+
+Patient ID feda0209252b435e35012503718c72e4ddc07fa4a0f06806d14c66c8
+Patient ID 6421b07a5eab1ee605aea426e3d5305ab84942f7c0a3851f5e79cc72
+Patient Name 38260fffc9f2776214b22e774f2a3834384645f2efe6b3bd1b45bfa6 8Y C H W
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 9d1ea1aae57e225a9d47cdaf0c3fd3427c7f1f0f156f77e7ec469f58
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

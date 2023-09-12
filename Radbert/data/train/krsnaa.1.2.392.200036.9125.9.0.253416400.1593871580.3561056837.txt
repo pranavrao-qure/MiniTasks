@@ -1,0 +1,21 @@
+
+Patient ID 92ac47cfda0382d24533480fd0d19d3859d6cb9e207551766b0c10a5
+Patient ID a49a5933a47e28bde4f254427815c7662c412d282e7de885312530f6
+Patient Name 94b3bb5b5f768c5a46798ffd38aefb571dd66ef138e2a4d0d79f78e7
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 53be6893117f0e7693316810077f5a2491f222eb9a2ad5eb688e609a
+
+
+
+
+
+
+X-RAY CHEST AP VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

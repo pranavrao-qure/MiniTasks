@@ -1,0 +1,42 @@
+
+Patient ID 39860542f2ca752369cf07e3501c15f3df5e6d5ae70178569cc8c293
+Patient ID 5936da4455ae6665af2c8b9687d2331a6e22696ff1e4d5927538c495
+Patient Name 0a9208515fbd4919c605cc84268ecbfdc868813fb62fd241636d9b63
+Age :75 Years
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician c03185a684b64511a4ab854e0b8f4dc0fb4ea1a23f380ad3eb6b0920
+Study :CHEST PA VIEW
+Study Date ad879dd7b4d34e93d4cb518472949de200a987846c1bb99743fb0c59
+
+
+
+
+
+
+X-RAY
+EXAMINATION      :     CHEST P.A VIEW                                                     
+         
+                                         
+Bilateral hilar prominence.              
+.
+No obvious lung
+parenchymal abnormality is noted.
+ 
+Cardiac silhouette
+and mediastinum appear normal.
+                                 
+Both the
+costo-phrenic angles are clear.                 
+
+                  
+Both the domes of
+diaphragm appear normal.
+ 
+Bony thorax does
+not reveal any abnormality.
+ 
+ 
+IMPRESSION: Bilateral hilar prominence .              
+ 

@@ -1,0 +1,77 @@
+Patient ID 1e23a2a4d68ffa11c4b1a41112bafd0a80bbe811d903f91a0dfa34fa
+Patient Name 00a160836110ef8f7091f77195d4f53370644bdfc11f3dafe858e924
+Age :22 Years
+Sex :M
+Accession Number 277894b4703cd615de9bdaac6b2f626475a10c281c3d1a3a4b8665e3
+Modality :CR
+Referring Physician 25093abfc35c9b6b9846f1f79d445ff1e62489e58babbb7ef88091ec
+Study :RT LEG;RT ANKLE  CHEST A P
+Study Date a53b9d6445316883b902a7f145596b1fb966d5b12563edfc001ce27a
+
+
+
+
+
+CHEST RADIOGRAPH
+ 
+Bilateral lung parenchyma and broncho-vascular markings appear normal.  
+Bilateral domes of diaphragm appear normal and are smooth in contour.  
+Bilateral costo phrenic  angles  and pleural spaces appear normal.  
+Cardiac size could not be evaluated on AP view.  
+Visualized bones and soft tissues appear normal.  
+No evidence of lymphadenopathy / mass lesion /effusion is seen.  
+Visualized portion of upper abdomen appears normal.
+ 
+IMPRESSION  : NO SIGNIFICANT ABNORMALITY IS SEEN IN THE PRESENT STUDY.
+ 
+For clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY ANKLE AP & LATERAL VIEW     
+FINDINGS :       
+The alignment of the ankle joint appears normal   Bones appear grossly normal 
+  Soft tissues appear normal       IMPRESSION :   NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LEG AP & LATERAL VIEW
+ 
+ 
+Bony surfaces and articular margins of bones of leg are normal.
+  There is no evidence of fracture or focal bone lesion.
+  Ankle joint space is normal.
+  No abnormal soft tissue calcification is seen.
+  Bone architecture is normal.
+ 
+    IMPRESSION :
+ 
+NO SIGNIFICANT ABNORMALITY IS NOTED.
+
+

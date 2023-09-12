@@ -1,0 +1,66 @@
+
+Patient ID df1b5923f5963eb722d4f8c42d2fac9a4432c702782659a7129fefa0
+Patient ID 5792f3967d0ceb5651bb9c28936c673356dc4bd4f64e15810a787a06
+Patient Name cef173fb87afb271714765037e82986c0856be50bdc123554e582005 60/M
+Age :
+Sex :O
+Accession Number f125fe0bad1d5e0def52e5a03a5f97862a7621856c32d26306af8dc4
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date e653b0e599ca97f7bd5252bac5745b2507ceb5355f392d30b63625fe
+
+
+
+
+
+
+
+X-RAY BOTH KNEES (AP)   
+ 
+FINDINGS
+: 
+ 
+
+
+Alignment of both knee joints is normal.
+
+  
+The knee joint space is reduced, more so of the medial compartment.
+
+  
+Bilateral marginal osteophytes noted.
+
+  
+Tibial spine spiking noted on both sides.
+
+  
+No obvious bony injury.
+
+  
+ IMPRESSION : BILATERAL OSTEOARTHRITIS CHANGES  
+ 
+                  
+
+Suggest clinical correlation and follow up                                                                                      X - RAY CHEST PA VIEW Prominent bronchovascular markings noted. Trachea is in midline. Cardiac silhouette maintained.          Both CP angles are clear. Rest of lung parenchyma are normal. Bony cage and soft tissues are normal. For clinical correlation. 
+                                                          
+
+
+                          X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 
+
+
+
+
+
+ 

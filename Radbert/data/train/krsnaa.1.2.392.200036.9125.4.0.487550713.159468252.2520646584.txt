@@ -1,0 +1,32 @@
+Patient ID 1181e1d0397d04e436e4372cb0019c04c6da5fda16a7cc1935d36173
+Patient Name 8b289eb38ca9cece97623567ec3260938b9e38fee1294f7002e7a529 50  YRS  COUGH
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c46bc56ca8e4c73e8faadd9ad168d28a6c2e12bd0198b388a12edb3b
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+
+Prominent bronchovascular markings noted at bilateral lung fields.
+
+Old fractures noted at right 8th posterior rib.
+Trachea is in midline.
+ 
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+
+
+ 
+ 
+Date: 04-Feb-2020 13:00:05

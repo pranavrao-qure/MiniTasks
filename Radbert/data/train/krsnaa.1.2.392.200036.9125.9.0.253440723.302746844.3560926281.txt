@@ -1,0 +1,31 @@
+
+Patient ID 793e03535530230267a70e77eced6c4eb28c135b24cea53fbbf34ba1
+Patient ID c225e3c5666c79ce271af51715378cc8f18c02280035ce00255e9490
+Patient Name 01636fb9358f7dce42f03607dadf0a53b61456da1f1338f5227537e8 7Y REF DR.RAVINDRA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 2425887d23e34ef3f52cd5bd06944ff218195ee850ed120585db1a0b
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis at right lower zone - Infection.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+
+
+For clinical correlation. 

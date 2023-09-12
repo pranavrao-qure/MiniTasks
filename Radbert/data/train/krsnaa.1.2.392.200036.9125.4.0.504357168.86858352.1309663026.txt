@@ -1,0 +1,33 @@
+Patient ID 36eb3647eecfb55c737d4d58421f0a45da77b1e3285745dc38977d96
+Patient Name 03996d2db4ca8c1d7c3e1496bd207892e0370cf0194f517642471a27 71YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA X-WISE
+Study Date 6012b1d1fbf05065840b8b56bca7f06854bf99693539e61639f9bf50
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Fracture noted at 8th and 9th ribs on right side.
+Aortic knuckle calcification noted .
+Radioapcity noted at right upper lung zone.
+Suggested clinical correlation.
+
+

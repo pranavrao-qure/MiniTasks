@@ -1,0 +1,27 @@
+Patient ID f7ea0b0e2d1f66a5b501c03483436052f8ab2ea5830357bc7cb2f080
+Patient Name 8690c87b08fd6fa82b3a06e415018d325704762c836ec4efc5379f1f LASKAR,39YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date bf1d30c336e55d9e7cd8b3f4e9c7ef38478769ec503b56e5fdea7d40
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                     
+   
+Bilateral prominent hila with prominent bronchovascular  markings in bilateral lung fields - ? Pneumonitis.  
+Rest of lung fields are normal  
+Trachea is in midline.  
+Cardiac silhouette maintained.          
+Both CP angles are clear.
+ 
+ 
+For clinical correlation.  ​​​​​​​
+
+

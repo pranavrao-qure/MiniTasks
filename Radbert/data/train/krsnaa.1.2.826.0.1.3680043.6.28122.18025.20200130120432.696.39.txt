@@ -1,0 +1,35 @@
+Patient ID ab7d5a32fbb40833aada95ce1a2e02ed88b35a10ed1c55a6d8e2318f
+Patient Name 80807b2a32ea28b41fc6925b230087edcd0ac5d6743bb86b12a72051 7YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fb8087438028f3fc5000892486c1383b022edcfa8ea27380cf30a0e9
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+Fracture noted at mid shaft of clavicle on right  side . 
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION;
+Fracture noted at mid shaft of clavicle on right  side . 
+
+
+
+ 
+ 
+Date: 30-Jan-2020 13:12:45

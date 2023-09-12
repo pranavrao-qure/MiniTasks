@@ -1,0 +1,39 @@
+
+Patient ID 23767755c53f9086032325cbb9b62e42ec1bbd6ce6890e4a2875fd91
+Patient ID 09ae119009045a0fb9920ad3064236882654f9faf59ed40232fb0af5
+Patient Name d3bb3fef0eb97722222f6f617e302002d580cdb9df44b8136623a16c
+Age :58 Years
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 313a7fd6030779c9de062430693d3fd17796fc2e08976348b19b51cf
+
+
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS
+:     
+  
+Opacity noted in the  left lower zone ?? consolidation 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ 
+ 
+    Suggested clinical correlation and follow up.

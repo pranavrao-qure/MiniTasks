@@ -1,0 +1,50 @@
+Patient ID eba23045f2441bc29d495918984b8b5f068622afe1c16c5d2f0b36f7
+Patient Name c8b1a4aef9e45a4e22292d40b1f53acef7ab7c2776c37782e8a1d90d 85yrs
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 617423244524feb140dd315ed903d24269ca369f640eace172bed1a9
+
+
+
+
+
+X-RAY CERVICAL SPINE AP & LATERAL VIEW
+ 
+Anterior osteophytes noted- degenerative changes
+The vertebrae shows normal alignment.
+The cervical lordosis is well maintained.
+Vertebral bodies, Pedicles, Laminae, transverse and spinous processes are normal.
+The intervertebral disc spaces are normal.
+Spino-laminar line is well maintained.
+The uncovertebral joints are normal.
+Cranio-vertebral region is normal.
+The prevertebral and pretracheal soft tissue spaces are normal.
+There is no cervical Rib.
+                                         
+IMPRESSION:
+ 
+Anterior osteophytes noted- degenerative changes
+
+
+
+
+
+
+
+
+
+X-RAY CHEST 
+ 
+  FINDINGS :       Mildly prominent bronchovascular markings noted in both lung fields.
+Unfolding arch of aorta noted.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.   IMPRESSION :  
+MILDLY PROMINENT BRONCHOVASCULAR MARKINGS BILATERALLY, S/O NON-SPECIFIC BRONCHITIS.
+Unfolding arch of aorta noted.
+Suggest clinical correlation and follow up
+
+ 
+ 
+Date: 03-Jan-2020 13:53:51

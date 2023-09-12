@@ -1,0 +1,46 @@
+Patient ID 5c5f64b49438e4f814d9db2697f9f82f3d286c6323dd4fc84218e001
+Patient Name f97f1c6e140049558e68014d80efc6447d16d413db969694c4581ba8
+Age :30 Years
+Sex :F
+Accession Number b0a540fa4f24c01ef02e3c38c6de56e875e1f213530b9c873dfe0608
+Modality :CR
+Referring Physician 8af609266023b61dfa0bcc08cae9ac5b6afde7e6c2c77f0e2ee685e9
+Study :CHEST,PELVIC & SPINE
+Study Date f030ffdc90c4c5c653e297ba576cff9fc70839270c498b4213b9d0de
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (AP)    
+FINDINGS :   Alignment of lumbosacral spine is normal.   Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.   Intervertebral disc spaces are maintained.   Prevertebral soft tissues are normal.    IMPRESSION  :  NO SIGNIFICANT RADIOGRAPHIC ABNORMALITY.   Suggested clinical correlation & follow up.
+
+X-RAY CHEST 
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+X-RAY PELVIS (A.P.VIEW)
+   
+The bones of pelvis and both hip joints show normal architecture and normal alignment.  
+  The hip joint space is normal.
+  The articular margins are normal.
+  No soft tissue mass or calcification is seen.
+  There is no evidnece of fracture/ dislocation.
+  No evidence of loose bodies or joint effusion is noted.
+  The sacroiliac joints are normal.
+ 
+IMPRESSION  : 
+ 
+NO SIGNIFICANT ABNORMALITY DETECTED.

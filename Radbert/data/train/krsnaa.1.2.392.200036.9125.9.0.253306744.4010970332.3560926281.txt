@@ -1,0 +1,33 @@
+
+Patient ID 74b54fe427e87d319b214f633382f06b16d64d4ebeee46f2d1a80f3a
+Patient ID 3788103ce3e878ab1e75507b235b2f69fbd6e242b50e12541ff405a7
+Patient Name 0caacb1813cc450726ed6a55dfdc6387903474ddb3d728c5c09bf962 65Y REF DR B.S. RAO
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 54cef305ad6da1c639db837cf66e56607ddca1d819b95beb30b1e261
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis at right upper zone - Infection.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+
+Cardiomegaly . 
+  
+Both CP angles are clear.
+
+
+
+For clinical correlation. 

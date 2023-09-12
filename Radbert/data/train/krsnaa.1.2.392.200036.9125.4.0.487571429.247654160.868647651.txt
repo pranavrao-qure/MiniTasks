@@ -1,0 +1,29 @@
+Patient ID e7a017e6736f92a60be998d8b7c050eabe078d6c8185a0c17b259c46
+Patient Name 14f2e73db29831d5e031051828d6f796596318a8c9a592e776b2709a 23Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date ec329b92bf045792553167b4ad453900caf8ff070ad9d0aeb35e644c
+
+
+
+
+
+  X - RAY CHEST 
+ 
+Patchy consolidation noted at right upper and mid lung zone - Infective
+Multiple discrete & confluent nodular shadows along with fine reticular markings 
+noted in left lungs--s/o infective etiology.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+

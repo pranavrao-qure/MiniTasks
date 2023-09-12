@@ -1,0 +1,31 @@
+Patient ID 52a12e15185beade6744a8eca544331cfdc09e4be0323849d9630abc
+Patient Name 9cc223e70312dbe5cec224f2226bb265103cc645b6321aa11e9b86d0 60y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date dd09cf71122ff14a9e43768813031f106e2c219dc60b58abc3d713a7
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+Patchy consolidation noted at bilateral perihilar region - Infective
+Fracture noted at 3rd,8th to 10th ribs on left side .
+Trachea is in midline.
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy consolidation noted at bilateral perihilar region - Infective
+For clinical correlation. 
+
+ 
+ 
+Date: 10-Feb-2020 12:33:04

@@ -1,0 +1,20 @@
+
+Patient ID dd95fe676d39a549267e2a1575273a0e96f6e80423782fd4450c016c
+Patient ID f4871739d44e15c080c0abdc21a5ddee6b48082509c40ecdcb56afe4
+Patient Name 528bbbd46b749cab77df6607f46f2e6bfe565641fb37c70a74bd603a 40Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 36b7b942ebeff7ac9d7673ccfa89a41363b207f3c4a651ddf8d751bd
+
+
+
+
+
+
+
+X-RAY  CHEST AP VIEW
+FINDINGS  :       Lung fields are clear.   Both hila appear  normal.   Mediastinum is normal.   Cardiac size is  normal.   Both domes of diaphragm are normal.   Blunting of left CP angle.   Fracture noted at right clavicle and 4th to 8th rib on left side in its posterior thirds.          Suggested clinical correlation and follow up.

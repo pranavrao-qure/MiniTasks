@@ -1,0 +1,32 @@
+
+Patient ID 0822d0c6d43f6d1b6de1689255a4f4a7b7ac8281cefeaa01b86cee8f
+Patient ID fec1cd6cc06e7294f75602a833f864fd523db119e7ee902354f66f92
+Patient Name 2a0848e033bb1914b231dca637b24a75da0ea3c49c8c45b37815f038 2DAY SNCU
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date a8a829439f4da5a2febbddb5f84228be233655d19f9ea94e46d36c65
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at right lower  zone - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+
+
+For clinical correlation. 

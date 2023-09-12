@@ -1,0 +1,36 @@
+LUNGS: 
+-Fibrotic strands in bilateral upper lung zones (Right>>Left) with bilateral pulled up hilum -post infective sequelae.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Pulled up bilaterally.
+AORTA: Normal. 
+
+THORACIC SPINE: Degenerative changes.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+
+Report Impression: 
+LUNGS: 
+-Fibrotic strands in bilateral upper lung zones (Right>>Left) with bilateral pulled up hilum -post infective sequelae.
+TRACHEA: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY HILA: Pulled up bilaterally.
+AORTA: Normal. 
+
+THORACIC SPINE: Degenerative changes.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.

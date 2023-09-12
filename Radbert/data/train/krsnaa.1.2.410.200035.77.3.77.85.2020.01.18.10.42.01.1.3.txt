@@ -1,0 +1,45 @@
+Patient ID f2292621e9a2252989b95482256dadbd656f9bbd6105dfd4c260c625
+Patient Name c9bfb9caea98c95e3c1bda3d1767f3af263355078ccd043f34475c59
+Age :40 Years
+Sex :M
+Accession Number 6a147bfe5cd94e065034d4612cf83a3e1631c973628165de9301185f
+Modality :CR
+Referring Physician 7b29c0362ec5c19573e3e9439812127cf83293d5a870fd6718abdbcf
+Study :CHEST PA & LT FOOT & LT ANKLE
+Study Date 1127089e88d42baff6bb3866c3315321cdce1145499338cfaef4152a
+
+
+
+
+
+X-RAY ANKLE AP & LATERAL VIEW     
+FINDINGS :       
+The alignment of the ankle joint appears normal   Bones appear grossly normal    Soft tissues appear normal       IMPRESSION :   NO SIGNIFICANT ABNORMALITY       Suggest clinical correlation and follow up
+ 
+
+
+
+
+X-RAY FOOT AP & OBLIQUE VIEW      
+FINDINGS :    
+Fracture noted at proximal phalanx of 4th finger  with surrounding soft tissue swelling.   The alignment of the foot appears normal.   Rest of bones appear grossly normal.     IMPRESSION : 
+Fracture noted at proximal phalanx of 4th finger  with surrounding soft tissue swelling.   Suggest clinical correlation and follow up
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.

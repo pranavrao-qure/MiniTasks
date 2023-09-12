@@ -1,0 +1,30 @@
+Patient ID ef29a6573f60c9e47f8c961f4fccc3ea6ac92c78d0fc29dc4defbd2f
+Patient Name ee8947943b6df136306f9eb2fa59fd7cebd448697512d23471759002 68 YR MA
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :DX
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :ChestErect PA
+Study Date c48eb8df996ce2b2f84ae0a88c8879330e64cf5fe703c13379bf5a16
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+Diffuse patchy consolidation with some fibrotic changes noted in right lung with volume loss S/O- Infective
+Blunting of  right CP angle noted.
+Trachea is shifted to right side .
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Chest X ray findings are suggestive of  right lung collaspe .
+For clinical correlation. 
+
+ 
+ 
+Date: 14-Feb-2020 16:39:45

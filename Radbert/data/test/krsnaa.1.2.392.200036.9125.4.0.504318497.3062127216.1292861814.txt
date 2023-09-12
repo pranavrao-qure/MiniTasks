@@ -1,0 +1,105 @@
+Patient ID da51fd9d9c71e1598ea2f09195b8a459520e06d7488ce54808e499f7
+Patient Name 64dce60267cbefbbb2c5a91fa458ebec3822f804a3ec5d4806cf7663 38YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 4a0b75d0ca2163fb09dc75cc93ecf9248ef59aae268fec5657312016
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Small nodular opacities noted in bilateral lung field 
+The lungs on the either side show equal translucency.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Small nodular opacities noted in bilateral lung field 
+Suggested clinical correlation.
+
+
+
+
+
+X-RAY CERVICAL SPINE AP & LATERAL VIEWS
+
+OBSERVATION:
+ 
+Degenerative changes are noted in the form of anterior marginal bridging osteophytes, intervertebral disc height reduction, and end plate sclerosis.
+Alignment of the vertebrae is normal.
+Atlas and axis are normal.
+Atlantodental interspace is normal.
+Prevertebral soft tissues are normal.
+
+
+IMPRESSION:  Cervical spondylosis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (A.P./LAT)
+ 
+ Anterior and lateral developing marginal osteophytes are noted.
+The vertebrae show normal alignment.
+  No focal bone lesion is seen.
+  The intervertebral disc spaces are normal.
+  No abnormal paravertebral soft tissue shadow is seen.
+  No abnormal soft tissue calcification is noted.
+  The psoas shadows are well defined and normal.
+  No radio opaque calculus is seen.
+ 
+IMPRESSION  : 
+ 
+ Anterior and lateral  developing  marginal osteophytes are noted, degenerative changes
+
+X-RAY BOTH  KNEE JOINT AP & LATERAL VIEW
+ 
+Degenerative changes noted in the form of Marginal osteophytes.
+ Calcification of superior aspect of patella , likely suggestive of calcific tendonitis . 
+  No abnormal soft tissue calcification seen.
+  Bones show normal architecture.
+    IMPRESSION:
+
+Degenerative changes noted in the form of Marginal osteophytes.
+
+
+X-RAY D.L. SPINE (A.P./LAT)
+ 
+ Anterior and lateral marginal osteophytes are noted.
+The vertebrae show normal alignment.
+ No focal bone lesion is seen.
+ The intervertebral disc spaces are normal.
+ No abnormal paravertebral soft tissue shadow is seen.
+ No abnormal soft tissue calcification is noted.
+ The psoas shadows are well defined and normal.
+ No radio opaque calculus is seen.
+ 
+IMPRESSION  : 
+ 
+
+

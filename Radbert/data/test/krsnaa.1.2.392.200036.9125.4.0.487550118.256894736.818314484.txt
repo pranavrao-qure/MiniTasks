@@ -1,0 +1,18 @@
+Patient ID 316687a02d86326b2a3bc3abd99e10dbb23c746b46c7ceea29edb750
+Patient Name 6ba98ceebe681110868d154991101db65cc392aa524573e7924c7797 12YRS DR AK MAURYA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date cd379b8546ccfd4af248579155fa6aa767df4c16a281a6cf25105e52
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (AP / LATERAL)    
+FINDINGS :   Alignment of lumbosacral spine is normal.   Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.   Intervertebral disc spaces are maintained.   Prevertebral soft tissues are normal.    IMPRESSION  :  NO SIGNIFICANT RADIOGRAPHIC ABNORMALITY.   Suggested clinical correlation & follow up.
+
+

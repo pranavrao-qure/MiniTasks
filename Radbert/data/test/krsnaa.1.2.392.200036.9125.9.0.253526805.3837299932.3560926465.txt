@@ -1,0 +1,33 @@
+
+Patient ID f5ca41a251fba35e55765aad536448c0e584f9edc69ae3fdcffc2b1d
+Patient ID 9fd0cf6136f8cfe804c7c66e8782cd30c7377de4b789a887e0749f69
+Patient Name c5565f57f50e364cecd05d7022efadbe90ce0eb76749b51af1ead65e 27Y/M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 537db1ee8d9f07858405ac975bdedb9e5a105ace7a349411f507b3c3
+
+
+
+
+
+
+
+X-RAY PARANASAL SINUSES
+ 
+FINDINGS :
+ 
+Repeat for waters view
+ 
+Suggested
+clinical correlation & follow up.
+ 
+X-RAY CHEST PA VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+
+
+ 

@@ -1,0 +1,27 @@
+
+Patient ID 62037d82c53b2eccdc19857a2db19884c93c0f5deba9f7d911651e92
+Patient ID 01bc40ef9e6f32072c401167616499ea1e5269dab609daf33073c2a9
+Patient Name 1042541f722f34f0053747967e0e3211cc8c0d818d689ac473df8b86 REDDY-90Y
+Age :
+Sex :M
+Accession Number 536db7ebc40085794169a3a858d8ad260fa515a917bd744ee736f3c5
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 58ca6dbf0b579d1eba7e17cc0a99a57866f12ff7fd5b4ddeb17f929d
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

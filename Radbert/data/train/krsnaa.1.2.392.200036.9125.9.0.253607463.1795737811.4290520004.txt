@@ -1,0 +1,26 @@
+Patient ID 0a8746c0c549ca7817881164440f5ca3dad0c69a150f08ea2cc59ef7
+Patient Name 2438f1adc143d2cc51259289527cc6b008d818403cdfc4765afe8894 80Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 95bb36e17578341026f7876f7fa4b8c4505cb8ba7b488a4a5ff79f86
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+Patchy consolidation noted at bilateral apical and perihilar region - Infective
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+For clinical correlation. 
+
+

@@ -1,0 +1,32 @@
+
+Patient ID e95339adda84e3d40fad56e8b13179daa0151d71697cfdf853c7ed44
+Patient ID ff24cc38bcd8f4c4c93ea68888189ea6b66b4a00854c437c1fe7f946
+Patient Name eed8eebd2dd4dc8aa26e263da056c5b6c70a42dd6a654e8f2fdc7f12 60/M
+Age :
+Sex :M
+Accession Number e02b7bc7e7229cb31ab75eb4c8664a465132308353062cf7ac81daae
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date fc6205b3f769a76e3c7b1842e2d2804063d1309ecb8e16f6f6653755
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at right upper zone - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+
+
+For clinical correlation. 

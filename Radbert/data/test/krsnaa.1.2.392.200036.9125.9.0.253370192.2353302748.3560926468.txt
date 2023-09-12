@@ -1,0 +1,30 @@
+
+Patient ID 05967e8c825600d74bec197047a97b0a1ec5460a33420bc64ffab8d1
+Patient ID 93c181ac896602ec042a3d13c8479ede56f7a5b7c531cda6bcd5805b
+Patient Name e759cf33badec6b7ac93927dceaaf87d1e6150f258eb5f8df02dff3f 56/F
+Age :
+Sex :F
+Accession Number 9b99e851a0c1b9362d2431c17d49ebe1b26b48d1394ce2b92f4ddc3d
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 87b4adc56c1ffda0e078e7bfea4c5cff02e11e6683b7ad437926bd36
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+Sternotomy sutures noted.
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

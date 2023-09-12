@@ -1,0 +1,29 @@
+Patient ID 93c916531fd2e14ca1c724e20bdca2b45f9ba0e6289f1ac08e9869a1
+Patient Name 27ec879a5d47bcf198877da70d9bc027561cbe7824aff0c594cefa9c 42 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1a742348c3f86b026556de96a9bc611e45d523b3fca6507f3dc58b9d
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Prominent bilateral perihilar shadows noted with mild bronchovascular markings . 
+The lungs on the either side show equal translucency.   .
+No focal lung lesion is seen.
+Bilateral CP angles are normal .
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Prominent bilateral perihilar shadows noted with mild bronchovascular markings
+Suggested clinical correlation.
+
+

@@ -1,0 +1,33 @@
+Patient ID ec230f9e0261eae61e41c1120e4f758fb5d5ca3e9c8f3472129e30c7
+Patient Name b3664ab57896717f6788d5ab103850bbda3b69064dcd56e28eb58a26 17YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 37413ae4c75d8bfa5e68acf9ad5be3139ecfcb61406213f0b93cf627
+
+
+
+
+
+X-RAY CHEST PA VIEW
+ 
+Fine reticular opacities with nodular infiltrate are noted in bilateral lung fields. 
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+ 
+IMPRESSION : Chest x ray findings are suggestive of infective etiology.
+Suggested clinical correlation.
+ 
+ 
+ 
+  ​​​​​​​
+
+

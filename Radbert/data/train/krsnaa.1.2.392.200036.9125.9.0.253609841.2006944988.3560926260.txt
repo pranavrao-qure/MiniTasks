@@ -1,0 +1,27 @@
+
+Patient ID 27fa04f1a9dc634d6d93c1a0d3e3a7c026488f4fd46a38e29cf4db8a
+Patient ID 3f817d3d935fec27240485e79fc5188c94384acab8c09922ec2ba655
+Patient Name 70a606992d92b487363b55332c5ed3431d78abbb593e27f9a10015b8 24Y MLC-314
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date c34621df980a6f523fa57e09c7ece8e3ba78d575709f92b225f0775f
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are obscured by hazinees... ADV  USG for pleural effusion
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

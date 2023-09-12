@@ -1,0 +1,27 @@
+
+Patient ID cddd061e743e6039220163d14691967391b243aba879f3f91fc8193e
+Patient ID e7f591aca8f375f99f9b5d4cb53f30860f95e5244792a0487cd3b0aa
+Patient Name 9a9f70400ab19ccec5ce815317096b3a7e30e3aeec65b45dfd8493ed DEVI/45Y.DR.RAGHU.CAS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date e739973542a830a8fa7ab7747ee1621e34277c59b611d04a7efd7df3
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

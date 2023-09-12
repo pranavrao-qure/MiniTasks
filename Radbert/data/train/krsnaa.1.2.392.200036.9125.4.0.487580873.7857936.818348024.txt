@@ -1,0 +1,25 @@
+Patient ID 3fe669e1bb3bf7f81f64f0b2529b99fa575339dba10691834292aa21
+Patient Name 52dadd6fb9852b3d9e1c3a12a3f8771eaacc461a7da8f929a6833020 48 YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date d3d1dc12498f489548c1b85e11322cd59acf3cfa10e30dfe4966a0c1
+
+
+
+
+
+                                            X - RAY CHEST PA VIEW
+Right hilum bulky ? hilum lympadenopathy
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+

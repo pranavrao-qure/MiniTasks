@@ -1,0 +1,37 @@
+LUNGS: Congestion of both lungs with ill defined air space opacities in both lungs -Infective versus pulmonary edema.
+TRACHEA: Normal.
+PLEURA: Normal.
+
+HEART: Cardiomegaly noted.
+PULMONARY HILA: Normal.
+AORTA: Normal.
+
+THORACIC SPINE: Degenerative changes of the spine are noted.
+OTHER VISUALIZED BONES: Normal.
+VISUALIZED SOFT TISSUES: Normal.
+
+DIAPHRAGM: Normal.
+
+VISUALIZED ABDOMEN: Normal.
+VISUALIZED NECK: Normal.
+
+ 
+Report Impression: 
+LUNGS: Congestion of both lungs with ill defined air space opacities in both lungs -Infective versus pulmonary edema.
+TRACHEA: Normal.
+PLEURA: Normal.
+
+HEART: Cardiomegaly noted.
+PULMONARY HILA: Normal.
+AORTA: Normal.
+
+THORACIC SPINE: Degenerative changes of the spine are noted.
+OTHER VISUALIZED BONES: Normal.
+VISUALIZED SOFT TISSUES: Normal.
+
+DIAPHRAGM: Normal.
+
+VISUALIZED ABDOMEN: Normal.
+VISUALIZED NECK: Normal.
+
+ 

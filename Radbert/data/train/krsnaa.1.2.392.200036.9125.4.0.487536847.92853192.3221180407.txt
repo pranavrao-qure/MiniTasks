@@ -1,0 +1,26 @@
+Patient ID 46c4f2552256df1824d7a1394fce032050cb177610137c577b767b1f
+Patient Name 7a41fc36ccdb97d745a67d384a3899ce940c5786ca85cfff92e20547 60 Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 617423244524feb140dd315ed903d24269ca369f640eace172bed1a9
+
+
+
+
+
+    X - RAY CHEST PA VIEW
+Mild haziness noted in bilateral lower zones due to breast shadows.
+Right hilum bulky ? hilum lympadenopathy
+ Trachea is in midline.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation.
+
+

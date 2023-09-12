@@ -1,0 +1,53 @@
+Patient ID c9d140ceb43086a53c64036327fb171693e2eaec86e9a1ba914ffa05
+Patient Name b757a329fe04f36b7ef886884c137ba9f471b8aada7080fdc9f59160 32    YRS  INJURY
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 3beafb9399d5328ea75e0a4c484dc60028a2a5934c3dec4c5b3dfcab
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+Prominent bronchovascular noted B/L
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Prominent bronchovascular noted B/L
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY PELVIS WITH BOTH HIP JOINTS (A.P.VIEW)
+   I ntramedullary nail placed Intertrochanteric fracture of femur noted.
+The bones of pelvis and both hip joints show normal architecture and normal alignment.  
+  The hip joint space is normal.
+  The articular margins are normal.
+  No soft tissue mass or calcification is seen.
+  No evidence of loose bodies or joint effusion is noted.
+  The sacroiliac joints are normal.
+ 
+IMPRESSION  : 
+ 
+Intramedullary nail placed Intertrochanteric fracture of femur noted

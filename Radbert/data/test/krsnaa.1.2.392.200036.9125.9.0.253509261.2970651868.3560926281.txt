@@ -1,0 +1,32 @@
+
+Patient ID 18cf02e61a8ab4b2e8cebf60069f7d5912ef6a56f89b4bd033465f05
+Patient ID 7be5cca1ec748a169c70419107de64203b9318d7b29b3a27fc0a466e
+Patient Name a0dc62e8233c0f8e1c538626b5799b6ea0393a33dac1f2788bf7b697 42Y REF DR.RAVINDRA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 3c3f617d33bf4dad0b2431d839e856167aa0a8e8c2489fb375c744ce
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at right mid zone - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+
+
+For clinical correlation. 

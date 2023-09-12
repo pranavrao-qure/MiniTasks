@@ -1,0 +1,27 @@
+X-ray Chest PA  view:
+
+LUNGS: There is accentuation of the interstitial shadows in both lungs with features more marked in the right lower zone. No segmental pneumonia or consolidation.  No apical infiltrates.  
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal.  Currently no effusion. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Slightly prominant. 
+PULMONARY HILA: Normal.  No enlarged nodes. 
+AORTA: Unfolding of the aortic arch. 
+
+THORACIC SPINE: Normal.
+OTHER VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+
+
+Report Impression: 
+49Years old female  with cough and chest pain on inspiration shows no pleural effusion.  The lungs show accentuation of interstitial markings in the right lower zone with no confluant pneumonia. 
+Recommend clinical correlation. 

@@ -1,0 +1,54 @@
+
+Patient ID be1e32d24efe5f466d0c3c5bdfb370522c10e88584f04289af7bebe2
+Patient ID 3891bb04bdee1fe2767a2de19c9d088d256759c7c4e1b8facf3203cf
+Patient Name 4e57b72127c10a265544b082e824d1e8400cc59228f19e6366bdfc96 70Y M
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date e6881e7a2a271e7ced5af4f333c5c9fc0abfb99a932f3ecbb6cef528
+
+
+
+
+
+
+ 
+        X-RAY EXAMINATION      :   
+ CHEST P.A VIEW                 
+         
+                                        
+ 
+Inhomogenous haziness with fibronodular infiltrates, 
+bronchiectatic changes and pleural thickening in right upper
+lobe
+due to partial cicatrization collapse along with mediastinal
+shift 
+and volume loss. fibronodular infiltrates and patchy haziness
+in 
+both lungs.
+ 
+Cardiac silhouette and
+mediastinum appear normal.
+                                 
+Both the costo-phrenic
+angles are clear.                  
+                 
+
+Both the domes of
+diaphragm appear normal.
+ 
+Bony thorax does not
+reveal any abnormality.
+ 
+ 
+IMPRESSION: Inhomogenous haziness with fibronodular 
+infiltrates, bronchiectatic changes and pleural thickening in right
+  upper lobedue to
+partial cicatrization collapse along with 
+mediastinal shift and volume loss. fibronodular infiltrates
+and 
+patchy haziness in both lungs.
+F/s/o Pulmonary Koch`s.

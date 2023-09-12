@@ -1,0 +1,16 @@
+Positional rotation to left.
+LUNGS: Normal.
+PLEURA: Normal.
+HEART: There is no cardiomegaly.
+VISUALIZED BONES: Normal.
+DIAPHRAGM: Normal..
+VISUALIZED ABDOMEN: Normal.
+
+Report Impression: 
+Positional rotation to left.
+LUNGS: Normal.
+PLEURA: Normal.
+HEART: There is no cardiomegaly.
+VISUALIZED BONES: Normal.
+DIAPHRAGM: Normal..
+VISUALIZED ABDOMEN: Normal.

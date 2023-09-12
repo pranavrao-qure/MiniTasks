@@ -1,0 +1,4 @@
+CARDIA: There is cardiomegaly with left ventricular enlargement. Unfolding of aorta is seen with aortic knuckle calcification. 
+LUNGS: show prominence of the hilar & bronchovascular markings.
+PLEURAL EFFUSION: Trace bilateral pleural effusion is seen.
+BONES: There is diffuse osteopenia.

@@ -1,0 +1,6 @@
+The patient is rotated.
+
+CARDIA: There is no cardiomegaly.
+VISUALIZED LUNGS:  Prominence of the  bronchovascular markings seen .
+PLEURAL EFFUSION: nil significant
+VISUALIZED BONES: degenerative changes

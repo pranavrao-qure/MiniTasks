@@ -1,0 +1,30 @@
+Patient ID b6901deb486090a56ee597d3d9ef9e662796f81101bd9aff50be80f9
+Patient Name 1a95ad2702ed0144f882dc3ceea45662821ab0083dfe06d4ab8c54d1 68Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date f0391fd24f179c8733a866e9cb53b559d39011fb331dbe7419bc1a95
+
+
+
+
+
+  X - RAY CHEST
+ 
+
+Unfolding arch of aorta noted.
+Consolidation noted at right perihilar zone - Infective etiology.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation.  
+ 
+ 
+Date: 11-Feb-2020 11:19:37

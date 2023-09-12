@@ -1,0 +1,29 @@
+Patient ID 4f502ddd65db9676c4ec0b31e2e2e51b3c83e6d3b6e62b9759c8a669
+Patient Name dc7d1f970fe9ed6611f644ce92a5120d513ce94d910319b842a3d83e
+Age :22 Years
+Sex :M
+Accession Number 15491af3abc164e1ec5e69f1d3d0de598728886d4bf4f55fae7ba868
+Modality :CR
+Referring Physician 7a62cd8f18fc7ba6cb8c6d4145e13c3b452d2a645aa5d6e7d36d2660
+Study :CHEST PA
+Study Date 4d236b8908c0a618d1d5799315a5d37e0d715bf0c960e5c3eb47f153
+
+
+
+
+
+X-RAY CHEST PA VIEW
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Fracture noted at left side 6th rib
+Suggested clinical correlation.
+
+

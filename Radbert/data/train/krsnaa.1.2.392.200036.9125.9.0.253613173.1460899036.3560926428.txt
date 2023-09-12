@@ -1,0 +1,30 @@
+
+Patient ID 01a7613f7607aadfc1364c332faa935c08f00639232548cd3c970e88
+Patient ID db5e030d0d63ce2803b81b24de874d7887aaaacfac21d0e6630d1922
+Patient Name 9b75d5974ecd492b85f04c1c1635185f0dc0946b567555e59c6d754b 43/M OP 953
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 769d8c473dd950f375a96f67d180e9856fb5c83efd67ad43a49ffa3d
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Thick walled cavitatary lesion noted in left mid zone - Infective.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+
+Bony cage and soft tissues appear normal
+
+For clinical correlation. 

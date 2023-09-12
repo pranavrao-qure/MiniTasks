@@ -1,0 +1,27 @@
+Patient ID 321f1fcecf039dab1bf80d782ceaa73669c9af644b55667834acb1ff
+Patient Name 128cdaf4a585acaf97371c9193fb12ead711c96e53cc89f779910373 35yrs
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1127089e88d42baff6bb3866c3315321cdce1145499338cfaef4152a
+
+
+
+
+
+XRAY CHEST- PA VIEW
+
+Soft tissue opacity patch seen in right horizontal fissure region,-p/o loculated effusion.
+
+Rest of the lung fields shows prominent bronchovascular markings.
+
+Both C.P angles are clear.
+
+Heart size is mild enlarged.
+
+Bony thorax appears unremarkable.
+
+

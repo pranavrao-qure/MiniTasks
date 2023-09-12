@@ -1,0 +1,27 @@
+
+Patient ID 0d06dacd09537fb656c9ad2817039d5bccdddb1acf526f3eac8102e6
+Patient ID f9279f039793ee4ab824df38a2f4a6c60009e599f615cee9d6268e00
+Patient Name d3e65dc5a0c88f24a2e4cc2f79a6770f436779df23cefe20e7f26481 49Y ART OP
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date f46a7c5d72ac56a6ab0af01045911542d954932aed08fd1fda9a5679
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

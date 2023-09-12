@@ -1,0 +1,31 @@
+
+Patient ID 7564dd6afa21133ff487383193e11d61a27f1a859ae8436d591261ae
+Patient ID 5df44875dee47ec654ef44b02e8718cc0a0686125cac7eb31829a108
+Patient Name 62ea354f0b8fe936c3598b104850a123808f4563ec3deb89a07520f9 52/M
+Age :
+Sex :O
+Accession Number fcfb0f92680ee2c3f49b5ce618bd0b0461175ab0001dc95eb65f5ef4
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date d80e5ddee07d81908b7a7af69e5ed50fc685af71f405964ccd961fc5
+
+
+
+
+
+
+                                                                              X - RAY CHEST AP VIEW
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+Fracture noted at 8th right lateral rib.
+
+
+For clinical correlation. 

@@ -1,0 +1,31 @@
+Patient ID 2cd71e9d82a3668a18eff8b36220215c04d6f09fa25f67ed189b553d
+Patient Name 84f7e25d3f36e6b9527a6e8c55b81e3851c861354f6a48c158320cc3 55YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 3beafb9399d5328ea75e0a4c484dc60028a2a5934c3dec4c5b3dfcab
+
+
+
+
+
+CHEST X RAY (PA VIEW)
+CLINICAL HISTORY  – Clinical Details not available 
+OBSERVATION:
+Bilateral bronchovascular markings are prominent.
+Bilateral apical hazy infiltration .
+Both lung fields appear clear.
+Both costo-phrenic angles appear clear.
+Cardiothoracic ratio is normal. 
+Both domes of diaphragm appear normal.
+Thoracic soft tissue and skeletal system appear unremarkable.
+ADVICE :  
+Bilateral bronchovascular markings are prominent.
+Bilateral apical haziness noted S/O Active infiltration .
+ 
+ 
+
+

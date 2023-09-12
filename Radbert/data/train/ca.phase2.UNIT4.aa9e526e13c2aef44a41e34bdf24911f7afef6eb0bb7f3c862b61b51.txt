@@ -1,0 +1,22 @@
+X-ray Chest PA view:
+
+LUNGS: Opaque left hemithorax suggestive of large left pleural effusion and partial collapse of underlying lung. Mild contralateral mediastinal shift.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Opaque left hemithorax suggestive of large left pleural effusion.
+HEART: Obscured due to left hemithorax opacification. 
+PULMONARY HILA: Right Normal. Left obscured.
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Opaque left hemithorax suggestive of large left pleural effusion and partial collapse of underlying lung.
+
+Clinical/lab/CT/USG correlation recommended for confirmation and to exclude other pathologies.

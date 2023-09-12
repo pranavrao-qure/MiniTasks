@@ -1,0 +1,30 @@
+Patient ID 5e1e57e3508a1a1bc9fe69dea10e35645e26c6d49a04b212683c2f5d
+Patient Name 89ea7cf72b78cb3cf2abd07b0d53de9bdb259f46d73b75d01e74c0c9 -45Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA X-WISE
+Study Date d1a7fdbbdb49a28dad28ff27d8d70acced2972f9a5a954b666a4f0d4
+
+
+
+
+
+X-RAY CHEST
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Right CP angle is blunted s/o pleural effusion 
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+Right CP angle is blunted s/o pleural effusion 
+
+

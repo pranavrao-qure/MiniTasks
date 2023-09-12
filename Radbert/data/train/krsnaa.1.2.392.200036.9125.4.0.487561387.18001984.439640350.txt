@@ -1,0 +1,25 @@
+Patient ID b2a701d34fabbb0ad32e38be56f961bbdf07091dae13949eab11b932
+Patient Name 802872651c0f24c59ffc14ca40ebdcbe598d2a40fa881ecbc082e81d 60Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 99e134bc3d4c09fc4f3f8003c52cb3ccc438986eaaac00856ff30b8e
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+ 
+Ill-defined homogeneous opacity obscuring vessels with air bronchogram noted in bilateral apical and upper zones suggestive of consolidation ? due to bacterial infective etiology.
+Fissural thikning noted at right lung. Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+ 
+IMPRESSION: 
+Above X-ray Findings are suggestive of Infective etiology? Bacterial.
+ADVICE-Complete Blood Count. Date: 07-Dec-2019 11:07:26 
+    	   
+      

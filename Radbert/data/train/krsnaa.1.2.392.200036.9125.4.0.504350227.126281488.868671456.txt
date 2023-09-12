@@ -1,0 +1,28 @@
+Patient ID 973dbd3914e89884c623319b9e744d2e8cea592ab88791e45ba5818d
+Patient Name 761062586fe72a74ee98dd1b2b148d92914dd12092e4923c7c581a23 18 y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date a16f552b5ba23156397154ab2f4a0e880eda23fb06bc62e247c55b66
+
+
+
+
+
+                                            X - RAY CHEST 
+Right hilum prominance.
+ 
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Right hilum prominance.
+​​​​​​​ For clinical correlation. 
+
+

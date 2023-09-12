@@ -1,0 +1,32 @@
+Patient ID 81025a2aad50a0c16461aa7665b7fcbcb04d4302a139aa9de857e819
+Patient Name 6262eb97df6a98269e4689692e04eeb441e70980521d0a5b8c142290
+Age :40 Years
+Sex :M
+Accession Number 5af2011664ddcba62572593fbd71d9702c8f81a42a2cdf629607d2d6
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6bebdb3c0d392e540f958848fdfd17b368dedc93adf9bd5321a1d1a5
+
+
+
+
+
+X-RAY CHEST 
+
+
+Fracture noted at mid shaft of clavicle on left side . 
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION;
+Fracture noted at mid shaft of clavicle on left side . 
+
+
+

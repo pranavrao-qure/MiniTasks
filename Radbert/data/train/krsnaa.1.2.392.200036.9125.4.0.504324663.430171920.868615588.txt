@@ -1,0 +1,36 @@
+Patient ID fe29a49f7c63eb97ddc40b4833486f958c0329272f5feaae4497e028
+Patient Name 1c01a56459fef08e11f85e785cfd1cf87cfd68c748e9f2a7a845e578 21Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fe507ab5d3c19fc3e94c19a020302399028951eba6e1e229a261e8de
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (AP )    
+FINDINGS :   Alignment of lumbosacral spine is normal.   Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.   Intervertebral disc spaces are maintained.   Prevertebral soft tissues are normal.    IMPRESSION  :   NO SIGNIFICANT RADIOGRAPHIC ABNORMALITY .   Suggested clinical correlation & follow up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE ( LATERAL)    
+FINDINGS :   Alignment of lumbosacral spine is normal.   Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.   Intervertebral disc spaces are maintained.   Prevertebral soft tissues are normal.    IMPRESSION  :   NO SIGNIFICANT RADIOGRAPHIC ABNORMALITY .   Suggested clinical correlation & follow up.

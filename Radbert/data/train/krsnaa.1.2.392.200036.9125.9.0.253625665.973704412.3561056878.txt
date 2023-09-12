@@ -1,0 +1,31 @@
+
+Patient ID 20850d67e7c1fe4ea525aa3f2a27c775b5d8fa3596208c39c6975c9a
+Patient ID 9b5dee05053160c03d18c72ee142054180fd2f5fa02ff9fe2fbf456d
+Patient Name 51bfd9b31edc5ecf68b118d92ce26c44128b0c97a97601a9568faa0d 63Y DR RAJSEKHAR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date fb3279ec70f13904914b76d046aa4234c894b1efa90a256fa02cccc4
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy inhomogenous opacities noted in right mid zone - Infective etiology
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

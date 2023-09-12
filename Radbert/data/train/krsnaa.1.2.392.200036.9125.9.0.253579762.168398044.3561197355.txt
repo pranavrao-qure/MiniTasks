@@ -1,0 +1,28 @@
+
+Patient ID 6a7f934a5fdc89996e1d208c7d2b98eaffe450c73328dafe7b4395f5
+Patient ID 61690e295a7372813802dfcfcd2965843630c6057329456dd8d65d56
+Patient Name 8982e8914a2222899ae8f9d97c9df6ddf9bfe75eb391478f728c8009 3Y CH NOP17
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 2923aeb0f74b11a77232fef8bb0e1774966541e78f3b505b8ce72d17
+
+
+
+
+
+
+Mild haziness noted in right upper zone - -? Infective.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

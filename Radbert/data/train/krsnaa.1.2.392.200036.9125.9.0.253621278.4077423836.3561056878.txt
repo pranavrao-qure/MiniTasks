@@ -1,0 +1,31 @@
+
+Patient ID 45e643cce3ac9fac10c015d46b90156a37be536f0e1455c7b641cee6
+Patient ID 1550b426e3cd90f0663734035863da6376ef4d92b4867426cb6c834f
+Patient Name d044638191ce4fc18e8527b797e1ea57a7247cb465f0640d648830ac 21Y DR ADINAGESH
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 2b71eff72da3d92b957fe2ac48f804e8716eae528593033ec0c8ef10
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Patchy inhomogenous opacities noted in left upper zone - Infective etiology
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

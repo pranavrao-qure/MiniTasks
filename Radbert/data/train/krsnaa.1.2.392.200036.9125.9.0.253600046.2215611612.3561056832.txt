@@ -1,0 +1,36 @@
+
+Patient ID 683e596c4be76081a55de8cb540d13ea9c05731ad95c8965b4918f74
+Patient ID ba5379cb0acc964ac9692736e2e5f5d788707a2e889020faa7b83831
+Patient Name 82a6c6dcfa0e6966db3ceb94215210fe804968e7ef3599434b56762a 38Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 9921fcf89183b785fbfe337b3fbb70c47ad0e8b8848b6a6c4f0b73eb
+
+
+
+
+
+
+
+X-RAY LEFT SHOULDER AP VIEW  
+  
+FINDINGS :         The alignment of the shoulder joint appears normal     Bones appear grossly normal     Soft tissues appear normal     IMPRESSION :  NO SIGNIFICANT ABNORMALITY        Suggest clinical correlation and follow up
+ 
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+ 
+
+
+

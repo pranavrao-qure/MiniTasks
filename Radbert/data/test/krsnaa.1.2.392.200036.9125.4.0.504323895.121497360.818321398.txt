@@ -1,0 +1,27 @@
+Patient ID d5e0fe74b43c1dccb2472d530cc2ce1e7c0b4c5667d40577e25006bc
+Patient Name c5d9a4c54e07fcecc0ac37869656208f3475c2f3a4048a980e184ee7 60 YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date fe507ab5d3c19fc3e94c19a020302399028951eba6e1e229a261e8de
+
+
+
+
+
+X-RAY CHEST 
+OBSERVATION:
+ 
+Fine reticular opacities with nodular infiltrate noted in bilateral lung fields Suggestive of infective etiology? Viral.
+Fracture noted at 6th and 7th rib on right side.
+Patchy consolidation noted at right upper lung zone - Infective Both hila are normal. Cardiophrenic and costophrenic angles are normal. The trachea is central The mediastinal and cardiac silhoutte are normal. Cardiothoracic ratio is normal. Bones of the thoracic cage are normal. Soft tissues of the chest wall are normal.
+IMPRESSION: 
+Above x-ray film findings suggestive of infective etiology? Viral.
+ADVICE-Complete Blood Count
+
+ 
+ 
+Date: 20-Mar-2020 12:07:11

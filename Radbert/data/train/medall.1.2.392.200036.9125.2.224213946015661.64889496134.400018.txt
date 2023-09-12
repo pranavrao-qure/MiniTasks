@@ -1,0 +1,52 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X-RAY CHEST - PA
+
+FINDINGS & IMPRESSION:
+«        
+Lungs   
+        
+        
+        
+        
+ : Clear
+«        
+Trachea 
+        
+        
+        
+ : Central
+«        
+Cardiomediastinal silhouette    
+ : Normal
+«        
+Costophrenic angle      
+        
+        
+ : Clear
+«        
+Bony Thorax     
+        
+        
+ : Unremarkable.
+«        
+Diaphragm       
+        
+        
+        
+ : Smooth and normal in position.
+Kindly correlate clinically.
+
+
+ DR.S.SRAVANI, MD 
+CONSULTANT RADIOLOGIST  
+
+
+THIS IS A PROFESSIONAL OPINION NOT FOR MEDICOLEGAL PURPOSE
+
+
+
+
+

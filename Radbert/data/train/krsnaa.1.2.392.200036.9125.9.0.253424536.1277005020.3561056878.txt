@@ -1,0 +1,27 @@
+
+Patient ID c1f6534032591c4d962ce10ebe48809bfd42064afaf29b8a370be6ab
+Patient ID 5018b06c091748002e183afd2fb6ab321d5928a3651fd6aae615acbf
+Patient Name 9b600a8b446b05cd74071916ed72dd46d29bf965e30de87a3770acdb NAVEENKUMAR18 Y REF DR RAJASEKAR
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date bade9da635382f79bc22be0ff35cf700e3b33657a354938462c2791d
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

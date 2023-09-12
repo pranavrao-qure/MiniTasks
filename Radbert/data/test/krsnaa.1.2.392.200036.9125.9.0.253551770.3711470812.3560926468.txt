@@ -1,0 +1,29 @@
+
+Patient ID fc205f55682c3c65873c0c65ec97a02df48df23119ecfb41cb57a92d
+Patient ID 9b712cce82169f198249891acd9523c626ad4cf2508885eace655863
+Patient Name 4230b4c3dad3c8e1c03fb47edb4b84c29a9c1fe01e6388881fe05bdc 32/M
+Age :
+Sex :O
+Accession Number 44fc8d7babc503c7f15f738dbacfca905b1449acd9a254e84b405422
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 0d321ea47f0fdf5a8e51d5711373dfe332a9e234c21e706e553eacc4
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Nodular opacities noted in right upper zone - Infective.
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

@@ -1,0 +1,23 @@
+X-ray Chest PA view:
+
+LUNGS: Prominent lung markings seen bilaterally predominantly at the bases.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal.
+Report Impression: 
+X-ray of the chest shows
+- Prominent lung markings.
+Recommend clinical correlation for bronchitis.

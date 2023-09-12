@@ -1,0 +1,32 @@
+
+Patient ID 05a5fd8ef7eb6a1da822456d2eae5173b28ecb03cfe1c66bd1962eb3
+Patient ID 472980d1a1202105a9136a6ed3c24737149350499438c8714ad5c86b
+Patient Name 9cb7aff1db96a91a4f7c413333d6f7182f97fdfc631f11d97e3bcccd 54Y
+Age :
+Sex :M
+Accession Number be75c08ef061d5d0262b12295e359f7c31e0f8d58374b08d7e06eb0a
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date cf00cb2e1407e6a75abfd2f82d4aae898e7f3c377c03baf94f67ffa7
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+
+Increased cardiothoracic ratio noted - Cardiomegaly.
+Both CP angles are clear.
+Both lung parenchyma are normal.
+
+
+
+For clinical correlation. 

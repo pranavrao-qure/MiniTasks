@@ -1,0 +1,31 @@
+Patient ID 06153ed0a80cb5aee6c98f4569f4c7c6a5d01141d013e494d2ffd3bc
+Patient Name 59261032338dc10d1e484b09e75676a3992803d78d086bf2cc7f8f8c 85 Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date b4ac1542be8b2d1d305b5dcc2718c71ead44939796b43544f25d9367
+
+
+
+
+
+  X - RAY CHEST 
+ 
+Patchy diffuse consolidation noted at bilateral mid  lung zone - Infective
+Unfolding arch of aorta noted.
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy diffuse consolidation noted at bilateral mid  lung zone - Infective
+For clinical correlation.  
+ 
+ 
+Date: 19-Mar-2020 15:19:27

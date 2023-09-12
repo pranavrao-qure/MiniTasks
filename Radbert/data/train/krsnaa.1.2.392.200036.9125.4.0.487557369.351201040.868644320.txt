@@ -1,0 +1,31 @@
+Patient ID 8400e44e11fa7152efc05ea35360dca95a83a26340f1509ba4dd87e6
+Patient Name c4c548e22948433719c5b45821eab1a864de915eaf426b889eb9775d 75 Y DR RAJESH AGARWAL
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date c46bc56ca8e4c73e8faadd9ad168d28a6c2e12bd0198b388a12edb3b
+
+
+
+
+
+    X - RAY CHEST PA VIEW
+Billateral  haziness noted in right lower lung zone - -? Infective.
+Unfolding arch of aorta noted.
+Mild cardiomegaly is noted.
+ Trachea is in midline.
+
+Both hila normal in density.
+   Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Billateral  haziness noted in right lower lung zone - -? Infective.
+Unfolding arch of aorta noted.
+Mild cardiomegaly is noted.
+For clinical correlation.
+

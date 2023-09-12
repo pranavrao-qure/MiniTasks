@@ -1,0 +1,20 @@
+X-ray Chest PA view (F No-1072):
+
+LUNGS: An ill defined haziness is noted in right mid zone suggestive of pneumonitis.
+TRACHEA: Normal. 
+CARINA: Cardiomegaly. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Pneumonitis right lung.
+Cardiomegaly.
+
+Adv: Clinical correlation.

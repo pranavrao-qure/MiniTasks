@@ -1,0 +1,129 @@
+Patient ID 434b919243025d4a6480264ef9b04ad3d80be0dba3f0cccc63f8b609
+Patient Name 7a1ecfedcba38c4d7b46609a5ebd03b4ef65c0d6e2987496b7491744 22Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date bf2ca8e7decd3ab0b3b65076509d7866573f8071d1e9e4c559cbb3be
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+IMPRESSION  :
+No significant abnormality detected.
+Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY SKULL (AP & LAT)
+ 
+ 
+FINDINGS :
+ 
+Skull vault and diploic spaces appear normal. 
+ 
+Sutural and vascular markings appear normal. 
+   
+No obvious bony injury / erosions noted. 
+ 
+No pathological intracranial calcifications noted.
+ 
+ 
+  IMPRESSION  :  NORMAL SKULL RADIOGRAPH.
+ 
+Suggested clinical correlation.    
+
+
+
+
+
+
+
+
+
+
+X-RAY DORSAL SPINE (AP / LAT)
+  
+FINDINGS :
+ 
+Alignment of dorsal spine is normal.
+ 
+Vertebral bodies are normal in shape & density.
+ 
+Posterior arch elements appear normal.
+ 
+Intervertebral discs show normal height.
+ 
+Pre vertebral soft tissues are normal.
+ 
+IMPRESSION : NORMAL STUDY.
+ 
+    Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE (AP / LATERAL)
+   
+FINDINGS :   Alignment of lumbosacral spine is normal.   Vertebral bodies are normal in shape & density.   Posterior arch elements appear normal.   Intervertebral disc spaces are maintained.   Prevertebral soft tissues are normal.    IMPRESSION  :  NO SIGNIFICANT RADIOGRAPHIC ABNORMALITY.   Suggested clinical correlation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X  RAY RIGHT  KNEE JOINT  AP/ LAT: -
+UPPER ENDS OF RIGHT TIBIAL, FIBULA AND RIGHT KNEE JOINT ARE 
+NORMAL. RIGHT PATELLA & PATELO-FEMORAL JOINT APPEAR NORMAL. ARTICULAR MARGIN OF RIGHT KNEE JOINT APPEAR NORMAL.
+NO EVIDENT FRACTURE SEEN .  
+
+
+X  RAY LEFT   KNEE JOINT  AP/ LAT: -
+UPPER ENDS OF LEFT TIBIAL, FIBULA AND KNEE JOINT ARE 
+NORMAL. LEFT PATELLA & PATELO-FEMORAL JOINT APPEAR NORMAL. ARTICULAR MARGIN OF LEFT KNEE JOINT APPEAR NORMAL.
+NO EVIDENT FRACTURE SEEN .  
+
+
+
+

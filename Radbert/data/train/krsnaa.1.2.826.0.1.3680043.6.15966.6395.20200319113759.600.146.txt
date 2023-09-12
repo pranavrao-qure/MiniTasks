@@ -1,0 +1,32 @@
+Patient ID 0d06ce646f8e4edfb458976d20889f2fc5b6e8005172de6c1b14777f
+Patient Name d20adec89a4b855148727343f1d6a67396b66aad5d97c950b21580bf 40 YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date b4ac1542be8b2d1d305b5dcc2718c71ead44939796b43544f25d9367
+
+
+
+
+
+X-RAY CHEST PA VIEW
+
+
+The lungs on the either side show equal translucency.  
+Pericardial haziness  noted at right lower zone s/o infective etiology.
+Patchy opacities noted at b/l lung zone s/o infective etiology.
+The peripheral pulmonary vasculature is normal.
+No focal lung lesion is seen.
+Bilateral CP angles are normal.
+Both hila are normal in size, have equal density and bear normal relationship.
+The heart and trachea are central in position and no mediastinal abnormality is visible.
+The cardiac size is normal.
+The domes of the diaphragms are normal in position,and show smooth outline.
+
+
+Suggested clinical correlation.
+
+

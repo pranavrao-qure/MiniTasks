@@ -1,0 +1,35 @@
+Patient ID 8df4955c3c6e1cd993970f64ccdc5ffc15f5876c67b43f34649599a0
+Patient Name 05e15cb5bed18ed37820fe789f0d02af4847f91936db5c39e7327e1a
+Age :48 Years
+Sex :F
+Accession Number bac1f052f700d0d166c236cd83ef4442fd802f64201da1afa84fee04
+Modality :CR
+Referring Physician 40826a4f12f4a288f283b574a5302e641a60f2c070fa41b0117cc680
+Study :CHEST
+Study Date 6bebdb3c0d392e540f958848fdfd17b368dedc93adf9bd5321a1d1a5
+
+
+
+
+
+    X - RAY CHEST PA VIEW
+
+Mild haziness noted in bilateral lower lung zone - -? Infective.
+old Fracture noted at 7th and 8th ribs on right side.
+
+ Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.        
+Both CP angles are clear.
+Rest of lung parenchyma appears normal.
+Bony cage and soft tissues are normal.
+
+IMPRESSION:
+Mild haziness noted in right upper lung zone - -? Infective.
+Fracture noted at 7th and 8th ribs on right side.
+For clinical correlation.
+
+ 
+ 
+Date: 28-Jan-2020 14:09:16

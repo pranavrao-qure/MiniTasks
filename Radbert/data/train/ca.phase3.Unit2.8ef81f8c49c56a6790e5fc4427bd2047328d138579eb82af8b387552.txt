@@ -1,0 +1,23 @@
+X-ray Chest AP view:
+
+LUNGS: An ill-defined homogeneous perihilar opacity in the right mid zone.
+Haziness seen in the right lung zones and left lower zone.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA:Blunted both costophrenic angles. 
+
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal.
+Report Impression: 
+An ill-defined homogeneous perihilar opacity in the right mid zone-consolidation.
+Haziness seen in the right lung zones and left lower zone.
+Blunted both costophrenic angles-pleural effusion. 
+
+Recommend USG correlation.

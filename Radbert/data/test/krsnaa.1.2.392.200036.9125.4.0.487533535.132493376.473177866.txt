@@ -1,0 +1,30 @@
+Patient ID d9c3096c2905fbae461ca8a644644b876bf34ee2c539daa794356d0a
+Patient Name 73006d3ceac93013b3bfa6ed4f45dcb7591db9c4d1f3b3e9ad9ab6d9 45yr
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date d1a7fdbbdb49a28dad28ff27d8d70acced2972f9a5a954b666a4f0d4
+
+
+
+
+
+X-RAY CHEST 
+OBSERVATION:
+Blunting of right  CP angle is seen suggest minimal pleural effusion.
+The lung fields are clear.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+ 
+IMPRESSION :  Blunting of right CP angle suggest minimal pleural effusion.
+ 
+ADV USG THORAX.
+
+

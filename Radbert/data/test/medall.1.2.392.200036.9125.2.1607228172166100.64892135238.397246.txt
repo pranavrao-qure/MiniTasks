@@ -1,0 +1,29 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X-RAY CHEST (PA VIEW)
+
+
+Fibrotic scarring in both upper zones with bronchiectatic changes.
+
+Elevated hila bilaterally.
+
+The cardio thoracic ratio is normal.
+
+The costophrenic and cardiophrenic recesses and the domes of 
+
+diaphragm are normal.
+
+The bones and soft tissues of the chest wall show no abnormality.
+
+------ findings suggestive of post infective sequelae.
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6458 by 1931, depth 1
+pict001.wmf
+Dr.Vitsizono Mepfhuo, MDRD
+Consultant Radiologist
+
+SP
+
+

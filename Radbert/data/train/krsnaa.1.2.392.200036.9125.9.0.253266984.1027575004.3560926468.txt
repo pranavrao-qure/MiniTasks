@@ -1,0 +1,34 @@
+
+Patient ID a9479b703d6662042d025de2dbd80826b37fb8a18ab63989954319cd
+Patient ID 9bfaa134af090bf5454530f1f83ef720bdc4966d2f19b52d0fe43110
+Patient Name 2fded622707c68a57020058badf09c99133e754a1b42bd08c291e641 65/F
+Age :
+Sex :F
+Accession Number 7f0446ab75ba674162f33e42e70b81ff5be3e6a410189fbe0820bf75
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date ca2aa6cc575f3023df40f8f053f760b25a05a57a4301ddd33d7404a9
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Trachea is in midline.
+
+Both hila normal in density.
+
+Cardiomegaly.
+Patchy pneumonitis right upper zone - Infective.
+
+Both CP angles are clear.
+
+
+
+
+For clinical correlation. 

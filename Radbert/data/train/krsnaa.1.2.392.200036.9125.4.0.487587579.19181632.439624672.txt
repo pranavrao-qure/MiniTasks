@@ -1,0 +1,28 @@
+Patient ID 4c8612bb4dfd567af7de860ed5902ef19f8deee798d3a1993128871c
+Patient Name 6da841ce7dd214c641ee1f8fb2c98779eb250a80c8f26e0ec6a369b2 22 YEARS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6e51a1fee4c56ddfa75155b4d40035a0b3b3d7a2434023d86944fd52
+
+
+
+
+
+                                                          X - RAY CHEST PA VIEW
+Prominent bronchovascular markings noted at bilateral perihilar rigion.
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+For clinical correlation. 
+
+IMPRESSION: Prominent bronchovascular markings noted at bilateral perihilar rigion.
+
+ 
+ 
+Date: 06-Feb-2020 10:21:53

@@ -1,0 +1,21 @@
+
+Patient ID f5c15281e098907a1dd86649b32b1d838054f420736591f8a0cf8054
+Patient ID bcb355fdb20353694360ae7790bf0e51916d0c732bce97041ebec8f7
+Patient Name 6fc3f6e4d70267d86bb82f258254509f258ac07a367b9d737880ab90 15DAY BEDSI SNCU
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 05791d7a3279d70480a750290c4282a460ebf683f8656e2f0cd7db51
+
+
+
+
+
+
+X-RAY CHEST AP VIEW
+
+FINDINGS :         Lung fields are clear.     Both hila appear normal.     Mediastinum is normal.     Cardiac size is normal.     Both domes of diaphragm are normal.     CP angles are clear.     Soft tissues and bony cage appear normal.     IMPRESSION :  NORMAL CHEST RADIOGRAPH.      Suggested clinical correlation and follow up.
+ 

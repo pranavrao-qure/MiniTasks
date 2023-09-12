@@ -1,0 +1,45 @@
+Patient ID 30e666f46df5f42a66bdb2d150cf64b517a899078aaefe4d5c19d980
+Patient Name 64474638234c4f39a3294c996ad1928dcb75a35de7fd69cc85d5e79d 60Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1741ca7c811cee8c3691fce71e91411d170009d920b58244a4d63e4c
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+ 
+ Patchy inhomogenous opacities noted in right mid zone - Infective etiology
+Trachea is in midline.
+
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY BOTH KNEES (AP/LAT)    
+FINDINGS : Alignment of both knee joints is normal.   The knee joint space is reduced, more so of the medial compartment   Bilateral marginal osteophytes noted  
+Tibial spine spiking noted on both sides   No obvious bony injury.   IMPRESSION : BILATERAL OSTEOARTHRITIS CHANGES                    Suggest clinical correlation and follow up
+ 
+
+

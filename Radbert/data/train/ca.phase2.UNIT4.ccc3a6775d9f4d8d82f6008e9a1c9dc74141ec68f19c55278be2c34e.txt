@@ -1,0 +1,24 @@
+X-ray Chest PA view:
+
+LUNGS: Right lower zone atelactasis.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: There is blunting of the right costophrenic angle, which may represent a small pleural effusion.  
+
+HEART: Mild cardiomegaly. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+1. Mild cardiomegaly. 
+2. Blunting of the right costophrenic angle, which may represent a small pleural effusion. 
+
+Correlate clinically and with other investigations.

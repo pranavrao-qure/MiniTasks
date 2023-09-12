@@ -1,0 +1,25 @@
+
+Patient ID 9d2d32be29677896ef692cf8dcc99d2a1d32178267be7d9ce7d5b010
+Patient ID ee5cebf83270fe5662f811d963dbf288b8ac30784cf2143268e78931
+Patient Name 0f844dac35da8d26b531977ebcf53b84a53ce66141a4407d9b5ab4ba RAO.65/Y OP.3841
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date 96cd32300bfa2ba89398b7cba2b879dd132e23ef359f988234115cb1
+
+
+
+
+
+
+X-RAY 
+CHEST AP VIEW
+FINDINGS 
+:       Lung fields are clear.   Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   Bony cage shows old fracture 4th and 5th rib on along the chest wall on right side.       
+Suggested clinical correlation and follow up.

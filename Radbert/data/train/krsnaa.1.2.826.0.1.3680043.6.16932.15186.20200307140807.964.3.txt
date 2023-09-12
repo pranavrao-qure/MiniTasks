@@ -1,0 +1,32 @@
+Patient ID f9f7bf3fa50cb506e822de3cc1ec490ff24b332b6240f1d0580a77e7
+Patient Name e00d21fa64272bd51646cae8274c8ec710778c9881c20041129499e6 30F
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 65998a0d93a1247a02bb4391be0e3a2c668e7e23d0e8d6fe7e3abdfe
+
+
+
+
+
+X-RAY CHEST AP VIEW
+OBSERVATION:
+Metallic artifacts noted.
+Blunting of  left CP angle is seen suggest minimal pleural effusion.
+Prominent bilateral hilar shadows noted.
+The lung fields are clear.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+
+IMPRESSION :  
+Blunting of  left CP angle suggest minmal pleural effusion.
+Prominent bilateral hilar shadows noted.
+
+ADV USG THORAX.

@@ -1,0 +1,39 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+X - RAY CHEST PA VIEW
+ 
+Bilateral lung fields appear normal.
+
+Cardiac size is within normal limits. Aortic knuckle calcification noted
+
+Bilateral hilar regions appear normal.
+
+Bilateral domes of diaphragm and costophrenic angles are normal.
+
+Visualised bones and soft tissues appear normal.
+
+
+CONSULTANT RADIOLOGISTS 
+DR. H.K. ANAND  
+        
+        
+DR. NANDA KUMAR. K      
+DR. CHANDRAMOULY.M
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6906 by 3307, depth 1
+pict001.wmf
+DR. VINAY K K
+Vk/vp
+
+
+
+
+
+
+
+
+
+
+

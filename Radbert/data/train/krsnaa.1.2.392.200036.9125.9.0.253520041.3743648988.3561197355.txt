@@ -1,0 +1,25 @@
+
+Patient ID 655f5ec93529869866b1626014ab7a1dcb6317e6b6931c5a455179a7
+Patient ID bb354eb2889b480c1324a06659017fe1eaa56204df549a03c2998a7b
+Patient Name 0223ede50b3f8c85ad83ace34a958e925993c11fcbaeee89557cea84 60Y ICU
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 0ddece0318515865dc120fcc929a9a258145e69bde0d0e4b68c8a507
+
+
+
+
+
+
+                                                           X - RAY CHEST OBLIQUE VIEW
+
+Visualized lung parenchyma are unremarkable.
+Cardiac silhouette maintained.         
+Visualized CP angle is clear.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

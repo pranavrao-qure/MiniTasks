@@ -1,0 +1,16 @@
+LUNGS: Haziness in left mid/lower lung zone -? Infective.
+PLEURA: Normal.
+HEART: There is no cardiomegaly.
+VISUALIZED BONES: No united fracture of left clavicular shaft.
+DIAPHRAGM: Normal..
+VISUALIZED ABDOMEN: Normal.
+
+
+Report Impression: 
+LUNGS: Haziness in left mid/lower lung zone -? Infective.
+PLEURA: Normal.
+HEART: There is no cardiomegaly.
+VISUALIZED BONES: No united fracture of left clavicular shaft.
+DIAPHRAGM: Normal..
+VISUALIZED ABDOMEN: Normal.
+

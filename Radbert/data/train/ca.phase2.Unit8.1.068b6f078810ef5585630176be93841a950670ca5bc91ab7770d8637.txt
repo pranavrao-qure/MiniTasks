@@ -1,0 +1,20 @@
+X-ray Chest AP supine view:
+
+LUNGS: Emphysematous changes are seen on left side.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+RIGHT HEART BORDER: Normal. 
+LEFT HEART BORDER: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Fracture of right 4 to 6 ribs 
+VISUALIZED SOFT TISSUES: Surgical emphysema is seen.
+DAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.

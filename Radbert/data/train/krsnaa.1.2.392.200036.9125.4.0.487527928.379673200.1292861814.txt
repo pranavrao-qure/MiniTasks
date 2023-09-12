@@ -1,0 +1,37 @@
+Patient ID 2b56f3dcb919b2220d9546f47ac09a471b65f9af9bbdcfd3ea1c7eea
+Patient Name 18d837acd18a887a9c30d684d724cda4acad840bcc91a55ce3a970e9 DAS,65YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 709944fb88fbe251907776bbc0075ccdea74ddbe6bb2614213a2a07f
+
+
+
+
+
+X-RAY CHEST PA VIEW
+ 
+FINDINGS :       Lung fields are clear.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.
+  Impression :- NO SIGNIFICANT ABNNORMALITY DETECTED     Suggested clinical correlation and follow up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LEFT HAND AP & OBLIQUE VIEW    
+FINDINGS :       The alignment of the wrist  appears normal   Bones appear grossly normal   Joint spaces and small joints are normal   Soft tissue swelling noted at medial aspect and 5th digit.
+   Suggest clinical correlation and follow up
+
+

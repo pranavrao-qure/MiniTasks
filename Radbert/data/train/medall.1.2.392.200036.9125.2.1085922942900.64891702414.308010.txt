@@ -1,0 +1,36 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 2 fonts total
+
+-----------------
+X - RAY CHEST PA VIEW
+ 
+Bilateral lung fields appear normal.
+Cardiac size is within normal limits.
+Bilateral hilar regions appear normal.
+Bilateral domes of diaphragm and costophrenic angles are normal.
+Visualised bones and soft tissues appear normal.
+
+IMPRESSION :Chest radiograph reveals no evidence of any Pleuro- pulmonary abnormality.
+
+ 
+
+Dr Parimal Sonawane     
+        
+Dr Rajani S. Dharaskar  
+Dr Rohan Kashyape
+DMRD, DNB.      
+        
+        
+        
+MBBS, MD.       
+        
+        
+MD, DNB. 
+
+
+
+
+
+
+
+

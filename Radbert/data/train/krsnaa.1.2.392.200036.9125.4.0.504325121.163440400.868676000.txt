@@ -1,0 +1,46 @@
+Patient ID aba8116f9504b062296d7efdf4539f07ead96d06292cf9125375b9af
+Patient Name f8599499a7955bfb82cc5ed056a7e0ca9e4f85d871e87fa1b6d51bb1 30Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date dd09cf71122ff14a9e43768813031f106e2c219dc60b58abc3d713a7
+
+
+
+
+
+                                                           X - RAY CHEST
+ 
+ Patchy inhomogenous opacities noted in both upper zone - Infective etiology
+Trachea is in midline.
+
+  Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+ 
+For clinical correlation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY RIGHT  SHOULDER    
+FINDINGS :       The alignment of the shoulder joint appears normal   Bones appear grossly normal   Soft tissues appear normal    IMPRESSION :  NO SIGNIFICANT ABNORMALITY   
+   Suggest clinical correlation and follow up
+ 
+
+

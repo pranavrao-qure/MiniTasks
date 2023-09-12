@@ -1,0 +1,31 @@
+Patient ID 6d9453ae1d2f5e3803dc2de815e5e8ed690c8bb0c79779ecb4821162
+Patient Name b2f254958a4fbff3c1cb30a7cfccdea38a4f7b0f2300b241483309e7 80YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 6b3f1a99bc0641e428aea25288f46c2d9f985603d37a7918aee11bba
+
+
+
+
+
+X-RAY CHEST
+OBSERVATION:
+Patient is rotation
+Patchy consolidation noted at left upper lung zone - Infective
+Blunting of  left cardio-phrenic angle is seen suggest pleural effusion.
+
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+
+IMPRESSION :
+Patchy consolidation noted at right upper lung zone - Infective
+  Blunting of  left CP angle suggest pleural effusion.
+
+ADV USG THORAX.

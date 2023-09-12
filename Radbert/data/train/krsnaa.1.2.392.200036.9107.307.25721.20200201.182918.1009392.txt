@@ -1,0 +1,71 @@
+Patient ID b98a3ee218be7f092c8bd21c6ff74a8bd29cdd6ef7180b5a117af343
+Patient Name 6eb6cc515889b54853a6babaf8d0a5944a7628d72ba697d19f692bbf 86 Y FA
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :DX
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :ChestSupine AP
+Study Date 6226f29349fbaf08b9de824880e55de9b989d9b4a024755ae33a6584
+
+
+
+
+
+X-RAY CHEST  
+ 
+  FINDINGS :  Small nodular opacities noted in bilateral peri hilar region.   Mildly prominent bronchovascular markings noted in both lung fields.   Both hila appear normal.   Mediastinum is normal.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.   IMPRESSION :  MILDLY PROMINENT BRONCHOVASCULAR MARKINGS BILATERALLY, S/O NON-SPECIFIC BRONCHITIS.
+Suggest clinical correlation and follow up
+
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY LUMBOSACRAL SPINE ( LAT)
+ 
+ Anterior and lateral marginal osteophytes are noted.
+The vertebrae show normal alignment.
+  No focal bone lesion is seen.
+  The intervertebral disc spaces are normal.
+  No abnormal paravertebral soft tissue shadow is seen.
+  No abnormal soft tissue calcification is noted.
+  The psoas shadows are well defined and normal.
+  No radio opaque calculus is seen.
+ 
+IMPRESSION  : 
+ 
+ Anterior and lateral marginal osteophytes are noted, degenerative changes
+
+
+
+
+
+
+
+
+
+
+
+X-RAY PELVIS WITH BOTH HIP JOINTS (A.P.VIEW)
+   
+The bones of pelvis and both hip joints show normal architecture and normal alignment.  
+  The hip joint space is normal.
+  The articular margins are normal.
+  No soft tissue mass or calcification is seen.
+  There is no evidnece of fracture/ dislocation.
+  No evidence of loose bodies or joint effusion is noted.
+  The sacroiliac joints are normal.
+ 
+IMPRESSION  : 
+ 
+NO SIGNIFICANT ABNORMALITY DETECTED.
+
+

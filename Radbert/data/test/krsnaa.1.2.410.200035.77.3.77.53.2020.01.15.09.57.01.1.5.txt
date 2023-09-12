@@ -1,0 +1,31 @@
+Patient ID b1ba9ba8e7b3e5b5713d00abc1726a07eb41deb53eadd733de3d5c2a
+Patient Name bc15bebce2d110affd4d370d619295a79311591578796ce8e872625f
+Age :85 Years
+Sex :M
+Accession Number a41318a309fce3bbc68ccf133d4db0785dd8c8495e701ab042c65a70
+Modality :CR
+Referring Physician 2fbe44eebb21b50d63aa841c8fbde735d3b0412b633def48cbc253e4
+Study :CHEST
+Study Date d1a7fdbbdb49a28dad28ff27d8d70acced2972f9a5a954b666a4f0d4
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ 
+Diffuse Patchy consolidation noted at bilateral lungs Infective .
+
+Diaphragmatic hump noted at right side . 
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+For clinical correlation. 
+
+
+ 
+ Date: 15-Jan-2020 10:14:46

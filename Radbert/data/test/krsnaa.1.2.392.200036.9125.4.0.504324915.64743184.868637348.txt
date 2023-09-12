@@ -1,0 +1,30 @@
+Patient ID 5c9a8d2d5d2f22b7cea100050c7bc8ac762ba166e5f6720c11bced6f
+Patient Name 624364025ad39954593bd4ae22e249ded56e18358b487bc2fc4315c5 40 y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 1a742348c3f86b026556de96a9bc611e45d523b3fca6507f3dc58b9d
+
+
+
+
+
+  X - RAY CHEST
+ 
+Patchy consolidation noted at right apical  and left mid lung zone - Infective etiology.
+Trachea is in midline.
+ 
+Enlargement of right hilar shadow noted.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+​​​​​​​ For clinical correlation. 
+
+
+
+
+

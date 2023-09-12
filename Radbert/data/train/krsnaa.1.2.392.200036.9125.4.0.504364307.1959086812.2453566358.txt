@@ -1,0 +1,27 @@
+Patient ID 17b4c41d1c44204d1430494b32ecbf1e4e77547b313a47c9e3240580
+Patient Name 4af1e44cfecc7a7259d1ebfc50147f87cf2555e189eaa8b3fd8cdb04 BORA,48YRS
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date a16f552b5ba23156397154ab2f4a0e880eda23fb06bc62e247c55b66
+
+
+
+
+
+                                                      X - RAY CHEST PA VIEW
+                                                                     
+ 
+ 
+Bilateral prominent hila with prominent bronchovascular  markings in bilateral lung fields .
+
+Rest of lung fields are normal
+Trachea is in midline.
+Cardiac silhouette maintained.         
+
+Both CP angles are clear.
+For clinical correlation.
+

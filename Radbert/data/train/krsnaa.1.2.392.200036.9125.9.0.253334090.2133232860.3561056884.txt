@@ -1,0 +1,42 @@
+
+Patient ID 022d7091d25011a63780ccfd031a4ce43805785bf5aa6115213e1402
+Patient ID 59dd013f7c674ee5dd76a30b7b9596e0fd5decc03a64e40b9c374cad
+Patient Name 4b928f9f119a525f9066cd44fe4337f371fb8357cdd8816c66047dcf 40 / f
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 34575b1594a775fb9fa5ecdefda29c19b1ef5f15226f6a58bb943486
+
+
+
+
+
+
+X-RAY EXAMINATION        :   
+ CHEST P.A VIEW     
+                
+ 
+                  Prominent bronchovascular markings , peribronchial cuffing 
+                
+ and overinflated    bilateral lung
+fields.              
+ 
+                  
+ Cardiac silhouette and mediastinum are normal.
+                                 
+                  Both the pleural cavities are
+normal.                  
+                  
+                  The domes show normal
+position.
+ 
+                  Bony thorax does not reveal
+any abnormality.
+ 
+ 
+IMPRESSION : Findings are suggestive of chronic
+bronchitis.
+ 

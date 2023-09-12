@@ -1,0 +1,68 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+
+
+	Patient Name	Mr.V.Srinivasa Rao	
+	Age/Sex	40Y/M	Date :	19/03/2018 	
+	Ref&..Doctor	Dr.G.Ram Mohan Rao.MBBS.DTCD., 	
+	
+
+RADIOGRAPH OF CHEST P.A & LAT VIEWS
+
+        
+
+        
+        
+        
+
+        
+        
+        
+-- Heart size Normal, Unfolding of aorta.
+
+        
+        
+        
+-- Trachea pulled towards right side.
+
+        
+        
+        
+-- Both Hila size, Shape and Density normal.
+
+        
+        
+        
+-- Fibrotic lesion noted in right upper lobe.
+
+        
+-- Right C.P angles obliterated.
+
+        
+-- Left C.P anterior and posterior angle is clear.
+
+        
+-- Bony caze and soft tissue planes normal.
+
+
+
+
+
+        
+IMPRESSION :  FIBROTIC LESION IN RIGHT UPPER LOBE.
+
+        
+        
+        
+ MINIMAL RIGHT PLEURAL FIBROSIS.
+
+
+Advise : Clinical correlation and Sputum for AFB Please. 
+
+
+
+
+
+

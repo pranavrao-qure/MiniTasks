@@ -1,0 +1,21 @@
+X-ray Chest PA view (F. NO 514):
+
+LUNGS: Calcified specks are seen in the right upper zone. 
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Normal. 
+VISUALIZED ABDOMEN:  Normal. 
+
+Report Impression: 
+47 years old male for routine health check.
+
+X-ray of the chest shows calcified specks in the right upper zone. 
+
+Recommend clinical correlation. 

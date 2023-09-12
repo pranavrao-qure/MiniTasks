@@ -1,0 +1,20 @@
+X-ray Chest PA view:(F No 1177)
+
+LUNGS: Homogenous opacity is noted in the right mid and lower zones. Linear atelectasis is noted in the right upper zone.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+HEART: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+VISUALIZED BONES: Degenerative changes in dorsal spine.
+VISUALIZED SOFT TISSUES: Normal. 
+DIAPHRAGM: Right dome of the diaphragm is elevated.
+VISUALIZED ABDOMEN:  Normal.
+Report Impression: 
+Homogenous opacity in the right mid and lower zones with elevated right hemidiaphragm - ? right lower lobe collapse.
+Linear atelectasis in the right upper zone.
+Dorsal spondylosis.
+
+Recommend clinical correlation. 

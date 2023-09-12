@@ -1,0 +1,42 @@
+
+Patient ID 494cda971d9495f86eac75b06ac90bad1360bbb021af5c14f1c46475
+Patient ID 8220eaee70630b8ae3ea511c35092601d959093f4960b9871bac19fd
+Patient Name 016ad46ab95d207c9b703df0b4899cafb84e21b49de2294e30142ca9
+Age :
+Sex :O
+Accession Number b141a236a34fa5b6d547affdbd10b5377a737004f1f72deb0a6b992e
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 92a87b002c2aa541ae16e303739e7da35d29b50fa5573ab7fe0501af
+
+
+
+
+
+
+X-RAY RIGHT FOOT AP & OBLIQUE VIEW        
+
+FINDINGS :    
+
+Fracture noted at 1st proximal phalanx with surrounding soft tissue swelling.
+
+   Rest of bones appear grossly normal   
+   Suggest clinical correlation and follow up                                                               X - RAY CHEST PA VIEW Trachea is in midline. Both hila normal in density. Cardiac silhouette maintained.          Both CP angles are clear. Both lung parenchyma are normal. Bony cage and soft tissues are normal. IMPRESSION :    NORMAL STUDY.  For clinical correlation. 
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+
+
+
+
+
+
+

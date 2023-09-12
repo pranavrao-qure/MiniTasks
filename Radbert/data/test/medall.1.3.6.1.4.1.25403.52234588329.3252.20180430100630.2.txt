@@ -1,0 +1,36 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 4 fonts total
+
+-----------------
+Thanks for your reference
+DIGITAL X- RAY CHEST PA VIEW
+
+Trachea appears normal.
+Cardiothoracic ratio is within normal limits.
+Right upper lobe fibrotic changes noted. 
+Atelectasis(Subsegmental) noted in right basal segments. 
+Right costophrenic angle not visualised. 
+Hyperinflated left lung. 
+Visualised bony structures appear normal.
+Extra thoracic soft tissues shadow grossly appears normal.
+IMPRESSION:
+v       
+Right upper lobe fibrotic changes. 
+v       
+Atelectasis(Subsegmental) in right basal segments. 
+v       
+Right costophrenic angle not visualised - ? Pleural effusion. 
+v       
+Hyperinflated left lung. 
+
+DR. M. ATHI NARAYANAN , DMRD.,
+ Consultant Radiologist
+
+
+
+
+
+
+
+
+

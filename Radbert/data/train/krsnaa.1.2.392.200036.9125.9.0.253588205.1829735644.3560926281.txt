@@ -1,0 +1,31 @@
+
+Patient ID f137bcfff5755f8b1225bc019c2f4a41f9f737dcadb54e56791ef262
+Patient ID cd60cd6e119e78cf1e1d05191b52126763c35816964a721b01682eda
+Patient Name ca723bcd5e45ac72d0185104d031f42501cc4c942432fbbdbd02a55f 3DAYS REF DR GUPTA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date c9f1420f18c0f1c4274ba1e220247c7911c3e7cd70b9249ed8243968
+
+
+
+
+
+
+                                                           X - RAY CHEST AP VIEW
+
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 
+
+
+

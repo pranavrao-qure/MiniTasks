@@ -1,0 +1,35 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 3 fonts total
+
+-----------------
+X - RAY CHEST PA VIEW
+ 
+FINDINGS:
+Inhomogeneous opacities are noted in the left lung field.
+Tracheal is deviated to left.
+Left costophrenic angle recess is blunt.
+Right lung field is clear.
+Right costophrenic angle recess is normal.
+Cardia is normal shape and configuration.
+Diaphragm, Thoracic cage, soft tissues are normal. 
+
+-       
+Features are of concern for infective etiology. Recommend clinical correlation / CT thorax for further evaluation. 
+
+
+
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2702 by 1628, depth 1
+pict001.wmf
+DR. MOHAN. B 
+(DMRD, DNB, FELLOWSHIP IN CARDIAC MRI)
+CONSULTANT RADIOLOGIST
+        
+        
+        
+        
+        
+        
+        
+        
+MB/SM 

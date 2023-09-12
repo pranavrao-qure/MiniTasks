@@ -1,0 +1,41 @@
+
+Patient ID 04d433759f033785115812fc6406806e0048494de730797895468abd
+Patient ID d95882cc064919f4aae35ab1bad75382fa335480e4044ea94ba19ea9
+Patient Name bb712e6a88b06164a2a3d5f970b8aff65dac11565707f5bad15a2892 63/M
+Age :
+Sex :O
+Accession Number 82afd8e35bac462fbca0b3c5a00f506b6db3d2fd1beba3db0526dc8f
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 58ca6dbf0b579d1eba7e17cc0a99a57866f12ff7fd5b4ddeb17f929d
+
+
+
+
+
+
+
+X-RAY
+CHEST PA VIEW
+
+FINDINGS
+:     
+  
+Lung fields shows patchy pneumonitis rt mid and lower zone with blurring of rt cp angle. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+Cardiac size is normal. 
+  
+Both domes of diaphragm are normal. 
+  
+ Lt cp angle is free. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ 
+    Suggested clinical correlation and follow up.
+ 

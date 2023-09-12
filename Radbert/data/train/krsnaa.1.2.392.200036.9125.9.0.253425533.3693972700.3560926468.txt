@@ -1,0 +1,26 @@
+
+Patient ID 872fff5005688567434386310ceaa5dc650eeee589b982a19ebc859b
+Patient ID c7330292316b7c6b67e1d0b6f41638ab89a51c9d9774a362ee3acd41
+Patient Name 0d392e3600e9d951d7103ce2c5da589dacd48d4a68810a082d0e05f9
+Age :
+Sex :F
+Accession Number 887564ed4896e7de0017743c152b8ae6c00075c1bca3ab813a0d4fd8
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date bf3a407e7fde09bb9247aec584d895e156c3b3cd3e2f4df63d4123fb
+
+
+
+
+
+
+X-RAY 
+CHEST AP VIEW
+FINDINGS 
+:    
+Subtle changes of pneumonia are seen in the right lower zone      Both hila appear 
+normal.   Mediastinum is normal.   Cardiac size is 
+normal.   Both domes of diaphragm are normal.   CP angles are 
+clear.   No significant bony injury noted.    .     
+Suggested clinical correlation and follow up.

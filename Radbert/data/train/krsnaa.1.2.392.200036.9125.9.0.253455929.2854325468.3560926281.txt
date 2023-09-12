@@ -1,0 +1,29 @@
+
+Patient ID 96b08b2150d8ffb6fa6159b10a33413232a3277344cf18f306885879
+Patient ID 3725edf382244270fb40b96cccbe422811e9cfcce005b0a78481fe20
+Patient Name 30394c5b1fa65ce1bf01ee73164ab2d825bf43f35a0510f04e6f6836 55Y REF DR RAVINDRA
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date f3f68fbd387ea33062b367ab414461042df160105d112676e9352bb0
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+Prominent bronchovascular markings noted.
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+
+For clinical correlation. 

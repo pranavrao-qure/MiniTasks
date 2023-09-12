@@ -1,0 +1,28 @@
+Patient ID b715766b7cb9148e8f0dfc7f71be7fa1fe88c347316142fa63ce7886
+Patient Name 44b93d0df848e68125d2235b4cdeba08065a5879b763af74bb30c0ce 35y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date 92f0bb58e4397a7d706580dfb34e81800facd8bd4c5cf59cc8b48190
+
+
+
+
+
+  X - RAY CHEST PA VIEW
+ Patient in rotation.
+Tiny calcified opacities  noted at bilateral upper and mid  lung zone - Infective
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+For clinical correlation. 
+
+

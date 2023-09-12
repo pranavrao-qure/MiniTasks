@@ -1,0 +1,31 @@
+Patient ID 6b5814b378a9e27ca23af9307f5490a0760e3f56f9ed0b4ee47edf83
+Patient Name c30561d050a6c0c9c02e87d6d3cd224e8b3c57caab2cbae3db5e05d8 35 YER
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST 2R
+Study Date 9274b7d0b3e6ac187a532b303d6366ce8e172b2ba5ee4ada5fbbba1b
+
+
+
+
+
+X-RAY CHEST PA VIEW
+OBSERVATION:
+Mild Blunting of right  cardio-phrenic angle is seen suggest pleural effusion.
+Prominent bronchovascular markings noted at bilateral lung fields.
+Mild scoliosis noted.
+Both hila are normal.
+The trachea is central.
+The mediastinal and cardiac silhoutte are normal.
+Cardiothoracic ratio is normal.
+Bones of the thoracic cage are normal.
+Soft tissues of the chest wall are normal.
+ 
+IMPRESSION :   Mild Blunting of right  cardio-phrenic angle is seen suggest pleural effusion
+ 
+ADV USG THORAX.
+
+

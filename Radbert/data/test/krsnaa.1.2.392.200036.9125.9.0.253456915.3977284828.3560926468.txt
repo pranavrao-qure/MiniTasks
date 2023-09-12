@@ -1,0 +1,42 @@
+
+Patient ID 367998a37a09bbf3868710a93a43b4f53e0afc2bd06b6b399e3a3810
+Patient ID cca519da7bbae14950387f49a3ce21a2dd8475d5dd73b0ef0a47a454
+Patient Name 0d1dc86bcd76860e4d4f2718c2352c07018e696a3bd3f9097bd5ebee 42 / F
+Age :
+Sex :O
+Accession Number 1d1e4ef6fec9320c0e16562a26de4bd23cf092ba47ef2e69bd94c77e
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date c494d3b8372b5b72b729c4485d73097afb1a3d333695ed8dea2fca3e
+
+
+
+
+
+
+ 
+X-RAY CHEST PA VIEW
+ 
+FINDINGS :   
+Cardiothoracic ratio appears to be altered   
+  
+Lung fields are clear. 
+  
+Both hila appear normal. 
+  
+Mediastinum is normal. 
+  
+ 
+  
+Both domes of diaphragm are normal. 
+  
+CP angles are clear. 
+  
+Soft tissues and bony cage appear normal.  
+  
+ 
+ 
+    Suggested clinical correlation and follow up.
+ 
+ 

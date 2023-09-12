@@ -1,0 +1,99 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 5 fonts total
+
+-----------------
+X- RAY CHEST PA VIEW
+
+
+¬        
+Trachea appears normal.
+¬        
+Cardiothoracic ratio is within normal limits.
+¬        
+Small fibrosis is seen in left upper zone. 
+¬        
+Bilateral lung fields otherwise appear normal.
+¬        
+Costo and cardiophrenic angles appear normal.
+¬        
+Visualised bony structures appear normal.
+¬        
+Extra thoracic soft tissues shadow grossly appears normal.
+
+IMPRESSION:
+
+¬        
+Small fibrosis in left lung.
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+ ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 7038 by 3704, depth 1
+pict001.wmf       
+
+        
+ Dr.Rama Krishnan. M.D.,D.N.B.,
+        
+        
+Consultant Radiologist.
+
+
+
+
+
+
+
+
+
+
+
+X-RAY - LUMBAR SPINE AP & LATERAL VIEWS
+
+¬        
+Lumbar lordosis maintained.
+¬        
+Alignment of vertebrae appears normal.
+¬        
+Intervertebral disc spaces appear normal.
+¬        
+Small marginal anterior osteophytes are seen at multiple lumbar levels.
+¬        
+Vertebral body, end plates, pedicles, transverse process and spinous process otherwise appear normal.
+¬        
+Intervertebral foramina and facetal joints appear normal.
+¬        
+Visualised portion of S. I. Joints appear normal.
+¬        
+Soft tissue structures appear normal.
+ 
+IMPRESSION:
+
+¬        
+Mild degenerative lumbar spondylosis.
+
+
+ 
+
+        
+        
+        
+        
+        
+        
+        
+        
+ ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 7038 by 3704, depth 1
+pict002.wmf       
+
+        
+ Dr.Rama Krishnan. M.D.,D.N.B.,
+        
+        
+Consultant Radiologist.
+

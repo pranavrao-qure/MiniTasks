@@ -1,0 +1,58 @@
+Patient ID 446f54af3b330d4d7961dca09a2243adaf2ce31f082b03e4ef3f1fb5
+Patient Name 4bdc4489cb68013674d69687760daf4917ca6dcabff2e0bf86f7c4ca 65YRS
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST,FRN P->A
+Study Date 52e7d56fc5bac8e19883d88f6b1e904ef5f4282c95e0bd7a8a496668
+
+
+
+
+
+
+
+X-RAY CHEST PA  
+
+Both lung fields show increased broncho-vascular markings.
+No evidence of collapse, consolidation, mediastinal lymph adenopathy, soft tissue infiltration or pleural effusion is seen. 
+Both hilar shadows and c.p. angles are normal.
+Heart shadow appears normal in size. Aorta appears normal. 
+Bony thorax and both domes of diaphragm appear normal.
+No evidence of cervical rib is seen on either side.
+X RAY LEFT SHOULDER  JOINT AP & LAT.   : -
+ 
+ LEFT SHOULDER JOINT APPEAR NORMAL.
+ARTICULAR SURFACE OF SHOULDER JOINT APPEAR NORMAL.
+NO EVIDENCE OF EROSION, SCLEROSIS OR PREOSTEAL REACTION IS SEEN.
+NO EVIDENCE OF FRACTURE SEEN.
+BONY MINERALIZATION APPEAR NORMAL.
+
+
+
+
+
+
+
+
+
+
+
+
+X-RAY RIGHT HIP WITH PROXIMAL FEMUR A-P /LAT.
+
+Normal mineralisation of bones under view is seen.
+Old fracture is seen through right inter trochanteric region with fixation plate and screws in situ.
+Articular surfaces and joint space of right hip appears normal.
+No evidence of articular erosion or abnormal sclerosis is seen in right hip. 
+Right iliac bone and s.i.joint under view appear normal.
+Soft tissue swelling of proximal thigh is seen.
+
+
+
+
+
+
+

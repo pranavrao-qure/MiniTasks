@@ -1,0 +1,32 @@
+Patient ID 5b9f28aace4758dfb6255a5c6b7c416dc43385bed0dd902cc7959e62
+Patient Name 3e99af46025b3a64f9bcf728ace919033636798e4a603c7b9e3873bf 52Y
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date a16f552b5ba23156397154ab2f4a0e880eda23fb06bc62e247c55b66
+
+
+
+
+
+  X - RAY CHEST 
+ 
+Patchy consolidation noted at left  lung  - Infective
+Trachea is in midline.
+ 
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Blunting of  left cardio-phrenic angle is seen suggest pleural effusion.
+Rest of lung parenchyma are normal.
+
+IMPRESSION:
+Patchy consolidation noted at left  lung  - Infective
+For clinical correlation. 
+
+
+
+
+

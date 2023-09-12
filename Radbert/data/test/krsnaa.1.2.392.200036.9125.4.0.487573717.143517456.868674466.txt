@@ -1,0 +1,26 @@
+Patient ID 8e9f8cd92eaca0e3840351789fb7b4480654e2e5dc8103c1e5578f04
+Patient Name ce28a5e66e1070e0232ce7c26ec579dbf8c83f862527583a93c76712 13Y
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date d580956cb55a11dcfcb35e047213e82a7b016fcdf1afb0c1812c8dd3
+
+
+
+
+
+X-RAY SHOULDER AP/LAT  VIEW  
+  
+ 
+FINDINGS :    
+ 
+Fracture noted at Surgical Neck of Humerus with surrounding soft tissue swelling .
+ 
+Rest of bones appear grossly normal .   
+ 
+Suggest clinical correlation and follow up .
+
+

@@ -1,0 +1,29 @@
+X-ray Chest PA / AP view:
+
+LUNGS: Hilar and vascular markings are prominent.
+Slight ill-defined nodularity and mild interstitial thickening / mild interstitial edema seen
+No focal lung mass lesion or consolidation seen
+Lobulated soft tissue density shadow seen in trachea-bronchial and hilar region ? nodes
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Cardiomegaly. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal. 
+
+VISUALIZED ABDOMEN:  Normal. 
+VISUALIZED NECK: Normal.
+Report Impression: 
+Hilar and vascular markings are prominent.
+Slight ill-defined nodularity and mild interstitial thickening / mild interstitial edema seen
+No focal lung mass lesion or consolidation seen
+Lobulated soft tissue density shadow seen in trachea-bronchial and hilar region ? nodes
+Cardiomegaly
+
+Adv: Evaluate cardiac status and CECT chest.

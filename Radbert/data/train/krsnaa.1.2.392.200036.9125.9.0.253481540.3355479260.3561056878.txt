@@ -1,0 +1,27 @@
+
+Patient ID 55d85b08251678c2368cab8799dc7f399f0cc3369ce8befc0f24bd63
+Patient ID d6d78e545453842f86ae64947a46e891fd69dd82370170d171962570
+Patient Name 519d096ec189a5efed3bdd9a243712097fc2afc02761f923f6999c43 13YM,REF DR LINGANNA
+Age :
+Sex :M
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA VIEW
+Study Date 26b617e4cc53a61d07fc42275f75431efaf1c5c7bbbd03335f2d8add
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+Trachea is in midline.
+
+Both hila normal in density.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Both lung parenchyma are normal.
+Bony cage and soft tissues are normal.
+IMPRESSION :    NORMAL STUDY. 
+For clinical correlation. 

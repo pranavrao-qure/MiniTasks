@@ -1,0 +1,32 @@
+
+Patient ID b1ffef4b280c2c6c0a5563103b87248e8208f8369a1928b9ddc93568
+Patient ID 1e2d36f8efd8e849c805565d6ac2080e6cd3f355b39dbc387ddf81b6
+Patient Name 3b5ff8c2c84ea26bc4f49f99d77fe303f28b34224514c04409a95dcf D3  BEDSIDE
+Age :
+Sex :M
+Accession Number 4cfbb1be6d5be5d1224316eadbef8169209cb013712d689b00381e93
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST AP
+Study Date dffb4bc70e29788cd1833018b35fcf8e19a13b2ac437b56e2a12b8d1
+
+
+
+
+
+
+
+
+
+Patchy pneumonitis noted at right lower zone - ? Infective.
+
+Rest of lungs are normal.
+
+Trachea is in midline.
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+
+
+
+For clinical correlation. 

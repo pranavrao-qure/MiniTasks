@@ -1,0 +1,22 @@
+X-ray Chest PA view:
+
+LUNGS : Right lower zone opacity.
+TRACHEA: Normal. 
+CARINA: Normal. 
+RIGHT AND LEFT MAIN BRONCHI: Normal. 
+PLEURA: Normal. 
+
+HEART: Normal. 
+PULMONARY BAY: Normal. 
+PULMONARY HILA: Normal. 
+AORTA: Normal. 
+
+VISUALIZED BONES: Normal. 
+VISUALIZED SOFT TISSUES: Normal. 
+
+DIAPHRAGM: Normal.
+Report Impression: 
+Right lower zone consolidation.
+
+To repeat cxr after a course of antibiotics.
+Recommend clinical correlation. 

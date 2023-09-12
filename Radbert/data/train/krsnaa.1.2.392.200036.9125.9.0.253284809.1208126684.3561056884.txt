@@ -1,0 +1,28 @@
+
+Patient ID 154a95eef0b5341e42b9e6320294de45fab5a832b7c2a5887aa61192
+Patient ID 113237ea37c926c73e739bc40b4599d712c33a1d297d376fdccafef5
+Patient Name 8d6cfaa227cd81ee651651508b6a3a1f2fc16c7f45fa5fd33812178a 46/m
+Age :
+Sex :O
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST PA
+Study Date 5100df680ae00999764132dfefc7b121b358fc7a37a6a17015e8ef06
+
+
+
+
+
+
+                                                           X - RAY CHEST PA VIEW
+
+
+
+Tiny alveolar nodular opacities noted in both lung parenchyma- - S/o. Miliary Koch's
+Trachea is in midline.
+
+Cardiac silhouette maintained.         
+Both CP angles are clear.
+Bony cage and soft tissues are normal.
+For clinical correlation. 

@@ -1,0 +1,19 @@
+Patient ID 3dd1da82d1b6c62ba2db42ba7fc779764e1cd4eafa20d47a3c9fb60e
+Patient Name 2f96e8f3555dec524fbf7fa034b3387e9bb5463547248c19cc816a58 45YRS F CXR
+Age :
+Sex :F
+Accession Number 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Modality :CR
+Referring Physician 21f8861d6df137bb07d47c0fec31dad975e4f89c5ba5c163e04c4cf9
+Study :CHEST
+Study Date fbd8e1b4bc13e92bfde0710daf48e5b9780a11c1dd8154d99fdd6b8b
+
+
+
+
+
+X-RAY CHEST PA VIEW
+FINDINGS :                  
+There is collapse of right upper lobe noted                  Patchy fibrotic areas are noted in bilateral upper zones - S/o Kochâ€™s.   Both hila appear are pulled up.   Cardiac size is normal.   Both domes of diaphragm are normal.   CP angles are clear.   Soft tissues and bony cage appear normal.        Suggested clinical correlation and follow up.
+
+
