@@ -1,6 +1,7 @@
 import os
-import datetime
+import time, datetime
 import codecs
+from itertools import product
 
 import numpy as np
 import pandas as pd
@@ -20,17 +21,19 @@ class RadBERTMultiClassMultiLabel(nn.Module):
     RadBERTMultiClassMultiLabel: Model expects batches of natural language sentences, will
     classify reports with multiple label
     """
-    def __init__(self, num_classes, checkpoint):
+    def __init__(self, num_classes, checkpoint, device):
         super().__init__()
         self.num_classes = num_classes
         self.checkpoint = checkpoint
+        self.device = device
+
         self.tokenizer = AutoTokenizer.from_pretrained(self.checkpoint)
         self.transformer_encoder = AutoModel.from_pretrained(self.checkpoint)
         self.transformer_encoder_hidden_size = self.transformer_encoder.config.hidden_size
         self.linear_classifier = nn.Linear(self.transformer_encoder_hidden_size, self.num_classes)
     
     def forward(self, x):
-        tokenized_inp = self.tokenizer(x, padding=True, truncation=True, return_tensors='pt')
+        tokenized_inp = self.tokenizer(x, padding=True, truncation=True, return_tensors='pt').to(self.device)
         encoder_out = self.transformer_encoder(**tokenized_inp)
         logits = self.linear_classifier(encoder_out.last_hidden_state[:, 0, :])
         return logits
@@ -39,14 +42,14 @@ class MultiClassMultiLabel(nn.Module):
     def __init__(self, uncertain_label):
         super(MultiClassMultiLabel, self).__init__()
         self.uncertain_label = uncertain_label
-
+    
     def forward(self, output, target):
         certain_mask = (target != self.uncertain_label)
         loss_func = nn.MultiLabelSoftMarginLoss(weight=certain_mask.type(torch.float))
         return loss_func(output, target)
 
 class ReportTagsDataset(Dataset):
-    def __init__(self, tags_csv_file, report_base_path, text_transform=None, target_transform=None):
+    def __init__(self, tags_csv_file, report_base_path, labels_subset=None, text_transform=None, target_transform=None):
         self.report_base_path = report_base_path
         self.tags_csv_file = tags_csv_file
 
@@ -55,17 +58,21 @@ class ReportTagsDataset(Dataset):
         self.column_names[0] = 'filename'
         self.tags_df.columns = self.column_names
 
+        self.labels_subset = labels_subset
         self.text_transform = text_transform
         self.target_transform = target_transform
-    
+
     def __len__(self):
         return self.tags_df.shape[0]
-    
+
     def __getitem__(self, index):
         report_path = os.path.join(self.report_base_path, self.tags_df.iloc[index, 0].split('/')[-1] + '.txt')
         #report_text = open(report_path).read()
         report_text = codecs.open(report_path, 'r', encoding='utf-8', errors='ignore').read()
-        target_list = torch.Tensor(list(self.tags_df.iloc[index][1:]))
+        if self.labels_subset is None:
+            target_list = torch.Tensor(list(self.tags_df.iloc[index][1:]))
+        else:
+            target_list = torch.Tensor(list(self.tags_df[self.labels_subset].iloc[index]))
         return report_text, target_list
 
 def train_one_epoch(epoch_index, tb_writer):
@@ -73,6 +80,7 @@ def train_one_epoch(epoch_index, tb_writer):
     last_loss = 0.
     for i, data in enumerate(train_dataloader):
         inputs, labels = data
+        labels = labels.to(device)
         optimizer.zero_grad()
         outputs = radbert_multi_model(inputs)
         # Compute the loss and its gradients
@@ -81,8 +89,8 @@ def train_one_epoch(epoch_index, tb_writer):
         optimizer.step()
         # Gather data and report
         running_loss += loss.item()
-        if i % 100 == 99:
-            last_loss = running_loss / 100 # loss per batch
+        if i % 50 == 49:
+            last_loss = running_loss / 50 # loss per batch
             print('  batch {} loss: {}'.format(i + 1, last_loss))
             tb_x = epoch_index * len(train_dataloader) + i + 1
             tb_writer.add_scalar('Loss/train', last_loss, tb_x)
@@ -103,21 +111,28 @@ if __name__ == '__main__':
         else "cpu"
     )
     print(f"Using {device} device")
+    device='cuda:1'
 
     checkpoint = 'UCSD-VA-health/RadBERT-RoBERTa-4m'
-    radbert_multi_model = RadBERTMultiClassMultiLabel(322, checkpoint)
+    labels_subset = "normal tuberculosis opacity bronchialdilation density parenchymalopacity ett aorticenlargement mediastinalwidening mediastinalmass\
+            copd prominentbronchovascularmarkings bronchitis markings vascularprominence interval interstitiallungdisease bluntedcp effusion cardiomegaly\
+            consolidation subtle_normal peffusion lineandtube thickening haziness hilarprominence hilar inhomogenousopacity rotation\
+            calcification unfoldedaorta bandlikeopacity aorticcalcification aorticknucklecalcification fibrosis suture cardiacshift degenspine nodule\
+            pneumonia inspiration fracture pneumonitis justfibrosis lesion nonaorticcalcification tuberculosispure pleuralthickening feedingtube".split()
+    num_classes = len(labels_subset)
+    radbert_multi_model = RadBERTMultiClassMultiLabel(num_classes, checkpoint, device).to(device)
     multiclass_multilabel_loss = MultiClassMultiLabel(-100)
 
     train_reports_base_path = '/home/users/pranav.rao/MiniTasks/Radbert/data/train'
     test_reports_base_path = '/home/users/pranav.rao/MiniTasks/Radbert/data/test'
     train_tags_file = '/home/users/pranav.rao/Downloads/report_tags_25k_train.csv'
-    test_tags_file = '/home/users/pranav.rao/Downloads/report_tags_25k_train.csv'
+    test_tags_file = '/home/users/pranav.rao/Downloads/report_tags_25k_test.csv'
 
-    train_data = ReportTagsDataset(train_tags_file, train_reports_base_path)
-    test_data = ReportTagsDataset(test_tags_file, test_reports_base_path)
+    train_data = ReportTagsDataset(train_tags_file, train_reports_base_path, labels_subset=labels_subset)
+    test_data = ReportTagsDataset(test_tags_file, test_reports_base_path, labels_subset=labels_subset)
 
-    train_dataloader = DataLoader(train_data, batch_size=32, shuffle=True)
-    test_dataloader = DataLoader(test_data, batch_size=32, shuffle=True)
+    train_dataloader = DataLoader(train_data, batch_size=32, shuffle=True, num_workers=2)
+    test_dataloader = DataLoader(test_data, batch_size=32, shuffle=True, num_workers=2)
 
     lr = 3e-5
     beta1 = 0.9
@@ -128,30 +143,31 @@ if __name__ == '__main__':
     total_epochs = 5
     timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
     writer = SummaryWriter('runs/fashion_trainer_{}'.format(timestamp))
-    epoch_number = 0
 
     for epoch in range(total_epochs):
         # Make sure gradient tracking is on, and do a pass over the data
-        print('EPOCH {}:'.format(epoch_number + 1))
+        print('EPOCH {}:'.format(epoch + 1))
         radbert_multi_model.train(True)
-        avg_loss = train_one_epoch(epoch_number, writer)
+        avg_loss = train_one_epoch(epoch, writer)
+        model_path = '/home/users/pranav.rao/MiniTasks/Radbert/ModelPool/model_{}_{}'.format(timestamp, epoch)
+        torch.save(radbert_multi_model.state_dict(), model_path)
+
         # Set the model to evaluation mode, disabling dropout and using population, statistics for batch normalization
         running_vloss = 0.0
         radbert_multi_model.eval()
         # Disable gradient computation and reduce memory consumption.
         with torch.no_grad():
-            for i, vdata in enumerate(train_dataloader):
+            for i, vdata in enumerate(test_dataloader):
                 vinputs, vlabels = vdata
+                vlabels = vlabels.to(device)
                 voutputs = radbert_multi_model(vinputs)
                 vloss = multiclass_multilabel_loss(voutputs, vlabels)
                 running_vloss += vloss
         avg_vloss = running_vloss / (i + 1)
         print('LOSS train {} valid {}'.format(avg_loss, avg_vloss))
+
         # Log the running loss averaged per batch for both training and validation
         writer.add_scalars('Training vs. Validation Loss',
                         { 'Training' : avg_loss, 'Validation' : avg_vloss },
-                        epoch_number + 1)
+                        epoch + 1)
         writer.flush()
-        model_path = '/home/users/pranav.rao/MiniTasks/Radbert/ModelPool/model_{}_{}'.format(timestamp, epoch_number)
-        torch.save(radbert_multi_model.state_dict(), model_path)
-        epoch_number += 1
