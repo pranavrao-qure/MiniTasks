@@ -1,8 +1,9 @@
-import os
+import os, sys
 import time, datetime
 import codecs
 from itertools import product
 
+import random
 import numpy as np
 import pandas as pd
 
@@ -15,6 +16,16 @@ from torch.utils.tensorboard import SummaryWriter
 import transformers
 from transformers import AutoTokenizer, AutoModel
 from transformers import pipeline
+
+def seed_everything(seed: int):
+    random.seed(seed)
+    os.environ['PYTHONHASHSEED'] = str(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed(seed)
+    torch.backends.cudnn.deterministic = True
+    torch.backends.cudnn.benchmark = False
+
 
 class RadBERTMultiClassMultiLabel(nn.Module):
     """
@@ -98,27 +109,41 @@ def train_one_epoch(epoch_index, tb_writer):
     return last_loss
 
 if __name__ == '__main__':
+    seed_everything(42)
+
     pd.set_option('display.max_rows', 50)
     pd.set_option('display.max_columns', 500)
+    pd.set_option('display.max_colwidth', 200)
     pd.set_option('display.width', 1000)
     torch.set_printoptions(linewidth=200)
 
-    device = (
-        "cuda"
-        if torch.cuda.is_available()
-        else "mps"
-        if torch.backends.mps.is_available()
-        else "cpu"
-    )
-    print(f"Using {device} device")
-    device='cuda:1'
+    #device = (
+    #    "cuda"
+    #    if torch.cuda.is_available()
+    #    else "mps"
+    #    if torch.backends.mps.is_available()
+    #    else "cpu"
+    #)
+    #device='cuda:1'
 
+    if len(sys.argv) < 4:
+        print("Usage: python3 radbert_finetuning.py device(cuda:1) labels_file lr")
+        exit(0)
+
+    device = sys.argv[1]
+    labels_file = sys.argv[2]
+    lr = float(sys.argv[3])
+
+    print(f"Using {device} device")
     checkpoint = 'UCSD-VA-health/RadBERT-RoBERTa-4m'
-    labels_subset = "normal tuberculosis opacity bronchialdilation density parenchymalopacity ett aorticenlargement mediastinalwidening mediastinalmass\
-            copd prominentbronchovascularmarkings bronchitis markings vascularprominence interval interstitiallungdisease bluntedcp effusion cardiomegaly\
-            consolidation subtle_normal peffusion lineandtube thickening haziness hilarprominence hilar inhomogenousopacity rotation\
-            calcification unfoldedaorta bandlikeopacity aorticcalcification aorticknucklecalcification fibrosis suture cardiacshift degenspine nodule\
-            pneumonia inspiration fracture pneumonitis justfibrosis lesion nonaorticcalcification tuberculosispure pleuralthickening feedingtube".split()
+    #labels_subset = "normal tuberculosis opacity bronchialdilation density parenchymalopacity ett aorticenlargement mediastinalwidening mediastinalmass\
+    #        copd prominentbronchovascularmarkings bronchitis markings vascularprominence interval interstitiallungdisease bluntedcp effusion cardiomegaly\
+    #        consolidation subtle_normal peffusion lineandtube thickening haziness hilarprominence hilar inhomogenousopacity rotation\
+    #        calcification unfoldedaorta bandlikeopacity aorticcalcification aorticknucklecalcification fibrosis suture cardiacshift degenspine nodule\
+    #        pneumonia inspiration fracture pneumonitis justfibrosis lesion nonaorticcalcification tuberculosispure pleuralthickening feedingtube".split()
+    labels_subset = [e.strip() for e in open(labels_file, 'r').readlines()]
+    print("The labels being used for classification objective are: " + '\n'.join([', '.join(labels_subset[:10]), ', '.join(labels_subset[10:20]),\
+                                                                                  ', '.join(labels_subset[20:30]), ', '.join(labels_subset[30:])]) + '\n')
     num_classes = len(labels_subset)
     radbert_multi_model = RadBERTMultiClassMultiLabel(num_classes, checkpoint, device).to(device)
     multiclass_multilabel_loss = MultiClassMultiLabel(-100)
@@ -134,13 +159,14 @@ if __name__ == '__main__':
     train_dataloader = DataLoader(train_data, batch_size=32, shuffle=True, num_workers=2)
     test_dataloader = DataLoader(test_data, batch_size=32, shuffle=True, num_workers=2)
 
-    lr = 3e-5
+    #lr = 3e-5
     beta1 = 0.9
     beta2 = 0.99
     l2_weight_decay = 0.01
+    print(f'Hyper params for optimizer: {lr}, ({beta1}, {beta2}), {l2_weight_decay}')
     optimizer = torch.optim.Adam(radbert_multi_model.parameters(), lr=lr, betas=(beta1, beta2), weight_decay=l2_weight_decay)
 
-    total_epochs = 5
+    total_epochs = 3
     timestamp = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
     writer = SummaryWriter('runs/fashion_trainer_{}'.format(timestamp))
 
