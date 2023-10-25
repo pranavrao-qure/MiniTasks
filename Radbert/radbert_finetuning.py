@@ -45,15 +45,18 @@ if __name__ == '__main__':
     torch.set_printoptions(linewidth=200)
 
     if len(sys.argv) < 4:
-        print("Usage: python3 radbert_finetuning.py device(cuda:1) labels_file lr")
+        print("Usage: python3 radbert_finetuning.py device(cuda:1) labels_file lr checkpoint(optional)")
         exit(0)
 
     device = sys.argv[1]
     labels_file = sys.argv[2]
     lr = float(sys.argv[3])
+    if len(sys.argv) > 4:
+        checkpoint = sys.argv[4]
+    else:
+        checkpoint = 'UCSD-VA-health/RadBERT-RoBERTa-4m'
 
     print(f"Using {device} device")
-    checkpoint = 'UCSD-VA-health/RadBERT-RoBERTa-4m'
     labels_subset = [e.strip() for e in open(labels_file, 'r').readlines()]
     num_classes = len(labels_subset)
     print("The labels being used for classification objective are:\n" + '\n'.join(list(map(lambda x:', '.join(x), [labels_subset[i:i+10] for i in range(0, num_classes, 10)]))) + '\n')
